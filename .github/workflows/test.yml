@@ -20,4 +20,4 @@ jobs:
           pip install requests
       - name: Check
         run: |
-          python ../code/fixcheck.py
+          python ./code/fixcheck.py
