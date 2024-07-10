@@ -10,14 +10,24 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+          
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
+
       - name: 測試
         run: |
           python ./code/fixcheck.py
+      
+      - name: update file and push to remote
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Test Update

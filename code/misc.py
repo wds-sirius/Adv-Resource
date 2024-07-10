@@ -1,7 +1,5 @@
 import os
 import requests
-import shutil
-from pydub import AudioSegment
 import json
 import UnityPy
 
