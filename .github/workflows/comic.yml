@@ -23,7 +23,7 @@ jobs:
           WDS_ENV_URL: ${{ secrets.WDS_ENV_URL }}
           WDS_MASTERLIST_URL: ${{ secrets.WDS_MASTERLIST_URL }}
         run: |
-          python ../code/comic.py
+          python ./code/comic.py
 
       - name: update file and push to remote
         uses: stefanzweifel/git-auto-commit-action@v5

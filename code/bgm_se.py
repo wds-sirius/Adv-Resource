@@ -8,20 +8,20 @@ WDS_Env_Url = os.environ.get("WDS_ENV_URL")
 WDS_Env_Req = requests.post(WDS_Env_Url)
 WDS_Env = (WDS_Env_Req.json())['result']
 
-manifest_dir = '../manifest'
+manifest_dir = './manifest'
 
 # bgm dir
-bgm_temp_dir = '../_temp/bgm_temp'
+bgm_temp_dir = './_temp/bgm_temp'
 bgm_dir = './bgm'
-bgm_temp_wav_dir = '../_temp/bgm_wav_temp'
+bgm_temp_wav_dir = './_temp/bgm_wav_temp'
 bgmmaster = json.load(open(os.path.join(manifest_dir, 'BGM.json'), 'rb'))
 if not os.path.exists(bgm_temp_dir):
     os.makedirs(bgm_temp_dir)
 
 #se dir
-se_temp_dir = '../_temp/se_temp'
+se_temp_dir = './_temp/se_temp'
 se_dir = './se'
-se_temp_wav_dir = '../_temp/se_wav_temp'
+se_temp_wav_dir = './_temp/se_wav_temp'
 semaster = json.load(open(os.path.join(manifest_dir, 'SE.json'), 'rb'))
 if not os.path.exists(se_temp_dir):
     os.makedirs(se_temp_dir)
@@ -62,7 +62,7 @@ def acbToMp3(input_dir, temp_dir, output_dir):
 
 
 # load temp list
-templist = json.load(open(os.path.join('../_temp', 'Temp.json'), 'rb'))
+templist = json.load(open(os.path.join('./_temp', 'Temp.json'), 'rb'))
 
 ############# SE
 notExist = [se for se in templist['se'] if se not in semaster]
@@ -101,4 +101,4 @@ open(os.path.join(manifest_dir, 'SE.json'), "w", encoding='utf8').write(se_data)
 
 ############ save temp json
 tempList_data = json.dumps(templist, indent=4, ensure_ascii=False)
-open(os.path.join('../_temp', 'Temp.json'), "w", encoding='utf8').write(tempList_data)
+open(os.path.join('./_temp', 'Temp.json'), "w", encoding='utf8').write(tempList_data)
