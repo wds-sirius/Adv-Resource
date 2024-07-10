@@ -1,0 +1,32 @@
+name: images
+
+on:
+  workflow_dispatch :
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          pip install UnityPy
+      - name: fetch images data
+        env:
+          WDS_ENV_URL: ${{ secrets.WDS_ENV_URL }}
+          WDS_MASTERLIST_URL: ${{ secrets.WDS_MASTERLIST_URL }}
+        run: |
+          python ./code/images.py
+
+      - name: update file and push to remote
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: -Images- Automated Update
