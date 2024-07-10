@@ -9,27 +9,27 @@ WDS_Env_Url = os.environ.get("WDS_ENV_URL")
 WDS_Env_Req = requests.post(WDS_Env_Url)
 WDS_Env = (WDS_Env_Req.json())['result']
 
-manifest_dir = '../manifest'
+manifest_dir = './manifest'
 
 # spine setting
-spineFolder = '../spine'
+spineFolder = './spine'
 spinemaster = json.load(open(os.path.join(manifest_dir, 'Spine.json'), 'rb'))
 if not os.path.exists(spineFolder):
     os.makedirs(spineFolder)
 
 # cards setting
-cardsFolder = '../card'
+cardsFolder = './card'
 if not os.path.exists(cardsFolder):
     os.makedirs(cardsFolder)
 
 # background setting
-bgFolder = '../background'
+bgFolder = './background'
 bgmaster = json.load(open(os.path.join(manifest_dir, 'Background.json'), 'rb'))
 if not os.path.exists(bgFolder):
     os.makedirs(bgFolder)
 
 # load temp list
-tempList = json.load(open(os.path.join('../_temp', 'Temp.json'), 'rb'))
+tempList = json.load(open(os.path.join('./_temp', 'Temp.json'), 'rb'))
 
 ############# spine
 for spineId in tempList['spine'][:]:
@@ -116,4 +116,4 @@ open(os.path.join(manifest_dir, 'Background.json'), "w", encoding='utf8').write(
 
 ############ save temp json
 tempList_data = json.dumps(tempList, indent=4, ensure_ascii=False)
-open(os.path.join('../_temp', 'Temp.json'), "w", encoding='utf8').write(tempList_data)
+open(os.path.join('./_temp', 'Temp.json'), "w", encoding='utf8').write(tempList_data)

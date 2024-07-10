@@ -43,7 +43,7 @@ def acbToMp3(input_dir, temp_dir, output_dir):
                 os.makedirs(output_dir)
 
             # run command and save to temp dir
-            os.system(f'./vgmstream-cli -S 0 -o {temp_dir}/?n.wav -i {acb_full_path}')
+            os.system(f'./code/vgmstream-cli -S 0 -o {temp_dir}/?n.wav -i {acb_full_path}')
 
             # exchange to mp3 format 
             for wavfile in os.listdir(temp_dir):

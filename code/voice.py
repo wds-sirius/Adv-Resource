@@ -3,9 +3,9 @@ import shutil
 from pydub import AudioSegment
 import json
 
-input_dir = '../_temp/voice_temp'
-temp_dir = '../_temp/wav_voice_temp'
-output_dir = '../voice'
+input_dir = './_temp/voice_temp'
+temp_dir = './_temp/wav_voice_temp'
+output_dir = './voice'
 
 #acb -> wav -> mp3
 if os.path.exists(input_dir):
@@ -26,7 +26,7 @@ if os.path.exists(input_dir):
             os.makedirs(mp3_output_dir)
 
         # run command and save to temp dir
-        os.system(f'./vgmstream-cli -S 0 -o {wav_temp_dir}/?n.wav -i {acb_full_path}')
+        os.system(f'./code/vgmstream-cli -S 0 -o {wav_temp_dir}/?n.wav -i {acb_full_path}')
 
         # manifest list
         manifest = []

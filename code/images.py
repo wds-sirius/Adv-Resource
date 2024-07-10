@@ -9,10 +9,10 @@ WDS_Env = (WDS_Env_Req.json())['result']
 
 masterlistUrl = os.environ.get("WDS_MASTERLIST_URL")
 
-eventImage_dir = '../image/eventLogo'
-eventBanner_dir = '../image/eventBanner'
-sideImage_dir = '../image/cardIcon'
-posterImage_dir = '../image/posterIcon'
+eventImage_dir = './image/eventLogo'
+eventBanner_dir = './image/eventBanner'
+sideImage_dir = './image/cardIcon'
+posterImage_dir = './image/posterIcon'
 
 if not os.path.exists(sideImage_dir):
     os.makedirs(sideImage_dir)

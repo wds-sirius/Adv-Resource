@@ -1,4 +1,4 @@
-name: for fix
+name: 測試用
 
 on:
   workflow_dispatch :
@@ -18,6 +18,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
-      - name: Check
+      - name: 測試
         run: |
           python ./code/fixcheck.py

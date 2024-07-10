@@ -10,7 +10,7 @@ masterlistUrl = os.environ.get("WDS_MASTERLIST_URL")
 
 out_json = []
 
-comicFolder = '../comic/'
+comicFolder = './comic/'
 if not os.path.exists(comicFolder):
     os.makedirs(comicFolder)
 
@@ -32,5 +32,5 @@ if comic_master.status_code == 200:
                 print(epid)
   
     out_json.sort(key = lambda x: x["id"] )
-    with open('../manifest/Comic.json', 'w', encoding='utf-8') as f:
+    with open('./manifest/Comic.json', 'w', encoding='utf-8') as f:
         json.dump(out_json, f, ensure_ascii=False, indent=4)

@@ -15,13 +15,13 @@ WDS_Env = (WDS_Env_Req.json())['result']
 masterlistUrl = os.environ.get("WDS_MASTERLIST_URL")
 
 # folder paths
-manifest_dir = '../manifest'
-EPBase_dir = '../episode'
-eventImage_dir = '../image/eventLogo'
-eventbanner_dir = '../image/eventBanner'
-sideImage_dir = '../image/cardIcon'
-posterImage_dir = '../image/posterIcon'
-temp_dir = '../_temp/voice_temp'
+manifest_dir = './manifest'
+EPBase_dir = './episode'
+eventImage_dir = './image/eventLogo'
+eventbanner_dir = './image/eventBanner'
+sideImage_dir = './image/cardIcon'
+posterImage_dir = './image/posterIcon'
+temp_dir = './_temp/voice_temp'
 
 # create fold if not exist
 if not os.path.exists(manifest_dir):
@@ -150,7 +150,7 @@ def createFormat(EpisodeId, StoryType, Order, Chapter, Title, EpisodeDetail, ord
     return script
 
 # get spine, background, bgm, card data from episode detail
-templist = json.load(open(os.path.join('../_temp', 'Temp.json'), 'rb'))
+templist = json.load(open(os.path.join('./_temp', 'Temp.json'), 'rb'))
 backgroundlist = templist['background']
 bgmlist = templist['bgm']
 selist = templist['se']
@@ -559,7 +559,7 @@ if HasUpdate or Side_Update or Poster_Update:
 
     # save the temp msic list
     temp_json_out = json.dumps(templist, indent=4, ensure_ascii=False)
-    open(os.path.join('../_temp', 'Temp.json'), "w", encoding='utf8').write(temp_json_out)
+    open(os.path.join('./_temp', 'Temp.json'), "w", encoding='utf8').write(temp_json_out)
 
     
 GameStoryMasterlist['ScriptVersion'] = script_version
