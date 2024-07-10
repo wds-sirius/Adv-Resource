@@ -4,7 +4,9 @@ import requests
 import os
 
 # get spine, background, bgm, card data from episode detail
-templist = json.load(open(os.path.join('./_temp', 'Temp.json'), 'rb'))
+
+
+templist = json.load(open('../_temp/Temp.json', 'rb'))
 backgroundlist = templist['background']
 bgmlist = templist['bgm']
 selist = templist['se']
