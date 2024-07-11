@@ -86,6 +86,8 @@ acbToMp3(bgm_temp_dir, bgm_temp_wav_dir, bgm_dir)
 for mp3file in os.listdir(bgm_dir):
     if mp3file.endswith("mp3"):
         bgmmaster.append(mp3file.split('.mp3')[0])
+templist['bgm'] = [se for se in templist['bgm'] if se not in bgmmaster]
+bgmmaster.sort()
 bgm_data = json.dumps(bgmmaster, indent=4, ensure_ascii=False)
 open(os.path.join(manifest_dir, 'BGM.json'), "w", encoding='utf8').write(bgm_data)
 
@@ -96,6 +98,7 @@ for mp3file in os.listdir(se_dir):
     if mp3file.endswith("mp3"):
         semaster.append(mp3file.split('.mp3')[0])
 templist['se'] = [se for se in templist['se'] if se not in semaster]
+semaster.sort()
 se_data = json.dumps(semaster, indent=4, ensure_ascii=False)
 open(os.path.join(manifest_dir, 'SE.json'), "w", encoding='utf8').write(se_data)
 
