@@ -1,5 +1,7 @@
-name: Comic
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 
+name: BGM & SE
 on:
   workflow_dispatch :
 
@@ -12,7 +14,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT }}
-          
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -21,14 +23,20 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
-      - name: Fetch Comic
+          pip install pydub
+
+      - name: Install ffmpeg
+        run: |
+          sudo apt update && sudo apt upgrade
+          sudo apt install ffmpeg
+
+      - name: bgm se file conversion
         env:
           WDS_ENV_URL: ${{ secrets.WDS_ENV_URL }}
-          WDS_MASTERLIST_URL: ${{ secrets.WDS_MASTERLIST_URL }}
         run: |
-          python ./code/comic.py
+          python ./code/bgm_se.py
 
       - name: update file and push to remote
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: -Comic- Automated Update"
+          commit_message: -BGM&SE- Automated Update
