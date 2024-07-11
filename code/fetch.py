@@ -160,7 +160,7 @@ def getMisc(EpisodeDetail):
     for data in EpisodeDetail:
         if 'BackgroundImageFileName' in data and data['BackgroundImageFileName'] not in backgroundlist: 
             backgroundlist.append(data['BackgroundImageFileName'])
-        if 'BgmFileName' in data and data['BgmFileName'] not in bgmlist:
+        if 'BgmFileName' in data and data['BgmFileName'] not in bgmlist and data['BgmFileName'] != '999':
             bgmlist.append(data['BgmFileName'])
         if 'SeFileName' in data and data['SeFileName'] not in selist:
             selist.append(data['SeFileName'])

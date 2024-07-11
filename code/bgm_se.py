@@ -83,6 +83,7 @@ for bgmId in templist['bgm'][:]:
 ######## convert
 # bgm
 acbToMp3(bgm_temp_dir, bgm_temp_wav_dir, bgm_dir)
+bgmmaster = []
 for mp3file in os.listdir(bgm_dir):
     if mp3file.endswith("mp3"):
         bgmmaster.append(mp3file.split('.mp3')[0])
