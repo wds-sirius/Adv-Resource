@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-07-11 14:16:30",
+    "LatestDate": "2024-07-18 17:23:16",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -245,6 +245,113 @@
                     {
                         "EpisodeId": 1010220,
                         "Title": "さぁ、次の幕を上げよう",
+                        "Order": 20
+                    }
+                ]
+            },
+            {
+                "Id": 10103,
+                "CompanyId": 1,
+                "ChapterOrder": 3,
+                "Episode": [
+                    {
+                        "EpisodeId": 1010301,
+                        "Title": "ここなの問い",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 1010302,
+                        "Title": "静香の回答",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 1010303,
+                        "Title": "ここなのプラン",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 1010304,
+                        "Title": "始動、静香デビュー計画",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 1010305,
+                        "Title": "悪魔の友人・シリウス版（前編）",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 1010306,
+                        "Title": "悪魔の友人・シリウス版（後編）",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 1010307,
+                        "Title": "オーディションに向けて（前編）",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 1010308,
+                        "Title": "オーディションに向けて（後編）",
+                        "Order": 8
+                    },
+                    {
+                        "EpisodeId": 1010309,
+                        "Title": "今回の配役は",
+                        "Order": 9
+                    },
+                    {
+                        "EpisodeId": 1010310,
+                        "Title": "その名は静香",
+                        "Order": 10
+                    },
+                    {
+                        "EpisodeId": 1010311,
+                        "Title": "ここな、悩む",
+                        "Order": 11
+                    },
+                    {
+                        "EpisodeId": 1010312,
+                        "Title": "稽古は進む",
+                        "Order": 12
+                    },
+                    {
+                        "EpisodeId": 1010313,
+                        "Title": "苦戦",
+                        "Order": 13
+                    },
+                    {
+                        "EpisodeId": 1010314,
+                        "Title": "一人二役",
+                        "Order": 14
+                    },
+                    {
+                        "EpisodeId": 1010315,
+                        "Title": "落涙",
+                        "Order": 15
+                    },
+                    {
+                        "EpisodeId": 1010316,
+                        "Title": "気迫",
+                        "Order": 16
+                    },
+                    {
+                        "EpisodeId": 1010317,
+                        "Title": "ありがとう",
+                        "Order": 17
+                    },
+                    {
+                        "EpisodeId": 1010318,
+                        "Title": "私は今ここにいる",
+                        "Order": 18
+                    },
+                    {
+                        "EpisodeId": 1010319,
+                        "Title": "シリウス期待の新人",
+                        "Order": 19
+                    },
+                    {
+                        "EpisodeId": 1010320,
+                        "Title": "一人二役・彩",
                         "Order": 20
                     }
                 ]
@@ -2537,6 +2644,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20036,
+                "Title": "シスター",
+                "Date": "2024-07-20",
+                "Episode": [
+                    {
+                        "EpisodeId": 2003601,
+                        "Title": "楽しむこと",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2003602,
+                        "Title": "役目",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2003603,
+                        "Title": "最も優れた役者になる方法",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2003604,
+                        "Title": "シスター",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2003605,
+                        "Title": "銀の靴",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2003606,
+                        "Title": "もしも、私に",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2003607,
+                        "Title": "約束",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2003608,
+                        "Title": "あなたのとなり",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -2670,6 +2824,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 140990,
+                        "Title": "あなたの声は潮騒に",
+                        "Episode": [
+                            {
+                                "EpisodeId": 140991,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 140992,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -2786,6 +2954,20 @@
                             },
                             {
                                 "EpisodeId": 140802,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 140980,
+                        "Title": "とある悪魔の幸福",
+                        "Episode": [
+                            {
+                                "EpisodeId": 140981,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 140982,
                                 "Order": 2
                             }
                         ]
@@ -4105,6 +4287,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 140970,
+                        "Title": "小さなあの子を待ちながら",
+                        "Episode": [
+                            {
+                                "EpisodeId": 140971,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 140972,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -4165,6 +4361,20 @@
                             },
                             {
                                 "EpisodeId": 130252,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130590,
+                        "Title": "小指をからめて",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130591,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130592,
                                 "Order": 2
                             }
                         ]
@@ -4767,6 +4977,20 @@
                             },
                             {
                                 "EpisodeId": 140632,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 140960,
+                        "Title": "旅路は銀の靴とともに",
+                        "Episode": [
+                            {
+                                "EpisodeId": 140961,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 140962,
                                 "Order": 2
                             }
                         ]
