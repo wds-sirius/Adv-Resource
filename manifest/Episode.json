@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-07-18 17:23:16",
+    "LatestDate": "2024-07-30 16:16:00",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -2691,6 +2691,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20037,
+                "Title": "プールサイド・セッション",
+                "Date": "2024-07-31",
+                "Episode": [
+                    {
+                        "EpisodeId": 2003701,
+                        "Title": "晴れときどきプール",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2003702,
+                        "Title": "バカンスの準備はOK？",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2003703,
+                        "Title": "まずはフリースタイルで",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2003704,
+                        "Title": "ビートを作って",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2003705,
+                        "Title": "時にはスローテンポで",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2003706,
+                        "Title": "アッパーな曲で盛り上げて",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2003707,
+                        "Title": "時には大胆なカットインも",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2003708,
+                        "Title": "アフターアワーズ",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -3636,6 +3683,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141010,
+                        "Title": "ミッドナイト・グルーヴ",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141011,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141012,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -3829,6 +3890,20 @@
                             },
                             {
                                 "EpisodeId": 130462,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130600,
+                        "Title": "本日晴天、プール日和",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130601,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130602,
                                 "Order": 2
                             }
                         ]
@@ -4151,6 +4226,20 @@
                             },
                             {
                                 "EpisodeId": 140692,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141000,
+                        "Title": "メイク・サム・ノイズ！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141001,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141002,
                                 "Order": 2
                             }
                         ]
@@ -11633,6 +11722,35 @@
                     301,
                     303
                 ]
+            },
+            {
+                "Id": 230510,
+                "Name": "【フューチャーダイスター】シリウス",
+                "PronounceName": "しりうす",
+                "CharacterIds": [
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106
+                ]
+            },
+            {
+                "Id": 230520,
+                "Name": "ナイトプール殺人事件",
+                "PronounceName": "ないとぷーるさつじんじけん",
+                "CharacterIds": [
+                    204
+                ]
+            },
+            {
+                "Id": 340030,
+                "Name": "【Birthday2024】カトリナ・グリーベル",
+                "PronounceName": "かとりな・ぐりーべる",
+                "CharacterIds": [
+                    103
+                ]
             }
         ],
         "Special": [
@@ -11643,6 +11761,17 @@
                     {
                         "EpisodeId": 3000101,
                         "Title": "今日はあの人の誕生日",
+                        "Order": 1
+                    }
+                ]
+            },
+            {
+                "Id": 30002,
+                "Title": "シリウス3章アフターストーリー",
+                "Episode": [
+                    {
+                        "EpisodeId": 3000201,
+                        "Title": "夢への一歩を",
                         "Order": 1
                     }
                 ]
