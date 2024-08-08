@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-07-30 16:16:00",
+    "LatestDate": "2024-08-08 17:24:01",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -2738,6 +2738,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20038,
+                "Title": "夏、いわゆるダイスターの観察",
+                "Date": "2024-08-10",
+                "Episode": [
+                    {
+                        "EpisodeId": 2003801,
+                        "Title": "真面目な夏休み",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2003802,
+                        "Title": "たのしい自由研究",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2003803,
+                        "Title": "ダイスターの観察",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2003804,
+                        "Title": "役者とファン",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2003805,
+                        "Title": "夏祭りのエチュード",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2003806,
+                        "Title": "マイペースなロミオ",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2003807,
+                        "Title": "経験はすべての糧になる？",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2003808,
+                        "Title": "自由を研究して",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -2798,6 +2845,20 @@
                             },
                             {
                                 "EpisodeId": 130272,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130620,
+                        "Title": "ひとくちシェアしよう？",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130621,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130622,
                                 "Order": 2
                             }
                         ]
@@ -3284,6 +3345,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141050,
+                        "Title": "今宵、空灯篭のように",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141051,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141052,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -3547,6 +3622,20 @@
                             },
                             {
                                 "EpisodeId": 140562,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141040,
+                        "Title": "一夜、自由の翼になるよ",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141041,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141042,
                                 "Order": 2
                             }
                         ]
