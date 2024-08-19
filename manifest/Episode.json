@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-08-08 17:24:01",
+    "LatestDate": "2024-08-20 00:50:48",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3919,6 +3919,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141030,
+                        "Title": "マリンブルーも涼やかに",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141031,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141032,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -4066,6 +4080,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141020,
+                        "Title": "スカイブルーにも届くかも",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141021,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141022,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -4126,6 +4154,20 @@
                             },
                             {
                                 "EpisodeId": 130222,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130610,
+                        "Title": "ゆらゆらリラクゼーション",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130611,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130612,
                                 "Order": 2
                             }
                         ]
@@ -11839,6 +11881,14 @@
                 "PronounceName": "かとりな・ぐりーべる",
                 "CharacterIds": [
                     103
+                ]
+            },
+            {
+                "Id": 340160,
+                "Name": "【Birthday2024】与那国 緋花里",
+                "PronounceName": "よなぐにひかり",
+                "CharacterIds": [
+                    305
                 ]
             }
         ],
