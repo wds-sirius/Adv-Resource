@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-08-20 00:50:48",
+    "LatestDate": "2024-08-29 17:24:41",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -2785,6 +2785,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20039,
+                "Title": "ダイアローグは交わらない",
+                "Date": "2024-08-31",
+                "Episode": [
+                    {
+                        "EpisodeId": 2003901,
+                        "Title": "目指す道",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2003902,
+                        "Title": "旧友の報せ",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2003903,
+                        "Title": "ふたりの友人",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2003904,
+                        "Title": "後悔",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2003905,
+                        "Title": "仲直り",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2003906,
+                        "Title": "彼女の変化",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2003907,
+                        "Title": "かつて居た場所、かつての同僚",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2003908,
+                        "Title": "余計なお節介",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -4654,6 +4701,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141060,
+                        "Title": "憂い、門出、晴れなくて",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141061,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141062,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -4714,6 +4775,20 @@
                             },
                             {
                                 "EpisodeId": 130472,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130630,
+                        "Title": "合理的なアドバイス",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130631,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130632,
                                 "Order": 2
                             }
                         ]
@@ -5050,6 +5125,20 @@
                             },
                             {
                                 "EpisodeId": 140842,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141070,
+                        "Title": "歌い、踊り、乾杯を",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141071,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141072,
                                 "Order": 2
                             }
                         ]
@@ -11873,6 +11962,15 @@
                 "PronounceName": "ないとぷーるさつじんじけん",
                 "CharacterIds": [
                     204
+                ]
+            },
+            {
+                "Id": 230530,
+                "Name": "オクトーバー・エスケープ",
+                "PronounceName": "おくとーばーえすけーぷ",
+                "CharacterIds": [
+                    301,
+                    302
                 ]
             },
             {

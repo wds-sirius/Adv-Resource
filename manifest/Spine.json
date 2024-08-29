@@ -943,5 +943,10 @@
         "Id": 51101,
         "CharacterId": 511,
         "CompanyId": 5
+    },
+    {
+        "Id": 51301,
+        "CharacterId": 513,
+        "CompanyId": 5
     }
 ]
