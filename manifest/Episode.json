@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-08-29 17:24:41",
+    "LatestDate": "2024-09-07 17:22:09",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5221,6 +5221,11 @@
                         ]
                     },
                     {
+                        "Id": 130640,
+                        "Title": "お団子と放課後と",
+                        "Episode": []
+                    },
+                    {
                         "Id": 140110,
                         "Title": "私を見守る大切な蝶",
                         "Episode": [
@@ -5702,6 +5707,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141080,
+                        "Title": "デンキウィズザ……！？",
+                        "Episode": []
                     }
                 ]
             },
@@ -5849,6 +5859,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141090,
+                        "Title": "デンキインザムーーーーーン",
+                        "Episode": []
                     }
                 ]
             }
@@ -11979,6 +11994,22 @@
                 "PronounceName": "かとりな・ぐりーべる",
                 "CharacterIds": [
                     103
+                ]
+            },
+            {
+                "Id": 340050,
+                "Name": "【Birthday2024】柳場 ぱんだ",
+                "PronounceName": "やなぎばぱんだ",
+                "CharacterIds": [
+                    105
+                ]
+            },
+            {
+                "Id": 340080,
+                "Name": "【Birthday2024】烏森 大黒",
+                "PronounceName": "からすもりだいこく",
+                "CharacterIds": [
+                    202
                 ]
             },
             {
