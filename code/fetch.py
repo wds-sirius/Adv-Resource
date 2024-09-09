@@ -387,8 +387,8 @@ if masterlistres.status_code == 200:
                         voiceRes = requests.get(f'{WDS_Env["assetUrl"]}/cri-assets/Android/{WDS_Env["assetVersion"]}/cridata_remote_assets_criaddressables/{ep["EpisodeMasterId"]}.acb.bundle')
                         if voiceRes.status_code == 200:
                             open(os.path.join(temp_dir, f'{ep["EpisodeMasterId"]}.acb'), "wb").write(voiceRes.content)
-                except:
-                    print(ep["EpisodeMasterId"])
+                except Exception as error:
+                    print(f'{ep["EpisodeMasterId"]} : {error}')
                     continue
             # 列表排序
             group["Episode"].sort(key = lambda x: x["EpisodeId"])
