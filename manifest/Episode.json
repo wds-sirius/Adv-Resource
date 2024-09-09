@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-09-07 17:22:09",
+    "LatestDate": "2024-09-09 23:22:35",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5223,7 +5223,12 @@
                     {
                         "Id": 130640,
                         "Title": "お団子と放課後と",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 130642,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 140110,
@@ -5711,7 +5716,12 @@
                     {
                         "Id": 141080,
                         "Title": "デンキウィズザ……！？",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141081,
+                                "Order": 1
+                            }
+                        ]
                     }
                 ]
             },
