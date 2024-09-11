@@ -44,6 +44,27 @@ if StoryEvent.status_code == 200:
         except:
             print(story["Id"])
 
+# 更新roulette event照片
+StoryEvent = requests.get(f'{masterlistUrl}/RouletteEventMaster.json')
+if StoryEvent.status_code == 200:
+    for story in StoryEvent.json():
+        try:
+            assetsReq = requests.get(f'{WDS_Env["assetUrl"]}/2d-assets/Android/{WDS_Env["assetVersion"]}/eventslogo_assets_events/logo_{story["Id"]}.bundle')
+            assetsbundle = UnityPy.load(assetsReq.content)
+            for obj in assetsbundle.objects:
+                if obj.type.name == "Texture2D":
+                    data = obj.read()
+                    data.image.save(os.path.join(eventImage_dir, f'logo_{story["Id"]}.png'))
+        except:
+            print(story["Id"])
+# 更新roulette event Banner照片
+        try:
+            bannerReq = requests.get(f'{WDS_Env["assetUrl"]}/static-assets/Resources/Textures/Banners/Event/{story["Id"]}.png')
+            if bannerReq.status_code == 200:
+                open(os.path.join(eventBanner_dir, f'{story["Id"]}.png'), "wb").write(bannerReq.content)
+        except:
+            print(story["Id"])
+
 # 更新卡片照片
 try:
     assetsReq = requests.get(f'{WDS_Env["assetUrl"]}/2d-assets/Android/{WDS_Env["assetVersion"]}/spriteatlases_assets_spriteatlases/characters.bundle')
