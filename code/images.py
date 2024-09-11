@@ -45,25 +45,25 @@ if StoryEvent.status_code == 200:
             print(story["Id"])
 
 # 更新roulette event照片
-StoryEvent = requests.get(f'{masterlistUrl}/RouletteEventMaster.json')
-if StoryEvent.status_code == 200:
-    for story in StoryEvent.json():
+RouletteEvent = requests.get(f'{masterlistUrl}/RouletteEventMaster.json')
+if RouletteEvent.status_code == 200:
+    for roulette in RouletteEvent.json():
         try:
-            assetsReq = requests.get(f'{WDS_Env["assetUrl"]}/2d-assets/Android/{WDS_Env["assetVersion"]}/eventslogo_assets_events/logo_{story["Id"]}.bundle')
+            assetsReq = requests.get(f'{WDS_Env["assetUrl"]}/2d-assets/Android/{WDS_Env["assetVersion"]}/eventslogo_assets_events/logo_{roulette["EventMasterId"]}.bundle')
             assetsbundle = UnityPy.load(assetsReq.content)
             for obj in assetsbundle.objects:
                 if obj.type.name == "Texture2D":
                     data = obj.read()
-                    data.image.save(os.path.join(eventImage_dir, f'logo_{story["Id"]}.png'))
+                    data.image.save(os.path.join(eventImage_dir, f'logo_{roulette["EventMasterId"]}.png'))
         except:
-            print(story["Id"])
+            print(roulette["EventMasterId"])
 # 更新roulette event Banner照片
         try:
-            bannerReq = requests.get(f'{WDS_Env["assetUrl"]}/static-assets/Resources/Textures/Banners/Event/{story["Id"]}.png')
+            bannerReq = requests.get(f'{WDS_Env["assetUrl"]}/static-assets/Resources/Textures/Banners/Event/{roulette["EventMasterId"]}.png')
             if bannerReq.status_code == 200:
-                open(os.path.join(eventBanner_dir, f'{story["Id"]}.png'), "wb").write(bannerReq.content)
+                open(os.path.join(eventBanner_dir, f'{roulette["EventMasterId"]}.png'), "wb").write(bannerReq.content)
         except:
-            print(story["Id"])
+            print(roulette["EventMasterId"])
 
 # 更新卡片照片
 try:
