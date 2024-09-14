@@ -369,7 +369,7 @@ if masterlistres.status_code == 200:
                     if res.status_code == 200:
                         msgdata = msgpack_lz4block.deserialize(res.content)
                         addedKeyData = addKey(msgdata)
-                        to_json = createFormat(ep["EpisodeMasterId"], 3, None ,orderToNum[ep["EpisodeOrder"]], group["Title"], addedKeyData, orderlist)
+                        to_json = createFormat(ep["EpisodeMasterId"], 3, orderToNum[ep["EpisodeOrder"]] , None, group["Title"], addedKeyData, orderlist)
                         json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
                         open(os.path.join(EPBase_dir, f'{ep["EpisodeMasterId"]}.json'), "w", encoding='utf8').write(json_data)
                     # 檢查列表中是否存在
