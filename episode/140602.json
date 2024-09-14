@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140602,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140601,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "ひと口で落ちる甘やかな酔い",
     "EpisodeDetail": [
         {

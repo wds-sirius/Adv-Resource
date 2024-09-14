@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130492,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130491,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "リラックス・ナイト・タイム",
     "EpisodeDetail": [
         {

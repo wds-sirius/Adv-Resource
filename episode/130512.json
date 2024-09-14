@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130512,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130511,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "3分だけだからね！",
     "EpisodeDetail": [
         {

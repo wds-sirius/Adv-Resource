@@ -1,10 +1,10 @@
 {
     "EpisodeId": 110142,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 110141,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "銀河座",
     "EpisodeDetail": [
         {

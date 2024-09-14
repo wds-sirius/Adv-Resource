@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140432,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140431,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "縛めを解いてくれた人と共に",
     "EpisodeDetail": [
         {

@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140361,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140362,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "真の力を見せる時！",
     "EpisodeDetail": [
         {

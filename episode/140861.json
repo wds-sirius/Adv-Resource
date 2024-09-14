@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140861,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140862,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "連なる薔薇の懐かしき香り",
     "EpisodeDetail": [
         {

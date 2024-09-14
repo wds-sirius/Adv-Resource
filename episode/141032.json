@@ -1,10 +1,10 @@
 {
     "EpisodeId": 141032,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 141031,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "マリンブルーも涼やかに",
     "EpisodeDetail": [
         {

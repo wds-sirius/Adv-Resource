@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140192,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140191,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "お口に合いますように♪",
     "EpisodeDetail": [
         {

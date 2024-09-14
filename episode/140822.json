@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140822,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140821,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "がおー！のレッスン",
     "EpisodeDetail": [
         {

@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130522,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130521,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "雨上がりを演じて",
     "EpisodeDetail": [
         {

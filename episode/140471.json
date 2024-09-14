@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140471,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140472,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "銀世界に冴ゆる心友",
     "EpisodeDetail": [
         {

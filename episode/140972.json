@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140972,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140971,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "小さなあの子を待ちながら",
     "EpisodeDetail": [
         {

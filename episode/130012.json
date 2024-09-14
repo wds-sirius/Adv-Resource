@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130012,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130011,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "役者としての成長",
     "EpisodeDetail": [
         {

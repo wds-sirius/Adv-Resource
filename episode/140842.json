@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140842,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140841,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "雨上がりには特大スクープ！",
     "EpisodeDetail": [
         {

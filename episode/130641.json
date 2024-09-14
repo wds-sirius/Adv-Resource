@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130641,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 130642,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "お団子と放課後と",
     "EpisodeDetail": [
         {

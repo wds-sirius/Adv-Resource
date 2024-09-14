@@ -1,10 +1,10 @@
 {
     "EpisodeId": 141012,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 141011,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "ミッドナイト・グルーヴ",
     "EpisodeDetail": [
         {

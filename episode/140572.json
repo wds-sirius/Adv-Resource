@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140572,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140571,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "マジカルポップウィッチ",
     "EpisodeDetail": [
         {

@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140411,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140412,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "巡り合わせの落葉",
     "EpisodeDetail": [
         {

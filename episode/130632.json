@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130632,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130631,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "合理的なアドバイス",
     "EpisodeDetail": [
         {

@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130382,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130381,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "開運は実力よね！",
     "EpisodeDetail": [
         {

@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140312,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140311,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "妖刀の一薙ぎ",
     "EpisodeDetail": [
         {

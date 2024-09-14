@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140671,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140672,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "夜空を見れば、思い出す",
     "EpisodeDetail": [
         {

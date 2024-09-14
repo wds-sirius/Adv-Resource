@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140632,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140631,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "水海に月は満ち",
     "EpisodeDetail": [
         {

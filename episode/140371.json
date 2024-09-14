@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140371,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140372,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "戦い続ける魔法少女",
     "EpisodeDetail": [
         {

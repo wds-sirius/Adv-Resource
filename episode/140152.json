@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140152,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140151,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "狂気の果ての虚無",
     "EpisodeDetail": [
         {

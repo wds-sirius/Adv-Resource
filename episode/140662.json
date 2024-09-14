@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140662,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140661,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "いちばんたいせつなことは",
     "EpisodeDetail": [
         {

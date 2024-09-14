@@ -1,10 +1,10 @@
 {
     "EpisodeId": 120071,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 120072,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "覇道の天才",
     "EpisodeDetail": [
         {

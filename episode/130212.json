@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130212,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130211,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "先輩の本気",
     "EpisodeDetail": [
         {

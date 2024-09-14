@@ -1,10 +1,10 @@
 {
     "EpisodeId": 120182,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 120181,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "内気な孝行娘",
     "EpisodeDetail": [
         {

@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130141,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 130142,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "あるのは勝ちだけ",
     "EpisodeDetail": [
         {

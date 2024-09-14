@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140061,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140062,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "満たされない心",
     "EpisodeDetail": [
         {

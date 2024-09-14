@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140872,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140871,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "白き死神は戦場を駆け",
     "EpisodeDetail": [
         {

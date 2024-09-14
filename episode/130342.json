@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130342,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130341,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "その目をよく見せてくれ",
     "EpisodeDetail": [
         {

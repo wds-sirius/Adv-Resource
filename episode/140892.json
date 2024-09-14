@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140892,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140891,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "朱の菜花は春を告げ",
     "EpisodeDetail": [
         {

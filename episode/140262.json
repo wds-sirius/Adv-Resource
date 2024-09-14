@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140262,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140261,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "アオハル応援団長",
     "EpisodeDetail": [
         {

@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140832,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140831,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "ペンギン・ア・ゴーゴー！",
     "EpisodeDetail": [
         {

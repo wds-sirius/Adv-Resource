@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140442,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140441,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "その手を取り、翼並べて",
     "EpisodeDetail": [
         {

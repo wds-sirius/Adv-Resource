@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140212,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140211,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "夜市の王",
     "EpisodeDetail": [
         {

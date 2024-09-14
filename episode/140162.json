@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140162,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140161,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "悪意に満ちた観察者",
     "EpisodeDetail": [
         {

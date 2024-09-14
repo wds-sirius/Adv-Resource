@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140612,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140611,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "求め焦がれる危険な味わい",
     "EpisodeDetail": [
         {

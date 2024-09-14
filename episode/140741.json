@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140741,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140742,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "舞踏会は波乱と恋の予感？！",
     "EpisodeDetail": [
         {

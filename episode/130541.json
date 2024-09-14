@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130541,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 130542,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "友達なのに／だから",
     "EpisodeDetail": [
         {

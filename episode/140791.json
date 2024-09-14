@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140791,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140792,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "私だけの美学",
     "EpisodeDetail": [
         {

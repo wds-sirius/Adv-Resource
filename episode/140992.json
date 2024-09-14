@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140992,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140991,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "あなたの声は潮騒に",
     "EpisodeDetail": [
         {

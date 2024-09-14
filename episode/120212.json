@@ -1,10 +1,10 @@
 {
     "EpisodeId": 120212,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 120211,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "ぐーたら好きの天才子役",
     "EpisodeDetail": [
         {

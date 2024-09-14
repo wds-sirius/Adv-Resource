@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130052,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130051,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "トレンドは生活風景",
     "EpisodeDetail": [
         {

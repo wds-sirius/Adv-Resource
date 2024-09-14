@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140511,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140512,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "人里の宴も悪くない",
     "EpisodeDetail": [
         {

@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140712,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140711,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "決闘者は仙人の如く",
     "EpisodeDetail": [
         {

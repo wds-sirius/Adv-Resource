@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140752,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140751,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "冷酷な辺境伯に求婚されてます",
     "EpisodeDetail": [
         {

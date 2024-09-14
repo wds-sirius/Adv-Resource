@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130402,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130401,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "口いっぱいに広がる海の味",
     "EpisodeDetail": [
         {

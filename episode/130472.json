@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130472,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130471,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "伝統料理で勝負だ！",
     "EpisodeDetail": [
         {

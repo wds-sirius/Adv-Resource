@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140462,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140461,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "遠い遠い雪催い",
     "EpisodeDetail": [
         {

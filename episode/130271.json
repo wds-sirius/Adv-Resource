@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130271,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 130272,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "負けられない一戦",
     "EpisodeDetail": [
         {

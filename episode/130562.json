@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130562,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130561,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "フラワー・テンペスト",
     "EpisodeDetail": [
         {

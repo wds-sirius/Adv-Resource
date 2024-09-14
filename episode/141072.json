@@ -1,10 +1,10 @@
 {
     "EpisodeId": 141072,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 141071,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "歌い、踊り、乾杯を",
     "EpisodeDetail": [
         {

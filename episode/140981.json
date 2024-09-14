@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140981,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140982,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "とある悪魔の幸福",
     "EpisodeDetail": [
         {

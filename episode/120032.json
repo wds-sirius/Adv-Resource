@@ -1,10 +1,10 @@
 {
     "EpisodeId": 120032,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 120031,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "ワールドダイスターの愛娘",
     "EpisodeDetail": [
         {

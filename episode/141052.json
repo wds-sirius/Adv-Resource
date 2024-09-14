@@ -1,10 +1,10 @@
 {
     "EpisodeId": 141052,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 141051,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "今宵、空灯篭のように",
     "EpisodeDetail": [
         {

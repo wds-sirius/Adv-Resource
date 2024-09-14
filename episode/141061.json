@@ -1,10 +1,10 @@
 {
     "EpisodeId": 141061,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 141062,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "憂い、門出、晴れなくて",
     "EpisodeDetail": [
         {

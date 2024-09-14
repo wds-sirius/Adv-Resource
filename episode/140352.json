@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140352,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140351,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "おとぎの国の食事会",
     "EpisodeDetail": [
         {

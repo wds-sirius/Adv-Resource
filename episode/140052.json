@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140052,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140051,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "純真無垢な笑顔",
     "EpisodeDetail": [
         {

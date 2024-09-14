@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140022,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140021,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "大切で大好きな劇団",
     "EpisodeDetail": [
         {

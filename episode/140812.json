@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140812,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140811,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "心躍る人形劇の裏",
     "EpisodeDetail": [
         {

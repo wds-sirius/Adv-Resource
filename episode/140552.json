@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140552,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140551,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "導きの燐光",
     "EpisodeDetail": [
         {

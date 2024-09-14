@@ -1,10 +1,10 @@
 {
     "EpisodeId": 130552,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 130551,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "踏みにじられた者の怒り",
     "EpisodeDetail": [
         {

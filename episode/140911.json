@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140911,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140912,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "天才の有る栖にようこそ",
     "EpisodeDetail": [
         {

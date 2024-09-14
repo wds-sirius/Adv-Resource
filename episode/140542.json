@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140542,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140541,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "悩める迷宮での出会い",
     "EpisodeDetail": [
         {

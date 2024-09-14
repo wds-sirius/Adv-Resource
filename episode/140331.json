@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140331,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 140332,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "コル・スコルピイ",
     "EpisodeDetail": [
         {

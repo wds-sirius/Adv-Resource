@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140382,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140381,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "名探偵の悲哀",
     "EpisodeDetail": [
         {

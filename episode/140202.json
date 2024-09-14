@@ -1,10 +1,10 @@
 {
     "EpisodeId": 140202,
     "StoryType": 3,
-    "Order": null,
+    "Order": 2,
     "Prev": 140201,
     "Next": null,
-    "Chapter": 2,
+    "Chapter": null,
     "Title": "マジカル☆スイーツ",
     "EpisodeDetail": [
         {

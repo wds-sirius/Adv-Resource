@@ -1,10 +1,10 @@
 {
     "EpisodeId": 141001,
     "StoryType": 3,
-    "Order": null,
+    "Order": 1,
     "Prev": null,
     "Next": 141002,
-    "Chapter": 1,
+    "Chapter": null,
     "Title": "メイク・サム・ノイズ！",
     "EpisodeDetail": [
         {
