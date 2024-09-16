@@ -226,9 +226,9 @@ if masterlistres.status_code == 200:
             orderlist = [item["Id"] for item in EpisodeMasterlist if item.get('StoryMasterId') == data["StoryMasterId"]]
             # 生成故事文檔
             try:
-                res = requests.get(f'{WDS_Env["masterDataUrl"]}/scenes/{data["Id"]}.bin')
-                if res.status_code == 200:
-                    msgdata = msgpack_lz4block.deserialize(res.content)
+                main_res = requests.get(f'{WDS_Env["masterDataUrl"]}/scenes/{data["Id"]}.bin')
+                if main_res.status_code == 200:
+                    msgdata = msgpack_lz4block.deserialize(main_res.content)
                     chaptertitle = f"{CompanyMaster[GroupIsexit['CompanyId']]}　{GroupIsexit['ChapterOrder']}章" if GroupIsexit["CompanyId"] != 999 else "序章"
                     addedKeyData = addKey(msgdata)
                     to_json = createFormat(data["Id"], 1, data["Order"], chaptertitle, data["Title"], addedKeyData, orderlist)
@@ -293,9 +293,9 @@ if masterlistres.status_code == 200:
             orderlist = [item["Id"] for item in EpisodeMasterlist if item.get('StoryMasterId') == data["StoryMasterId"]]
             # 生成故事文檔
             try:
-                res = requests.get(f'{WDS_Env["masterDataUrl"]}/scenes/{data["Id"]}.bin')
-                if res.status_code == 200:
-                    msgdata = msgpack_lz4block.deserialize(res.content)
+                event_res = requests.get(f'{WDS_Env["masterDataUrl"]}/scenes/{data["Id"]}.bin')
+                if event_res.status_code == 200:
+                    msgdata = msgpack_lz4block.deserialize(event_res.content)
                     addedKeyData = addKey(msgdata)
                     to_json = createFormat(data["Id"], 2, data["Order"], GroupIsexit['Title'], data["Title"], addedKeyData, orderlist)
                     json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
@@ -365,9 +365,9 @@ if masterlistres.status_code == 200:
                 orderlist = [item["Id"] for item in EPData]
                 # 生成故事文檔
                 try:
-                    res = requests.get(f'{WDS_Env["masterDataUrl"]}/scenes/{ep["EpisodeMasterId"]}.bin')
-                    if res.status_code == 200:
-                        msgdata = msgpack_lz4block.deserialize(res.content)
+                    side_res = requests.get(f'{WDS_Env["masterDataUrl"]}/scenes/{ep["EpisodeMasterId"]}.bin')
+                    if side_res.status_code == 200:
+                        msgdata = msgpack_lz4block.deserialize(side_res.content)
                         addedKeyData = addKey(msgdata)
                         to_json = createFormat(ep["EpisodeMasterId"], 3, orderToNum[ep["EpisodeOrder"]] , None, group["Title"], addedKeyData, orderlist)
                         json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
@@ -408,9 +408,9 @@ if masterlistres.status_code == 200:
     for data in masterlistres.json():
         # 生成故事文檔
         try:
-            res = requests.get(f'{WDS_Env["masterDataUrl"]}/scenes/{data["EpisodeMasterId"]}.bin')
-            if res.status_code == 200:
-                msgdata = msgpack_lz4block.deserialize(res.content)
+            spot_res = requests.get(f'{WDS_Env["masterDataUrl"]}/scenes/{data["EpisodeMasterId"]}.bin')
+            if spot_res.status_code == 200:
+                msgdata = msgpack_lz4block.deserialize(spot_res.content)
                 addedKeyData = addKey(msgdata)
                 to_json = createFormat(data["EpisodeMasterId"], 4, 1, None ,data["Title"], addedKeyData, [])
                 json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
@@ -522,9 +522,9 @@ if masterlistres.status_code == 200:
             orderlist = [item["Id"] for item in SpecialMasterlist if item.get('StoryMasterId') == data["StoryMasterId"]]
             # 生成故事文檔
             try:
-                res = requests.get(f'{WDS_Env["masterDataUrl"]}/scenes/{data["Id"]}.bin')
-                if res.status_code == 200:
-                    msgdata = msgpack_lz4block.deserialize(res.content)
+                sp_res = requests.get(f'{WDS_Env["masterDataUrl"]}/scenes/{data["Id"]}.bin')
+                if sp_res.status_code == 200:
+                    msgdata = msgpack_lz4block.deserialize(sp_res.content)
                     addedKeyData = addKey(msgdata)
                     to_json = createFormat(data["Id"], 6, 1, None, data["Title"], addedKeyData, orderlist)
                     json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
