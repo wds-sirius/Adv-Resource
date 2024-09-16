@@ -367,7 +367,10 @@ if masterlistres.status_code == 200:
                 try:
                     side_res = requests.get(f'{WDS_Env["masterDataUrl"]}/scenes/{ep["EpisodeMasterId"]}.bin')
                     if side_res.status_code == 200:
-                        msgdata = msgpack_lz4block.deserialize(side_res.content)
+                        content = b''
+                        for chunk in side_res.iter_content(chunk_size=1024):
+                            content += chunk
+                        msgdata = msgpack_lz4block.deserialize(content)
                         addedKeyData = addKey(msgdata)
                         to_json = createFormat(ep["EpisodeMasterId"], 3, orderToNum[ep["EpisodeOrder"]] , None, group["Title"], addedKeyData, orderlist)
                         json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
