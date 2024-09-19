@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-09-09 23:33:36",
+    "LatestDate": "2024-09-19 17:25:58",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -2832,6 +2832,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20023,
+                "Title": "響けエール！～ON staGE rocK！～",
+                "Date": "2024-09-20",
+                "Episode": [
+                    {
+                        "EpisodeId": 2002301,
+                        "Title": "めんどーい！",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2002302,
+                        "Title": "雪、無双劇",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2002303,
+                        "Title": "ドンドンドコドン！",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2002304,
+                        "Title": "ぜんぶ自分で",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2002305,
+                        "Title": "音に乗って　夢を追って",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2002306,
+                        "Title": "レッツゴー！マイウェイ！",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2002307,
+                        "Title": "撩乱乙女、出陣！",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2002308,
+                        "Title": "青春スタートライナー",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -4568,6 +4615,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141110,
+                        "Title": "玉椿、夜水に灯り",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141111,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141112,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -4642,6 +4703,20 @@
                             },
                             {
                                 "EpisodeId": 130592,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130650,
+                        "Title": "グレートリッパー・オーダー",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130651,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130652,
                                 "Order": 2
                             }
                         ]
@@ -4859,6 +4934,20 @@
                             },
                             {
                                 "EpisodeId": 140852,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141100,
+                        "Title": "リクエストはロックナンバーで",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141101,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141102,
                                 "Order": 2
                             }
                         ]
