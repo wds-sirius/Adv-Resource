@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-09-20 00:17:26",
+    "LatestDate": "2024-09-29 19:18:39",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -2879,6 +2879,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20040,
+                "Title": "今は遠い星のリグレット",
+                "Date": "2024-09-30",
+                "Episode": [
+                    {
+                        "EpisodeId": 2004001,
+                        "Title": "記憶",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2004002,
+                        "Title": "母との再会",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2004003,
+                        "Title": "娘として",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2004004,
+                        "Title": "気分転換",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2004005,
+                        "Title": "後悔",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2004006,
+                        "Title": "やり直せるなら",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2004007,
+                        "Title": "迷い、今ここで",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2004008,
+                        "Title": "過去と向き合って",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -3306,6 +3353,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141120,
+                        "Title": "秘密のおしゃべり",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141121,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141122,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -3380,6 +3441,20 @@
                             },
                             {
                                 "EpisodeId": 130402,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130660,
+                        "Title": "お話、聞きましょうか？",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130661,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130662,
                                 "Order": 2
                             }
                         ]
@@ -3730,6 +3805,20 @@
                             },
                             {
                                 "EpisodeId": 141042,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141130,
+                        "Title": "過ぎた時を悔いても",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141131,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141132,
                                 "Order": 2
                             }
                         ]
@@ -12105,6 +12194,14 @@
                 ]
             },
             {
+                "Id": 230540,
+                "Name": "Echoes of Ash",
+                "PronounceName": "Echoes of Ash",
+                "CharacterIds": [
+                    101
+                ]
+            },
+            {
                 "Id": 340030,
                 "Name": "【Birthday2024】カトリナ・グリーベル",
                 "PronounceName": "かとりな・ぐりーべる",
@@ -12126,6 +12223,14 @@
                 "PronounceName": "からすもりだいこく",
                 "CharacterIds": [
                     202
+                ]
+            },
+            {
+                "Id": 340120,
+                "Name": "【Birthday2024】千寿 暦",
+                "PronounceName": "せんじゅこよみ",
+                "CharacterIds": [
+                    301
                 ]
             },
             {
@@ -12156,6 +12261,17 @@
                     {
                         "EpisodeId": 3000201,
                         "Title": "夢への一歩を",
+                        "Order": 1
+                    }
+                ]
+            },
+            {
+                "Id": 30003,
+                "Title": "合同音楽公演 ～Global Stage～",
+                "Episode": [
+                    {
+                        "EpisodeId": 3000301,
+                        "Title": "国も劇団も飛び越えて",
                         "Order": 1
                     }
                 ]
