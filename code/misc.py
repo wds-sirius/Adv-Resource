@@ -77,13 +77,13 @@ for cardId in tempList['card'][:]:
         assetsReq = requests.get(fullurl)
         if assetsReq.status_code == 200:
             assetsbundle = UnityPy.load(assetsReq.content)
-            for path, obj in assetsbundle.container.items():
-                if obj.type.name == "Sprite" and path.endswith('.jpg'):
+            for obj in assetsbundle.objects:
+                if obj.type.name == "Sprite":
                     data = obj.read()
                     if data.name == cardId:
                         data.image.save(os.path.join(cardsFolder, f'{data.name}.png'))
-            # clear the id 
-            tempList['card'].remove(cardId)
+                        # clear the id 
+                        tempList['card'].remove(cardId)
     except:
         print(cardId)
 
