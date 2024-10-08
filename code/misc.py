@@ -73,7 +73,7 @@ open(os.path.join(manifest_dir, 'Spine.json'), "w", encoding='utf8').write(json_
 ############# card
 for cardId in tempList['card'][:]:
     try:
-        fullurl = f'{WDS_Env["assetUrl"]}/2d-assets/Android/{WDS_Env["assetVersion"]}/charactercardtextures_assets_charactercardtextures/{cardId}.bundle'
+        fullurl = f'{WDS_Env["assetUrl"]}/2d-assets/Android/{WDS_Env["assetVersion"]}/charactercards_assets_charactercard/{cardId}.bundle'
         assetsReq = requests.get(fullurl)
         if assetsReq.status_code == 200:
             assetsbundle = UnityPy.load(assetsReq.content)
