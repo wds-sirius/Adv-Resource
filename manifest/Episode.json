@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-09-29 19:18:39",
+    "LatestDate": "2024-10-08 17:26:19",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3220,6 +3220,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141230,
+                        "Title": "ソルト・フラグメント",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141231,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141232,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -3528,6 +3542,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141220,
+                        "Title": "旅するみるくティーン",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141221,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141222,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -3602,6 +3630,20 @@
                             },
                             {
                                 "EpisodeId": 130452,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130700,
+                        "Title": "社長業もおしゃまにね！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130701,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130702,
                                 "Order": 2
                             }
                         ]
