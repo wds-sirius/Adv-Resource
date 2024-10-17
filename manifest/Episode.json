@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-10-08 17:26:19",
+    "LatestDate": "2024-10-17 17:33:04",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -780,6 +780,113 @@
                     {
                         "EpisodeId": 1030220,
                         "Title": "旅は続く",
+                        "Order": 20
+                    }
+                ]
+            },
+            {
+                "Id": 10303,
+                "CompanyId": 3,
+                "ChapterOrder": 3,
+                "Episode": [
+                    {
+                        "EpisodeId": 1030301,
+                        "Title": "権威",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 1030302,
+                        "Title": "銀河の威信",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 1030303,
+                        "Title": "我関せず",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 1030304,
+                        "Title": "銀河の噂",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 1030305,
+                        "Title": "因縁の舞台",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 1030306,
+                        "Title": "華麗なるこだわり",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 1030307,
+                        "Title": "依頼",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 1030308,
+                        "Title": "美意識",
+                        "Order": 8
+                    },
+                    {
+                        "EpisodeId": 1030309,
+                        "Title": "マクベスの配役（前編）",
+                        "Order": 9
+                    },
+                    {
+                        "EpisodeId": 1030310,
+                        "Title": "マクベスの配役（後編）",
+                        "Order": 10
+                    },
+                    {
+                        "EpisodeId": 1030311,
+                        "Title": "前に進むために",
+                        "Order": 11
+                    },
+                    {
+                        "EpisodeId": 1030312,
+                        "Title": "ひとつの覚悟",
+                        "Order": 12
+                    },
+                    {
+                        "EpisodeId": 1030313,
+                        "Title": "私は私",
+                        "Order": 13
+                    },
+                    {
+                        "EpisodeId": 1030314,
+                        "Title": "氷の美女",
+                        "Order": 14
+                    },
+                    {
+                        "EpisodeId": 1030315,
+                        "Title": "仲良しなあの人",
+                        "Order": 15
+                    },
+                    {
+                        "EpisodeId": 1030316,
+                        "Title": "さらに先へ行くために",
+                        "Order": 16
+                    },
+                    {
+                        "EpisodeId": 1030317,
+                        "Title": "銀河の灯火",
+                        "Order": 17
+                    },
+                    {
+                        "EpisodeId": 1030318,
+                        "Title": "成った日",
+                        "Order": 18
+                    },
+                    {
+                        "EpisodeId": 1030319,
+                        "Title": "不変を支えるもの",
+                        "Order": 19
+                    },
+                    {
+                        "EpisodeId": 1030320,
+                        "Title": "美しき未来へ",
                         "Order": 20
                     }
                 ]
@@ -2926,6 +3033,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20041,
+                "Title": "ペトリコールと推論",
+                "Date": "2024-10-20",
+                "Episode": [
+                    {
+                        "EpisodeId": 2004101,
+                        "Title": "より良い舞台を目指すなら",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2004102,
+                        "Title": "権威とEden",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2004103,
+                        "Title": "見たくないもの",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2004104,
+                        "Title": "我が主",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2004105,
+                        "Title": "その日、彼女は",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2004106,
+                        "Title": "彼女は意志を示す",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2004107,
+                        "Title": "彼女はかく語る",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2004108,
+                        "Title": "それはあまりに人間的な",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -4011,6 +4165,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141160,
+                        "Title": "硝煙くゆるコールド・シティ",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141161,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141162,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -4155,6 +4323,20 @@
                             },
                             {
                                 "EpisodeId": 141032,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141170,
+                        "Title": "45口径と少女のフィルム",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141171,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141172,
                                 "Order": 2
                             }
                         ]
@@ -4526,6 +4708,20 @@
                             },
                             {
                                 "EpisodeId": 130422,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130680,
+                        "Title": "一番大事にすべきもの",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130681,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130682,
                                 "Order": 2
                             }
                         ]
@@ -4921,6 +5117,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141190,
+                        "Title": "Our fears in",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141191,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141192,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -5212,6 +5422,20 @@
                             },
                             {
                                 "EpisodeId": 140902,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141180,
+                        "Title": "Here's the smell of",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141181,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141182,
                                 "Order": 2
                             }
                         ]
