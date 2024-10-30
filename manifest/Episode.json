@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-10-17 17:33:04",
+    "LatestDate": "2024-10-30 17:28:12",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3080,6 +3080,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20043,
+                "Title": "過現未HELLO-WIN！",
+                "Date": "2024-10-31",
+                "Episode": [
+                    {
+                        "EpisodeId": 2004301,
+                        "Title": "あきる",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2004302,
+                        "Title": "ノリと勢い",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2004303,
+                        "Title": "イマーシブシアター",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2004304,
+                        "Title": "シロウト",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2004305,
+                        "Title": "本気",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2004306,
+                        "Title": "ずっと先の未来のこと",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2004307,
+                        "Title": "アドリビタム",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2004308,
+                        "Title": "あきない今",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -3784,6 +3831,20 @@
                             },
                             {
                                 "EpisodeId": 130452,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130690,
+                        "Title": "きゃー、こわーい！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130691,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130692,
                                 "Order": 2
                             }
                         ]
@@ -5586,6 +5647,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141210,
+                        "Title": "HANG IN THERE!",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141211,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141212,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -6038,6 +6113,20 @@
                             },
                             {
                                 "EpisodeId": 140882,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141200,
+                        "Title": "SWEEP U OFF Ur ♡！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141201,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141202,
                                 "Order": 2
                             }
                         ]
@@ -12468,6 +12557,27 @@
                 ]
             },
             {
+                "Id": 230550,
+                "Name": "トリックオアストライク！",
+                "PronounceName": "とりっくおあすとらいく",
+                "CharacterIds": [
+                    305,
+                    403
+                ]
+            },
+            {
+                "Id": 230720,
+                "Name": "【フューチャーダイスター】銀河座",
+                "PronounceName": "ぎんがざ",
+                "CharacterIds": [
+                    301,
+                    302,
+                    303,
+                    304,
+                    305
+                ]
+            },
+            {
                 "Id": 340030,
                 "Name": "【Birthday2024】カトリナ・グリーベル",
                 "PronounceName": "かとりな・ぐりーべる",
@@ -12489,6 +12599,14 @@
                 "PronounceName": "からすもりだいこく",
                 "CharacterIds": [
                     202
+                ]
+            },
+            {
+                "Id": 340110,
+                "Name": "【Birthday2024】筆島 しぐれ",
+                "PronounceName": "ふでしましぐれ",
+                "CharacterIds": [
+                    205
                 ]
             },
             {
@@ -12538,6 +12656,17 @@
                     {
                         "EpisodeId": 3000301,
                         "Title": "国も劇団も飛び越えて",
+                        "Order": 1
+                    }
+                ]
+            },
+            {
+                "Id": 30004,
+                "Title": "銀河座3章アフターストーリー",
+                "Episode": [
+                    {
+                        "EpisodeId": 3000401,
+                        "Title": "幾星霜を遙か",
                         "Order": 1
                     }
                 ]
