@@ -506,7 +506,7 @@
             "EpisodeMasterId": 2004308,
             "Order": 1,
             "GroupOrder": 22,
-            "SpeakerName": "？？？（カミラ）",
+            "SpeakerName": "？？？",
             "FontSize": 2,
             "Phrase": "『ちょーっと待ったー！！』",
             "BgmFileName": "27",
@@ -778,7 +778,7 @@
             "GroupOrder": 34,
             "SpeakerName": "カミラ",
             "FontSize": 2,
-            "Phrase": "『出動中に本名は禁句！　ちゃんとコードネームで呼んでよね！",
+            "Phrase": "『出勤中に本名は禁句！　ちゃんとコードネームで呼んでよね！",
             "VoiceFileName": "20043080340",
             "CharacterMotions": [
                 {

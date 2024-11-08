@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-10-30 17:28:12",
+    "LatestDate": "2024-11-08 17:29:36",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5017,6 +5017,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141140,
+                        "Title": "行き先は星々のもと",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141141,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141142,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -5353,6 +5367,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141150,
+                        "Title": "旅情の旨味",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141151,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141152,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -5574,6 +5602,20 @@
                             },
                             {
                                 "EpisodeId": 130572,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130670,
+                        "Title": "美味しいはシェアしないと！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130671,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130672,
                                 "Order": 2
                             }
                         ]
