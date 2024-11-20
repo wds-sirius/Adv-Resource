@@ -978,5 +978,30 @@
         "Id": 51301,
         "CharacterId": 513,
         "CompanyId": 5
+    },
+    {
+        "Id": 90102,
+        "CharacterId": 901,
+        "CompanyId": 9
+    },
+    {
+        "Id": 90202,
+        "CharacterId": 902,
+        "CompanyId": 9
+    },
+    {
+        "Id": 90402,
+        "CharacterId": 904,
+        "CompanyId": 9
+    },
+    {
+        "Id": 90602,
+        "CharacterId": 906,
+        "CompanyId": 9
+    },
+    {
+        "Id": 90902,
+        "CharacterId": 909,
+        "CompanyId": 9
     }
 ]

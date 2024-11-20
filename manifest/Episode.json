@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-11-08 17:29:36",
+    "LatestDate": "2024-11-20 16:58:07",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3127,6 +3127,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20044,
+                "Title": "Jump！L0ve→L1ve!!　前編",
+                "Date": "2024-11-20",
+                "Episode": [
+                    {
+                        "EpisodeId": 2004401,
+                        "Title": "出会いは突然に",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2004402,
+                        "Title": "ひとりの役者",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2004403,
+                        "Title": "堕天使、降臨",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2004404,
+                        "Title": "オタクと姉妹と",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2004405,
+                        "Title": "姉妹水入らず",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2004406,
+                        "Title": "影が光を浴びたなら",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2004407,
+                        "Title": "気まずい旅路",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2004408,
+                        "Title": "不思議な運命",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -3285,6 +3332,20 @@
                             },
                             {
                                 "EpisodeId": 140992,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141290,
+                        "Title": "光の海でも輝いて",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141291,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141292,
                                 "Order": 2
                             }
                         ]
@@ -4153,6 +4214,20 @@
                             },
                             {
                                 "EpisodeId": 130502,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130710,
+                        "Title": "何度でも熱く、自由に",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130711,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130712,
                                 "Order": 2
                             }
                         ]
@@ -6468,6 +6543,81 @@
                         ]
                     }
                 ]
+            },
+            {
+                "Id": 901,
+                "Name": "高海千歌",
+                "CompanyMasterId": 900,
+                "Groups": [
+                    {
+                        "Id": 141240,
+                        "Title": "千の歌を紡ぐ幻影",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141241,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141242,
+                                "Order": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 902,
+                "Name": "桜内梨子",
+                "CompanyMasterId": 900,
+                "Groups": [
+                    {
+                        "Id": 141250,
+                        "Title": "空を知り、恋をして",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141251,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141252,
+                                "Order": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 904,
+                "Name": "黒澤ダイヤ",
+                "CompanyMasterId": 900,
+                "Groups": []
+            },
+            {
+                "Id": 906,
+                "Name": "津島善子",
+                "CompanyMasterId": 900,
+                "Groups": [
+                    {
+                        "Id": 141280,
+                        "Title": "ようこそ不思議なこの国へ",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141281,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141282,
+                                "Order": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 909,
+                "Name": "黒澤ルビィ",
+                "CompanyMasterId": 900,
+                "Groups": []
             }
         ],
         "Spot": [
