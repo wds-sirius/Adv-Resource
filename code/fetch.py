@@ -199,6 +199,7 @@ CompanyMaster = {
     3 : "銀河座",
     4 : "劇団電姫",
     999 : '序章',
+    900 : 'ラブライブサンシャイン'
 }
 
 masterlistres = requests.get(f'{masterlistUrl}/StoryMaster.json')
