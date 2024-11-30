@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-11-20 16:58:07",
+    "LatestDate": "2024-11-30 15:40:52",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3174,6 +3174,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20045,
+                "Title": "Jump！L0ve→L1ve!!　後編",
+                "Date": "2024-11-30",
+                "Episode": [
+                    {
+                        "EpisodeId": 2004501,
+                        "Title": "UCHIURA",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2004502,
+                        "Title": "役者と海と少女たち",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2004503,
+                        "Title": "熱を求めて",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2004504,
+                        "Title": "波音",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2004505,
+                        "Title": "ステップ、ゼロ",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2004506,
+                        "Title": "夜凪のステージ",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2004507,
+                        "Title": "一歩目はジャンプで",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2004508,
+                        "Title": "ゼロからイチに",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -5010,6 +5057,20 @@
                         ]
                     },
                     {
+                        "Id": 130720,
+                        "Title": "いつもと違うわたくし",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130721,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130722,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
                         "Id": 140080,
                         "Title": "幼き日の情景",
                         "Episode": [
@@ -5953,6 +6014,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141300,
+                        "Title": "LIVE with SUNSHINE!!",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141301,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141302,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -6590,7 +6665,22 @@
                 "Id": 904,
                 "Name": "黒澤ダイヤ",
                 "CompanyMasterId": 900,
-                "Groups": []
+                "Groups": [
+                    {
+                        "Id": 141260,
+                        "Title": "diadem for silver bullet",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141261,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141262,
+                                "Order": 2
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "Id": 906,
@@ -6617,7 +6707,22 @@
                 "Id": 909,
                 "Name": "黒澤ルビィ",
                 "CompanyMasterId": 900,
-                "Groups": []
+                "Groups": [
+                    {
+                        "Id": 141270,
+                        "Title": "夜空をかけるビジョナリィ",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141271,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141272,
+                                "Order": 2
+                            }
+                        ]
+                    }
+                ]
             }
         ],
         "Spot": [
@@ -12815,6 +12920,14 @@
                 "PronounceName": "よなぐにひかり",
                 "CharacterIds": [
                     305
+                ]
+            },
+            {
+                "Id": 340170,
+                "Name": "【Birthday2024】千寿 いろは",
+                "PronounceName": "せんじゅいろは",
+                "CharacterIds": [
+                    401
                 ]
             }
         ],
