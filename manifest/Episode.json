@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-11-30 15:40:52",
+    "LatestDate": "2024-12-09 17:30:38",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4362,6 +4362,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141320,
+                        "Title": "楽園の主はいたずら中",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141321,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141322,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -4763,6 +4777,20 @@
                         ]
                     },
                     {
+                        "Id": 130730,
+                        "Title": "ぴったりなプレゼントを探して",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130731,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130732,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
                         "Id": 140060,
                         "Title": "満たされない心",
                         "Episode": [
@@ -4975,6 +5003,20 @@
                             },
                             {
                                 "EpisodeId": 141002,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141310,
+                        "Title": "ひんやり、きらきら",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141311,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141312,
                                 "Order": 2
                             }
                         ]
@@ -12928,6 +12970,14 @@
                 "PronounceName": "せんじゅいろは",
                 "CharacterIds": [
                     401
+                ]
+            },
+            {
+                "Id": 340190,
+                "Name": "【Birthday2024】阿岐留 カミラ",
+                "PronounceName": "あきるかみら",
+                "CharacterIds": [
+                    403
                 ]
             }
         ],
