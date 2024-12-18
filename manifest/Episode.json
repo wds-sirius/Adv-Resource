@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-12-09 17:30:38",
+    "LatestDate": "2024-12-18 17:28:43",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3221,6 +3221,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20046,
+                "Title": "ダブルキャストは想いあう",
+                "Date": "2024-12-20",
+                "Episode": [
+                    {
+                        "EpisodeId": 2004601,
+                        "Title": "いつもあなたから貰ってるから",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2004602,
+                        "Title": "サンタの来ない女の子",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2004603,
+                        "Title": "シリウスサンタクロース作戦",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2004604,
+                        "Title": "スニーキング・ウィンター",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2004605,
+                        "Title": "一つの冴えたやり方",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2004606,
+                        "Title": "知りたいから",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2004607,
+                        "Title": "プレゼントで大事なこと",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2004608,
+                        "Title": "比翼連理の二人",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -3396,6 +3443,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141340,
+                        "Title": "新人サンタはあわてんぼう",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141341,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141342,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -3540,6 +3601,20 @@
                             },
                             {
                                 "EpisodeId": 141232,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141330,
+                        "Title": "エリートサンタは夜を駆け",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141331,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141332,
                                 "Order": 2
                             }
                         ]
@@ -4114,6 +4189,20 @@
                             },
                             {
                                 "EpisodeId": 130522,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130740,
+                        "Title": "尾行、キタキツネのように",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130741,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130742,
                                 "Order": 2
                             }
                         ]
@@ -12978,6 +13067,14 @@
                 "PronounceName": "あきるかみら",
                 "CharacterIds": [
                     403
+                ]
+            },
+            {
+                "Id": 340200,
+                "Name": "【Birthday2024】猫足 蕾",
+                "PronounceName": "ねこあしつぼみ",
+                "CharacterIds": [
+                    404
                 ]
             }
         ],
