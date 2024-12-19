@@ -456,7 +456,7 @@
             "GroupOrder": 13,
             "SpeakerName": "ここな",
             "FontSize": 2,
-            "Phrase": "えへへ～。嬉しいからポーチと一緒に自撮りしちゃおっと。\r\n/nほら、静香ちゃんもポーチ持って？",
+            "Phrase": "えへへ～。嬉しいからポーチと一緒に自撮りしちゃおっと。/nほら、静香ちゃんもポーチ持って？",
             "VoiceFileName": "1413410130",
             "CharacterMotions": [
                 {
@@ -811,7 +811,7 @@
             "GroupOrder": 25,
             "SpeakerName": "静香",
             "FontSize": 2,
-            "Phrase": "ううん？　首元……。\r\n",
+            "Phrase": "ううん？　首元……。",
             "VoiceFileName": "1413410240",
             "CharacterMotions": [
                 {
@@ -980,7 +980,7 @@
             "GroupOrder": 30,
             "SpeakerName": "ここな",
             "FontSize": 2,
-            "Phrase": "じゃーん。いっぱいお揃い記念！\r\n/nこうして並んでると、同じっていいよね。",
+            "Phrase": "じゃーん。いっぱいお揃い記念！/nこうして並んでると、同じっていいよね。",
             "VoiceFileName": "1413410280",
             "CharacterMotions": [
                 {
