@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-12-18 17:28:43",
+    "LatestDate": "2024-12-27 17:26:59",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3268,6 +3268,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20047,
+                "Title": "†迎春†　猫と烏の協奏曲",
+                "Date": "2024-12-31",
+                "Episode": [
+                    {
+                        "EpisodeId": 2004701,
+                        "Title": "波長の合うふたり",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2004702,
+                        "Title": "年の暮れのご挨拶",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2004703,
+                        "Title": "巫女修行",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2004704,
+                        "Title": "這い寄る邪念",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2004705,
+                        "Title": "破ァッ！",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2004706,
+                        "Title": "破・邪・顕・正",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2004707,
+                        "Title": "電子の姫と楽園の子ら",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2004708,
+                        "Title": "充実した一日",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -4626,6 +4673,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141360,
+                        "Title": "金花ほころぶ祝言のとき",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141361,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141362,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -4700,6 +4761,20 @@
                             },
                             {
                                 "EpisodeId": 130602,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130750,
+                        "Title": "あつあつ、いただきます",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130751,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130752,
                                 "Order": 2
                             }
                         ]
@@ -6583,6 +6658,20 @@
                             },
                             {
                                 "EpisodeId": 141082,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141350,
+                        "Title": "慶賀へ至る富正月",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141351,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141352,
                                 "Order": 2
                             }
                         ]
@@ -12991,6 +13080,14 @@
                 "CharacterIds": [
                     305,
                     403
+                ]
+            },
+            {
+                "Id": 230560,
+                "Name": "推しと結ばれたら祓われてもいい！",
+                "PronounceName": "おしとむすばれたらはらわれてもいい",
+                "CharacterIds": [
+                    401
                 ]
             },
             {
