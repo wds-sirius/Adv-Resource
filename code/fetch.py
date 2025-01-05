@@ -47,7 +47,7 @@ if not os.path.exists(temp_dir):
 
 # episode data key
 keymap = [
-    "Id",
+    "Id", 
     "EpisodeMasterId",
     "Order",
     "GroupOrder",
@@ -118,7 +118,10 @@ def addKey(listcontent):
             if unid == 19:
                 unit[keymap[unid]] = motions
             elif not data[unid] == None:
-                unit[keymap[unid]] = data[unid]
+                if unid == 7:
+                    unit[keymap[unid]] = data[unid].replace("\r","").replace("\n", "")
+                else:    
+                    unit[keymap[unid]] = data[unid]
 
         list.append(unit)
     
