@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2024-12-27 17:26:59",
+    "LatestDate": "2025-01-09 17:25:56",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3583,6 +3583,20 @@
                         ]
                     },
                     {
+                        "Id": 130760,
+                        "Title": "マスカレイドな恋愛劇",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130761,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130762,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
                         "Id": 140200,
                         "Title": "マジカル☆スイーツ",
                         "Episode": [
@@ -3812,6 +3826,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141370,
+                        "Title": "アクアアルタでつかまえて",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141371,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141372,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -3984,6 +4012,20 @@
                             },
                             {
                                 "EpisodeId": 141222,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141380,
+                        "Title": "いざ、仮面舞踏会へ！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141381,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141382,
                                 "Order": 2
                             }
                         ]
