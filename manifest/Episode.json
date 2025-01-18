@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-01-09 17:25:56",
+    "LatestDate": "2025-01-18 17:24:47",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -13142,6 +13142,14 @@
                     303,
                     304,
                     305
+                ]
+            },
+            {
+                "Id": 340010,
+                "Name": "【Birthday2025】鳳 ここな",
+                "PronounceName": "おおとりここな",
+                "CharacterIds": [
+                    101
                 ]
             },
             {

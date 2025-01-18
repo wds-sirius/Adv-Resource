@@ -1608,7 +1608,7 @@
             "GroupOrder": 57,
             "SpeakerName": "静香",
             "FontSize": 2,
-            "Phrase": "はぁ……ほんと、サンタさんもあなたも先走りすぎなんだから。",
+            "Phrase": "『はぁ……ほんと、サンタさんもあなたも先走りすぎなんだから』",
             "BackgroundCharacterImageFileName": "141340_0",
             "VoiceFileName": "20046060520",
             "CharacterMotions": [],
@@ -1647,7 +1647,7 @@
             "GroupOrder": 60,
             "SpeakerName": "八恵",
             "FontSize": 2,
-            "Phrase": "こんな良い子たちにはなおさら早くプレゼントを渡してあげないとじゃな！",
+            "Phrase": "『こんな良い子たちには、/n　なおさら早くプレゼントを渡してあげないとじゃな！』",
             "VoiceFileName": "20046060550",
             "CharacterMotions": [
                 {
@@ -1672,7 +1672,7 @@
             "GroupOrder": 61,
             "SpeakerName": "静香",
             "FontSize": 2,
-            "Phrase": "そうね。",
+            "Phrase": "『そうね。",
             "VoiceFileName": "20046060560",
             "CharacterMotions": [
                 {
@@ -1697,7 +1697,7 @@
             "GroupOrder": 61,
             "SpeakerName": "静香",
             "FontSize": 2,
-            "Phrase": "それじゃここなトナカイ、ソリ……引くわよっ！！　",
+            "Phrase": "　それじゃここなトナカイ、ソリ……引くわよっ！！』",
             "VoiceFileName": "20046060561",
             "CharacterMotions": [
                 {
