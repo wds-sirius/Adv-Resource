@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-01-18 17:24:47",
+    "LatestDate": "2025-01-20 18:36:58",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -1101,6 +1101,113 @@
                     {
                         "EpisodeId": 1040220,
                         "Title": "連鎖爆発",
+                        "Order": 20
+                    }
+                ]
+            },
+            {
+                "Id": 10403,
+                "CompanyId": 4,
+                "ChapterOrder": 3,
+                "Episode": [
+                    {
+                        "EpisodeId": 1040301,
+                        "Title": "朗報、海外より来たる",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 1040302,
+                        "Title": "大いなる夢",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 1040303,
+                        "Title": "電姫、次なる演目",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 1040304,
+                        "Title": "カミラリサーチ",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 1040305,
+                        "Title": "浮かれる人々",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 1040306,
+                        "Title": "電姫の解釈",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 1040307,
+                        "Title": "総力戦",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 1040308,
+                        "Title": "恐ろしい子になりなさい",
+                        "Order": 8
+                    },
+                    {
+                        "EpisodeId": 1040309,
+                        "Title": "ありがたいお言葉",
+                        "Order": 9
+                    },
+                    {
+                        "EpisodeId": 1040310,
+                        "Title": "自己対話",
+                        "Order": 10
+                    },
+                    {
+                        "EpisodeId": 1040311,
+                        "Title": "ディミートリアスとヘレナ",
+                        "Order": 11
+                    },
+                    {
+                        "EpisodeId": 1040312,
+                        "Title": "ハーミアとへレナ",
+                        "Order": 12
+                    },
+                    {
+                        "EpisodeId": 1040313,
+                        "Title": "ライサンダーとへレナ",
+                        "Order": 13
+                    },
+                    {
+                        "EpisodeId": 1040314,
+                        "Title": "今、成らんとするもの",
+                        "Order": 14
+                    },
+                    {
+                        "EpisodeId": 1040315,
+                        "Title": "跳ねろパック",
+                        "Order": 15
+                    },
+                    {
+                        "EpisodeId": 1040316,
+                        "Title": "まず、キャラクターありき",
+                        "Order": 16
+                    },
+                    {
+                        "EpisodeId": 1040317,
+                        "Title": "ウチだからできること",
+                        "Order": 17
+                    },
+                    {
+                        "EpisodeId": 1040318,
+                        "Title": "遙かなる異国の香り",
+                        "Order": 18
+                    },
+                    {
+                        "EpisodeId": 1040319,
+                        "Title": "夏の夜の夢",
+                        "Order": 19
+                    },
+                    {
+                        "EpisodeId": 1040320,
+                        "Title": "夢じゃ終われない",
                         "Order": 20
                     }
                 ]
@@ -3312,6 +3419,53 @@
                     {
                         "EpisodeId": 2004708,
                         "Title": "充実した一日",
+                        "Order": 8
+                    }
+                ]
+            },
+            {
+                "Id": 20048,
+                "Title": "ふわり、湯けむり異文化旅情",
+                "Date": "2025-01-20",
+                "Episode": [
+                    {
+                        "EpisodeId": 2004801,
+                        "Title": "良い変化",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2004802,
+                        "Title": "慰労会",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2004803,
+                        "Title": "温泉",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2004804,
+                        "Title": "思惑",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2004805,
+                        "Title": "夜更け",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2004806,
+                        "Title": "たとえ継ぎ接ぎになっても",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2004807,
+                        "Title": "早朝",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2004808,
+                        "Title": "志を遂げるために",
                         "Order": 8
                     }
                 ]
@@ -5590,6 +5744,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141390,
+                        "Title": "挑まれた勝負に思い巡らせ",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141391,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141392,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -5664,6 +5832,20 @@
                             },
                             {
                                 "EpisodeId": 130632,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130770,
+                        "Title": "とろける極楽気分",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130771,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130772,
                                 "Order": 2
                             }
                         ]
@@ -5909,6 +6091,20 @@
                             },
                             {
                                 "EpisodeId": 141182,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141400,
+                        "Title": "その心、今夜頂きに参ります",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141401,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141402,
                                 "Order": 2
                             }
                         ]

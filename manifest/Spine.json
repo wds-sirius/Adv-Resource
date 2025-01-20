@@ -465,6 +465,11 @@
         "CompanyId": 3
     },
     {
+        "Id": 30104,
+        "CharacterId": 301,
+        "CompanyId": 3
+    },
+    {
         "Id": 30105,
         "CharacterId": 301,
         "CompanyId": 3
@@ -570,6 +575,11 @@
         "CompanyId": 3
     },
     {
+        "Id": 30304,
+        "CharacterId": 303,
+        "CompanyId": 3
+    },
+    {
         "Id": 30305,
         "CharacterId": 303,
         "CompanyId": 3
@@ -671,6 +681,11 @@
     },
     {
         "Id": 30503,
+        "CharacterId": 305,
+        "CompanyId": 3
+    },
+    {
+        "Id": 30504,
         "CharacterId": 305,
         "CompanyId": 3
     },
@@ -831,6 +846,11 @@
     },
     {
         "Id": 40329,
+        "CharacterId": 403,
+        "CompanyId": 4
+    },
+    {
+        "Id": 40330,
         "CharacterId": 403,
         "CompanyId": 4
     },
