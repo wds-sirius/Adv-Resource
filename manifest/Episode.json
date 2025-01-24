@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-01-20 18:36:58",
+    "LatestDate": "2025-01-24 17:25:59",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6619,6 +6619,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141420,
+                        "Title": "それでも止まらぬ恋心",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141421,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141422,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -6763,6 +6777,20 @@
                             },
                             {
                                 "EpisodeId": 141202,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141410,
+                        "Title": "いたずら妖精がご招待",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141411,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141412,
                                 "Order": 2
                             }
                         ]
