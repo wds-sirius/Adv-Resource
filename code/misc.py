@@ -6,7 +6,6 @@ import UnityPy
 WDS_Env_Url = os.environ.get("WDS_ENV_URL")
 WDS_Env_Req = requests.post(WDS_Env_Url)
 WDS_Env = (WDS_Env_Req.json())['result']
-WDS_Env["assetUrl"] = WDS_Env["assetUrl"].replace("-t", "-e")
 
 manifest_dir = './manifest'
 
