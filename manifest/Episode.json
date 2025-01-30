@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-01-24 17:25:59",
+    "LatestDate": "2025-01-30 22:14:16",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3469,6 +3469,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20049,
+                "Title": "遥か、ネバーランドに望む",
+                "Date": "2025-01-31",
+                "Episode": [
+                    {
+                        "EpisodeId": 2004901,
+                        "Title": "星に埋もれる",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2004902,
+                        "Title": "同じ轍",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2004903,
+                        "Title": "きれいな星座を作るなら",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2004904,
+                        "Title": "泥臭く",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2004905,
+                        "Title": "あがいて",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2004906,
+                        "Title": "そういうところ",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2004907,
+                        "Title": "永遠の子ども",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2004908,
+                        "Title": "空の星を並べて",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -4087,6 +4134,20 @@
                         ]
                     },
                     {
+                        "Id": 130780,
+                        "Title": "素敵な思い、受け取りました！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130781,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130782,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
                         "Id": 140020,
                         "Title": "大切で大好きな劇団",
                         "Episode": [
@@ -4358,6 +4419,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141430,
+                        "Title": "星のようにまぶしい出会い",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141431,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141432,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -4516,6 +4591,20 @@
                             },
                             {
                                 "EpisodeId": 141132,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141440,
+                        "Title": "大事なのは信じることさ！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141441,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141442,
                                 "Order": 2
                             }
                         ]
@@ -13357,6 +13446,28 @@
                 ]
             },
             {
+                "Id": 230570,
+                "Name": "【フューチャーダイスター】劇団電姫",
+                "PronounceName": "げきだんでんき",
+                "CharacterIds": [
+                    401,
+                    402,
+                    403,
+                    404,
+                    405
+                ]
+            },
+            {
+                "Id": 230580,
+                "Name": "ネバーランドの少年",
+                "PronounceName": "ねばーらんどのしょうねん",
+                "CharacterIds": [
+                    101,
+                    102,
+                    104
+                ]
+            },
+            {
                 "Id": 230720,
                 "Name": "【フューチャーダイスター】銀河座",
                 "PronounceName": "ぎんがざ",
@@ -13414,6 +13525,14 @@
                 "PronounceName": "せんじゅこよみ",
                 "CharacterIds": [
                     301
+                ]
+            },
+            {
+                "Id": 340150,
+                "Name": "【Birthday2025】リリヤ・クルトベイ",
+                "PronounceName": "りりや・くるとべい",
+                "CharacterIds": [
+                    304
                 ]
             },
             {
@@ -13490,6 +13609,17 @@
                     {
                         "EpisodeId": 3000401,
                         "Title": "幾星霜を遙か",
+                        "Order": 1
+                    }
+                ]
+            },
+            {
+                "Id": 30005,
+                "Title": "劇団電姫3章アフターストーリー",
+                "Episode": [
+                    {
+                        "EpisodeId": 3000501,
+                        "Title": "起きても続く楽しい夢",
                         "Order": 1
                     }
                 ]
