@@ -30,6 +30,7 @@ jobs:
           pip install pytz
           pip install UnityPy==1.10.2
           pip install pydub
+          pip install audioop-lts
 
       - name: Fetch data
         env:

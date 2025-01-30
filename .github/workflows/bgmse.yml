@@ -24,6 +24,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
           pip install pydub
+          pip install audioop-lts
 
       - name: Install ffmpeg
         run: |
