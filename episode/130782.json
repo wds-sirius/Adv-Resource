@@ -21,6 +21,9 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
                     "SpineId": 50201,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
