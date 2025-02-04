@@ -474,24 +474,24 @@ if masterlistres.status_code == 200:
                     "CharacterIds" : poster["AppearanceCharacterBaseMasterIds"]
                 })
                 Poster_Update = True
-                # 創建新的
-                posterdetail = {
-                    "EpisodeId": poster["Id"],
-                    "StoryType": 5,
-                    "Title": poster["Name"],
-                    "EpisodeDetail" : []
-                }
-                for ep in Episodes:
-                    posterdetail["EpisodeDetail"].append({
-                        "Id" : ep["Id"],
-                        "EpisodeType": posterTypeToNum[ep["EpisodeType"]],
-                        "CharacterId" : ep["CharacterBaseMasterId"] if "CharacterBaseMasterId" in ep else None,
-                        "Description" : ep["Description"],
-                        "Order": ep["Order"]
-                    })
-                # 儲存
-                json_data = json.dumps(posterdetail, indent=4, ensure_ascii=False)
-                open(os.path.join(EPBase_dir, f'{poster["Id"]}.json'), "w", encoding='utf8').write(json_data)
+            # 創建新的
+            posterdetail = {
+                "EpisodeId": poster["Id"],
+                "StoryType": 5,
+                "Title": poster["Name"],
+                "EpisodeDetail" : []
+            }
+            for ep in Episodes:
+                posterdetail["EpisodeDetail"].append({
+                    "Id" : ep["Id"],
+                    "EpisodeType": posterTypeToNum[ep["EpisodeType"]],
+                    "CharacterId" : ep["CharacterBaseMasterId"] if "CharacterBaseMasterId" in ep else None,
+                    "Description" : ep["Description"],
+                    "Order": ep["Order"]
+                })
+            # 儲存
+            json_data = json.dumps(posterdetail, indent=4, ensure_ascii=False)
+            open(os.path.join(EPBase_dir, f'{poster["Id"]}.json'), "w", encoding='utf8').write(json_data)
     # 列表排序
     GameStoryMasterlist["StoryMaster"]["Poster"].sort(key = lambda x: x["Id"] )
     
