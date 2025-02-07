@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-01-30 22:14:16",
+    "LatestDate": "2025-02-07 17:30:21",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5658,6 +5658,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141450,
+                        "Title": "スウィート・セレクション",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141451,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141452,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -5935,6 +5949,20 @@
                             },
                             {
                                 "EpisodeId": 130772,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130790,
+                        "Title": "得意のセールストーク！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130791,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130792,
                                 "Order": 2
                             }
                         ]
@@ -6369,6 +6397,20 @@
                             },
                             {
                                 "EpisodeId": 141212,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141460,
+                        "Title": "ハートフル・ショッピング",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141461,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141462,
                                 "Order": 2
                             }
                         ]
