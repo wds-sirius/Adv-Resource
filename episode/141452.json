@@ -171,7 +171,7 @@
             "GroupOrder": 6,
             "SpeakerName": "暦",
             "FontSize": 2,
-            "Phrase": "ホームルームの直後にクラスメイトに囲まれてどうなさいました？　/n廊下で他のクラスの方とすれ違う時は？　　私が隣にいましたわよね？　",
+            "Phrase": "ホームルームの直後にクラスメイトに囲まれてどうなさいました？　/n廊下で他のクラスの方とすれ違う時は？　私が隣にいましたわよね？　",
             "VoiceFileName": "1414520060",
             "CharacterMotions": [
                 {
@@ -470,7 +470,6 @@
                     "FacialExpressionMasterId": 110,
                     "HeadDirectionMasterId": 3,
                     "BodyMotionMasterId": 3,
-                    "LipSyncMasterId": 1,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
@@ -776,6 +775,7 @@
                     "slotNumber": 2,
                     "FacialExpressionMasterId": 76,
                     "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
@@ -895,6 +895,7 @@
                     "slotNumber": 2,
                     "FacialExpressionMasterId": 74,
                     "BodyMotionMasterId": 16,
+                    "LipSyncMasterId": 1,
                     "SpineId": 30202,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
@@ -1047,11 +1048,13 @@
             "GroupOrder": 35,
             "SpeakerName": "緋花里",
             "FontSize": 2,
-            "Phrase": "えへへー！　……わわっ！　",
+            "Phrase": "えへへー！　……わわっ！　/nラモさんすっごいチョコ貰ってる！　さっすがー！　",
             "VoiceFileName": "1414520350",
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 11,
                     "SpineId": 30302,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
@@ -1074,37 +1077,6 @@
         },
         {
             "Id": 141452038,
-            "EpisodeMasterId": 141452,
-            "Order": 2,
-            "GroupOrder": 35,
-            "SpeakerName": "緋花里",
-            "FontSize": 2,
-            "Phrase": "ラモさんすっごいチョコ貰ってる！　さっすがー！　",
-            "VoiceFileName": "1414520351",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 2,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                },
-                {
-                    "slotNumber": 2,
-                    "FacialExpressionMasterId": 202,
-                    "BodyMotionMasterId": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 4,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "305"
-        },
-        {
-            "Id": 141452039,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 36,
@@ -1137,7 +1109,7 @@
             "SpeakerIconId": "303"
         },
         {
-            "Id": 141452040,
+            "Id": 141452039,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 37,
@@ -1161,7 +1133,7 @@
             "SpeakerIconId": "302"
         },
         {
-            "Id": 141452041,
+            "Id": 141452040,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 38,
@@ -1193,7 +1165,7 @@
             "SpeakerIconId": "301"
         },
         {
-            "Id": 141452042,
+            "Id": 141452041,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 39,
@@ -1209,15 +1181,7 @@
                     "LipSyncMasterId": 1,
                     "SpineId": 30302,
                     "CharacterAppearanceType": 0,
-                    "CharacterPosition": 2,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                },
-                {
-                    "slotNumber": 2,
-                    "SpineId": 30502,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 4,
+                    "CharacterPosition": 3,
                     "CharacterLayerType": 1,
                     "SpineSize": 2
                 }
@@ -1225,7 +1189,7 @@
             "SpeakerIconId": "303"
         },
         {
-            "Id": 141452043,
+            "Id": 141452042,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 40,
@@ -1248,7 +1212,7 @@
                     "HeadMotionMasterId": 1,
                     "BodyMotionMasterId": 26,
                     "LipSyncMasterId": 2,
-                    "SpineId": 0,
+                    "SpineId": 30502,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1258,7 +1222,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141452044,
+            "Id": 141452043,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 41,
@@ -1282,7 +1246,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141452045,
+            "Id": 141452044,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 42,
@@ -1306,7 +1270,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141452046,
+            "Id": 141452045,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 43,
@@ -1330,7 +1294,7 @@
             "SpeakerIconId": "302"
         },
         {
-            "Id": 141452047,
+            "Id": 141452046,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 44,
@@ -1361,7 +1325,7 @@
             "SpeakerIconId": "301"
         },
         {
-            "Id": 141452048,
+            "Id": 141452047,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 45,
@@ -1393,7 +1357,7 @@
             "SpeakerIconId": "302"
         },
         {
-            "Id": 141452049,
+            "Id": 141452048,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 46,
@@ -1404,6 +1368,8 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 11,
                     "SpineId": 30302,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
@@ -1425,7 +1391,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141452050,
+            "Id": 141452049,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 47,
@@ -1457,7 +1423,7 @@
             "SpeakerIconId": "303"
         },
         {
-            "Id": 141452051,
+            "Id": 141452050,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 48,
@@ -1489,7 +1455,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141452052,
+            "Id": 141452051,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 49,
@@ -1513,7 +1479,7 @@
             "SpeakerIconId": "302"
         },
         {
-            "Id": 141452053,
+            "Id": 141452052,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 50,
@@ -1537,7 +1503,7 @@
             "SpeakerIconId": "302"
         },
         {
-            "Id": 141452054,
+            "Id": 141452053,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 51,
@@ -1561,7 +1527,7 @@
             "SpeakerIconId": "302"
         },
         {
-            "Id": 141452055,
+            "Id": 141452054,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 52,
@@ -1585,7 +1551,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141452056,
+            "Id": 141452055,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 53,
@@ -1609,7 +1575,7 @@
             "SpeakerIconId": "301"
         },
         {
-            "Id": 141452057,
+            "Id": 141452056,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 54,
@@ -1633,7 +1599,7 @@
             "SpeakerIconId": "303"
         },
         {
-            "Id": 141452058,
+            "Id": 141452057,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 55,
@@ -1657,7 +1623,7 @@
             "SpeakerIconId": "302"
         },
         {
-            "Id": 141452059,
+            "Id": 141452058,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 56,
@@ -1681,7 +1647,7 @@
             "SpeakerIconId": "302"
         },
         {
-            "Id": 141452060,
+            "Id": 141452059,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 57,
@@ -1701,7 +1667,7 @@
                 {
                     "slotNumber": 2,
                     "FacialExpressionMasterId": 200,
-                    "BodyMotionMasterId": 28,
+                    "BodyMotionMasterId": 2,
                     "LipSyncMasterId": 2,
                     "SpineId": 30502,
                     "CharacterAppearanceType": 0,
@@ -1713,7 +1679,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141452061,
+            "Id": 141452060,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 58,
@@ -1745,7 +1711,7 @@
             "SpeakerIconId": "301"
         },
         {
-            "Id": 141452062,
+            "Id": 141452061,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 59,
@@ -1777,7 +1743,7 @@
             "SpeakerIconId": "303"
         },
         {
-            "Id": 141452063,
+            "Id": 141452062,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 60,
@@ -1810,7 +1776,7 @@
             "SpeakerIconId": "301"
         },
         {
-            "Id": 141452064,
+            "Id": 141452063,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 61,
@@ -1842,7 +1808,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141452065,
+            "Id": 141452064,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 62,
@@ -1874,7 +1840,7 @@
             "SpeakerIconId": "303"
         },
         {
-            "Id": 141452066,
+            "Id": 141452065,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 63,
@@ -1887,6 +1853,7 @@
                     "slotNumber": 2,
                     "FacialExpressionMasterId": 210,
                     "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 2,
                     "SpineId": 30202,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
@@ -1897,7 +1864,7 @@
             "SpeakerIconId": "302"
         },
         {
-            "Id": 141452067,
+            "Id": 141452066,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 64,
@@ -1929,7 +1896,7 @@
             "SpeakerIconId": "301"
         },
         {
-            "Id": 141452068,
+            "Id": 141452067,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 65,
@@ -1953,7 +1920,7 @@
             "SpeakerIconId": "303"
         },
         {
-            "Id": 141452069,
+            "Id": 141452068,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 66,
@@ -1977,7 +1944,7 @@
             "SpeakerIconId": "302"
         },
         {
-            "Id": 141452070,
+            "Id": 141452069,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 67,
@@ -2001,7 +1968,7 @@
             "SpeakerIconId": "302"
         },
         {
-            "Id": 141452071,
+            "Id": 141452070,
             "EpisodeMasterId": 141452,
             "Order": 1,
             "GroupOrder": 68,

@@ -16,6 +16,7 @@
             "FontSize": 2,
             "Phrase": "ボウルの中で、ゆっくり溶けていくのね。/nきれい……。",
             "BackgroundImageFileName": "700",
+            "BgmFileName": "3",
             "VoiceFileName": "1414620010",
             "CharacterMotions": [
                 {
@@ -440,6 +441,7 @@
                     "slotNumber": 2,
                     "FacialExpressionMasterId": 110,
                     "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 2,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
@@ -1185,6 +1187,7 @@
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 111,
                     "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
                     "SpineId": 30521,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
@@ -1434,6 +1437,7 @@
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 107,
                     "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
@@ -1683,7 +1687,11 @@
             "GroupOrder": 52,
             "FontSize": 2,
             "Phrase": "",
-            "CharacterMotions": []
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.800000011920929,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
         },
         {
             "Id": 141462059,

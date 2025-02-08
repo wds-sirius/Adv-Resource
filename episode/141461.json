@@ -63,7 +63,7 @@
             "GroupOrder": 3,
             "SpeakerName": "緋花里",
             "FontSize": 2,
-            "Phrase": "ふぃ～！　買い出しコンプリート！　",
+            "Phrase": "ふぃ～！　買い出しコンプリート！　/nこれだけあれば友チョコいーっぱい作れる！　ふふーん♪",
             "VoiceFileName": "1414610030",
             "CharacterMotions": [
                 {
@@ -82,30 +82,6 @@
         },
         {
             "Id": 141461004,
-            "EpisodeMasterId": 141461,
-            "Order": 2,
-            "GroupOrder": 3,
-            "SpeakerName": "緋花里",
-            "FontSize": 2,
-            "Phrase": "これだけあれば友チョコいーっぱい作れる！　ふふーん♪",
-            "VoiceFileName": "1414610031",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 71,
-                    "BodyMotionMasterId": 20,
-                    "LipSyncMasterId": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "305"
-        },
-        {
-            "Id": 141461005,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 4,
@@ -129,7 +105,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461006,
+            "Id": 141461005,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 5,
@@ -153,7 +129,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461007,
+            "Id": 141461006,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 6,
@@ -177,7 +153,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461008,
+            "Id": 141461007,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 7,
@@ -201,7 +177,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461009,
+            "Id": 141461008,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 8,
@@ -225,13 +201,13 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461010,
+            "Id": 141461009,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 9,
             "SpeakerName": "緋花里",
             "FontSize": 2,
-            "Phrase": "……あ。そう言えば、そろそろ雪が帰ってくる時間だっけ。",
+            "Phrase": "……あ。そう言えば、そろそろ雪が帰ってくる時間だっけ。/nならシュトーレンの時みたいに雪にも手伝ってもらおっと。",
             "VoiceFileName": "1414610090",
             "CharacterMotions": [
                 {
@@ -249,31 +225,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461011,
-            "EpisodeMasterId": 141461,
-            "Order": 2,
-            "GroupOrder": 9,
-            "SpeakerName": "緋花里",
-            "FontSize": 2,
-            "Phrase": "ならシュトーレンの時みたいに雪にも手伝ってもらおっと。",
-            "VoiceFileName": "1414610091",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 103,
-                    "BodyMotionMasterId": 20,
-                    "LipSyncMasterId": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "305"
-        },
-        {
-            "Id": 141461012,
+            "Id": 141461010,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 10,
@@ -297,7 +249,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461013,
+            "Id": 141461011,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 11,
@@ -321,7 +273,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461014,
+            "Id": 141461012,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 12,
@@ -345,7 +297,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461015,
+            "Id": 141461013,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 13,
@@ -358,6 +310,7 @@
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 202,
                     "BodyMotionMasterId": 26,
+                    "LipSyncMasterId": 2,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
@@ -368,13 +321,13 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461016,
+            "Id": 141461014,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 14,
             "SpeakerName": "緋花里",
             "FontSize": 2,
-            "Phrase": "……ざくざく、ざく。ふぅ……。",
+            "Phrase": "……ざくざく、ざく。ふぅ……。/nえっ、チョコ刻んだだけでもうこんな時間！？",
             "VoiceFileName": "1414610140",
             "CharacterMotions": [
                 {
@@ -392,31 +345,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461017,
-            "EpisodeMasterId": 141461,
-            "Order": 2,
-            "GroupOrder": 14,
-            "SpeakerName": "緋花里",
-            "FontSize": 2,
-            "Phrase": "えっ、チョコ刻んだだけでもうこんな時間！？",
-            "VoiceFileName": "1414610141",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 500,
-                    "BodyMotionMasterId": 5,
-                    "LipSyncMasterId": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "305"
-        },
-        {
-            "Id": 141461018,
+            "Id": 141461015,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 15,
@@ -440,7 +369,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461019,
+            "Id": 141461016,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 16,
@@ -464,7 +393,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461020,
+            "Id": 141461017,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 17,
@@ -496,7 +425,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461021,
+            "Id": 141461018,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 18,
@@ -528,7 +457,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461022,
+            "Id": 141461019,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 19,
@@ -560,7 +489,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461023,
+            "Id": 141461020,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 20,
@@ -592,7 +521,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461024,
+            "Id": 141461021,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 21,
@@ -624,7 +553,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461025,
+            "Id": 141461022,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 22,
@@ -656,7 +585,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461026,
+            "Id": 141461023,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 23,
@@ -688,7 +617,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461027,
+            "Id": 141461024,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 24,
@@ -720,7 +649,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461028,
+            "Id": 141461025,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 25,
@@ -752,7 +681,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461029,
+            "Id": 141461026,
             "EpisodeMasterId": 141461,
             "Order": 2,
             "GroupOrder": 25,
@@ -784,7 +713,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461030,
+            "Id": 141461027,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 26,
@@ -816,7 +745,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461031,
+            "Id": 141461028,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 27,
@@ -848,7 +777,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461032,
+            "Id": 141461029,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 28,
@@ -880,7 +809,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461033,
+            "Id": 141461030,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 29,
@@ -912,7 +841,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461034,
+            "Id": 141461031,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 30,
@@ -944,7 +873,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461035,
+            "Id": 141461032,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 31,
@@ -976,7 +905,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461036,
+            "Id": 141461033,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 32,
@@ -1008,7 +937,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461037,
+            "Id": 141461034,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 33,
@@ -1040,7 +969,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461038,
+            "Id": 141461035,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 34,
@@ -1072,7 +1001,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461039,
+            "Id": 141461036,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 35,
@@ -1104,7 +1033,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461040,
+            "Id": 141461037,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 36,
@@ -1128,7 +1057,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461041,
+            "Id": 141461038,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 37,
@@ -1141,7 +1070,6 @@
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 107,
                     "BodyMotionMasterId": 7,
-                    "LipSyncMasterId": 1,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
@@ -1152,7 +1080,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461042,
+            "Id": 141461039,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 38,
@@ -1184,7 +1112,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461043,
+            "Id": 141461040,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 39,
@@ -1216,7 +1144,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461044,
+            "Id": 141461041,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 40,
@@ -1248,13 +1176,13 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461045,
+            "Id": 141461042,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 41,
             "SpeakerName": "リリヤ",
             "FontSize": 2,
-            "Phrase": "手伝いたいけど、失敗しそうだから。",
+            "Phrase": "手伝いたいけど、失敗しそうだから。/n見るだけはだめ？　",
             "VoiceFileName": "1414610410",
             "CharacterMotions": [
                 {
@@ -1280,40 +1208,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461046,
-            "EpisodeMasterId": 141461,
-            "Order": 2,
-            "GroupOrder": 41,
-            "SpeakerName": "リリヤ",
-            "FontSize": 2,
-            "Phrase": "見るだけはだめ？　",
-            "VoiceFileName": "1414610411",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 72,
-                    "HeadDirectionMasterId": 6,
-                    "BodyMotionMasterId": 4,
-                    "LipSyncMasterId": 1,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 2,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                },
-                {
-                    "slotNumber": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 4,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "304"
-        },
-        {
-            "Id": 141461047,
+            "Id": 141461043,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 42,
@@ -1345,7 +1240,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461048,
+            "Id": 141461044,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 43,
@@ -1358,6 +1253,7 @@
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
@@ -1376,7 +1272,7 @@
             "SpeakerIconId": "304"
         },
         {
-            "Id": 141461049,
+            "Id": 141461045,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 44,
@@ -1408,7 +1304,7 @@
             "SpeakerIconId": "305"
         },
         {
-            "Id": 141461050,
+            "Id": 141461046,
             "EpisodeMasterId": 141461,
             "Order": 1,
             "GroupOrder": 45,
@@ -1421,6 +1317,7 @@
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 109,
                     "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
