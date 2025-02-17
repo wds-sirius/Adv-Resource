@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-02-07 17:30:21",
+    "LatestDate": "2025-02-17 22:05:15",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3516,6 +3516,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20050,
+                "Title": "えでキャン△",
+                "Date": "2025-02-18",
+                "Episode": [
+                    {
+                        "EpisodeId": 2005001,
+                        "Title": "バイクのソロキャンパー",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2005002,
+                        "Title": "キャンプ、楽しみすぎる！",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2005003,
+                        "Title": "いざ、買い物へ！",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2005004,
+                        "Title": "冬キャン！はじまり！",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2005005,
+                        "Title": "薪集めと出会い",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2005006,
+                        "Title": "燃えない焚火",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2005007,
+                        "Title": "冬キャン！あつまる！！",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2005008,
+                        "Title": "これからもっと楽しくなるよ",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -4701,6 +4748,20 @@
                         ]
                     },
                     {
+                        "Id": 130800,
+                        "Title": "助手席、空いているぞ",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130801,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130802,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
                         "Id": 140160,
                         "Title": "悪意に満ちた観察者",
                         "Episode": [
@@ -5147,6 +5208,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141480,
+                        "Title": "空飛ぶテントで",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141481,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141482,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -5305,6 +5380,20 @@
                             },
                             {
                                 "EpisodeId": 140952,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141470,
+                        "Title": "一緒にツーリング！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141471,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141472,
                                 "Order": 2
                             }
                         ]
@@ -13551,6 +13640,14 @@
                 "PronounceName": "からすもりだいこく",
                 "CharacterIds": [
                     202
+                ]
+            },
+            {
+                "Id": 340100,
+                "Name": "【Birthday2025】萬 容",
+                "PronounceName": "よろずいるる",
+                "CharacterIds": [
+                    204
                 ]
             },
             {
