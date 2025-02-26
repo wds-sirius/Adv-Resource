@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-02-17 22:05:15",
+    "LatestDate": "2025-02-26 22:47:04",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3563,6 +3563,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20051,
+                "Title": "Break Loose",
+                "Date": "2025-02-28",
+                "Episode": [
+                    {
+                        "EpisodeId": 2005101,
+                        "Title": "鬼リピート",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2005102,
+                        "Title": "私にオファー？",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2005103,
+                        "Title": "ならず者の資格",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2005104,
+                        "Title": "研究！",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2005105,
+                        "Title": "気になる人達",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2005106,
+                        "Title": "作戦",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2005107,
+                        "Title": "ひと芝居",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2005108,
+                        "Title": "どうしても",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -6153,6 +6200,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141500,
+                        "Title": "ストリート・スクリプト",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141501,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141502,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -6213,6 +6274,20 @@
                             },
                             {
                                 "EpisodeId": 130492,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130810,
+                        "Title": "穏やかな昼下がり",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130811,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130812,
                                 "Order": 2
                             }
                         ]
@@ -6500,6 +6575,20 @@
                             },
                             {
                                 "EpisodeId": 141462,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141490,
+                        "Title": "コンクリート・ジャム",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141491,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141492,
                                 "Order": 2
                             }
                         ]
@@ -13596,6 +13685,15 @@
                     101,
                     102,
                     104
+                ]
+            },
+            {
+                "Id": 230610,
+                "Name": "Grab the mic！",
+                "PronounceName": "",
+                "CharacterIds": [
+                    302,
+                    304
                 ]
             },
             {
