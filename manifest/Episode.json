@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-03-23 17:25:26",
+    "LatestDate": "2025-03-23 17:42:09",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3615,7 +3615,48 @@
                 "Id": 20052,
                 "Title": "star-crossed star",
                 "Date": "2025-03-20",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2005201,
+                        "Title": "それができたら",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2005202,
+                        "Title": "仲のいいふたり",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2005203,
+                        "Title": "輝いて見える景色",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2005204,
+                        "Title": "はじまりのステージ",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2005205,
+                        "Title": "良くない考え",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2005206,
+                        "Title": "ずれた歯車",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2005207,
+                        "Title": "大好きだから",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2005208,
+                        "Title": "子どものままの私",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -3809,7 +3850,16 @@
                     {
                         "Id": 141530,
                         "Title": "夜、静かなミュージアムで",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141531,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141532,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -3905,7 +3955,16 @@
                     {
                         "Id": 130830,
                         "Title": "無邪気な称賛",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 130831,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130832,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 140200,
@@ -4722,7 +4781,16 @@
                     {
                         "Id": 141540,
                         "Title": "密やかに微笑む美の肖像",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141541,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141542,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
