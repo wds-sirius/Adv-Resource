@@ -586,8 +586,8 @@ if HasUpdate or Side_Update or Poster_Update:
 
 # save the bin temp file
 bintempfile = open(os.path.join('./_temp', 'epTemp.txt'), "w", encoding='utf8')
-for bin in binlist:
-    bintempfile.write(binlist[key] + '\n')
+for binId in binlist:
+    bintempfile.write(binlist[binId] + '\n')
 
 GameStoryMasterlist['ScriptVersion'] = script_version
 json_data = json.dumps(GameStoryMasterlist, indent=4, ensure_ascii=False)
