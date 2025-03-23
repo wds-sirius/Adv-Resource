@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-02-26 22:47:04",
+    "LatestDate": "2025-03-23 17:25:26",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3610,6 +3610,12 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20052,
+                "Title": "star-crossed star",
+                "Date": "2025-03-20",
+                "Episode": []
             }
         ],
         "Side": [
@@ -3799,6 +3805,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141530,
+                        "Title": "夜、静かなミュージアムで",
+                        "Episode": []
                     }
                 ]
             },
@@ -3890,6 +3901,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 130830,
+                        "Title": "無邪気な称賛",
+                        "Episode": []
                     },
                     {
                         "Id": 140200,
@@ -4702,6 +4718,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141540,
+                        "Title": "密やかに微笑む美の肖像",
+                        "Episode": []
                     }
                 ]
             },
@@ -13772,6 +13793,14 @@
                 "PronounceName": "やなぎばぱんだ",
                 "CharacterIds": [
                     105
+                ]
+            },
+            {
+                "Id": 340060,
+                "Name": "【Birthday2025】流石 知冴",
+                "PronounceName": "さすがちさ",
+                "CharacterIds": [
+                    106
                 ]
             },
             {
