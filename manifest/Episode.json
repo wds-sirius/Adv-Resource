@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-03-23 17:42:09",
+    "LatestDate": "2025-03-29 01:28:21",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3657,6 +3657,12 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20053,
+                "Title": "Operation: Game Festival！",
+                "Date": "2025-03-31",
+                "Episode": []
             }
         ],
         "Side": [
@@ -7031,6 +7037,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141550,
+                        "Title": "霹靂は夜雨を駆け",
+                        "Episode": []
                     }
                 ]
             },
@@ -7283,6 +7294,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 130840,
+                        "Title": "数式はここに当てはめて……",
+                        "Episode": []
                     },
                     {
                         "Id": 140170,
@@ -7542,6 +7558,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141560,
+                        "Title": "アンタには一発で充分",
+                        "Episode": []
                     }
                 ]
             },
@@ -13828,6 +13849,16 @@
                 ]
             },
             {
+                "Id": 230630,
+                "Name": "Fantasma",
+                "PronounceName": "Fantasma",
+                "CharacterIds": [
+                    402,
+                    404,
+                    405
+                ]
+            },
+            {
                 "Id": 230720,
                 "Name": "【フューチャーダイスター】銀河座",
                 "PronounceName": "ぎんがざ",
@@ -13853,6 +13884,14 @@
                 "PronounceName": "かとりな・ぐりーべる",
                 "CharacterIds": [
                     103
+                ]
+            },
+            {
+                "Id": 340040,
+                "Name": "【Birthday2025】新妻 八恵",
+                "PronounceName": "にいづまやえ",
+                "CharacterIds": [
+                    104
                 ]
             },
             {
