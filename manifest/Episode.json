@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-03-29 01:28:21",
+    "LatestDate": "2025-03-31 22:16:00",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3662,7 +3662,48 @@
                 "Id": 20053,
                 "Title": "Operation: Game Festival！",
                 "Date": "2025-03-31",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2005301,
+                        "Title": "テストとゲームと気になる報せ",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2005302,
+                        "Title": "大事な時期、大きな依頼",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2005303,
+                        "Title": "ゲームフェスタだ！",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2005304,
+                        "Title": "再会",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2005305,
+                        "Title": "思わぬ注目",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2005306,
+                        "Title": "一方その頃",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2005307,
+                        "Title": "ステージ本番！",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2005308,
+                        "Title": "これからもふたりで",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -7298,7 +7339,16 @@
                     {
                         "Id": 130840,
                         "Title": "数式はここに当てはめて……",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 130841,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130842,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 140170,

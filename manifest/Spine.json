@@ -800,6 +800,11 @@
         "CompanyId": 4
     },
     {
+        "Id": 40231,
+        "CharacterId": 402,
+        "CompanyId": 4
+    },
+    {
         "Id": 40301,
         "CharacterId": 403,
         "CompanyId": 4
