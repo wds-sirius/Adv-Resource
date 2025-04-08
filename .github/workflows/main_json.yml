@@ -1,0 +1,73 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: fetch assets with bin temp file
+# run at 17:00
+on:
+  # schedule:
+  #   - cron: '0 8 * * *'
+  workflow_dispatch :
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          pip install pytz
+          pip install UnityPy==1.10.2
+          pip install pydub
+          pip install audioop-lts
+
+      - name: Fetch data
+        env:
+          WDS_ENV_URL: ${{ secrets.WDS_ENV_URL }}
+          WDS_MASTERLIST_URL: ${{ secrets.WDS_MASTERLIST_URL }}
+          SCRIPT_VERSION: ${{ secrets.SCRIPT_VERSION }}
+        run: |
+          python ./code/fetch_json.py
+
+      - name: Fetch Comic
+        env:
+          WDS_ENV_URL: ${{ secrets.WDS_ENV_URL }}
+          WDS_MASTERLIST_URL: ${{ secrets.WDS_MASTERLIST_URL }}
+        run: |
+          python ./code/comic.py
+
+      - name: fetch misc data
+        env:
+          WDS_ENV_URL: ${{ secrets.WDS_ENV_URL }}
+        run: |
+          python ./code/misc.py
+
+      - name: Install ffmpeg
+        run: |
+          sudo apt update && sudo apt upgrade
+          sudo apt install ffmpeg
+
+      - name: bgm se file conversion
+        env:
+          WDS_ENV_URL: ${{ secrets.WDS_ENV_URL }}
+        run: |
+          python ./code/bgm_se.py
+
+      - name: voice file conversion
+        run: |
+          python ./code/voice.py
+
+      - name: update file and push to remote
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Automated Update
