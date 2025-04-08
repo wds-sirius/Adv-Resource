@@ -48,6 +48,7 @@
                     "FacialExpressionMasterId": 400,
                     "BodyMotionMasterId": 3,
                     "LipSyncMasterId": 4,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
                     "CharacterLayerType": 1,
@@ -71,6 +72,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 4,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
                     "CharacterLayerType": 1,
@@ -94,6 +96,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 11,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
                     "CharacterLayerType": 1,
@@ -117,6 +120,7 @@
                     "FacialExpressionMasterId": 200,
                     "BodyMotionMasterId": 20,
                     "LipSyncMasterId": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
                     "CharacterLayerType": 1,
@@ -140,6 +144,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 5,
                     "LipSyncMasterId": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
                     "CharacterLayerType": 1,
@@ -163,6 +168,7 @@
                     "FacialExpressionMasterId": 500,
                     "BodyMotionMasterId": 7,
                     "LipSyncMasterId": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
                     "CharacterLayerType": 1,
@@ -186,6 +192,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 16,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
                     "CharacterLayerType": 1,
@@ -209,6 +216,7 @@
                     "FacialExpressionMasterId": 300,
                     "BodyMotionMasterId": 7,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
                     "CharacterLayerType": 1,
@@ -232,6 +240,7 @@
                     "FacialExpressionMasterId": 100,
                     "BodyMotionMasterId": 28,
                     "LipSyncMasterId": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
                     "CharacterLayerType": 1,
@@ -252,6 +261,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -286,6 +296,7 @@
                     "FacialExpressionMasterId": 500,
                     "BodyMotionMasterId": 12,
                     "LipSyncMasterId": 3,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -293,6 +304,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -316,6 +328,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 8,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -323,6 +336,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -343,6 +357,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -353,6 +368,7 @@
                     "FacialExpressionMasterId": 115,
                     "BodyMotionMasterId": 6,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -376,6 +392,7 @@
                     "FacialExpressionMasterId": 200,
                     "BodyMotionMasterId": 3,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -383,6 +400,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -406,6 +424,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 11,
                     "LipSyncMasterId": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -413,6 +432,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -433,6 +453,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -443,6 +464,7 @@
                     "FacialExpressionMasterId": 500,
                     "BodyMotionMasterId": 20,
                     "LipSyncMasterId": 4,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -466,6 +488,7 @@
                     "FacialExpressionMasterId": 100,
                     "BodyMotionMasterId": 7,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -473,6 +496,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -493,6 +517,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -503,6 +528,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 13,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -526,6 +552,7 @@
                     "FacialExpressionMasterId": 100,
                     "BodyMotionMasterId": 6,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -533,6 +560,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -556,6 +584,7 @@
                     "FacialExpressionMasterId": 500,
                     "BodyMotionMasterId": 17,
                     "LipSyncMasterId": 3,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -563,6 +592,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -583,6 +613,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -593,6 +624,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 25,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -613,6 +645,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -622,6 +655,7 @@
                     "slotNumber": 2,
                     "FacialExpressionMasterId": 100,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -645,6 +679,7 @@
                     "FacialExpressionMasterId": 500,
                     "BodyMotionMasterId": 2,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -652,6 +687,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -672,6 +708,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -682,6 +719,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 19,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -702,6 +740,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -712,6 +751,7 @@
                     "FacialExpressionMasterId": 100,
                     "BodyMotionMasterId": 16,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -735,6 +775,7 @@
                     "FacialExpressionMasterId": 100,
                     "BodyMotionMasterId": 27,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -742,6 +783,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -762,6 +804,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -772,6 +815,7 @@
                     "FacialExpressionMasterId": 200,
                     "BodyMotionMasterId": 4,
                     "LipSyncMasterId": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -795,6 +839,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 11,
                     "LipSyncMasterId": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -802,6 +847,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -825,6 +871,7 @@
                     "FacialExpressionMasterId": 500,
                     "BodyMotionMasterId": 25,
                     "LipSyncMasterId": 4,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -832,6 +879,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -852,6 +900,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -862,6 +911,7 @@
                     "FacialExpressionMasterId": 100,
                     "BodyMotionMasterId": 20,
                     "LipSyncMasterId": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -882,6 +932,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -892,6 +943,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 25,
                     "LipSyncMasterId": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -915,6 +967,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 5,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -922,6 +975,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -942,6 +996,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -952,6 +1007,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 11,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -975,6 +1031,7 @@
                     "FacialExpressionMasterId": 100,
                     "BodyMotionMasterId": 7,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -982,6 +1039,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1002,6 +1060,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1012,6 +1071,7 @@
                     "FacialExpressionMasterId": 200,
                     "BodyMotionMasterId": 4,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1035,6 +1095,7 @@
                     "FacialExpressionMasterId": 200,
                     "BodyMotionMasterId": 3,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1042,6 +1103,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1062,6 +1124,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1072,6 +1135,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 5,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1095,6 +1159,7 @@
                     "FacialExpressionMasterId": 500,
                     "BodyMotionMasterId": 11,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1102,6 +1167,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1122,6 +1188,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1132,6 +1199,7 @@
                     "FacialExpressionMasterId": 200,
                     "BodyMotionMasterId": 16,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1152,6 +1220,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1162,6 +1231,7 @@
                     "FacialExpressionMasterId": 205,
                     "BodyMotionMasterId": 2,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1185,6 +1255,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 25,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1192,6 +1263,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1212,6 +1284,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1222,6 +1295,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 2,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1245,6 +1319,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 4,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1252,6 +1327,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1272,6 +1348,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1282,6 +1359,7 @@
                     "FacialExpressionMasterId": 200,
                     "BodyMotionMasterId": 11,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1305,6 +1383,7 @@
                     "FacialExpressionMasterId": 200,
                     "BodyMotionMasterId": 16,
                     "LipSyncMasterId": 4,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1312,6 +1391,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1335,6 +1415,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 25,
                     "LipSyncMasterId": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1342,6 +1423,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1362,6 +1444,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1372,6 +1455,7 @@
                     "FacialExpressionMasterId": 100,
                     "BodyMotionMasterId": 5,
                     "LipSyncMasterId": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1392,6 +1476,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1402,6 +1487,7 @@
                     "FacialExpressionMasterId": 200,
                     "BodyMotionMasterId": 4,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1422,6 +1508,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1431,6 +1518,7 @@
                     "slotNumber": 2,
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 11,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1454,6 +1542,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 16,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1461,6 +1550,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1481,6 +1571,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1491,6 +1582,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 5,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1511,6 +1603,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1521,6 +1614,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 11,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1541,6 +1635,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1551,6 +1646,7 @@
                     "FacialExpressionMasterId": 114,
                     "BodyMotionMasterId": 4,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1574,6 +1670,7 @@
                     "FacialExpressionMasterId": 200,
                     "BodyMotionMasterId": 25,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1581,6 +1678,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1601,6 +1699,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1611,6 +1710,7 @@
                     "FacialExpressionMasterId": 111,
                     "HeadDirectionMasterId": 6,
                     "BodyMotionMasterId": 6,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1634,6 +1734,7 @@
                     "FacialExpressionMasterId": 102,
                     "BodyMotionMasterId": 4,
                     "LipSyncMasterId": 4,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1641,6 +1742,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1661,6 +1763,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1671,6 +1774,7 @@
                     "FacialExpressionMasterId": 114,
                     "BodyMotionMasterId": 4,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1691,6 +1795,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1701,6 +1806,7 @@
                     "FacialExpressionMasterId": 409,
                     "BodyMotionMasterId": 20,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1721,6 +1827,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1731,6 +1838,7 @@
                     "FacialExpressionMasterId": 103,
                     "BodyMotionMasterId": 2,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1754,6 +1862,7 @@
                     "FacialExpressionMasterId": 110,
                     "BodyMotionMasterId": 26,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1761,6 +1870,7 @@
                 },
                 {
                     "slotNumber": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,
@@ -1781,6 +1891,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
                     "CharacterLayerType": 1,
@@ -1791,6 +1902,7 @@
                     "FacialExpressionMasterId": 209,
                     "BodyMotionMasterId": 26,
                     "LipSyncMasterId": 2,
+                    "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
                     "CharacterLayerType": 1,

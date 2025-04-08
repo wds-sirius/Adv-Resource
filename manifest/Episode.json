@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-03-31 22:16:00",
+    "LatestDate": "2025-04-09 03:19:43",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -7248,7 +7248,16 @@
                     {
                         "Id": 141520,
                         "Title": "昼下がりのPhoto Spring",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141521,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141522,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7414,7 +7423,16 @@
                     {
                         "Id": 141510,
                         "Title": "春めく花園を切り取って",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141511,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141512,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7496,7 +7514,16 @@
                     {
                         "Id": 130820,
                         "Title": "最前列の景色",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 130821,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130822,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 140130,
