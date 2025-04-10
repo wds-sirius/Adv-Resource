@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-04-09 03:19:43",
+    "LatestDate": "2025-04-10 19:53:52",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4182,7 +4182,16 @@
                     {
                         "Id": 130850,
                         "Title": "髪を撫でられ……",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 130851,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130852,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 140140,
