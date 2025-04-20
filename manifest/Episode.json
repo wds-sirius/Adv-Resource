@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-04-10 19:53:52",
+    "LatestDate": "2025-04-21 01:29:16",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3704,6 +3704,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20054,
+                "Title": "舞い散る桜に、今気づいて",
+                "Date": "2025-04-20",
+                "Episode": [
+                    {
+                        "EpisodeId": 2005401,
+                        "Title": "花見は付き合い",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2005402,
+                        "Title": "到来、お花見シーズン",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2005403,
+                        "Title": "少女は桜を見る暇もなく",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2005404,
+                        "Title": "桜色の中、彼女を知る",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2005405,
+                        "Title": "一緒にいたい、そんなわがまま",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2005406,
+                        "Title": "君が来るのを希う",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2005407,
+                        "Title": "準備の時点で楽しくて",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2005408,
+                        "Title": "彼女は、初めて桜を眺める",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -5963,6 +6010,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141590,
+                        "Title": "桜の精との待ち合わせ",
+                        "Episode": []
                     }
                 ]
             },
@@ -6152,6 +6204,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141600,
+                        "Title": "次の春まで別たれて",
+                        "Episode": []
                     }
                 ]
             },
@@ -6637,6 +6694,20 @@
                             },
                             {
                                 "EpisodeId": 130672,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 130860,
+                        "Title": "気分はプロフェッショナル！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 130861,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130862,
                                 "Order": 2
                             }
                         ]
