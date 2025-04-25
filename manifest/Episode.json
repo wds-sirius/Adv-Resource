@@ -571,6 +571,12 @@
                 ]
             },
             {
+                "Id": 10203,
+                "CompanyId": 2,
+                "ChapterOrder": 3,
+                "Episode": []
+            },
+            {
                 "Id": 10301,
                 "CompanyId": 3,
                 "ChapterOrder": 1,
@@ -5646,6 +5652,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141610,
+                        "Title": "良妻は慈母の視線を向ける",
+                        "Episode": []
                     }
                 ]
             },
@@ -5807,6 +5818,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141620,
+                        "Title": "真実は数奇かつ残酷で",
+                        "Episode": []
                     }
                 ]
             },
