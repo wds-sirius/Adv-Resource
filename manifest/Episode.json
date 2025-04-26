@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-04-21 01:29:16",
+    "LatestDate": "2025-04-26 19:41:31",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -574,7 +574,113 @@
                 "Id": 10203,
                 "CompanyId": 2,
                 "ChapterOrder": 3,
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 1020301,
+                        "Title": "妹",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 1020302,
+                        "Title": "悪魔から悲劇へ",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 1020303,
+                        "Title": "語り継がれてきた傑作",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 1020304,
+                        "Title": "王の采配",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 1020305,
+                        "Title": "Edenの演目選びがヤバすぎた",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 1020306,
+                        "Title": "初魅が気にするもの",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 1020307,
+                        "Title": "夫婦",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 1020308,
+                        "Title": "隙あらば",
+                        "Order": 8
+                    },
+                    {
+                        "EpisodeId": 1020309,
+                        "Title": "積み上げてきたもの",
+                        "Order": 9
+                    },
+                    {
+                        "EpisodeId": 1020310,
+                        "Title": "絶対者",
+                        "Order": 10
+                    },
+                    {
+                        "EpisodeId": 1020311,
+                        "Title": "苦戦",
+                        "Order": 11
+                    },
+                    {
+                        "EpisodeId": 1020312,
+                        "Title": "涙",
+                        "Order": 12
+                    },
+                    {
+                        "EpisodeId": 1020313,
+                        "Title": "壁",
+                        "Order": 13
+                    },
+                    {
+                        "EpisodeId": 1020314,
+                        "Title": "王への信頼",
+                        "Order": 14
+                    },
+                    {
+                        "EpisodeId": 1020315,
+                        "Title": "オイディプスのように",
+                        "Order": 15
+                    },
+                    {
+                        "EpisodeId": 1020316,
+                        "Title": "勇気ある告白",
+                        "Order": 16
+                    },
+                    {
+                        "EpisodeId": 1020317,
+                        "Title": "連尺野双葉",
+                        "Order": 17
+                    },
+                    {
+                        "EpisodeId": 1020318,
+                        "Title": "容と初魅",
+                        "Order": 18
+                    },
+                    {
+                        "EpisodeId": 1020319,
+                        "Title": "私達は、Eden",
+                        "Order": 19
+                    },
+                    {
+                        "EpisodeId": 1020320,
+                        "Title": "自分という檻",
+                        "Order": 20
+                    },
+                    {
+                        "EpisodeId": 1020321,
+                        "Title": "笑顔",
+                        "Order": 21
+                    }
+                ]
             },
             {
                 "Id": 10301,
