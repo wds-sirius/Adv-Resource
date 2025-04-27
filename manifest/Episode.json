@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-04-26 19:41:31",
+    "LatestDate": "2025-04-27 22:01:46",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5928,7 +5928,16 @@
                     {
                         "Id": 141620,
                         "Title": "真実は数奇かつ残酷で",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141621,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141622,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
