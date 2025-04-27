@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-04-28 00:06:24",
+    "LatestDate": "2025-04-28 04:13:01",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6348,7 +6348,16 @@
                     {
                         "Id": 141600,
                         "Title": "次の春まで別たれて",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141601,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141602,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
