@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-04-28 04:13:01",
+    "LatestDate": "2025-04-28 04:47:08",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6154,7 +6154,16 @@
                     {
                         "Id": 141590,
                         "Title": "桜の精との待ち合わせ",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141591,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141592,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
