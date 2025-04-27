@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-04-27 22:01:46",
+    "LatestDate": "2025-04-28 00:06:24",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5762,7 +5762,16 @@
                     {
                         "Id": 141610,
                         "Title": "良妻は慈母の視線を向ける",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141611,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141612,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
