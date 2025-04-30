@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-04-30 14:58:51",
+    "LatestDate": "2025-04-30 20:14:50",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3868,7 +3868,48 @@
                 "Id": 20055,
                 "Title": "優しいあの子になれたなら",
                 "Date": "2025-04-30",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2005501,
+                        "Title": "舞台はみんなで作るもの",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2005502,
+                        "Title": "幼馴染なんて知らないもの",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2005503,
+                        "Title": "焦燥",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2005504,
+                        "Title": "変われないもの",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2005505,
+                        "Title": "傷つけたくない",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2005506,
+                        "Title": "一緒に",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2005507,
+                        "Title": "せーの",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2005508,
+                        "Title": "ネバーエンド・ネバーランド",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -3950,7 +3991,16 @@
                     {
                         "Id": 130870,
                         "Title": "変わるあの子を見て",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 130871,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130872,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 140010,
@@ -4450,7 +4500,16 @@
                     {
                         "Id": 141630,
                         "Title": "妖精は花園で舞って",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141631,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141632,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
