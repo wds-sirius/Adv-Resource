@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-04-30 20:14:50",
+    "LatestDate": "2025-04-30 20:33:02",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4906,7 +4906,16 @@
                     {
                         "Id": 141640,
                         "Title": "空を自由に！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141641,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141642,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
