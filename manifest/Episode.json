@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-04-30 20:33:02",
+    "LatestDate": "2025-05-04 20:39:49",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -14463,7 +14463,13 @@
             {
                 "Id": 30006,
                 "Title": "Eden3章アフターストーリー",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 3000601,
+                        "Title": "楽園に届いた報せ",
+                        "Order": 1
+                    }
+                ]
             }
         ]
     }
