@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-05-04 20:39:49",
+    "LatestDate": "2025-05-10 17:38:43",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5492,7 +5492,16 @@
                     {
                         "Id": 141660,
                         "Title": "夢現に絡めとられて",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141661,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141662,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
