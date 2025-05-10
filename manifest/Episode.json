@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-05-10 17:38:43",
+    "LatestDate": "2025-05-11 00:27:49",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5961,7 +5961,16 @@
                     {
                         "Id": 130880,
                         "Title": "ピースメーカーは追い求める",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 130881,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130882,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 140070,
