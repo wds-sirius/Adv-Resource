@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-05-20 19:39:53",
+    "LatestDate": "2025-05-20 20:29:40",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -7141,7 +7141,16 @@
                     {
                         "Id": 141680,
                         "Title": "マジカル・ティーサーブ！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141681,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141682,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
