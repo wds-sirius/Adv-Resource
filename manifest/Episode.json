@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-05-20 20:29:40",
+    "LatestDate": "2025-05-21 00:38:54",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3915,7 +3915,48 @@
                 "Id": 20056,
                 "Title": "熱でうだるあの子の為に",
                 "Date": "2025-05-20",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2005601,
+                        "Title": "彼女はそれでも休まない",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2005602,
+                        "Title": "私たちができること",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2005603,
+                        "Title": "私たち、アルバイト",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2005604,
+                        "Title": "そううまくはいかない",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2005605,
+                        "Title": "みんなで作る銀河座弁当",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2005606,
+                        "Title": "雪だからこそ",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2005607,
+                        "Title": "ワタシにはお節介な弁当",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2005608,
+                        "Title": "ありがとうって言いたくて",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -6179,7 +6220,16 @@
                     {
                         "Id": 130890,
                         "Title": "料理も一流……？",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 130891,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130892,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 140080,
