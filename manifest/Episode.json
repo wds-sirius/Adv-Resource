@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-05-17 22:06:34",
+    "LatestDate": "2025-05-20 19:39:53",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6730,7 +6730,16 @@
                     {
                         "Id": 141670,
                         "Title": "調合が味の秘訣",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141671,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141672,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
