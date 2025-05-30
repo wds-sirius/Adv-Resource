@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-05-21 00:38:54",
+    "LatestDate": "2025-05-30 16:56:49",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3957,6 +3957,12 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20057,
+                "Title": "Beyond Grief",
+                "Date": "2025-05-31",
+                "Episode": []
             }
         ],
         "Side": [
@@ -5369,6 +5375,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141690,
+                        "Title": "賢王は泰平を見る",
+                        "Episode": []
                     }
                 ]
             },
@@ -5446,6 +5457,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 130900,
+                        "Title": "主の過去を知り……",
+                        "Episode": []
                     },
                     {
                         "Id": 140150,
@@ -5747,6 +5763,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141700,
+                        "Title": "摂政は謎を読み解いて",
+                        "Episode": []
                     }
                 ]
             },
@@ -14403,6 +14424,15 @@
                 ]
             },
             {
+                "Id": 230660,
+                "Name": "逃れられぬ破滅を前に",
+                "PronounceName": "のがれられぬはめつをまえに",
+                "CharacterIds": [
+                    201,
+                    202
+                ]
+            },
+            {
                 "Id": 230720,
                 "Name": "【フューチャーダイスター】銀河座",
                 "PronounceName": "ぎんがざ",
@@ -14455,11 +14485,27 @@
                 ]
             },
             {
+                "Id": 340070,
+                "Name": "【Birthday2025】連尺野 初魅",
+                "PronounceName": "れんじゃくのはつみ",
+                "CharacterIds": [
+                    201
+                ]
+            },
+            {
                 "Id": 340080,
                 "Name": "【Birthday2024】烏森 大黒",
                 "PronounceName": "からすもりだいこく",
                 "CharacterIds": [
                     202
+                ]
+            },
+            {
+                "Id": 340090,
+                "Name": "【Birthday2025】舎人 仁花子",
+                "PronounceName": "とねりにかこ",
+                "CharacterIds": [
+                    203
                 ]
             },
             {
