@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-05-30 16:56:49",
+    "LatestDate": "2025-05-31 18:27:02",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -3962,7 +3962,48 @@
                 "Id": 20057,
                 "Title": "Beyond Grief",
                 "Date": "2025-05-31",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2005701,
+                        "Title": "千秋楽の後に",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2005702,
+                        "Title": "集まりの誘い",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2005703,
+                        "Title": "実家の味",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2005704,
+                        "Title": "思い出をなぞる",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2005705,
+                        "Title": "変わらず見ていて",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2005706,
+                        "Title": "あくる日のことを見せあって",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2005707,
+                        "Title": "こぼれる涙",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2005708,
+                        "Title": "変わった私のやりたいこと",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -5379,7 +5420,16 @@
                     {
                         "Id": 141690,
                         "Title": "賢王は泰平を見る",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141691,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141692,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -5461,7 +5511,16 @@
                     {
                         "Id": 130900,
                         "Title": "主の過去を知り……",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 130901,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130902,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 140150,
@@ -5767,7 +5826,16 @@
                     {
                         "Id": 141700,
                         "Title": "摂政は謎を読み解いて",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141701,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141702,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
