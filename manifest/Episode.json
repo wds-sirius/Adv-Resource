@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-06-10 20:25:08",
+    "LatestDate": "2025-06-10 21:09:00",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6974,7 +6974,16 @@
                     {
                         "Id": 130910,
                         "Title": "空想式場",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 130911,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130912,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 140100,
