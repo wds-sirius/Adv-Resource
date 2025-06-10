@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-05-31 18:27:02",
+    "LatestDate": "2025-06-10 20:25:08",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4415,6 +4415,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141710,
+                        "Title": "ロイヤル・ウェディング！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141711,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141712,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -6958,6 +6972,11 @@
                         ]
                     },
                     {
+                        "Id": 130910,
+                        "Title": "空想式場",
+                        "Episode": []
+                    },
+                    {
                         "Id": 140100,
                         "Title": "オーロラの精霊",
                         "Episode": [
@@ -7645,6 +7664,20 @@
                         "Id": 141550,
                         "Title": "霹靂は夜雨を駆け",
                         "Episode": []
+                    },
+                    {
+                        "Id": 141720,
+                        "Title": "バラ園の中、花嫁は笑う",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141721,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141722,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -14606,6 +14639,14 @@
                 "PronounceName": "らもーな・うぉるふ",
                 "CharacterIds": [
                     302
+                ]
+            },
+            {
+                "Id": 340140,
+                "Name": "【Birthday2025】王 雪",
+                "PronounceName": "わんしゅえ",
+                "CharacterIds": [
+                    303
                 ]
             },
             {
