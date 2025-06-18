@@ -466,7 +466,7 @@ if masterlistres.status_code == 200:
                 if str(data["Id"]) in fileslist:
                     if os.path.exists(os.path.join('./_temp', f'{data["Id"]}.json')):
                         addedKeyData = json.load(open(os.path.join('./_temp', f'{data["Id"]}.json'), 'rb'))
-                        to_json = createFormat(data["Id"], 6, 1, None, data["Title"], addedKeyData, orderlist)
+                        to_json = createFormat(data["Id"], 6, 1, GroupIsexit["Title"], data["Title"], addedKeyData, orderlist)
                         json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
                         open(os.path.join(EPBase_dir, f'{data["Id"]}.json'), "w", encoding='utf8').write(json_data)
                         os.remove(os.path.join('./_temp', f'{data["Id"]}.json'))
