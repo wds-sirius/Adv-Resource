@@ -533,7 +533,7 @@ if masterlistres.status_code == 200:
                 if sp_res.status_code == 200:
                     msgdata = msgpack_lz4block.deserialize(sp_res.content)
                     addedKeyData = addKey(msgdata)
-                    to_json = createFormat(data["Id"], 6, 1, item["Title"], data["Title"], addedKeyData, orderlist)
+                    to_json = createFormat(data["Id"], 6, 1, GroupIsexit["Title"], data["Title"], addedKeyData, orderlist)
                     json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
                     open(os.path.join(EPBase_dir, f'{data["Id"]}.json'), "w", encoding='utf8').write(json_data)
 
