@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-06-10 21:09:00",
+    "LatestDate": "2025-06-20 18:43:11",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -7517,7 +7517,16 @@
                     {
                         "Id": 141730,
                         "Title": "雨上がりのアキバ・ウォー！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141731,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141732,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -8057,7 +8066,16 @@
                     {
                         "Id": 141740,
                         "Title": "作戦立案中です！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141741,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141742,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
