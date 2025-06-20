@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-06-20 18:43:11",
+    "LatestDate": "2025-06-20 19:43:28",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4009,7 +4009,48 @@
                 "Id": 20058,
                 "Title": "みんなで「ノリノリ」作戦です！",
                 "Date": "2025-06-20",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2005801,
+                        "Title": "大洗女子学園に体験入学です！",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2005802,
+                        "Title": "演習場で交流です！",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2005803,
+                        "Title": "初めての戦車です！",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2005804,
+                        "Title": "戦車、乗ります！",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2005805,
+                        "Title": "試合開始です！",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2005806,
+                        "Title": "狙い撃ちです！",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2005807,
+                        "Title": "ハプニングです……！？",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2005808,
+                        "Title": "見つけます！　僕の戦車道！",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -7788,7 +7829,16 @@
                     {
                         "Id": 130920,
                         "Title": "演習の後はひとやすみ",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 130921,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130922,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 140180,
