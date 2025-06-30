@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-06-30 18:13:33",
+    "LatestDate": "2025-06-30 20:08:29",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4919,7 +4919,16 @@
                     {
                         "Id": 141760,
                         "Title": "お待ちしてました、勇者様♪",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141761,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141762,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
