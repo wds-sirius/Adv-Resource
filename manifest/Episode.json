@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-06-27 23:42:40",
+    "LatestDate": "2025-06-30 18:13:33",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4056,7 +4056,48 @@
                 "Id": 20059,
                 "Title": "運動オンチでも見返したいっ！",
                 "Date": "2025-06-30",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2005901,
+                        "Title": "見返してやるんだから！",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2005902,
+                        "Title": "勝利の近道は努力だよね！",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2005903,
+                        "Title": "総大将　しぐれ",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2005904,
+                        "Title": "特訓あるのみ！",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2005905,
+                        "Title": "出来れば、戦いたくない",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2005906,
+                        "Title": "分からせてあげるわ",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2005907,
+                        "Title": "運動会、はじまり",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2005908,
+                        "Title": "紅白、ぶつかり合う",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -6290,7 +6331,16 @@
                     {
                         "Id": 141750,
                         "Title": "アーサー王のお通りよ！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141751,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141752,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
