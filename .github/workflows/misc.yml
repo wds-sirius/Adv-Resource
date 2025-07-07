@@ -23,7 +23,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
-          pip install UnityPy==1.10.2
+          pip install UnityPy==1.10.18
           
       - name: fetch misc data
         env:

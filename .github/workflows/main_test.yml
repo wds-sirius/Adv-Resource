@@ -28,7 +28,7 @@ jobs:
           pip install msgpack-lz4block
           pip install requests
           pip install pytz
-          pip install UnityPy==1.10.2
+          pip install UnityPy==1.10.18
           pip install pydub
           pip install audioop-lts
 
