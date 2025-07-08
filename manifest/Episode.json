@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-07-01 21:58:53",
+    "LatestDate": "2025-07-08 20:59:04",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6156,6 +6156,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141780,
+                        "Title": "Dive to Azure!",
+                        "Episode": []
                     }
                 ]
             },
@@ -8039,6 +8044,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141770,
+                        "Title": "Tropical Spa Time",
+                        "Episode": []
                     }
                 ]
             },
@@ -14921,6 +14931,14 @@
                 "PronounceName": "ねこあしつぼみ",
                 "CharacterIds": [
                     404
+                ]
+            },
+            {
+                "Id": 340210,
+                "Name": "【Birthday2025】本巣 叶羽",
+                "PronounceName": "もとすとわ",
+                "CharacterIds": [
+                    405
                 ]
             }
         ],
