@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-07-08 20:59:04",
+    "LatestDate": "2025-07-10 19:10:12",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6160,7 +6160,16 @@
                     {
                         "Id": 141780,
                         "Title": "Dive to Azure!",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141781,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141782,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -8048,7 +8057,16 @@
                     {
                         "Id": 141770,
                         "Title": "Tropical Spa Time",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141771,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141772,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
