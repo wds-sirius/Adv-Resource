@@ -287,7 +287,9 @@ masterlistres = requests.get(f'{masterlistUrl}/StoryEventEpisodeMaster.json')
 if masterlistres.status_code == 200:
     EpisodeMasterlist = masterlistres.json()
     for data in EpisodeMasterlist:
-        GroupIsexit = [item for item in GameStoryMasterlist["StoryMaster"]["Event"] if item.get('Id') == data["StoryMasterId"]][0]
+        GroupIsexit = [item for item in GameStoryMasterlist["StoryMaster"]["Event"] if item.get('Id') == data["StoryMasterId"]]
+        if len(GroupIsexit) == 0:
+            GroupIsexit = False
         if GroupIsexit:
             # 檢查列表中屬於這個故事所有的Episode
             orderlist = [item["Id"] for item in EpisodeMasterlist if item.get('StoryMasterId') == data["StoryMasterId"]]
