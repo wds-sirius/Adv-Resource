@@ -1090,6 +1090,11 @@
         "CompanyId": 5
     },
     {
+        "Id": 52201,
+        "CharacterId": 522,
+        "CompanyId": 5
+    },
+    {
         "Id": 90102,
         "CharacterId": 901,
         "CompanyId": 9
