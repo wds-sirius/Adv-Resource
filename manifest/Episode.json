@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-07-18 19:45:23",
+    "LatestDate": "2025-07-20 19:59:20",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5157,7 +5157,16 @@
                     {
                         "Id": 141800,
                         "Title": "恵みの雨の下で",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141801,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141802,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -5351,7 +5360,16 @@
                     {
                         "Id": 141790,
                         "Title": "動乱の街を駆け抜けて",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141791,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141792,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
