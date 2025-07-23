@@ -4150,7 +4150,48 @@
                 "Id": 35001,
                 "Title": "シリウス第4章～第1幕～",
                 "Date": "2025-07-20",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 1010401,
+                        "Title": "星を見つける季節",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 1010402,
+                        "Title": "無情への挑戦",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 1010403,
+                        "Title": "頑張るって？",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 1010404,
+                        "Title": "覚醒",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 1010405,
+                        "Title": "役が決まって",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 1010406,
+                        "Title": "諦めたわけじゃないから",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 1010407,
+                        "Title": "私で良いのかな",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 1010408,
+                        "Title": "みんなみたいに",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
