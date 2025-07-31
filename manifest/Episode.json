@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-07-31 21:59:06",
+    "LatestDate": "2025-08-01 01:53:20",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6791,7 +6791,16 @@
                     {
                         "Id": 141820,
                         "Title": "鱗婦、妖しく誘う",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141821,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141822,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7433,7 +7442,16 @@
                     {
                         "Id": 141810,
                         "Title": "麗しく凄惨なるもの",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141811,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141812,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
