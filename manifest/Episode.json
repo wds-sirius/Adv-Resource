@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-07-26 23:21:35",
+    "LatestDate": "2025-07-31 21:59:06",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4192,6 +4192,53 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20060,
+                "Title": "茜差すメランコリック",
+                "Date": "2025-07-31",
+                "Episode": [
+                    {
+                        "EpisodeId": 2006001,
+                        "Title": "暑い中でも",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2006002,
+                        "Title": "花火大会へ！",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2006003,
+                        "Title": "雨、俯く顔",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2006004,
+                        "Title": "綺麗な物を見せたくて",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2006005,
+                        "Title": "私は行きませんわよ！",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2006006,
+                        "Title": "全ては演技の為に",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2006007,
+                        "Title": "海、BBQ",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2006008,
+                        "Title": "茜差す海に見惚れて",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -6740,6 +6787,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141820,
+                        "Title": "鱗婦、妖しく誘う",
+                        "Episode": []
                     }
                 ]
             },
@@ -7377,6 +7429,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141810,
+                        "Title": "麗しく凄惨なるもの",
+                        "Episode": []
                     }
                 ]
             },
@@ -14935,6 +14992,23 @@
                 ]
             },
             {
+                "Id": 230700,
+                "Name": "麗妃は三つの瞳と嗤う",
+                "PronounceName": "れいひはみっつのめとわらう",
+                "CharacterIds": [
+                    303
+                ]
+            },
+            {
+                "Id": 230710,
+                "Name": "キミの為に、フルスロットル！",
+                "PronounceName": "きみのためにふるすろっとる",
+                "CharacterIds": [
+                    103,
+                    305
+                ]
+            },
+            {
                 "Id": 230720,
                 "Name": "【フューチャーダイスター】銀河座",
                 "PronounceName": "ぎんがざ",
@@ -15112,6 +15186,14 @@
                 "PronounceName": "もとすとわ",
                 "CharacterIds": [
                     405
+                ]
+            },
+            {
+                "Id": 340240,
+                "Name": "【Birthday Night】カトリナ・グリーベル",
+                "PronounceName": "かとりな・ぐりーべる",
+                "CharacterIds": [
+                    103
                 ]
             }
         ],
