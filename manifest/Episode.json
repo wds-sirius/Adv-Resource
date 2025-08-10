@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-08-01 01:53:20",
+    "LatestDate": "2025-08-10 20:46:38",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5314,7 +5314,16 @@
                     {
                         "Id": 141840,
                         "Title": "夕暮れ、潮騒のヴィーナス",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141841,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141842,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7895,7 +7904,16 @@
                     {
                         "Id": 141830,
                         "Title": "サンセット・ビーチパーク！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141831,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141832,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
