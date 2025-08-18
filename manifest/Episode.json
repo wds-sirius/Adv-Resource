@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-08-10 20:46:38",
+    "LatestDate": "2025-08-18 18:12:20",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4239,6 +4239,12 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 35002,
+                "Title": "シリウス第4章～第2幕～",
+                "Date": "2025-08-20",
+                "Episode": []
             }
         ],
         "Side": [
@@ -4673,6 +4679,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141850,
+                        "Title": "革命の旗印へ！",
+                        "Episode": []
                     }
                 ]
             },
@@ -4862,6 +4873,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141860,
+                        "Title": "冷酷な正義",
+                        "Episode": []
                     },
                     {
                         "Id": 150010,
@@ -15240,6 +15256,14 @@
                 "PronounceName": "かとりな・ぐりーべる",
                 "CharacterIds": [
                     103
+                ]
+            },
+            {
+                "Id": 340370,
+                "Name": "【Birthday Night】与那国 緋花里",
+                "PronounceName": "よなぐにひかり",
+                "CharacterIds": [
+                    305
                 ]
             }
         ],
