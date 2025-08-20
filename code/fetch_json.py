@@ -202,23 +202,24 @@ if StoryEvent.status_code == 200:
     for story in StoryEvent.json():
         GroupIsexit = [item for item in GameStoryMasterlist["StoryMaster"]["Event"] if item.get('Id') == story["Id"]]
         if not len(GroupIsexit) > 0:
-            GameStoryMasterlist["StoryMaster"]["Event"].append({
-                "Id" : story["Id"],
-                "Title": story["Title"],
-                'Date' : story["StartDate"].split(' ')[0],
-                "Episode" : []
-            })
-            # 更新活動Banner照片
-            bannerReq = requests.get(f'{WDS_Env["assetUrl"]}/static-assets/Resources/Textures/Banners/Event/{story["Id"]}.png')
-            if bannerReq.status_code == 200:
-                open(os.path.join(eventbanner_dir, f'{story["Id"]}.png'), "wb").write(bannerReq.content)
-            # 更新活動Logo照片
-            assetsReq = requests.get(f'{WDS_Env["assetUrl"]}/2d-assets/Android/{WDS_Env["assetVersion"]}/eventslogo_assets_events/logo_{story["Id"]}.bundle')
-            assetsbundle = UnityPy.load(assetsReq.content)
-            for obj in assetsbundle.objects:
-                if obj.type.name == "Texture2D":
-                    data = obj.read()
-                    data.image.save(os.path.join(eventImage_dir, f'logo_{story["Id"]}.png'))
+            if story["Category"] != "MainStory":
+                GameStoryMasterlist["StoryMaster"]["Event"].append({
+                    "Id" : story["Id"],
+                    "Title": story["Title"],
+                    'Date' : story["StartDate"].split(' ')[0],
+                    "Episode" : []
+                })
+                # 更新活動Banner照片
+                bannerReq = requests.get(f'{WDS_Env["assetUrl"]}/static-assets/Resources/Textures/Banners/Event/{story["Id"]}.png')
+                if bannerReq.status_code == 200:
+                    open(os.path.join(eventbanner_dir, f'{story["Id"]}.png'), "wb").write(bannerReq.content)
+                # 更新活動Logo照片
+                assetsReq = requests.get(f'{WDS_Env["assetUrl"]}/2d-assets/Android/{WDS_Env["assetVersion"]}/eventslogo_assets_events/logo_{story["Id"]}.bundle')
+                assetsbundle = UnityPy.load(assetsReq.content)
+                for obj in assetsbundle.objects:
+                    if obj.type.name == "Texture2D":
+                        data = obj.read()
+                        data.image.save(os.path.join(eventImage_dir, f'logo_{story["Id"]}.png'))
     GameStoryMasterlist["StoryMaster"]["Event"].sort(key = lambda x: x["Date"] )
 
 masterlistres = requests.get(f'{masterlistUrl}/StoryEventEpisodeMaster.json')
