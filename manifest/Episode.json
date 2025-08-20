@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-08-20 19:24:10",
+    "LatestDate": "2025-08-21 01:37:09",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4670,7 +4670,16 @@
                     {
                         "Id": 141850,
                         "Title": "革命の旗印へ！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141851,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141852,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
