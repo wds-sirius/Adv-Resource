@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-08-18 18:12:20",
+    "LatestDate": "2025-08-20 19:24:10",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -400,6 +400,46 @@
                         "EpisodeId": 1010408,
                         "Title": "みんなみたいに",
                         "Order": 8
+                    },
+                    {
+                        "EpisodeId": 1010409,
+                        "Title": "心配だから",
+                        "Order": 9
+                    },
+                    {
+                        "EpisodeId": 1010410,
+                        "Title": "すごいってなに？",
+                        "Order": 10
+                    },
+                    {
+                        "EpisodeId": 1010411,
+                        "Title": "変化が嬉しくて",
+                        "Order": 11
+                    },
+                    {
+                        "EpisodeId": 1010412,
+                        "Title": "どうして言っちゃったんだろう",
+                        "Order": 12
+                    },
+                    {
+                        "EpisodeId": 1010413,
+                        "Title": "相談",
+                        "Order": 13
+                    },
+                    {
+                        "EpisodeId": 1010414,
+                        "Title": "並び立ってみせるから",
+                        "Order": 14
+                    },
+                    {
+                        "EpisodeId": 1010415,
+                        "Title": "ワクワク",
+                        "Order": 15
+                    },
+                    {
+                        "EpisodeId": 1010416,
+                        "Title": "いつもカッコいい",
+                        "Order": 16
                     }
                 ]
             },
@@ -4877,7 +4917,16 @@
                     {
                         "Id": 141860,
                         "Title": "冷酷な正義",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141861,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141862,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 150010,
