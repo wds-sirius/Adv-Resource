@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-08-31 23:10:30",
+    "LatestDate": "2025-09-01 01:15:19",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -8770,7 +8770,16 @@
                     {
                         "Id": 141870,
                         "Title": "アタシを起こしたの、アンタ？",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141871,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141872,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
