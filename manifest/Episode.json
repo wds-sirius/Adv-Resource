@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-08-29 16:54:59",
+    "LatestDate": "2025-08-31 23:10:30",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4237,7 +4237,48 @@
                 "Id": 20061,
                 "Title": "肝試せ！　ファントムミーティング！",
                 "Date": "2025-08-31",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2006101,
+                        "Title": "はじまりの冷房と無限ポテチ",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2006102,
+                        "Title": "屋台とファンとコスプレの罠",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2006103,
+                        "Title": "メイクとリベンジ",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2006104,
+                        "Title": "夜の屋台と噂話",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2006105,
+                        "Title": "リベンジの準備",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2006106,
+                        "Title": "悲鳴と矜持",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2006107,
+                        "Title": "真打、現る",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2006108,
+                        "Title": "夏の終わり綴る絵日記",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -8526,7 +8567,16 @@
                     {
                         "Id": 141880,
                         "Title": "彼岸花は呪い嗤う",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141881,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141882,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
