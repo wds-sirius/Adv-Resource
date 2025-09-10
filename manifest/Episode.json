@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-09-01 01:15:19",
+    "LatestDate": "2025-09-10 20:31:45",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6029,6 +6029,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141900,
+                        "Title": "陽射し、ラクダに乗って",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141901,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141902,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7083,6 +7097,20 @@
                             },
                             {
                                 "EpisodeId": 141602,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 141890,
+                        "Title": "Belly Dancing!",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141891,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141892,
                                 "Order": 2
                             }
                         ]
@@ -15354,6 +15382,22 @@
                 "PronounceName": "かとりな・ぐりーべる",
                 "CharacterIds": [
                     103
+                ]
+            },
+            {
+                "Id": 340260,
+                "Name": "【Birthday Night】柳場 ぱんだ",
+                "PronounceName": "やなぎばぱんだ",
+                "CharacterIds": [
+                    105
+                ]
+            },
+            {
+                "Id": 340290,
+                "Name": "【Birthday Night】烏森 大黒",
+                "PronounceName": "からすもりだいこく",
+                "CharacterIds": [
+                    202
                 ]
             },
             {
