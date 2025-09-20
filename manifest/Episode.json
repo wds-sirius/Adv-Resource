@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-09-10 20:31:45",
+    "LatestDate": "2025-09-20 20:59:48",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -440,6 +440,46 @@
                         "EpisodeId": 1010416,
                         "Title": "いつもカッコいい",
                         "Order": 16
+                    },
+                    {
+                        "EpisodeId": 1010417,
+                        "Title": "リハーサル",
+                        "Order": 17
+                    },
+                    {
+                        "EpisodeId": 1010418,
+                        "Title": "連れて行ってみせる",
+                        "Order": 18
+                    },
+                    {
+                        "EpisodeId": 1010419,
+                        "Title": "震える身体",
+                        "Order": 19
+                    },
+                    {
+                        "EpisodeId": 1010420,
+                        "Title": "ひとりじゃないから",
+                        "Order": 20
+                    },
+                    {
+                        "EpisodeId": 1010421,
+                        "Title": "みんなで舞台へ",
+                        "Order": 21
+                    },
+                    {
+                        "EpisodeId": 1010422,
+                        "Title": "本番",
+                        "Order": 22
+                    },
+                    {
+                        "EpisodeId": 1010423,
+                        "Title": "公演を終えて",
+                        "Order": 23
+                    },
+                    {
+                        "EpisodeId": 1010424,
+                        "Title": "届かなかったけど",
+                        "Order": 24
                     }
                 ]
             },
@@ -4510,6 +4550,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141920,
+                        "Title": "困窮の果て、娘のために",
+                        "Episode": [
+                            {
+                                "EpisodeId": 141921,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141922,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -5161,6 +5215,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141910,
+                        "Title": "ずっと一緒だよ、お父様",
+                        "Episode": []
                     }
                 ]
             },
