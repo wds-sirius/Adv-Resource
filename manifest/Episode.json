@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-09-20 20:59:48",
+    "LatestDate": "2025-09-20 22:55:14",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5219,7 +5219,16 @@
                     {
                         "Id": 141910,
                         "Title": "ずっと一緒だよ、お父様",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141911,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141912,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
