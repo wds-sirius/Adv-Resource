@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-09-20 22:55:14",
+    "LatestDate": "2025-09-30 17:42:24",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4319,6 +4319,12 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20062,
+                "Title": "心の檻を越えて",
+                "Date": "2025-09-30",
+                "Episode": []
             }
         ],
         "Side": [
@@ -6111,6 +6117,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141930,
+                        "Title": "ち、近づかないでっ！",
+                        "Episode": []
                     }
                 ]
             },
@@ -6314,6 +6325,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141940,
+                        "Title": "ふわふわ集まる原っぱで",
+                        "Episode": []
                     }
                 ]
             },
@@ -15277,6 +15293,24 @@
                 ]
             },
             {
+                "Id": 230770,
+                "Name": "あにまるピクニック！",
+                "PronounceName": "あにまるぴくにっく",
+                "CharacterIds": [
+                    203,
+                    204,
+                    205
+                ]
+            },
+            {
+                "Id": 230780,
+                "Name": "Angel gift for Diva",
+                "PronounceName": "Angel gift for Diva",
+                "CharacterIds": [
+                    301
+                ]
+            },
+            {
                 "Id": 340010,
                 "Name": "【Birthday2025】鳳 ここな",
                 "PronounceName": "おおとりここな",
@@ -15466,6 +15500,14 @@
                 "PronounceName": "からすもりだいこく",
                 "CharacterIds": [
                     202
+                ]
+            },
+            {
+                "Id": 340330,
+                "Name": "【Birthday Night】千寿 暦",
+                "PronounceName": "せんじゅこよみ",
+                "CharacterIds": [
+                    301
                 ]
             },
             {
