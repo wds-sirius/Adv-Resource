@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-09-30 17:42:24",
+    "LatestDate": "2025-10-01 00:45:28",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4324,7 +4324,48 @@
                 "Id": 20062,
                 "Title": "心の檻を越えて",
                 "Date": "2025-09-30",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2006201,
+                        "Title": "よりにもよって",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2006202,
+                        "Title": "目に物見せてやる",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2006203,
+                        "Title": "聞いちゃった～♪",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2006204,
+                        "Title": "みんなで行こうよ！",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2006205,
+                        "Title": "苦い過去",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2006206,
+                        "Title": "別れて回る",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2006207,
+                        "Title": "避けられ、蹴られる",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2006208,
+                        "Title": "思い切って触れてみる",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
@@ -6121,7 +6162,16 @@
                     {
                         "Id": 141930,
                         "Title": "ち、近づかないでっ！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141931,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141932,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -6329,7 +6379,16 @@
                     {
                         "Id": 141940,
                         "Title": "ふわふわ集まる原っぱで",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141941,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141942,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
