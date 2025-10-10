@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-10-01 00:45:28",
+    "LatestDate": "2025-10-10 20:37:53",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5945,7 +5945,16 @@
                     {
                         "Id": 141960,
                         "Title": "Bordeaux Rendez-vous",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141961,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141962,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7714,7 +7723,16 @@
                     {
                         "Id": 141950,
                         "Title": "水鏡に映える月を掬って",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141951,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141952,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
