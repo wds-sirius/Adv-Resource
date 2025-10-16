@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-10-10 20:37:53",
+    "LatestDate": "2025-10-16 16:44:20",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -1129,6 +1129,12 @@
                         "Order": 20
                     }
                 ]
+            },
+            {
+                "Id": 10304,
+                "CompanyId": 3,
+                "ChapterOrder": 4,
+                "Episode": []
             },
             {
                 "Id": 10401,
@@ -7502,6 +7508,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141980,
+                        "Title": "涙、子の凶行を引き止めて",
+                        "Episode": []
                     }
                 ]
             },
@@ -7964,6 +7975,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 141970,
+                        "Title": "散る紅葉、終の手合わせ",
+                        "Episode": []
                     }
                 ]
             },
@@ -15395,6 +15411,16 @@
                 "PronounceName": "Angel gift for Diva",
                 "CharacterIds": [
                     301
+                ]
+            },
+            {
+                "Id": 230790,
+                "Name": "牛若討鬼伝",
+                "PronounceName": "うしわかとうきでん",
+                "CharacterIds": [
+                    301,
+                    304,
+                    305
                 ]
             },
             {
