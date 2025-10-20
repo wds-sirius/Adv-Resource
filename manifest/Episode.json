@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-10-20 18:31:07",
+    "LatestDate": "2025-10-21 00:40:05",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -1134,7 +1134,48 @@
                 "Id": 10304,
                 "CompanyId": 3,
                 "ChapterOrder": 4,
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 1030401,
+                        "Title": "来たる季節に向けて",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 1030402,
+                        "Title": "一等星として",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 1030403,
+                        "Title": "ざわめく星々",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 1030404,
+                        "Title": "銀河座の橋弁慶",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 1030405,
+                        "Title": "期待と熱を胸に",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 1030406,
+                        "Title": "配される役と重圧",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 1030407,
+                        "Title": "亀裂",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 1030408,
+                        "Title": "立ちこめる暗雲",
+                        "Order": 8
+                    }
+                ]
             },
             {
                 "Id": 10401,
