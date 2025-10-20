@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-10-16 16:44:20",
+    "LatestDate": "2025-10-20 18:31:07",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -7512,7 +7512,16 @@
                     {
                         "Id": 141980,
                         "Title": "涙、子の凶行を引き止めて",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141981,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141982,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7979,7 +7988,16 @@
                     {
                         "Id": 141970,
                         "Title": "散る紅葉、終の手合わせ",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141971,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141972,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
