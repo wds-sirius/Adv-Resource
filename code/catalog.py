@@ -36,5 +36,5 @@ if catalog_cri_hash != new_catalog_cri_hash:
     open(os.path.join('./_temp', 'cricatalog.json'), "w", encoding='utf8').write(json.dumps(catalogcri_json, indent=4, ensure_ascii=False))
     pass
 
-tempList_data = json.dumps(tempList, indent=4, ensure_ascii=False)
+tempList_data = json.dumps(templist, indent=4, ensure_ascii=False)
 open(os.path.join('./_temp', 'Temp.json'), "w", encoding='utf8').write(tempList_data)
