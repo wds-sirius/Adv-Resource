@@ -25,6 +25,12 @@ jobs:
           pip install requests
           pip install pydub
           pip install audioop-lts
+      
+      - name: Update catalog file
+        env:
+          WDS_ENV_URL: ${{ secrets.WDS_ENV_URL }}
+        run: |
+          python ./code/catalog.py
 
       - name: Install ffmpeg
         run: |

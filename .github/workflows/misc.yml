@@ -24,6 +24,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
           pip install UnityPy==1.10.18
+
+      - name: Update catalog file
+        env:
+          WDS_ENV_URL: ${{ secrets.WDS_ENV_URL }}
+        run: |
+          python ./code/catalog.py
           
       - name: fetch misc data
         env:
