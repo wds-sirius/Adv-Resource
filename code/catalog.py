@@ -16,7 +16,7 @@ new_catalog_cri_hash = requests.get(f'{WDS_Env["assetUrl"]}/cri-assets/Android/{
 
 # 如果有新的就更新(2d-assets)
 if catalog_2d_hash != new_catalog_2d_hash:
-    catalog_2d_hash = new_catalog_2d_hash
+    templist['2dhash'] = new_catalog_2d_hash
     catalog2d_data = requests.get(f'{WDS_Env["assetUrl"]}/2d-assets/Android/{WDS_Env["assetVersion"]}/catalog_{WDS_Env["assetVersion"]}.json').json()
     catalog2d_json = {
         'm_InternalIds' : catalog2d_data['m_InternalIds'],
@@ -27,7 +27,7 @@ if catalog_2d_hash != new_catalog_2d_hash:
 
 # 如果有新的就更新(cri-assets)
 if catalog_cri_hash != new_catalog_cri_hash:
-    catalog_cri_hash = new_catalog_cri_hash
+    templist['crihash'] = new_catalog_cri_hash
     catalogcri_data = requests.get(f'{WDS_Env["assetUrl"]}/cri-assets/Android/{WDS_Env["assetVersion"]}/catalog_{WDS_Env["assetVersion"]}.json').json()
     catalogcri_json = {
         'm_InternalIds' : catalogcri_data['m_InternalIds'],
@@ -35,3 +35,6 @@ if catalog_cri_hash != new_catalog_cri_hash:
     }
     open(os.path.join('./_temp', 'cricatalog.json'), "w", encoding='utf8').write(json.dumps(catalogcri_json, indent=4, ensure_ascii=False))
     pass
+
+tempList_data = json.dumps(tempList, indent=4, ensure_ascii=False)
+open(os.path.join('./_temp', 'Temp.json'), "w", encoding='utf8').write(tempList_data)
