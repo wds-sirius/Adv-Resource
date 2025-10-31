@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-10-21 00:40:05",
+    "LatestDate": "2025-10-31 14:54:12",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4413,6 +4413,12 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20063,
+                "Title": "魔法にまた、かけられて――",
+                "Date": "2025-10-31",
+                "Episode": []
             }
         ],
         "Side": [
@@ -5080,6 +5086,11 @@
                         ]
                     },
                     {
+                        "Id": 141990,
+                        "Title": "さぁ、舞踏会へ！",
+                        "Episode": []
+                    },
+                    {
                         "Id": 150010,
                         "Title": "一度道を違えた絆でも",
                         "Episode": [
@@ -5323,6 +5334,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142000,
+                        "Title": "ビビディ・バビディ・ブー♪",
+                        "Episode": []
                     }
                 ]
             },
@@ -9054,6 +9070,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 150020,
+                        "Title": "Bomb Interruption !!",
+                        "Episode": []
                     }
                 ]
             },
@@ -15483,6 +15504,24 @@
                 ]
             },
             {
+                "Id": 230800,
+                "Name": "かぼちゃの馬車に足を掛けて",
+                "PronounceName": "かぼちゃのばしゃにあしをかけて",
+                "CharacterIds": [
+                    103,
+                    104
+                ]
+            },
+            {
+                "Id": 230810,
+                "Name": "ハロウィン・ナイト・チャーミング♡",
+                "PronounceName": "はろうぃんないとちゃーみんぐ",
+                "CharacterIds": [
+                    205,
+                    401
+                ]
+            },
+            {
                 "Id": 340010,
                 "Name": "【Birthday2025】鳳 ここな",
                 "PronounceName": "おおとりここな",
@@ -15672,6 +15711,14 @@
                 "PronounceName": "からすもりだいこく",
                 "CharacterIds": [
                     202
+                ]
+            },
+            {
+                "Id": 340320,
+                "Name": "【Birthday Night】筆島 しぐれ",
+                "PronounceName": "ふでしましぐれ",
+                "CharacterIds": [
+                    205
                 ]
             },
             {
