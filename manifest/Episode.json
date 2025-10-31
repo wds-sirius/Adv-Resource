@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-10-31 14:54:12",
+    "LatestDate": "2025-10-31 17:40:01",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5088,7 +5088,16 @@
                     {
                         "Id": 141990,
                         "Title": "さぁ、舞踏会へ！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141991,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141992,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 150010,
@@ -5338,7 +5347,16 @@
                     {
                         "Id": 142000,
                         "Title": "ビビディ・バビディ・ブー♪",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142001,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142002,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
