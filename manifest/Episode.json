@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-10-31 17:40:01",
+    "LatestDate": "2025-11-01 19:59:03",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4418,7 +4418,48 @@
                 "Id": 20063,
                 "Title": "魔法にまた、かけられて――",
                 "Date": "2025-10-31",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2006301,
+                        "Title": "内心の焦りは消えず",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2006302,
+                        "Title": "あの日、ガラスの靴を落とした",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2006303,
+                        "Title": "割れたガラスの靴の音",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2006304,
+                        "Title": "灰被りは日々励む",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2006305,
+                        "Title": "何のためにやってるの？",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2006306,
+                        "Title": "今度こそ、失敗しないから",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2006307,
+                        "Title": "魔法にかけられて",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2006308,
+                        "Title": "手の中の切符",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
