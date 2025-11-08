@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-11-01 19:59:03",
+    "LatestDate": "2025-11-08 22:10:57",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5832,6 +5832,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142010,
+                        "Title": "グレイ・ヒッチハイカー！",
+                        "Episode": []
                     }
                 ]
             },
@@ -8520,6 +8525,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142020,
+                        "Title": "テキサス・カウガール♪",
+                        "Episode": []
                     }
                 ]
             },
@@ -9133,7 +9143,16 @@
                     {
                         "Id": 150020,
                         "Title": "Bomb Interruption !!",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 150021,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 150022,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
