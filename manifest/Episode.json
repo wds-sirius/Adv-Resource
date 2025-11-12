@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-11-08 22:10:57",
+    "LatestDate": "2025-11-12 20:17:03",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5836,7 +5836,16 @@
                     {
                         "Id": 142010,
                         "Title": "グレイ・ヒッチハイカー！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142011,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142012,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -8529,7 +8538,16 @@
                     {
                         "Id": 142020,
                         "Title": "テキサス・カウガール♪",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142021,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142022,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
