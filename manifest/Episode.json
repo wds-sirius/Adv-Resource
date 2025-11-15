@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-11-15 23:54:20",
+    "LatestDate": "2025-11-16 00:07:49",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -8727,7 +8727,16 @@
                     {
                         "Id": 141520,
                         "Title": "昼下がりのPhoto Spring",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141521,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141522,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 141770,
@@ -8907,7 +8916,16 @@
                     {
                         "Id": 141510,
                         "Title": "春めく花園を切り取って",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 141511,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141512,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 141740,
