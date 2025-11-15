@@ -150,8 +150,12 @@
             "GroupOrder": 6,
             "FontSize": 2,
             "Phrase": "",
-            "BackgroundImageFileFadeType": 3,
-            "CharacterMotions": []
+            "BackgroundImageFileName": "1050",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.800000011920929,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
         },
         {
             "Id": 141512007,
@@ -161,6 +165,7 @@
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "ウェーイ、新作ドラコスの試供品ゲットー。/n気になってたから、マジ嬉しー。今日の配信はこれ使おうかな。",
+            "BackgroundImageFileName": "860",
             "VoiceFileName": "1415120060",
             "CharacterMotions": [
                 {
@@ -217,7 +222,7 @@
             "GroupOrder": 9,
             "SpeakerName": "カミラ",
             "FontSize": 2,
-            "Phrase": "てか、先輩の春メイク気になるんですけど！",
+            "Phrase": "てか、先輩の春メイク気になるんですけど！/nあ、良かったら今度、先輩のメイクさせてくださいよ～。",
             "VoiceFileName": "1415120080",
             "CharacterMotions": [
                 {
@@ -244,38 +249,6 @@
         },
         {
             "Id": 141512010,
-            "EpisodeMasterId": 141512,
-            "Order": 2,
-            "GroupOrder": 9,
-            "SpeakerName": "カミラ",
-            "FontSize": 2,
-            "Phrase": "あ、良かったら今度、先輩のメイクさせてくださいよ～。",
-            "VoiceFileName": "1415120081",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 202,
-                    "BodyMotionMasterId": 4,
-                    "LipSyncMasterId": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 2,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                },
-                {
-                    "slotNumber": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 4,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "403"
-        },
-        {
-            "Id": 141512011,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 10,
@@ -308,7 +281,7 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512012,
+            "Id": 141512011,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 11,
@@ -340,7 +313,7 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512013,
+            "Id": 141512012,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 12,
@@ -361,20 +334,20 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512014,
+            "Id": 141512013,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 13,
             "SpeakerName": "カミラ",
             "FontSize": 2,
-            "Phrase": "うぇっ！？",
+            "Phrase": "うぇっ！？/nちょちょちょ、先輩、待ってくださいって！",
             "VoiceFileName": "1415120120",
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
-                    "FacialExpressionMasterId": 511,
+                    "FacialExpressionMasterId": 501,
                     "BodyMotionMasterId": 20,
-                    "LipSyncMasterId": 2,
+                    "LipSyncMasterId": 3,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
@@ -385,37 +358,13 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512015,
-            "EpisodeMasterId": 141512,
-            "Order": 2,
-            "GroupOrder": 13,
-            "SpeakerName": "カミラ",
-            "FontSize": 2,
-            "Phrase": "ちょちょちょ、先輩、待ってくださいって！",
-            "VoiceFileName": "1415120121",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 210,
-                    "BodyMotionMasterId": 6,
-                    "LipSyncMasterId": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "403"
-        },
-        {
-            "Id": 141512016,
+            "Id": 141512014,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 14,
             "FontSize": 2,
             "Phrase": "",
-            "BackgroundImageFileName": "1071",
+            "BackgroundImageFileName": "1050",
             "BackgroundImageFileFadeType": 1,
             "CharacterMotions": [],
             "FadeValue1": 0.800000011920929,
@@ -423,7 +372,7 @@
             "FadeValue3": 0.800000011920929
         },
         {
-            "Id": 141512017,
+            "Id": 141512015,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 15,
@@ -436,7 +385,7 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512018,
+            "Id": 141512016,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 16,
@@ -449,183 +398,86 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512019,
+            "Id": 141512017,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 17,
             "SpeakerName": "カミラ",
             "FontSize": 2,
-            "Phrase": "先輩もチェックしてたんですか？",
+            "Phrase": "先輩もチェックしてたんですか？/nウチも投稿で見て、帰りに寄ってこうって思ってたんですよ。",
             "BackgroundCharacterImageFileName": "141510_0",
             "VoiceFileName": "1415120150",
             "CharacterMotions": [],
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512020,
-            "EpisodeMasterId": 141512,
-            "Order": 2,
-            "GroupOrder": 17,
-            "SpeakerName": "カミラ",
-            "FontSize": 2,
-            "Phrase": "ウチも投稿で見て、帰りに寄ってこうって思ってたんですよ。",
-            "BackgroundCharacterImageFileName": "141510_0",
-            "VoiceFileName": "1415120151",
-            "CharacterMotions": [],
-            "SpeakerIconId": "403"
-        },
-        {
-            "Id": 141512021,
+            "Id": 141512018,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 18,
             "SpeakerName": "蕾",
             "FontSize": 2,
             "Phrase": "春探しの時、寄ろうとは思わなかったのか？",
+            "BackgroundCharacterImageFileName": "141510_0",
             "VoiceFileName": "1415120160",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "SpineId": 40301,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 2,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                },
-                {
-                    "slotNumber": 2,
-                    "FacialExpressionMasterId": 102,
-                    "BodyMotionMasterId": 24,
-                    "LipSyncMasterId": 1,
-                    "SpineId": 40401,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 4,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
+            "CharacterMotions": [],
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512022,
+            "Id": 141512019,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 19,
             "SpeakerName": "カミラ",
             "FontSize": 2,
-            "Phrase": "やー、お菓子系とかってみんな考えつくものじゃないですかー？",
+            "Phrase": "やー、お菓子系とかってみんな考えつくものじゃないですかー？/nカブるのイヤだったんで、外しちゃったんですよねー。",
+            "BackgroundCharacterImageFileName": "141510_0",
             "VoiceFileName": "1415120170",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 105,
-                    "HeadMotionMasterId": 2,
-                    "BodyMotionMasterId": 3,
-                    "LipSyncMasterId": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 2,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                },
-                {
-                    "slotNumber": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 4,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
+            "CharacterMotions": [],
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512023,
-            "EpisodeMasterId": 141512,
-            "Order": 2,
-            "GroupOrder": 19,
-            "SpeakerName": "カミラ",
-            "FontSize": 2,
-            "Phrase": "カブるのイヤだったんで、外しちゃったんですよねー。",
-            "VoiceFileName": "1415120171",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 210,
-                    "HeadMotionMasterId": 2,
-                    "BodyMotionMasterId": 13,
-                    "LipSyncMasterId": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 2,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                },
-                {
-                    "slotNumber": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 4,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "403"
-        },
-        {
-            "Id": 141512024,
+            "Id": 141512020,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 20,
             "SpeakerName": "蕾",
             "FontSize": 2,
             "Phrase": "そうか。勝負が終わったのであれば良いだろう。",
+            "BackgroundCharacterImageFileName": "141510_0",
             "VoiceFileName": "1415120180",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
+            "CharacterMotions": [],
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512025,
+            "Id": 141512021,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 21,
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "あ、先輩、一人で入らないでくださいよ！",
+            "BackgroundCharacterImageFileName": "141510_0",
             "VoiceFileName": "1415120190",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
+            "CharacterMotions": [],
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512026,
+            "Id": 141512022,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 22,
             "FontSize": 2,
             "Phrase": "",
-            "BackgroundImageFileFadeType": 3,
-            "CharacterMotions": []
+            "BackgroundImageFileName": "1050",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.800000011920929,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
         },
         {
-            "Id": 141512027,
+            "Id": 141512023,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 23,
@@ -651,7 +503,7 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512028,
+            "Id": 141512024,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 24,
@@ -683,19 +535,18 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512029,
+            "Id": 141512025,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 25,
             "SpeakerName": "カミラ",
             "FontSize": 2,
-            "Phrase": "シンギングって……えっ、カラオケです！？先輩歌うってコト？",
+            "Phrase": "シンギングって……えっ、カラオケです！？先輩歌うってコト？/nやっば、超聞きたい！えーと、近場だと……こことか！",
             "VoiceFileName": "1415120220",
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 512,
-                    "HeadDirectionMasterId": 6,
                     "BodyMotionMasterId": 6,
                     "LipSyncMasterId": 2,
                     "SpineId": 0,
@@ -716,39 +567,7 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512030,
-            "EpisodeMasterId": 141512,
-            "Order": 2,
-            "GroupOrder": 25,
-            "SpeakerName": "カミラ",
-            "FontSize": 2,
-            "Phrase": "やっば、超聞きたい！えーと、近場だと……こことか！",
-            "VoiceFileName": "1415120221",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 202,
-                    "BodyMotionMasterId": 4,
-                    "LipSyncMasterId": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 2,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                },
-                {
-                    "slotNumber": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 4,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "403"
-        },
-        {
-            "Id": 141512031,
+            "Id": 141512026,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 26,
@@ -781,7 +600,7 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512032,
+            "Id": 141512027,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 27,
@@ -797,15 +616,7 @@
                     "LipSyncMasterId": 2,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
-                    "CharacterPosition": 2,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                },
-                {
-                    "slotNumber": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 4,
+                    "CharacterPosition": 3,
                     "CharacterLayerType": 1,
                     "SpineSize": 2
                 }
@@ -813,23 +624,27 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512033,
+            "Id": 141512028,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 28,
             "FontSize": 2,
             "Phrase": "",
-            "BackgroundImageFileFadeType": 3,
-            "CharacterMotions": []
+            "BackgroundImageFileName": "1050",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.800000011920929,
+            "FadeValue2": 0.5,
+            "FadeValue3": 0.800000011920929
         },
         {
-            "Id": 141512034,
+            "Id": 141512029,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 29,
             "SpeakerName": "カミラ",
             "FontSize": 2,
-            "Phrase": "（まさか先輩からカラオケに誘われるとは思わなかったわー。",
+            "Phrase": "（まさか先輩からカラオケに誘われるとは思わなかったわー。/n……てかこんな強引な先輩、珍しー。めっちゃたのしー）",
             "BackgroundImageFileName": "1250",
             "VoiceFileName": "1415120250",
             "CharacterMotions": [
@@ -837,7 +652,6 @@
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 200,
                     "BodyMotionMasterId": 4,
-                    "LipSyncMasterId": 2,
                     "SpineId": 40301,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
@@ -848,31 +662,7 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512035,
-            "EpisodeMasterId": 141512,
-            "Order": 2,
-            "GroupOrder": 29,
-            "SpeakerName": "カミラ",
-            "FontSize": 2,
-            "Phrase": "……てかこんな強引な先輩、珍しー。めっちゃたのしー）",
-            "VoiceFileName": "1415120251",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 103,
-                    "BodyMotionMasterId": 16,
-                    "LipSyncMasterId": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "403"
-        },
-        {
-            "Id": 141512036,
+            "Id": 141512030,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 30,
@@ -904,7 +694,7 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512037,
+            "Id": 141512031,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 31,
@@ -936,7 +726,7 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512038,
+            "Id": 141512032,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 32,
@@ -956,7 +746,8 @@
                 {
                     "slotNumber": 2,
                     "FacialExpressionMasterId": 109,
-                    "BodyMotionMasterId": 22,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 3,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
@@ -967,7 +758,7 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512039,
+            "Id": 141512033,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 33,
@@ -980,7 +771,7 @@
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 509,
                     "BodyMotionMasterId": 4,
-                    "LipSyncMasterId": 2,
+                    "LipSyncMasterId": 3,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
@@ -999,7 +790,7 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512040,
+            "Id": 141512034,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 34,
@@ -1012,7 +803,6 @@
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 78,
                     "BodyMotionMasterId": 11,
-                    "LipSyncMasterId": 2,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
@@ -1031,7 +821,7 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512041,
+            "Id": 141512035,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 35,
@@ -1064,7 +854,7 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512042,
+            "Id": 141512036,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 36,
@@ -1074,7 +864,7 @@
             "CharacterMotions": []
         },
         {
-            "Id": 141512043,
+            "Id": 141512037,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 37,
@@ -1087,7 +877,7 @@
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 78,
                     "BodyMotionMasterId": 25,
-                    "LipSyncMasterId": 2,
+                    "LipSyncMasterId": 4,
                     "SpineId": 40301,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
@@ -1098,7 +888,7 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512044,
+            "Id": 141512038,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 38,
@@ -1109,9 +899,8 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
-                    "FacialExpressionMasterId": 200,
+                    "FacialExpressionMasterId": 210,
                     "BodyMotionMasterId": 4,
-                    "LipSyncMasterId": 2,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
@@ -1122,7 +911,7 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512045,
+            "Id": 141512039,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 39,
@@ -1154,13 +943,13 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512046,
+            "Id": 141512040,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 40,
             "SpeakerName": "カミラ",
             "FontSize": 2,
-            "Phrase": "歌いまくった後だから、甘いの助かる～！",
+            "Phrase": "歌いまくった後だから、甘いの助かる～！/nてか、SNSで宣伝してって頼まれたし、良い感じに写真を……。",
             "VoiceFileName": "1415120350",
             "CharacterMotions": [
                 {
@@ -1186,42 +975,20 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512047,
-            "EpisodeMasterId": 141512,
-            "Order": 2,
-            "GroupOrder": 40,
-            "SpeakerName": "カミラ",
-            "FontSize": 2,
-            "Phrase": "てか、SNSで宣伝してって頼まれたし、良い感じに写真を……。",
-            "VoiceFileName": "1415120351",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 101,
-                    "BodyMotionMasterId": 7,
-                    "LipSyncMasterId": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 2,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                },
-                {
-                    "slotNumber": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 4,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "403"
-        },
-        {
-            "Id": 141512048,
+            "Id": 141512041,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 41,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "1880",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 141512042,
+            "EpisodeMasterId": 141512,
+            "Order": 1,
+            "GroupOrder": 42,
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "よっし、完璧！",
@@ -1232,17 +999,9 @@
                     "FacialExpressionMasterId": 202,
                     "BodyMotionMasterId": 8,
                     "LipSyncMasterId": 2,
-                    "SpineId": 0,
+                    "SpineId": 40301,
                     "CharacterAppearanceType": 0,
-                    "CharacterPosition": 2,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                },
-                {
-                    "slotNumber": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 4,
+                    "CharacterPosition": 3,
                     "CharacterLayerType": 1,
                     "SpineSize": 2
                 }
@@ -1250,10 +1009,10 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512049,
+            "Id": 141512043,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 42,
+            "GroupOrder": 43,
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "っと、せっかくだから電姫のグルチャの方にも。",
@@ -1266,15 +1025,7 @@
                     "LipSyncMasterId": 2,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
-                    "CharacterPosition": 2,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                },
-                {
-                    "slotNumber": 2,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 4,
+                    "CharacterPosition": 3,
                     "CharacterLayerType": 1,
                     "SpineSize": 2
                 }
@@ -1282,19 +1033,20 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512050,
-            "EpisodeMasterId": 141512,
-            "Order": 1,
-            "GroupOrder": 43,
-            "FontSize": 2,
-            "Phrase": "",
-            "CharacterMotions": []
-        },
-        {
-            "Id": 141512051,
+            "Id": 141512044,
             "EpisodeMasterId": 141512,
             "Order": 1,
             "GroupOrder": 44,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "1670",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 141512045,
+            "EpisodeMasterId": 141512,
+            "Order": 1,
+            "GroupOrder": 45,
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "歌いすぎて、喉ヤッバい。/n帰ったらケアしなきゃ、ガラガラになっちゃいそー。",
@@ -1323,10 +1075,10 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512052,
+            "Id": 141512046,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 45,
+            "GroupOrder": 46,
             "SpeakerName": "蕾",
             "FontSize": 2,
             "Phrase": "だいぶ体力を使ったようだな。",
@@ -1356,10 +1108,10 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512053,
+            "Id": 141512047,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 46,
+            "GroupOrder": 47,
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "あれだけ歩き回って、全力熱唱したら当然ですって～。",
@@ -1388,10 +1140,10 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512054,
+            "Id": 141512048,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 47,
+            "GroupOrder": 48,
             "SpeakerName": "蕾",
             "FontSize": 2,
             "Phrase": "十分に春も蓄えられたようだ。",
@@ -1410,6 +1162,7 @@
                     "FacialExpressionMasterId": 78,
                     "HeadMotionMasterId": 1,
                     "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 4,
@@ -1420,10 +1173,10 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512055,
+            "Id": 141512049,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 48,
+            "GroupOrder": 49,
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "へ？",
@@ -1452,10 +1205,10 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512056,
+            "Id": 141512050,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 49,
+            "GroupOrder": 50,
             "SpeakerName": "蕾",
             "FontSize": 2,
             "Phrase": "力が入りすぎれば、簡単なことほど難しくなる。/n阿岐留は元々、春を楽しむ素質はあるというのに。",
@@ -1484,10 +1237,10 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512057,
+            "Id": 141512051,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 50,
+            "GroupOrder": 51,
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "あ……ウチ、鯱鉾バリすぎ的なヤツだった？/n一番春らしいもの選手権ーって言われて。勝たなきゃーってなりすぎでー。",
@@ -1497,7 +1250,7 @@
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 210,
                     "BodyMotionMasterId": 3,
-                    "LipSyncMasterId": 2,
+                    "LipSyncMasterId": 4,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 2,
@@ -1516,10 +1269,10 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512058,
+            "Id": 141512052,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 51,
+            "GroupOrder": 52,
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "でも今思うと、ショップで春の新色とか見てるだけでも、/n無意識に春を楽しめてたんじゃね？って。",
@@ -1548,13 +1301,13 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512059,
+            "Id": 141512053,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 52,
+            "GroupOrder": 53,
             "SpeakerName": "蕾",
             "FontSize": 2,
-            "Phrase": "大事なのは『何か』。ではない。/n『何か』。に触れた時、心より生まれた想いだと私は思っている。",
+            "Phrase": "大事なのは『何か』。ではない。/n『何か』に触れた時、心より生まれた想いだと私は思っている。",
             "VoiceFileName": "1415120460",
             "CharacterMotions": [
                 {
@@ -1580,10 +1333,10 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512060,
+            "Id": 141512054,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 53,
+            "GroupOrder": 54,
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "先ぱ――。",
@@ -1591,7 +1344,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
-                    "FacialExpressionMasterId": 111,
+                    "FacialExpressionMasterId": 205,
                     "BodyMotionMasterId": 4,
                     "LipSyncMasterId": 2,
                     "SpineId": 0,
@@ -1612,20 +1365,20 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512061,
+            "Id": 141512055,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 54,
+            "GroupOrder": 55,
             "FontSize": 2,
             "Phrase": "",
             "SeFileName": "40",
             "CharacterMotions": []
         },
         {
-            "Id": 141512062,
+            "Id": 141512056,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 55,
+            "GroupOrder": 56,
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "うぇっ！？何、急に！？",
@@ -1646,10 +1399,10 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512063,
+            "Id": 141512057,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 56,
+            "GroupOrder": 57,
             "SpeakerName": "蕾",
             "FontSize": 2,
             "Phrase": "どうやら、皆も気づいたようだな。",
@@ -1678,10 +1431,10 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512064,
+            "Id": 141512058,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 57,
+            "GroupOrder": 58,
             "SpeakerName": "いろは",
             "FontSize": 2,
             "Phrase": "『しまった、春歌縛りカラオケ……！/nこの手がありましたか、不覚っ！』",
@@ -1690,10 +1443,10 @@
             "SpeakerIconId": "401"
         },
         {
-            "Id": 141512065,
+            "Id": 141512059,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 58,
+            "GroupOrder": 59,
             "SpeakerName": "電姫劇団員",
             "FontSize": 2,
             "Phrase": "『……灯台下暗し！』『当たり前すぎて意識になかった～！』/n『まだだ！カミラの歌ってないアニソンを私たちは知っている！』",
@@ -1702,10 +1455,10 @@
             "SpeakerIconId": "1"
         },
         {
-            "Id": 141512066,
+            "Id": 141512060,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 59,
+            "GroupOrder": 60,
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "あはは、みんなこれからカラオケみたいですね。",
@@ -1734,10 +1487,10 @@
             "SpeakerIconId": "403"
         },
         {
-            "Id": 141512067,
+            "Id": 141512061,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 60,
+            "GroupOrder": 61,
             "SpeakerName": "蕾",
             "FontSize": 2,
             "Phrase": "一番春らしいかどうかはわからないが、/n皆が羨むような春を楽しむことはできたようだな。",
@@ -1766,10 +1519,10 @@
             "SpeakerIconId": "404"
         },
         {
-            "Id": 141512068,
+            "Id": 141512062,
             "EpisodeMasterId": 141512,
             "Order": 1,
-            "GroupOrder": 61,
+            "GroupOrder": 62,
             "SpeakerName": "カミラ",
             "FontSize": 2,
             "Phrase": "はい！先輩の占い通りでした！",
