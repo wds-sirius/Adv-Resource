@@ -9035,16 +9035,7 @@
                     {
                         "Id": 130820,
                         "Title": "最前列の景色",
-                        "Episode": [
-                            {
-                                "EpisodeId": 130821,
-                                "Order": 1
-                            },
-                            {
-                                "EpisodeId": 130822,
-                                "Order": 2
-                            }
-                        ]
+                        "Episode": []
                     },
                     {
                         "Id": 140130,
