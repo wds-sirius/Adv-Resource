@@ -60,6 +60,7 @@
             "SpeakerName": "グループチャット",
             "FontSize": 2,
             "Phrase": "『そろそろ最終回に向けた怒涛のラッシュですよ』『今期豊作だよね』/n『もう最終回とか絶望なんですけど』『どんでん返しありそうだよね』",
+            "BackgroundImageFileName": "1580",
             "VoiceFileName": "1308210020",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
@@ -72,6 +73,7 @@
             "SpeakerName": "叶羽",
             "FontSize": 2,
             "Phrase": "はいはい、まんまとおびき出されてますよー。/n……って、引っかかったフリして。",
+            "BackgroundImageFileName": "961",
             "VoiceFileName": "1308210030",
             "CharacterMotions": [
                 {
@@ -106,6 +108,7 @@
             "SpeakerName": "グループチャット",
             "FontSize": 2,
             "Phrase": "『けど、まさか地味キャラが今期覇権キャラに進化するなんてねぇ』/n『バレイベで無風と思ったら、コラボカフェであんなのエッチすぎ！』",
+            "BackgroundImageFileName": "1580",
             "VoiceFileName": "1308210040",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
@@ -118,6 +121,7 @@
             "SpeakerName": "叶羽",
             "FontSize": 2,
             "Phrase": "あるよね、あるよね、トラップ仕掛けてあるよね～。/nはい、あった～！ からの寸前回避からの超ダッシュ！",
+            "BackgroundImageFileName": "961",
             "VoiceFileName": "1308210050",
             "CharacterMotions": [
                 {
@@ -153,6 +157,7 @@
             "SpeakerName": "グループチャット",
             "FontSize": 2,
             "Phrase": "『うわー、でねー！ どんだけ回せばドロップするのー！？』/n『心を殺せ！ 周回中に自我を芽生えさせるな！ 機械になれ！』",
+            "BackgroundImageFileName": "1580",
             "VoiceFileName": "1308210060",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
@@ -165,6 +170,7 @@
             "SpeakerName": "叶羽",
             "FontSize": 2,
             "Phrase": "はい、カウンターアタックからのサクりと１キルいただき～♪/n逃げ遅れたそっちもサクサクッとね♪ そしてダブルキルからの～？",
+            "BackgroundImageFileName": "961",
             "VoiceFileName": "1308210070",
             "CharacterMotions": [
                 {
@@ -200,6 +206,7 @@
             "SpeakerName": "グループチャット",
             "FontSize": 2,
             "Phrase": "『カミちゃーん、今度彼ピと会うんだけど、服、どっちが良いと思う？』/n『春だしこっち！ バチコリ似合う！』『あんがと！ よし、君に決めた！』",
+            "BackgroundImageFileName": "1580",
             "VoiceFileName": "1308210080",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
@@ -212,6 +219,7 @@
             "SpeakerName": "叶羽",
             "FontSize": 2,
             "Phrase": "はい、トリプルキル――って、なんでここに全員集まってんの！？/nあの二人、死んだフリ！？ いつスキル条件満たし――ギャー！？",
+            "BackgroundImageFileName": "961",
             "VoiceFileName": "1308210090",
             "CharacterMotions": [
                 {
@@ -305,7 +313,7 @@
             "GroupOrder": 19,
             "SpeakerName": "叶羽",
             "FontSize": 2,
-            "Phrase": "はー、今日はついてないわ。終わり終わり。はい、終了ー。",
+            "Phrase": "はー、今日はついてないわ。終わり終わり。はい、終了ー。/nあーあ、格ゲーにすりゃよかった……はぁ、コーラおいし……。",
             "VoiceFileName": "1308210130",
             "CharacterMotions": [
                 {
@@ -325,30 +333,6 @@
         {
             "Id": 130821020,
             "EpisodeMasterId": 130821,
-            "Order": 2,
-            "GroupOrder": 19,
-            "SpeakerName": "叶羽",
-            "FontSize": 2,
-            "Phrase": "あーあ、格ゲーにすりゃよかった……はぁ、コーラおいし……。",
-            "VoiceFileName": "1308210131",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 210,
-                    "BodyMotionMasterId": 15,
-                    "LipSyncMasterId": 1,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "405"
-        },
-        {
-            "Id": 130821021,
-            "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 20,
             "FontSize": 2,
@@ -357,25 +341,27 @@
             "CharacterMotions": []
         },
         {
-            "Id": 130821022,
+            "Id": 130821021,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 21,
             "SpeakerName": "グループチャット",
             "FontSize": 2,
             "Phrase": "『てか、そろそろ何か祭やりたくね？』『お花見！』『その前に！』/n『あー、今年ひな祭りできんかったしね』『予定がグチャったねー』",
+            "BackgroundImageFileName": "1580",
             "VoiceFileName": "1308210140",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
         },
         {
-            "Id": 130821023,
+            "Id": 130821022,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 22,
             "SpeakerName": "叶羽",
             "FontSize": 2,
-            "Phrase": "てか、こっちはまだグルチャ続けてんの？",
+            "Phrase": "てか、こっちはまだグルチャ続けてんの？/nよくもまあ、飽きないもんよね～。いい加減おやすめっての。",
+            "BackgroundImageFileName": "961",
             "VoiceFileName": "1308210150",
             "CharacterMotions": [
                 {
@@ -393,49 +379,27 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821024,
-            "EpisodeMasterId": 130821,
-            "Order": 2,
-            "GroupOrder": 22,
-            "SpeakerName": "叶羽",
-            "FontSize": 2,
-            "Phrase": "よくもまあ、飽きないもんよね～。いい加減おやすめっての。",
-            "VoiceFileName": "1308210151",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 105,
-                    "BodyMotionMasterId": 25,
-                    "LipSyncMasterId": 1,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "405"
-        },
-        {
-            "Id": 130821025,
+            "Id": 130821023,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 23,
             "SpeakerName": "グループチャット",
             "FontSize": 2,
             "Phrase": "『僕とみとちゃんでミシンの日はお祝いしましたよ』『ミシンの日！？』/n『コスプレできること、感謝したんだよね』『すご、祭壇作ってる！！』",
+            "BackgroundImageFileName": "1580",
             "VoiceFileName": "1308210160",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
         },
         {
-            "Id": 130821026,
+            "Id": 130821024,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 24,
             "SpeakerName": "叶羽",
             "FontSize": 2,
-            "Phrase": "ミシンに感謝……？ え、ミシン祭壇！？",
+            "Phrase": "ミシンに感謝……？ え、ミシン祭壇！？/nうわ、マジで飾りつけてる……オタクのバイタリティーすげー……。",
+            "BackgroundImageFileName": "961",
             "VoiceFileName": "1308210170",
             "CharacterMotions": [
                 {
@@ -453,61 +417,40 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821027,
-            "EpisodeMasterId": 130821,
-            "Order": 2,
-            "GroupOrder": 24,
-            "SpeakerName": "叶羽",
-            "FontSize": 2,
-            "Phrase": "うわ、マジで飾りつけてる……オタクのバイタリティーすげー……。",
-            "VoiceFileName": "1308210171",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 102,
-                    "BodyMotionMasterId": 15,
-                    "LipSyncMasterId": 1,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "405"
-        },
-        {
-            "Id": 130821028,
+            "Id": 130821025,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 25,
             "SpeakerName": "グループチャット",
             "FontSize": 2,
             "Phrase": "『順当に考えるなら春分？』『よし、ランドセルの日に小学生コスさせよう』/n『誰に？』『ボス＆要コンビ』『見てぇ～』『減給』『要さんきてたの！？』",
+            "BackgroundImageFileName": "1580",
             "VoiceFileName": "1308210180",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
         },
         {
-            "Id": 130821029,
+            "Id": 130821026,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 26,
             "SpeakerName": "グループチャット",
             "FontSize": 2,
             "Phrase": "『てか、ホワイトデーでよくね？』『ただやるんじゃ電姫団員の名折れ』/n『こころの健康作り週間に、殺伐アニメリレーしよう』『不健康だろ！』",
+            "BackgroundImageFileName": "1580",
             "VoiceFileName": "1308210190",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
         },
         {
-            "Id": 130821030,
+            "Id": 130821027,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 27,
             "SpeakerName": "叶羽",
             "FontSize": 2,
             "Phrase": "はぁ～。ま～た、くだらないことでグダグダやって。/nタイパ重視のこの時代に、大の大人が何やってんだか。",
+            "BackgroundImageFileName": "961",
             "VoiceFileName": "1308210200",
             "CharacterMotions": [
                 {
@@ -525,19 +468,20 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821031,
+            "Id": 130821028,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 28,
             "SpeakerName": "叶羽",
             "FontSize": 2,
             "Phrase": "『ただ集まって騒ぎたいだけでしょ？/n理由つける必要なくね？』",
+            "BackgroundImageFileName": "1580",
             "VoiceFileName": "1308210210",
             "CharacterMotions": [],
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821032,
+            "Id": 130821029,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 29,
@@ -549,7 +493,7 @@
             "SpeakerIconId": "1"
         },
         {
-            "Id": 130821033,
+            "Id": 130821030,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 30,
@@ -561,7 +505,7 @@
             "SpeakerIconId": "1"
         },
         {
-            "Id": 130821034,
+            "Id": 130821031,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 31,
@@ -573,13 +517,14 @@
             "SpeakerIconId": "1"
         },
         {
-            "Id": 130821035,
+            "Id": 130821032,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 32,
             "SpeakerName": "叶羽",
             "FontSize": 2,
             "Phrase": "はー、やっと決まった感じ？ ま、アタシは高みの見物だけど。",
+            "BackgroundImageFileName": "961",
             "VoiceFileName": "1308210250",
             "CharacterMotions": [
                 {
@@ -597,25 +542,27 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821036,
+            "Id": 130821033,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 33,
             "SpeakerName": "グループチャット",
             "FontSize": 2,
             "Phrase": "『叶羽も参加ね』『なんでよ！？』『お前の発言が爆心地だ。逃がさん』/n『いいじゃないですか、楽しいですよ！』『叶羽ちゃんの写真、楽しみ』",
+            "BackgroundImageFileName": "1580",
             "VoiceFileName": "1308210260",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
         },
         {
-            "Id": 130821037,
+            "Id": 130821034,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 34,
             "SpeakerName": "叶羽",
             "FontSize": 2,
             "Phrase": "あー……これ、逃げられないやつか。",
+            "BackgroundImageFileName": "961",
             "VoiceFileName": "1308210270",
             "CharacterMotions": [
                 {
@@ -634,25 +581,27 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821038,
+            "Id": 130821035,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 35,
             "SpeakerName": "グループチャット",
             "FontSize": 2,
             "Phrase": "『それじゃ、一番春らしいもの選手権開幕～！』『どんどんぱふぱふ！』/n『うおお一番乗りはアタイの夕食、春巻きだ～』『食べかけあげんな！』",
+            "BackgroundImageFileName": "1580",
             "VoiceFileName": "1308210280",
             "CharacterMotions": [],
             "SpeakerIconId": "1"
         },
         {
-            "Id": 130821039,
+            "Id": 130821036,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 36,
             "SpeakerName": "叶羽",
             "FontSize": 2,
             "Phrase": "春、春ねぇ……春……あ。",
+            "BackgroundImageFileName": "961",
             "VoiceFileName": "1308210290",
             "CharacterMotions": [
                 {
@@ -670,7 +619,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821040,
+            "Id": 130821037,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 37,
@@ -694,7 +643,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821041,
+            "Id": 130821038,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 38,
@@ -704,7 +653,7 @@
             "CharacterMotions": []
         },
         {
-            "Id": 130821042,
+            "Id": 130821039,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 39,
@@ -728,23 +677,23 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821043,
+            "Id": 130821040,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 40,
             "FontSize": 2,
             "Phrase": "",
-            "SeFileName": "60",
+            "SeFileName": "40",
             "CharacterMotions": []
         },
         {
-            "Id": 130821044,
+            "Id": 130821041,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 41,
             "SpeakerName": "叶羽",
             "FontSize": 2,
-            "Phrase": "って、いろは？",
+            "Phrase": "って、いろは？/n……もしもーし。",
             "VoiceFileName": "1308210320",
             "CharacterMotions": [
                 {
@@ -762,31 +711,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821045,
-            "EpisodeMasterId": 130821,
-            "Order": 2,
-            "GroupOrder": 41,
-            "SpeakerName": "叶羽",
-            "FontSize": 2,
-            "Phrase": "……もしもーし。",
-            "VoiceFileName": "1308210321",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 102,
-                    "BodyMotionMasterId": 6,
-                    "LipSyncMasterId": 1,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "405"
-        },
-        {
-            "Id": 130821046,
+            "Id": 130821042,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 42,
@@ -798,7 +723,7 @@
             "SpeakerIconId": "401"
         },
         {
-            "Id": 130821047,
+            "Id": 130821043,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 43,
@@ -808,7 +733,7 @@
             "CharacterMotions": []
         },
         {
-            "Id": 130821048,
+            "Id": 130821044,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 44,
@@ -816,21 +741,33 @@
             "FontSize": 2,
             "Phrase": "……えーと、何やるんだっけ。/nあ、写真投稿か。",
             "VoiceFileName": "1308210340",
-            "CharacterMotions": [],
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 106,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821049,
+            "Id": 130821045,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 45,
             "FontSize": 2,
             "Phrase": "",
-            "SeFileName": "60",
+            "SeFileName": "40",
             "CharacterMotions": []
         },
         {
-            "Id": 130821050,
+            "Id": 130821046,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 46,
@@ -842,7 +779,7 @@
             "SpeakerIconId": "401"
         },
         {
-            "Id": 130821051,
+            "Id": 130821047,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 47,
@@ -866,7 +803,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821052,
+            "Id": 130821048,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 48,
@@ -878,7 +815,7 @@
             "SpeakerIconId": "402"
         },
         {
-            "Id": 130821053,
+            "Id": 130821049,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 49,
@@ -902,7 +839,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821054,
+            "Id": 130821050,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 50,
@@ -914,13 +851,13 @@
             "SpeakerIconId": "402"
         },
         {
-            "Id": 130821055,
+            "Id": 130821051,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 51,
             "SpeakerName": "叶羽",
             "FontSize": 2,
-            "Phrase": "……何よ……特撮ショー……？ …………ん？",
+            "Phrase": "……何よ……特撮ショー……？ …………ん？/n……え？ へぇあぇ！？ これ中の人ガチじゃん！？",
             "VoiceFileName": "1308210400",
             "CharacterMotions": [
                 {
@@ -938,31 +875,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821056,
-            "EpisodeMasterId": 130821,
-            "Order": 2,
-            "GroupOrder": 51,
-            "SpeakerName": "叶羽",
-            "FontSize": 2,
-            "Phrase": "……え？ へぇあぇ！？ これ中の人ガチじゃん！？",
-            "VoiceFileName": "1308210401",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 512,
-                    "BodyMotionMasterId": 8,
-                    "LipSyncMasterId": 1,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "405"
-        },
-        {
-            "Id": 130821057,
+            "Id": 130821052,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 52,
@@ -974,7 +887,7 @@
                 {
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 511,
-                    "BodyMotionMasterId": 4,
+                    "BodyMotionMasterId": 8,
                     "LipSyncMasterId": 3,
                     "SpineId": 0,
                     "CharacterAppearanceType": 0,
@@ -986,7 +899,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821058,
+            "Id": 130821053,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 53,
@@ -998,7 +911,7 @@
             "SpeakerIconId": "401"
         },
         {
-            "Id": 130821059,
+            "Id": 130821054,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 54,
@@ -1010,7 +923,7 @@
                 {
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 109,
-                    "BodyMotionMasterId": 3,
+                    "BodyMotionMasterId": 4,
                     "LipSyncMasterId": 1,
                     "SpineId": 40501,
                     "CharacterAppearanceType": 0,
@@ -1022,7 +935,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821060,
+            "Id": 130821055,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 55,
@@ -1034,7 +947,7 @@
             "SpeakerIconId": "401"
         },
         {
-            "Id": 130821061,
+            "Id": 130821056,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 56,
@@ -1045,7 +958,7 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
-                    "FacialExpressionMasterId": 204,
+                    "FacialExpressionMasterId": 505,
                     "BodyMotionMasterId": 7,
                     "LipSyncMasterId": 1,
                     "SpineId": 40501,
@@ -1058,7 +971,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821062,
+            "Id": 130821057,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 57,
@@ -1070,7 +983,7 @@
             "SpeakerIconId": "402"
         },
         {
-            "Id": 130821063,
+            "Id": 130821058,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 58,
@@ -1094,7 +1007,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821064,
+            "Id": 130821059,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 59,
@@ -1118,7 +1031,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821065,
+            "Id": 130821060,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 60,
@@ -1142,7 +1055,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821066,
+            "Id": 130821061,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 61,
@@ -1154,7 +1067,7 @@
             "SpeakerIconId": "401"
         },
         {
-            "Id": 130821067,
+            "Id": 130821062,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 62,
@@ -1166,7 +1079,7 @@
             "SpeakerIconId": "402"
         },
         {
-            "Id": 130821068,
+            "Id": 130821063,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 63,
@@ -1190,7 +1103,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821069,
+            "Id": 130821064,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 64,
@@ -1202,7 +1115,7 @@
             "SpeakerIconId": "401"
         },
         {
-            "Id": 130821070,
+            "Id": 130821065,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 65,
@@ -1226,7 +1139,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821071,
+            "Id": 130821066,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 66,
@@ -1238,7 +1151,7 @@
             "SpeakerIconId": "401"
         },
         {
-            "Id": 130821072,
+            "Id": 130821067,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 67,
@@ -1262,7 +1175,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821073,
+            "Id": 130821068,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 68,
@@ -1274,7 +1187,7 @@
             "SpeakerIconId": "402"
         },
         {
-            "Id": 130821074,
+            "Id": 130821069,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 69,
@@ -1286,19 +1199,19 @@
             "SpeakerIconId": "401"
         },
         {
-            "Id": 130821075,
+            "Id": 130821070,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 70,
             "SpeakerName": "叶羽",
             "FontSize": 2,
-            "Phrase": "うぐぐぐ…………ぐ………ぐぐ……………。",
+            "Phrase": "うぐぐぐ…………ぐ………ぐぐ……………。/n…………………………ひとつ、条件があるわ。",
             "VoiceFileName": "1308210590",
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
                     "FacialExpressionMasterId": 305,
-                    "BodyMotionMasterId": 25,
+                    "BodyMotionMasterId": 3,
                     "LipSyncMasterId": 3,
                     "SpineId": 40501,
                     "CharacterAppearanceType": 0,
@@ -1310,31 +1223,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821076,
-            "EpisodeMasterId": 130821,
-            "Order": 2,
-            "GroupOrder": 70,
-            "SpeakerName": "叶羽",
-            "FontSize": 2,
-            "Phrase": "…………………………ひとつ、条件があるわ。",
-            "VoiceFileName": "1308210591",
-            "CharacterMotions": [
-                {
-                    "slotNumber": 1,
-                    "FacialExpressionMasterId": 76,
-                    "BodyMotionMasterId": 17,
-                    "LipSyncMasterId": 1,
-                    "SpineId": 0,
-                    "CharacterAppearanceType": 0,
-                    "CharacterPosition": 3,
-                    "CharacterLayerType": 1,
-                    "SpineSize": 2
-                }
-            ],
-            "SpeakerIconId": "405"
-        },
-        {
-            "Id": 130821077,
+            "Id": 130821071,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 71,
@@ -1346,7 +1235,7 @@
             "SpeakerIconId": "401"
         },
         {
-            "Id": 130821078,
+            "Id": 130821072,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 72,
@@ -1357,9 +1246,9 @@
             "CharacterMotions": [
                 {
                     "slotNumber": 1,
-                    "FacialExpressionMasterId": 105,
-                    "BodyMotionMasterId": 4,
-                    "LipSyncMasterId": 1,
+                    "FacialExpressionMasterId": 306,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 3,
                     "SpineId": 40501,
                     "CharacterAppearanceType": 0,
                     "CharacterPosition": 3,
@@ -1370,7 +1259,7 @@
             "SpeakerIconId": "405"
         },
         {
-            "Id": 130821079,
+            "Id": 130821073,
             "EpisodeMasterId": 130821,
             "Order": 1,
             "GroupOrder": 73,

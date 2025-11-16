@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-11-16 00:07:49",
+    "LatestDate": "2025-11-16 20:33:30",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -9035,7 +9035,16 @@
                     {
                         "Id": 130820,
                         "Title": "最前列の景色",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 130821,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 130822,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 140130,
