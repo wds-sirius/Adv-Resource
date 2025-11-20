@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-11-16 21:22:40",
+    "LatestDate": "2025-11-20 18:00:45",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -7190,6 +7190,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142040,
+                        "Title": "剛毅、潔白たる義を胸に",
+                        "Episode": [
+                            {
+                                "EpisodeId": 142041,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142042,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7404,6 +7418,20 @@
                             },
                             {
                                 "EpisodeId": 141892,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 142030,
+                        "Title": "従僕、影に侍りて",
+                        "Episode": [
+                            {
+                                "EpisodeId": 142031,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142032,
                                 "Order": 2
                             }
                         ]
