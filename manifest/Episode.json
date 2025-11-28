@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-11-20 22:48:35",
+    "LatestDate": "2025-11-28 17:34:56",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4500,6 +4500,12 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20064,
+                "Title": "FASCINATE COORDINATE",
+                "Date": "2025-11-30",
+                "Episode": []
             }
         ],
         "Side": [
@@ -6579,6 +6585,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142050,
+                        "Title": "Runway Majesty",
+                        "Episode": []
                     }
                 ]
             },
@@ -6782,6 +6793,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142060,
+                        "Title": "Beauty Fragment",
+                        "Episode": []
                     }
                 ]
             },
@@ -15686,6 +15702,24 @@
                 ]
             },
             {
+                "Id": 230830,
+                "Name": "Fashionable Competition",
+                "PronounceName": "Fashionable Competition",
+                "CharacterIds": [
+                    202,
+                    204
+                ]
+            },
+            {
+                "Id": 230840,
+                "Name": "目指せ！　トップ・オブ・トナカイ！",
+                "PronounceName": "めざせ！とっぷおぶとなかい！",
+                "CharacterIds": [
+                    403,
+                    404
+                ]
+            },
+            {
                 "Id": 340010,
                 "Name": "【Birthday2025】鳳 ここな",
                 "PronounceName": "おおとりここな",
@@ -15899,6 +15933,14 @@
                 "PronounceName": "よなぐにひかり",
                 "CharacterIds": [
                     305
+                ]
+            },
+            {
+                "Id": 340380,
+                "Name": "【Birthday Night】千寿 いろは",
+                "PronounceName": "せんじゅいろは",
+                "CharacterIds": [
+                    401
                 ]
             }
         ],
