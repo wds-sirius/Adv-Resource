@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-11-28 17:34:56",
+    "LatestDate": "2025-11-30 19:15:22",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6589,7 +6589,16 @@
                     {
                         "Id": 142050,
                         "Title": "Runway Majesty",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142051,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142052,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -6797,7 +6806,16 @@
                     {
                         "Id": 142060,
                         "Title": "Beauty Fragment",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142061,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142062,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
