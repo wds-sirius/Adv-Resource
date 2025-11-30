@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-11-30 19:15:22",
+    "LatestDate": "2025-11-30 20:59:42",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4505,7 +4505,48 @@
                 "Id": 20064,
                 "Title": "FASCINATE COORDINATE",
                 "Date": "2025-11-30",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2006401,
+                        "Title": "どっちが良い？",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2006402,
+                        "Title": "それはあまりにナンセンスで",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2006403,
+                        "Title": "全身コーディネイト",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2006404,
+                        "Title": "純粋かつ無自覚",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2006405,
+                        "Title": "事前準備",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2006406,
+                        "Title": "誰が選ばれる？",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2006407,
+                        "Title": "流行とキミらしさ",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2006408,
+                        "Title": "選ばれたのは……。",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
