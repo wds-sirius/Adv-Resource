@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-11-30 20:59:42",
+    "LatestDate": "2025-12-10 03:46:47",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5716,6 +5716,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142080,
+                        "Title": "Cyber Santa Delivery!!",
+                        "Episode": []
                     }
                 ]
             },
@@ -9097,6 +9102,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142070,
+                        "Title": "聖夜は眷属たちと共に！",
+                        "Episode": []
                     }
                 ]
             },
@@ -16000,6 +16010,14 @@
                 "PronounceName": "せんじゅいろは",
                 "CharacterIds": [
                     401
+                ]
+            },
+            {
+                "Id": 340400,
+                "Name": "【Birthday Night】阿岐留 カミラ",
+                "PronounceName": "あきるかみら",
+                "CharacterIds": [
+                    403
                 ]
             }
         ],
