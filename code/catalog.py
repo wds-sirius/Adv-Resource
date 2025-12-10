@@ -29,7 +29,8 @@ if catalog_2d_hash != new_catalog_2d_hash:
 # 如果有新的就更新(cri-assets)
 if catalog_cri_hash != new_catalog_cri_hash:
     templist['crihash'] = new_catalog_cri_hash
-    catalogcri_data = requests.get(f'{WDS_Env["assetUrl"]}/cri-assets/Android/{WDS_Env["assetVersion"]}/catalog_{WDS_Env["assetVersion"]}.json').json()
+    catalogcri_data_raw = requests.get(f'{WDS_Env["assetUrl"]}/cri-assets/Android/{WDS_Env["assetVersion"]}/catalog_{WDS_Env["assetVersion"]}.json')
+    catalogcri_data = catalogcri_data_raw.json()
     catalogcri_json = {
         'm_InternalIds' : catalogcri_data['m_InternalIds'],
         'm_InternalIdPrefixes' : catalogcri_data['m_InternalIdPrefixes'],
