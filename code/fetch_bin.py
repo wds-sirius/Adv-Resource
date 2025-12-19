@@ -198,8 +198,12 @@ if os.path.exists(os.path.join(manifest_dir, 'Episode.json')):
 eptemplist = open(os.path.join('./_temp', 'epTemp.txt'), 'r')
 binlist = {}
 for bin in eptemplist:
-    binId = bin.split('_')
-    binlist[binId[0]] = bin.rstrip('\n').split('.bin')[0]
+    binId = bin.split('_')[0].rstrip('\n')
+    if binId != '':
+        binlist[binId] = bin.rstrip('\n').split('.bin')[0].rstrip()
+
+# get episode bin cache
+allBinCachelist = json.load(open(os.path.join(manifest_dir, 'BinHash.json'), 'rb'))
 
 # ------------------------ Main Episode ------------------------
 # 生成主線資訊
@@ -246,6 +250,7 @@ if masterlistres.status_code == 200:
                         to_json = createFormat(data["Id"], 1, data["Order"], chaptertitle, data["Title"], addedKeyData, orderlist)
                         json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
                         open(os.path.join(EPBase_dir, f'{data["Id"]}.json'), "w", encoding='utf8').write(json_data)
+                        allBinCachelist[str(data["Id"])] = binlist[str(data["Id"])]
                         del binlist[str(data["Id"])]
                     # 檢查列表中是否存在
                     Isexit = [item for item in GroupIsexit["Episode"] if item.get('EpisodeId') == data["Id"]]
@@ -317,6 +322,7 @@ if masterlistres.status_code == 200:
                         to_json = createFormat(data["Id"], 2, data["Order"], GroupIsexit['Title'], data["Title"], addedKeyData, orderlist)
                         json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
                         open(os.path.join(EPBase_dir, f'{data["Id"]}.json'), "w", encoding='utf8').write(json_data)
+                        allBinCachelist[str(data["Id"])] = binlist[str(data["Id"])]
                         del binlist[str(data["Id"])]
                     # 檢查列表中是否存在
                     Isexit = [item for item in GroupIsexit["Episode"] if item.get('EpisodeId') == data["Id"]]
@@ -394,6 +400,7 @@ if masterlistres.status_code == 200:
                             to_json = createFormat(ep["EpisodeMasterId"], 3, orderToNum[ep["EpisodeOrder"]] , None, group["Title"], addedKeyData, orderlist)
                             json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
                             open(os.path.join(EPBase_dir, f'{ep["EpisodeMasterId"]}.json'), "w", encoding='utf8').write(json_data)
+                            allBinCachelist[str(ep["EpisodeMasterId"])] = binlist[str(ep["EpisodeMasterId"])]
                             del binlist[str(ep["EpisodeMasterId"])]
                         # 檢查列表中是否存在
                         Isexit = [item for item in group["Episode"] if item.get('EpisodeId') == ep["EpisodeMasterId"]]
@@ -439,6 +446,7 @@ if masterlistres.status_code == 200:
                     to_json = createFormat(data["EpisodeMasterId"], 4, 1, None ,data["Title"], addedKeyData, [])
                     json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
                     open(os.path.join(EPBase_dir, f'{data["EpisodeMasterId"]}.json'), "w", encoding='utf8').write(json_data)
+                    allBinCachelist[str(data["EpisodeMasterId"])] = binlist[str(data["EpisodeMasterId"])]
                     del binlist[str(data["EpisodeMasterId"])]
                 # 檢查列表中是否存在
                 Isexit = [item for item in GameStoryMasterlist["StoryMaster"]["Spot"] if item.get('EpisodeId') == data["EpisodeMasterId"]]
@@ -555,6 +563,7 @@ if masterlistres.status_code == 200:
                         to_json = createFormat(data["Id"], 6, 1, GroupIsexit["Title"], data["Title"], addedKeyData, orderlist)
                         json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
                         open(os.path.join(EPBase_dir, f'{data["Id"]}.json'), "w", encoding='utf8').write(json_data)
+                        allBinCachelist[str(data["Id"])] = binlist[str(data["Id"])]
                         del binlist[str(data["Id"])]
                     Isexit = [item for item in GroupIsexit["Episode"] if item.get('EpisodeId') == data["Id"]]
                     if not len(Isexit) > 0:
@@ -591,6 +600,11 @@ if HasUpdate or Side_Update or Poster_Update:
 bintempfile = open(os.path.join('./_temp', 'epTemp.txt'), "w", encoding='utf8')
 for binId in binlist:
     bintempfile.write(binlist[binId] + '\n')
+
+# seve the bin cache
+allBinCachelist = dict(sorted(allBinCachelist.items(), key=lambda item: int(item[0])))
+out_bin_data = json.dumps(allBinCachelist, indent=4, ensure_ascii=False)
+open(os.path.join(manifest_dir, 'BinHash.json'), "w", encoding='utf8').write(out_bin_data)
 
 GameStoryMasterlist['ScriptVersion'] = script_version
 json_data = json.dumps(GameStoryMasterlist, indent=4, ensure_ascii=False)
