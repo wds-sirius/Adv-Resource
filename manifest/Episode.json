@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-12-19 20:13:45",
+    "LatestDate": "2025-12-20 19:10:40",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -7337,7 +7337,16 @@
                     {
                         "Id": 142090,
                         "Title": "死闘の後、盃を手に",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142091,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142092,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -8049,7 +8058,16 @@
                     {
                         "Id": 142100,
                         "Title": "嫉鬼、橋にて哄笑す",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142101,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142102,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
