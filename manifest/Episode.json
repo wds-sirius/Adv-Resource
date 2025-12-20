@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-12-20 19:10:40",
+    "LatestDate": "2025-12-21 03:42:53",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -1214,6 +1214,46 @@
                         "EpisodeId": 1030416,
                         "Title": "為すべきを知る",
                         "Order": 16
+                    },
+                    {
+                        "EpisodeId": 1030417,
+                        "Title": "たどり着いた答え",
+                        "Order": 17
+                    },
+                    {
+                        "EpisodeId": 1030418,
+                        "Title": "一陽来復",
+                        "Order": 18
+                    },
+                    {
+                        "EpisodeId": 1030419,
+                        "Title": "兆し",
+                        "Order": 19
+                    },
+                    {
+                        "EpisodeId": 1030420,
+                        "Title": "目覚める光",
+                        "Order": 20
+                    },
+                    {
+                        "EpisodeId": 1030421,
+                        "Title": "並び立つ星",
+                        "Order": 21
+                    },
+                    {
+                        "EpisodeId": 1030422,
+                        "Title": "煌めく銀河",
+                        "Order": 22
+                    },
+                    {
+                        "EpisodeId": 1030423,
+                        "Title": "銀河のダイスター誕生",
+                        "Order": 23
+                    },
+                    {
+                        "EpisodeId": 1030424,
+                        "Title": "銀河のひずみ",
+                        "Order": 24
                     }
                 ]
             },
