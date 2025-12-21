@@ -3559,7 +3559,7 @@
         "Id": 141281,
         "Character": "津島善子",
         "CardName": "ようこそ不思議なこの国へ",
-        "Title": "魔都．東京へようこそ",
+        "Title": "魔都・東京へようこそ",
         "EpisodeOrder": 1
     },
     {
@@ -4245,14 +4245,14 @@
         "Id": 141771,
         "Character": "阿岐留カミラ",
         "CardName": "Tropical Spa Time",
-        "Title": "",
+        "Title": "さあ、勉強輪廻の始まりだ！",
         "EpisodeOrder": 1
     },
     {
         "Id": 141772,
         "Character": "阿岐留カミラ",
         "CardName": "Tropical Spa Time",
-        "Title": "",
+        "Title": "地獄の合宿早速脱出！",
         "EpisodeOrder": 2
     },
     {
@@ -4266,7 +4266,7 @@
         "Id": 141782,
         "Character": "萬容",
         "CardName": "Dive to Azure!",
-        "Title": "近くで触れ会って",
+        "Title": "近くで触れ合って",
         "EpisodeOrder": 2
     },
     {
@@ -4294,14 +4294,14 @@
         "Id": 141802,
         "Character": "柳場ぱんだ",
         "CardName": "恵みの雨の下で",
-        "Title": "不穩",
+        "Title": "不穏",
         "EpisodeOrder": 2
     },
     {
         "Id": 141811,
         "Character": "リリヤ・クルトベイ",
         "CardName": "麗しく凄惨なるもの",
-        "Title": "故鄉の色は",
+        "Title": "故郷の色は",
         "EpisodeOrder": 1
     },
     {
@@ -4343,14 +4343,14 @@
         "Id": 141841,
         "Character": "柳場ぱんだ",
         "CardName": "夕暮れ、潮騒のヴィーナス",
-        "Title": "",
+        "Title": "夏といえば",
         "EpisodeOrder": 1
     },
     {
         "Id": 141842,
         "Character": "柳場ぱんだ",
         "CardName": "夕暮れ、潮騒のヴィーナス",
-        "Title": "",
+        "Title": "意外な組み合わせ",
         "EpisodeOrder": 2
     },
     {
@@ -4392,7 +4392,7 @@
         "Id": 141872,
         "Character": "本巣叶羽",
         "CardName": "アタシを起こしたの、アンタ？",
-        "Title": "迷子　to　叶羽",
+        "Title": "迷子 to 叶羽",
         "EpisodeOrder": 2
     },
     {
@@ -4406,7 +4406,7 @@
         "Id": 141882,
         "Character": "猫足蕾",
         "CardName": "彼岸花は呪い嗤う",
-        "Title": "ミステリアス．蕾",
+        "Title": "ミステリアス・蕾",
         "EpisodeOrder": 2
     },
     {
