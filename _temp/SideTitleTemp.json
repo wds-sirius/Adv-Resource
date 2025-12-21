@@ -1,0 +1,4748 @@
+[
+    {
+        "Id": 110011,
+        "Character": "鳳ここな",
+        "CardName": "シリウス",
+        "Title": "信じてくれる人",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110012,
+        "Character": "鳳ここな",
+        "CardName": "シリウス",
+        "Title": "一緒にいてくれる人",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110021,
+        "Character": "静香",
+        "CardName": "シリウス",
+        "Title": "清く正しい付き合いを",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110022,
+        "Character": "静香",
+        "CardName": "シリウス",
+        "Title": "静香とセンス",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110031,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "シリウス",
+        "Title": "自慢のママ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110032,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "シリウス",
+        "Title": "ワールドダイスター",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110041,
+        "Character": "新妻八恵",
+        "CardName": "シリウス",
+        "Title": "願いを叶える裏で",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110042,
+        "Character": "新妻八恵",
+        "CardName": "シリウス",
+        "Title": "彼女の心の内",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110051,
+        "Character": "柳場ぱんだ",
+        "CardName": "シリウス",
+        "Title": "裏に潜んだもの",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110052,
+        "Character": "柳場ぱんだ",
+        "CardName": "シリウス",
+        "Title": "言わずにはいられない",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110061,
+        "Character": "流石知冴",
+        "CardName": "シリウス",
+        "Title": "シリウス阿鼻叫喚",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110062,
+        "Character": "流石知冴",
+        "CardName": "シリウス",
+        "Title": "演劇博士、襲来",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110071,
+        "Character": "連尺野初魅",
+        "CardName": "Eden",
+        "Title": "危険な気配",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110072,
+        "Character": "連尺野初魅",
+        "CardName": "Eden",
+        "Title": "狼、襲来",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110081,
+        "Character": "烏森大黒",
+        "CardName": "Eden",
+        "Title": "大黒の知略",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110082,
+        "Character": "烏森大黒",
+        "CardName": "Eden",
+        "Title": "負け犬の行方",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110091,
+        "Character": "舎人仁花子",
+        "CardName": "Eden",
+        "Title": "襲い来る不安",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110092,
+        "Character": "舎人仁花子",
+        "CardName": "Eden",
+        "Title": "同じ気持ちを胸に",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110101,
+        "Character": "萬容",
+        "CardName": "Eden",
+        "Title": "世話焼きの憂鬱",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110102,
+        "Character": "萬容",
+        "CardName": "Eden",
+        "Title": "敵わない相手",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110111,
+        "Character": "筆島しぐれ",
+        "CardName": "Eden",
+        "Title": "子どもたちのバチバチ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110112,
+        "Character": "筆島しぐれ",
+        "CardName": "Eden",
+        "Title": "カリスマの本質",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110121,
+        "Character": "千寿暦",
+        "CardName": "銀河座",
+        "Title": "完璧なお嬢様",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110122,
+        "Character": "千寿暦",
+        "CardName": "銀河座",
+        "Title": "暦ひみつノート",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110131,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "銀河座",
+        "Title": "風紀が服着て歩いてる",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110132,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "銀河座",
+        "Title": "あま～い交換条件",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110141,
+        "Character": "王雪",
+        "CardName": "銀河座",
+        "Title": "アルバイター雪",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110142,
+        "Character": "王雪",
+        "CardName": "銀河座",
+        "Title": "何足の草鞋？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110151,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "銀河座",
+        "Title": "やりすぎ美化委員",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110152,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "銀河座",
+        "Title": "頼れる先輩",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110161,
+        "Character": "与那国緋花里",
+        "CardName": "銀河座",
+        "Title": "日々是充実",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110162,
+        "Character": "与那国緋花里",
+        "CardName": "銀河座",
+        "Title": "あの日の約束",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110171,
+        "Character": "千寿いろは",
+        "CardName": "劇団電姫",
+        "Title": "退団の危機！？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110172,
+        "Character": "千寿いろは",
+        "CardName": "劇団電姫",
+        "Title": "こりごりですよ〜っ！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110181,
+        "Character": "白丸美兎",
+        "CardName": "劇団電姫",
+        "Title": "優しい彼女",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110182,
+        "Character": "白丸美兎",
+        "CardName": "劇団電姫",
+        "Title": "おいしいお弁当を",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110191,
+        "Character": "阿岐留カミラ",
+        "CardName": "劇団電姫",
+        "Title": "キラキラ輝く",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110192,
+        "Character": "阿岐留カミラ",
+        "CardName": "劇団電姫",
+        "Title": "ビビッと来たなら",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110201,
+        "Character": "猫足蕾",
+        "CardName": "劇団電姫",
+        "Title": "学業優秀な先輩",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110202,
+        "Character": "猫足蕾",
+        "CardName": "劇団電姫",
+        "Title": "蕾先輩のナゾ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 110211,
+        "Character": "本巣叶羽",
+        "CardName": "劇団電姫",
+        "Title": "叶羽の矜持-後輩編-",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 110212,
+        "Character": "本巣叶羽",
+        "CardName": "劇団電姫",
+        "Title": "叶羽の矜持-同級生編-",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120011,
+        "Character": "鳳ここな",
+        "CardName": "夢見る少女",
+        "Title": "願いごとはなに？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120012,
+        "Character": "鳳ここな",
+        "CardName": "夢見る少女",
+        "Title": "今こそ命の洗濯を",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120021,
+        "Character": "静香",
+        "CardName": "シリウスのツッコミ",
+        "Title": "ケンカのゆくえ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120022,
+        "Character": "静香",
+        "CardName": "シリウスのツッコミ",
+        "Title": "仲直りの夜",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120031,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "ワールドダイスターの愛娘",
+        "Title": "知らなかった母の姿",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120032,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "ワールドダイスターの愛娘",
+        "Title": "決意を胸にして",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120041,
+        "Character": "新妻八恵",
+        "CardName": "天使系小学生",
+        "Title": "イヤミなあの子は同級生",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120042,
+        "Character": "新妻八恵",
+        "CardName": "天使系小学生",
+        "Title": "新妻八恵の手のひらの上",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120051,
+        "Character": "柳場ぱんだ",
+        "CardName": "腹黒計算ガール",
+        "Title": "ぱんだの日常・衝撃編",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120052,
+        "Character": "柳場ぱんだ",
+        "CardName": "腹黒計算ガール",
+        "Title": "ぱんだの日常・慟哭編",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120061,
+        "Character": "流石知冴",
+        "CardName": "シリウスの秘密兵器",
+        "Title": "なんでも平気？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120062,
+        "Character": "流石知冴",
+        "CardName": "シリウスの秘密兵器",
+        "Title": "怯える流石、笑うぱんだ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120071,
+        "Character": "連尺野初魅",
+        "CardName": "覇道の天才",
+        "Title": "大人たちの夜",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120072,
+        "Character": "連尺野初魅",
+        "CardName": "覇道の天才",
+        "Title": "鮮烈な思い出",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120081,
+        "Character": "烏森大黒",
+        "CardName": "愛憎まみれる乙女",
+        "Title": "休日の過ごし方",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120082,
+        "Character": "烏森大黒",
+        "CardName": "愛憎まみれる乙女",
+        "Title": "誰かと一緒の休日",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120091,
+        "Character": "舎人仁花子",
+        "CardName": "純真無垢な少女",
+        "Title": "お出かけの予定",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120092,
+        "Character": "舎人仁花子",
+        "CardName": "純真無垢な少女",
+        "Title": "頼りになる人がいる",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120101,
+        "Character": "萬容",
+        "CardName": "下町のアイドル",
+        "Title": "容の休日（下町編）",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120102,
+        "Character": "萬容",
+        "CardName": "下町のアイドル",
+        "Title": "容の休日（女子高生編）",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120111,
+        "Character": "筆島しぐれ",
+        "CardName": "小悪魔系小学生",
+        "Title": "気に食わないやつ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120112,
+        "Character": "筆島しぐれ",
+        "CardName": "小悪魔系小学生",
+        "Title": "師匠との出会い",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120121,
+        "Character": "千寿暦",
+        "CardName": "名家の姉",
+        "Title": "一の中傷、十の賞賛",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120122,
+        "Character": "千寿暦",
+        "CardName": "名家の姉",
+        "Title": "お気持ち表明",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120131,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "世話好き優等生",
+        "Title": "おいしいお誘い？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120132,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "世話好き優等生",
+        "Title": "イカ！イカ！イカ！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120141,
+        "Character": "王雪",
+        "CardName": "勝気な倹約家",
+        "Title": "ダブルブッキング",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120142,
+        "Character": "王雪",
+        "CardName": "勝気な倹約家",
+        "Title": "疲れた夜には",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120151,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "白銀の美少女",
+        "Title": "信じるか、信じないかは……",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120152,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "白銀の美少女",
+        "Title": "スパイシーな秘密",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120161,
+        "Character": "与那国緋花里",
+        "CardName": "元気いっぱいダンサー",
+        "Title": "心まで躍る踊りの輪",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120162,
+        "Character": "与那国緋花里",
+        "CardName": "元気いっぱいダンサー",
+        "Title": "緋花里のおでかけ日和",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120171,
+        "Character": "千寿いろは",
+        "CardName": "オタクでお嬢様",
+        "Title": "大先輩にお願い",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120172,
+        "Character": "千寿いろは",
+        "CardName": "オタクでお嬢様",
+        "Title": "実はお嬢様？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120181,
+        "Character": "白丸美兎",
+        "CardName": "内気な孝行娘",
+        "Title": "まずは小さな一歩から",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120182,
+        "Character": "白丸美兎",
+        "CardName": "内気な孝行娘",
+        "Title": "勇気を出して",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120191,
+        "Character": "阿岐留カミラ",
+        "CardName": "悟り系ギャル",
+        "Title": "人気配信者……？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120192,
+        "Character": "阿岐留カミラ",
+        "CardName": "悟り系ギャル",
+        "Title": "人気の理由は",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120201,
+        "Character": "猫足蕾",
+        "CardName": "電姫の占い師",
+        "Title": "舞台の神に選ばれし者",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120202,
+        "Character": "猫足蕾",
+        "CardName": "電姫の占い師",
+        "Title": "先輩を知りたくて",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 120211,
+        "Character": "本巣叶羽",
+        "CardName": "ぐーたら好きの天才子役",
+        "Title": "司令塔は任せて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 120212,
+        "Character": "本巣叶羽",
+        "CardName": "ぐーたら好きの天才子役",
+        "Title": "アタシがふたり……！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130011,
+        "Character": "鳳ここな",
+        "CardName": "役者としての成長",
+        "Title": "攻略難易度S",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130012,
+        "Character": "鳳ここな",
+        "CardName": "役者としての成長",
+        "Title": "撫で心地のゆくえ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130021,
+        "Character": "静香",
+        "CardName": "一番風呂のために",
+        "Title": "お風呂のパワーを信じて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130022,
+        "Character": "静香",
+        "CardName": "一番風呂のために",
+        "Title": "ゆったりのんびりリラックス",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130031,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "砕けたガラスは……",
+        "Title": "あの子との思い出",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130032,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "砕けたガラスは……",
+        "Title": "昔を知るからこそ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130041,
+        "Character": "新妻八恵",
+        "CardName": "思い出に花を咲かせて",
+        "Title": "二人きりの時間",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130042,
+        "Character": "新妻八恵",
+        "CardName": "思い出に花を咲かせて",
+        "Title": "いつかその日に",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130051,
+        "Character": "柳場ぱんだ",
+        "CardName": "トレンドは生活風景",
+        "Title": "SNSの鬼",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130052,
+        "Character": "柳場ぱんだ",
+        "CardName": "トレンドは生活風景",
+        "Title": "自分流を貫いて",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130061,
+        "Character": "流石知冴",
+        "CardName": "見てしまった……",
+        "Title": "ギャフンだけを求めて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130062,
+        "Character": "流石知冴",
+        "CardName": "見てしまった……",
+        "Title": "伝えたい想い、伝わった想い",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130071,
+        "Character": "連尺野初魅",
+        "CardName": "新たな日常",
+        "Title": "傍若無人な女神",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130072,
+        "Character": "連尺野初魅",
+        "CardName": "新たな日常",
+        "Title": "手に入れたもの",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130081,
+        "Character": "烏森大黒",
+        "CardName": "恨みをつづって",
+        "Title": "青天の霹靂",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130082,
+        "Character": "烏森大黒",
+        "CardName": "恨みをつづって",
+        "Title": "恨み骨髄",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130091,
+        "Character": "舎人仁花子",
+        "CardName": "都会ってすごい！",
+        "Title": "無垢になるということ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130092,
+        "Character": "舎人仁花子",
+        "CardName": "都会ってすごい！",
+        "Title": "無垢であるということ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130101,
+        "Character": "萬容",
+        "CardName": "ここいらでひとつ、大勝負",
+        "Title": "神か悪魔か",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130102,
+        "Character": "萬容",
+        "CardName": "ここいらでひとつ、大勝負",
+        "Title": "容の賭け",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130111,
+        "Character": "筆島しぐれ",
+        "CardName": "体育なんて滅びちゃえ！",
+        "Title": "先輩の助言",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130112,
+        "Character": "筆島しぐれ",
+        "CardName": "体育なんて滅びちゃえ！",
+        "Title": "ここはパッションで！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130121,
+        "Character": "千寿暦",
+        "CardName": "お嬢様のオフタイム",
+        "Title": "決戦の日",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130122,
+        "Character": "千寿暦",
+        "CardName": "お嬢様のオフタイム",
+        "Title": "感想会",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130131,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "世話焼きは果てしなく",
+        "Title": "役立ちたい！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130132,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "世話焼きは果てしなく",
+        "Title": "仕方がない人",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130141,
+        "Character": "王雪",
+        "CardName": "あるのは勝ちだけ",
+        "Title": "時短と二度手間",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130142,
+        "Character": "王雪",
+        "CardName": "あるのは勝ちだけ",
+        "Title": "目指すべき金の星",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130151,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "自然な一日",
+        "Title": "温泉へ行こう！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130152,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "自然な一日",
+        "Title": "リリヤ式ルーティーン",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130161,
+        "Character": "与那国緋花里",
+        "CardName": "踊ればなんくるない！",
+        "Title": "つかの間のオフタイム",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130162,
+        "Character": "与那国緋花里",
+        "CardName": "踊ればなんくるない！",
+        "Title": "夢のコラボ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130171,
+        "Character": "千寿いろは",
+        "CardName": "来ちゃいました！",
+        "Title": "ドキドキに飛び込もう",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130172,
+        "Character": "千寿いろは",
+        "CardName": "来ちゃいました！",
+        "Title": "ドキドキのあとは",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130181,
+        "Character": "白丸美兎",
+        "CardName": "まさかのお客様",
+        "Title": "意外なお客様",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130182,
+        "Character": "白丸美兎",
+        "CardName": "まさかのお客様",
+        "Title": "お手伝いと演技と",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130191,
+        "Character": "阿岐留カミラ",
+        "CardName": "新作お菓子レビュー",
+        "Title": "波乱の予感？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130192,
+        "Character": "阿岐留カミラ",
+        "CardName": "新作お菓子レビュー",
+        "Title": "波乱に見まわれたのは",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130201,
+        "Character": "猫足蕾",
+        "CardName": "悪鬼退散っ！",
+        "Title": "混沌に満ちた街",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130202,
+        "Character": "猫足蕾",
+        "CardName": "悪鬼退散っ！",
+        "Title": "悪鬼退散っ！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130211,
+        "Character": "本巣叶羽",
+        "CardName": "先輩の本気",
+        "Title": "ここは先輩の矜持を",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130212,
+        "Character": "本巣叶羽",
+        "CardName": "先輩の本気",
+        "Title": "厄介な後輩たち",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130221,
+        "Character": "萬容",
+        "CardName": "頼れる先輩",
+        "Title": "壁際のあの子",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130222,
+        "Character": "萬容",
+        "CardName": "頼れる先輩",
+        "Title": "アタシを信じて",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130231,
+        "Character": "千寿いろは",
+        "CardName": "最後はBBQ！",
+        "Title": "それが、おむすび",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130232,
+        "Character": "千寿いろは",
+        "CardName": "最後はBBQ！",
+        "Title": "しんみりにはまだ早い！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130241,
+        "Character": "流石知冴",
+        "CardName": "流石の釣り名人",
+        "Title": "嘘かまことか冗談か",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130242,
+        "Character": "流石知冴",
+        "CardName": "流石の釣り名人",
+        "Title": "オオカミ少女、流石？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130251,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "手に入れたいのは……",
+        "Title": "手のかかる兄さん？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130252,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "手に入れたいのは……",
+        "Title": "家族思いの妹",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130261,
+        "Character": "猫足蕾",
+        "CardName": "水晶玉に映る未来",
+        "Title": "運命が示す未来は……",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130262,
+        "Character": "猫足蕾",
+        "CardName": "水晶玉に映る未来",
+        "Title": "禁断の扉はすぐそばに",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130271,
+        "Character": "鳳ここな",
+        "CardName": "負けられない一戦",
+        "Title": "体育祭といえば？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130272,
+        "Character": "鳳ここな",
+        "CardName": "負けられない一戦",
+        "Title": "幸せのお裾分け",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130281,
+        "Character": "千寿いろは",
+        "CardName": "お姉ちゃんが心配です",
+        "Title": "何かしてあげたい！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130282,
+        "Character": "千寿いろは",
+        "CardName": "お姉ちゃんが心配です",
+        "Title": "無力な僕にできる精一杯",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130291,
+        "Character": "阿岐留カミラ",
+        "CardName": "ほら、帰ろ？",
+        "Title": "旅ならではのごちそうを",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130292,
+        "Character": "阿岐留カミラ",
+        "CardName": "ほら、帰ろ？",
+        "Title": "美味しいの代償は",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130301,
+        "Character": "柳場ぱんだ",
+        "CardName": "ぱんだ with パンダ！",
+        "Title": "可愛くて深いパンダ沼！？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130302,
+        "Character": "柳場ぱんだ",
+        "CardName": "ぱんだ with パンダ！",
+        "Title": "こっちのぱんだも",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130311,
+        "Character": "本巣叶羽",
+        "CardName": "仲間のために",
+        "Title": "その評価、納得いかず",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130312,
+        "Character": "本巣叶羽",
+        "CardName": "仲間のために",
+        "Title": "今はまだ、冬眠中だけど",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130321,
+        "Character": "与那国緋花里",
+        "CardName": "ん～っ！　デリシャス！",
+        "Title": "クリスマスを守りたい！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130322,
+        "Character": "与那国緋花里",
+        "CardName": "ん～っ！　デリシャス！",
+        "Title": "料理は1日にしてならず",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130331,
+        "Character": "新妻八恵",
+        "CardName": "いっしょに遊びませんか？",
+        "Title": "先生はあの子",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130332,
+        "Character": "新妻八恵",
+        "CardName": "いっしょに遊びませんか？",
+        "Title": "心を掴む一言",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130341,
+        "Character": "連尺野初魅",
+        "CardName": "その目をよく見せてくれ",
+        "Title": "彼女の求めるもの",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130342,
+        "Character": "連尺野初魅",
+        "CardName": "その目をよく見せてくれ",
+        "Title": "強欲な演出家",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130351,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "ファントムの面影を宿す天才",
+        "Title": "あの子の大切なもの",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130352,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "ファントムの面影を宿す天才",
+        "Title": "アタシの大切なもの",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130361,
+        "Character": "白丸美兎",
+        "CardName": "ど、どどど、どうしよう！",
+        "Title": "ぐるぐるなきもち",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130362,
+        "Character": "白丸美兎",
+        "CardName": "ど、どどど、どうしよう！",
+        "Title": "ぽかぽかなこころ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130371,
+        "Character": "千寿暦",
+        "CardName": "さあ、どうぞ",
+        "Title": "泥沼なサプライズ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130372,
+        "Character": "千寿暦",
+        "CardName": "さあ、どうぞ",
+        "Title": "役作りの一環です！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130381,
+        "Character": "静香",
+        "CardName": "開運は実力よね！",
+        "Title": "舞い降りた豪運",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130382,
+        "Character": "静香",
+        "CardName": "開運は実力よね！",
+        "Title": "幸せすぎて怖い？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130391,
+        "Character": "烏森大黒",
+        "CardName": "しょうがないわね",
+        "Title": "柄にもないこと",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130392,
+        "Character": "烏森大黒",
+        "CardName": "しょうがないわね",
+        "Title": "優しさの代償",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130401,
+        "Character": "新妻八恵",
+        "CardName": "口いっぱいに広がる海の味",
+        "Title": "カッコいいとは",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130402,
+        "Character": "新妻八恵",
+        "CardName": "口いっぱいに広がる海の味",
+        "Title": "底知れぬ情熱",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130421,
+        "Character": "筆島しぐれ",
+        "CardName": "どれにしようかな？",
+        "Title": "喧騒の後で",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130422,
+        "Character": "筆島しぐれ",
+        "CardName": "どれにしようかな？",
+        "Title": "知らなかった美味しさ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130431,
+        "Character": "白丸美兎",
+        "CardName": "みんなが大切だからこそ",
+        "Title": "よきにはからえ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130432,
+        "Character": "白丸美兎",
+        "CardName": "みんなが大切だからこそ",
+        "Title": "電姫満喫♪　叶羽消耗↓",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130451,
+        "Character": "柳場ぱんだ",
+        "CardName": "言うだけタダですし！",
+        "Title": "伝説のヤシの木？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130452,
+        "Character": "柳場ぱんだ",
+        "CardName": "言うだけタダですし！",
+        "Title": "これさえあれば！？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130461,
+        "Character": "舎人仁花子",
+        "CardName": "おずおずスクロール",
+        "Title": "あの子の心の中は",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130462,
+        "Character": "舎人仁花子",
+        "CardName": "おずおずスクロール",
+        "Title": "純粋培養の距離",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130471,
+        "Character": "王雪",
+        "CardName": "伝統料理で勝負だ！",
+        "Title": "リベンジマッチはお弁当",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130472,
+        "Character": "王雪",
+        "CardName": "伝統料理で勝負だ！",
+        "Title": "こだわりは愛情の証",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130481,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "別に心配なんか……",
+        "Title": "花見の醍醐味",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130482,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "別に心配なんか……",
+        "Title": "迫真の芸",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130491,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "リラックス・ナイト・タイム",
+        "Title": "美しい客人",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130492,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "リラックス・ナイト・タイム",
+        "Title": "目をそらせない人",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130501,
+        "Character": "連尺野初魅",
+        "CardName": "勝手なことは許さない",
+        "Title": "Edenの空気",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130502,
+        "Character": "連尺野初魅",
+        "CardName": "勝手なことは許さない",
+        "Title": "期待と不安",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130511,
+        "Character": "静香",
+        "CardName": "3分だけだからね！",
+        "Title": "シリウス・コーデ論",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130512,
+        "Character": "静香",
+        "CardName": "3分だけだからね！",
+        "Title": "お揃いの夢",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130521,
+        "Character": "流石知冴",
+        "CardName": "雨上がりを演じて",
+        "Title": "流石主催の即興劇",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130522,
+        "Character": "流石知冴",
+        "CardName": "雨上がりを演じて",
+        "Title": "流石とここなと探偵と",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130531,
+        "Character": "千寿暦",
+        "CardName": "食べちゃうぞ～！",
+        "Title": "バズりの秘訣",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130532,
+        "Character": "千寿暦",
+        "CardName": "食べちゃうぞ～！",
+        "Title": "バズ神様の恵み",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130541,
+        "Character": "阿岐留カミラ",
+        "CardName": "友達なのに／だから",
+        "Title": "世界は幸せに溢れてる！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130542,
+        "Character": "阿岐留カミラ",
+        "CardName": "友達なのに／だから",
+        "Title": "ハッピーばんない！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130551,
+        "Character": "猫足蕾",
+        "CardName": "踏みにじられた者の怒り",
+        "Title": "上手いやり方",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130552,
+        "Character": "猫足蕾",
+        "CardName": "踏みにじられた者の怒り",
+        "Title": "蕾の教え",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130561,
+        "Character": "本巣叶羽",
+        "CardName": "フラワー・テンペスト",
+        "Title": "節分の鬼人族",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130562,
+        "Character": "本巣叶羽",
+        "CardName": "フラワー・テンペスト",
+        "Title": "よき来年を願って",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130571,
+        "Character": "与那国緋花里",
+        "CardName": "茜染め・世界征服",
+        "Title": "着てみたいあの子",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130572,
+        "Character": "与那国緋花里",
+        "CardName": "茜染め・世界征服",
+        "Title": "緋花里、上野征服計画？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130581,
+        "Character": "烏森大黒",
+        "CardName": "私よりふさわしい人",
+        "Title": "掛け値なしの称賛",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130582,
+        "Character": "烏森大黒",
+        "CardName": "私よりふさわしい人",
+        "Title": "精一杯のワガママ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130591,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "小指をからめて",
+        "Title": "互いに甘え合う関係",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130592,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "小指をからめて",
+        "Title": "変わっていく姉",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130601,
+        "Character": "舎人仁花子",
+        "CardName": "本日晴天、プール日和",
+        "Title": "ツンとしてる、プールの水",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130602,
+        "Character": "舎人仁花子",
+        "CardName": "本日晴天、プール日和",
+        "Title": "ついすてっどかいんどねす",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130611,
+        "Character": "萬容",
+        "CardName": "ゆらゆらリラクゼーション",
+        "Title": "容としぐれのショッピング",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130612,
+        "Character": "萬容",
+        "CardName": "ゆらゆらリラクゼーション",
+        "Title": "ワクワクが溢れてる",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130621,
+        "Character": "鳳ここな",
+        "CardName": "ひとくちシェアしよう？",
+        "Title": "納得できないホームワーク",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130622,
+        "Character": "鳳ここな",
+        "CardName": "ひとくちシェアしよう？",
+        "Title": "異国語サバイバル",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130631,
+        "Character": "王雪",
+        "CardName": "合理的なアドバイス",
+        "Title": "身の丈に合ったものを",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130632,
+        "Character": "王雪",
+        "CardName": "合理的なアドバイス",
+        "Title": "有意義でロクでもない休日",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130641,
+        "Character": "千寿いろは",
+        "CardName": "お団子と放課後と",
+        "Title": "団子コロコロ、電姫祭",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130642,
+        "Character": "千寿いろは",
+        "CardName": "お団子と放課後と",
+        "Title": "買い出しは誤算だらけ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130651,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "グレートリッパー・オーダー",
+        "Title": "お祭り騒ぎの後",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130652,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "グレートリッパー・オーダー",
+        "Title": "もう一度、撩乱乙女！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130661,
+        "Character": "新妻八恵",
+        "CardName": "お話、聞きましょうか？",
+        "Title": "八恵の不安",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130662,
+        "Character": "新妻八恵",
+        "CardName": "お話、聞きましょうか？",
+        "Title": "テレーゼの願い",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130671,
+        "Character": "与那国緋花里",
+        "CardName": "美味しいはシェアしないと！",
+        "Title": "頑張り屋さんにご馳走樣を",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130672,
+        "Character": "与那国緋花里",
+        "CardName": "美味しいはシェアしないと！",
+        "Title": "肉を喰らわば一蓮托生",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130681,
+        "Character": "筆島しぐれ",
+        "CardName": "一番大事にすべきもの",
+        "Title": "にじりよる不安",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130682,
+        "Character": "筆島しぐれ",
+        "CardName": "一番大事にすべきもの",
+        "Title": "自分なりの何かを探して",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130691,
+        "Character": "柳場ぱんだ",
+        "CardName": "きゃー、こわーい！",
+        "Title": "気になる感想",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130692,
+        "Character": "柳場ぱんだ",
+        "CardName": "きゃー、こわーい！",
+        "Title": "ぱんだ流のやり方",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130701,
+        "Character": "柳場ぱんだ",
+        "CardName": "社長業もおしゃまにね！",
+        "Title": "柳場ぱんだは忙しい",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130702,
+        "Character": "柳場ぱんだ",
+        "CardName": "社長業もおしゃまにね！",
+        "Title": "将来なりたいもの",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130711,
+        "Character": "連尺野初魅",
+        "CardName": "何度でも熱く、自由に",
+        "Title": "東京観光エスコート",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130712,
+        "Character": "連尺野初魅",
+        "CardName": "何度でも熱く、自由に",
+        "Title": "エチュードも特盛で",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130721,
+        "Character": "千寿暦",
+        "CardName": "いつもと違うわたくし",
+        "Title": "悩むゼロワン",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130722,
+        "Character": "千寿暦",
+        "CardName": "いつもと違うわたくし",
+        "Title": "完璧な旅行プラン",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130731,
+        "Character": "萬容",
+        "CardName": "ぴったりなプレゼントを探して",
+        "Title": "クリスマスの空気",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130732,
+        "Character": "萬容",
+        "CardName": "ぴったりなプレゼントを探して",
+        "Title": "Edenに吹き込む風",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130741,
+        "Character": "流石知冴",
+        "CardName": "尾行、キタキツネのように",
+        "Title": "クリスマス前の贈り物",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130742,
+        "Character": "流石知冴",
+        "CardName": "尾行、キタキツネのように",
+        "Title": "みんなで作る雪化粧",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130751,
+        "Character": "舎人仁花子",
+        "CardName": "あつあつ、いただきます",
+        "Title": "明けましての無礼講",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130752,
+        "Character": "舎人仁花子",
+        "CardName": "あつあつ、いただきます",
+        "Title": "大好きな場所だから",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130761,
+        "Character": "静香",
+        "CardName": "マスカレイドな恋愛劇",
+        "Title": "仮面に隠した心",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130762,
+        "Character": "静香",
+        "CardName": "マスカレイドな恋愛劇",
+        "Title": "マスカレイドなノリで",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130771,
+        "Character": "王雪",
+        "CardName": "とろける極楽気分",
+        "Title": "くつろぎのひとときを",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130772,
+        "Character": "王雪",
+        "CardName": "とろける極楽気分",
+        "Title": "孤独の湯船",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130781,
+        "Character": "新妻八恵",
+        "CardName": "素敵な思い、受け取りました！",
+        "Title": "緊張と興奮と",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130782,
+        "Character": "新妻八恵",
+        "CardName": "素敵な思い、受け取りました！",
+        "Title": "語り合う少女達",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130791,
+        "Character": "王雪",
+        "CardName": "得意のセールストーク！",
+        "Title": "美味い・多い・安い",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130792,
+        "Character": "王雪",
+        "CardName": "得意のセールストーク！",
+        "Title": "美肌・美声・美脚",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130801,
+        "Character": "連尺野初魅",
+        "CardName": "助手席、空いているぞ",
+        "Title": "私の部屋キャン　前編",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130802,
+        "Character": "連尺野初魅",
+        "CardName": "助手席、空いているぞ",
+        "Title": "私の部屋キャン　後編",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130811,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "穏やかな昼下がり",
+        "Title": "誰にも縛られない",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130812,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "穏やかな昼下がり",
+        "Title": "まっさらな自由を求めて",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130821,
+        "Character": "本巣叶羽",
+        "CardName": "最前列の景色",
+        "Title": "巻き込まれるのはイヤ！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130822,
+        "Character": "本巣叶羽",
+        "CardName": "最前列の景色",
+        "Title": "これぞ本職！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130831,
+        "Character": "静香",
+        "CardName": "無邪気な称賛",
+        "Title": "二人の役者",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130832,
+        "Character": "静香",
+        "CardName": "無邪気な称賛",
+        "Title": "並び立つ喜び",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130841,
+        "Character": "猫足蕾",
+        "CardName": "数式はここに当てはめて……",
+        "Title": "見守る者",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130842,
+        "Character": "猫足蕾",
+        "CardName": "数式はここに当てはめて……",
+        "Title": "その世界こそ望みしもの",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130851,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "髪を撫でられ……",
+        "Title": "慣れない二人",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130852,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "髪を撫でられ……",
+        "Title": "美を思う",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130861,
+        "Character": "与那国緋花里",
+        "CardName": "気分はプロフェッショナル！",
+        "Title": "あの花の名は？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130862,
+        "Character": "与那国緋花里",
+        "CardName": "気分はプロフェッショナル！",
+        "Title": "咲く花は違えども",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130871,
+        "Character": "鳳ここな",
+        "CardName": "変わるあの子を見て",
+        "Title": "Angry？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130872,
+        "Character": "鳳ここな",
+        "CardName": "変わるあの子を見て",
+        "Title": "Rabbit it！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130881,
+        "Character": "筆島しぐれ",
+        "CardName": "ピースメーカーは追い求める",
+        "Title": "聞きたかったピアノ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130882,
+        "Character": "筆島しぐれ",
+        "CardName": "ピースメーカーは追い求める",
+        "Title": "ゲームセンターに行こう！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130891,
+        "Character": "千寿暦",
+        "CardName": "料理も一流……？",
+        "Title": "お弁当は愛らしい！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130892,
+        "Character": "千寿暦",
+        "CardName": "料理も一流……？",
+        "Title": "味の深淵（ふか）みへーー",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130901,
+        "Character": "烏森大黒",
+        "CardName": "主の過去を知り……",
+        "Title": "創造しがたい悲しみ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130902,
+        "Character": "烏森大黒",
+        "CardName": "主の過去を知り……",
+        "Title": "いつまでもそばに",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130911,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "空想式場",
+        "Title": "私を挙式につれてって",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130912,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "空想式場",
+        "Title": "着こなせない美しさ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 130921,
+        "Character": "阿岐留カミラ",
+        "CardName": "演習の後はひとやすみ",
+        "Title": "可愛いだけじゃないあの子",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 130922,
+        "Character": "阿岐留カミラ",
+        "CardName": "演習の後はひとやすみ",
+        "Title": "乙女の嗜み",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140011,
+        "Character": "鳳ここな",
+        "CardName": "悲哀と恋慕の旋律",
+        "Title": "目指す先は",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140012,
+        "Character": "鳳ここな",
+        "CardName": "悲哀と恋慕の旋律",
+        "Title": "ここが帰る場所",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140021,
+        "Character": "新妻八恵",
+        "CardName": "大切で大好きな劇団",
+        "Title": "心の中を再確認して",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140022,
+        "Character": "新妻八恵",
+        "CardName": "大切で大好きな劇団",
+        "Title": "ライバルたちと",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140031,
+        "Character": "柳場ぱんだ",
+        "CardName": "あなたをお待ちしておりました",
+        "Title": "あなたの言葉だから",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140032,
+        "Character": "柳場ぱんだ",
+        "CardName": "あなたをお待ちしておりました",
+        "Title": "意図せぬスナイパー",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140041,
+        "Character": "流石知冴",
+        "CardName": "君を求めていた",
+        "Title": "ぶつかり合い",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140042,
+        "Character": "流石知冴",
+        "CardName": "君を求めていた",
+        "Title": "腐れ縁",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140051,
+        "Character": "舎人仁花子",
+        "CardName": "純真無垢な笑顔",
+        "Title": "予想外のセンス",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140052,
+        "Character": "舎人仁花子",
+        "CardName": "純真無垢な笑顔",
+        "Title": "良さを活かして",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140061,
+        "Character": "萬容",
+        "CardName": "満たされない心",
+        "Title": "経験の深さ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140062,
+        "Character": "萬容",
+        "CardName": "満たされない心",
+        "Title": "求めても届かないなら",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140071,
+        "Character": "筆島しぐれ",
+        "CardName": "吸血しちゃうぞっ♪",
+        "Title": "彼女流のファンサ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140072,
+        "Character": "筆島しぐれ",
+        "CardName": "吸血しちゃうぞっ♪",
+        "Title": "しぐれの強さ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140081,
+        "Character": "千寿暦",
+        "CardName": "幼き日の情景",
+        "Title": "究極の模倣",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140082,
+        "Character": "千寿暦",
+        "CardName": "幼き日の情景",
+        "Title": "スカウト失敗？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140091,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "かつての友との別れ",
+        "Title": "秘密のお願い",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140092,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "かつての友との別れ",
+        "Title": "君と私の色",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140101,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "オーロラの精霊",
+        "Title": "危険な？お姉さん",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140102,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "オーロラの精霊",
+        "Title": "古き星、新しき銀河",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140111,
+        "Character": "千寿いろは",
+        "CardName": "私を見守る大切な蝶",
+        "Title": "おかえりなさいませっ！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140112,
+        "Character": "千寿いろは",
+        "CardName": "私を見守る大切な蝶",
+        "Title": "特盛のラブをお届けっ！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140121,
+        "Character": "白丸美兎",
+        "CardName": "世界が色づくその瞬間",
+        "Title": "鑑賞会をしよう！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140122,
+        "Character": "白丸美兎",
+        "CardName": "世界が色づくその瞬間",
+        "Title": "諸刃の憑依！？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140131,
+        "Character": "本巣叶羽",
+        "CardName": "月下の神秘",
+        "Title": "叶羽のスイッチ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140132,
+        "Character": "本巣叶羽",
+        "CardName": "月下の神秘",
+        "Title": "プライドを演技に",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140141,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "憧れに思いを馳せて",
+        "Title": "ダイスターの立ち位置",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140142,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "憧れに思いを馳せて",
+        "Title": "決意表明！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140151,
+        "Character": "烏森大黒",
+        "CardName": "狂気の果ての虚無",
+        "Title": "主と私",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140152,
+        "Character": "烏森大黒",
+        "CardName": "狂気の果ての虚無",
+        "Title": "傾慕を力に",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140161,
+        "Character": "連尺野初魅",
+        "CardName": "悪意に満ちた観察者",
+        "Title": "光の輝き",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140162,
+        "Character": "連尺野初魅",
+        "CardName": "悪意に満ちた観察者",
+        "Title": "彼女の輝き",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140171,
+        "Character": "猫足蕾",
+        "CardName": "追想の帰路",
+        "Title": "エレクトリックサマー！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140172,
+        "Character": "猫足蕾",
+        "CardName": "追想の帰路",
+        "Title": "エレクトリックバレー！？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140181,
+        "Character": "阿岐留カミラ",
+        "CardName": "茜海に満たされて",
+        "Title": "最高の一着を求めて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140182,
+        "Character": "阿岐留カミラ",
+        "CardName": "茜海に満たされて",
+        "Title": "最高の夏、計画中",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140191,
+        "Character": "新妻八恵",
+        "CardName": "お口に合いますように♪",
+        "Title": "ダイスターの重み？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140192,
+        "Character": "新妻八恵",
+        "CardName": "お口に合いますように♪",
+        "Title": "ダイスターのジョーク？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140201,
+        "Character": "静香",
+        "CardName": "マジカル☆スイーツ",
+        "Title": "たまにはイタズラを",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140202,
+        "Character": "静香",
+        "CardName": "マジカル☆スイーツ",
+        "Title": "舐めないでよね",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140211,
+        "Character": "王雪",
+        "CardName": "夜市の王",
+        "Title": "お姉ちゃんは魔法使い",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140212,
+        "Character": "王雪",
+        "CardName": "夜市の王",
+        "Title": "銀河座姉妹計画！？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140221,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "妖艶に誘われて",
+        "Title": "とこよかくりよ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140222,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "妖艶に誘われて",
+        "Title": "うつしよとこころ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140241,
+        "Character": "白丸美兎",
+        "CardName": "光さす世界に",
+        "Title": "あの日と同じ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140242,
+        "Character": "白丸美兎",
+        "CardName": "光さす世界に",
+        "Title": "あの日の先で",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140251,
+        "Character": "千寿いろは",
+        "CardName": "移りゆく世界の中で",
+        "Title": "彼女を信じて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140252,
+        "Character": "千寿いろは",
+        "CardName": "移りゆく世界の中で",
+        "Title": "ヒーローは遅れてくるもの",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140261,
+        "Character": "舎人仁花子",
+        "CardName": "アオハル応援団長",
+        "Title": "祭の後で",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140262,
+        "Character": "舎人仁花子",
+        "CardName": "アオハル応援団長",
+        "Title": "仁花子の持つ輝き",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140271,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "Pretty Cheer Girl",
+        "Title": "あなたにとって私って？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140272,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "Pretty Cheer Girl",
+        "Title": "距離感だけなら友達？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140281,
+        "Character": "千寿暦",
+        "CardName": "月光が映し出す罪と後悔",
+        "Title": "千秋楽の夜に",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140282,
+        "Character": "千寿暦",
+        "CardName": "月光が映し出す罪と後悔",
+        "Title": "雨垂れ石を穿つ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140291,
+        "Character": "連尺野初魅",
+        "CardName": "甘美なる悪逆へ誘おう",
+        "Title": "時には青臭い思い出話を",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140292,
+        "Character": "連尺野初魅",
+        "CardName": "甘美なる悪逆へ誘おう",
+        "Title": "今は別々の道を歩んで",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140301,
+        "Character": "柳場ぱんだ",
+        "CardName": "綾錦の月影",
+        "Title": "特訓と撮れ高と",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140302,
+        "Character": "柳場ぱんだ",
+        "CardName": "綾錦の月影",
+        "Title": "結果オーライ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140311,
+        "Character": "与那国緋花里",
+        "CardName": "妖刀の一薙ぎ",
+        "Title": "登ってみた",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140312,
+        "Character": "与那国緋花里",
+        "CardName": "妖刀の一薙ぎ",
+        "Title": "見せつけてみた！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140321,
+        "Character": "王雪",
+        "CardName": "南十字を目指して",
+        "Title": "無駄遣いはしたくない",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140322,
+        "Character": "王雪",
+        "CardName": "南十字を目指して",
+        "Title": "ごほうびプレゼン大会",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140331,
+        "Character": "千寿暦",
+        "CardName": "コル・スコルピイ",
+        "Title": "続きが気になる感想戦",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140332,
+        "Character": "千寿暦",
+        "CardName": "コル・スコルピイ",
+        "Title": "それもまた本当の幸せ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140341,
+        "Character": "鳳ここな",
+        "CardName": "ステキな物語はいかがですか？",
+        "Title": "楽しい思い出を共有したくて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140342,
+        "Character": "鳳ここな",
+        "CardName": "ステキな物語はいかがですか？",
+        "Title": "最後の最後に……",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140351,
+        "Character": "流石知冴",
+        "CardName": "おとぎの国の食事会",
+        "Title": "細長く険しい道のり",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140352,
+        "Character": "流石知冴",
+        "CardName": "おとぎの国の食事会",
+        "Title": "そうめんはもうイヤだー！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140361,
+        "Character": "千寿いろは",
+        "CardName": "真の力を見せる時！",
+        "Title": "フィルムカメラで見た僕ら",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140362,
+        "Character": "千寿いろは",
+        "CardName": "真の力を見せる時！",
+        "Title": "光栄すぎてあわわわわ！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140371,
+        "Character": "猫足蕾",
+        "CardName": "戦い続ける魔法少女",
+        "Title": "神秘先輩が混ざれない理由",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140372,
+        "Character": "猫足蕾",
+        "CardName": "戦い続ける魔法少女",
+        "Title": "隠しステータスMAX",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140381,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "名探偵の悲哀",
+        "Title": "ギムレットには若すぎる",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140382,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "名探偵の悲哀",
+        "Title": "ノンアルなエア飲み会",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140391,
+        "Character": "王雪",
+        "CardName": "本当のギムレット",
+        "Title": "宿題水入らず",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140392,
+        "Character": "王雪",
+        "CardName": "本当のギムレット",
+        "Title": "悪魔の誘惑",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140401,
+        "Character": "本巣叶羽",
+        "CardName": "夕暮れ時には甘えてみて",
+        "Title": "激闘！漢字プリント",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140402,
+        "Character": "本巣叶羽",
+        "CardName": "夕暮れ時には甘えてみて",
+        "Title": "文字の叫びに耳を貸せ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140411,
+        "Character": "筆島しぐれ",
+        "CardName": "巡り合わせの落葉",
+        "Title": "気持ちは裏腹",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140412,
+        "Character": "筆島しぐれ",
+        "CardName": "巡り合わせの落葉",
+        "Title": "素直になれれば",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140421,
+        "Character": "萬容",
+        "CardName": "囚われてなお渇望するもの",
+        "Title": "ふわふわな容",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140422,
+        "Character": "萬容",
+        "CardName": "囚われてなお渇望するもの",
+        "Title": "もう一度、決意を込めて",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140431,
+        "Character": "烏森大黒",
+        "CardName": "縛めを解いてくれた人と共に",
+        "Title": "先輩からのお誘い",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140432,
+        "Character": "烏森大黒",
+        "CardName": "縛めを解いてくれた人と共に",
+        "Title": "先輩の気持ち",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140441,
+        "Character": "静香",
+        "CardName": "その手を取り、翼並べて",
+        "Title": "お母さんと呼ばないで！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140442,
+        "Character": "静香",
+        "CardName": "その手を取り、翼並べて",
+        "Title": "決意と思い",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140451,
+        "Character": "鳳ここな",
+        "CardName": "片割れを見つけた鳥",
+        "Title": "心に根付いたもの",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140452,
+        "Character": "鳳ここな",
+        "CardName": "片割れを見つけた鳥",
+        "Title": "それぞれのために",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140461,
+        "Character": "与那国緋花里",
+        "CardName": "遠い遠い雪催い",
+        "Title": "楽しまなきゃダメ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140462,
+        "Character": "与那国緋花里",
+        "CardName": "遠い遠い雪催い",
+        "Title": "明るく元気な緋花里ちゃん",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140471,
+        "Character": "阿岐留カミラ",
+        "CardName": "銀世界に冴ゆる心友",
+        "Title": "作り手の悩み・冬",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140472,
+        "Character": "阿岐留カミラ",
+        "CardName": "銀世界に冴ゆる心友",
+        "Title": "ホッと・リアクション",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140481,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "CEOからの特別な……♡",
+        "Title": "違う私に気づいて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140482,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "CEOからの特別な……♡",
+        "Title": "優しい４人のサンタ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140491,
+        "Character": "王雪",
+        "CardName": "あなたにだけのプレゼント",
+        "Title": "持ち腐れたプレゼント",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140492,
+        "Character": "王雪",
+        "CardName": "あなたにだけのプレゼント",
+        "Title": "感謝は一瞬の恥？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140501,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "瑞祥新春の舞",
+        "Title": "晴れ着を脱ぐにはまだ早い",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140502,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "瑞祥新春の舞",
+        "Title": "それぞれの譲れないもの",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140511,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "人里の宴も悪くない",
+        "Title": "お正月に足りないもの",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140512,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "人里の宴も悪くない",
+        "Title": "おみくじの御告げ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140521,
+        "Character": "本巣叶羽",
+        "CardName": "Electric Wonderland",
+        "Title": "電姫式PARTY",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140522,
+        "Character": "本巣叶羽",
+        "CardName": "Electric Wonderland",
+        "Title": "パジャマ（前）PARTY",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140531,
+        "Character": "千寿いろは",
+        "CardName": "Electric Tea Party",
+        "Title": "あの日の僕／私は",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140532,
+        "Character": "千寿いろは",
+        "CardName": "Electric Tea Party",
+        "Title": "いやになっちゃう／います",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140541,
+        "Character": "筆島しぐれ",
+        "CardName": "悩める迷宮での出会い",
+        "Title": "親衛隊、がんばる!",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140542,
+        "Character": "筆島しぐれ",
+        "CardName": "悩める迷宮での出会い",
+        "Title": "支えるということ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140551,
+        "Character": "舎人仁花子",
+        "CardName": "導きの燐光",
+        "Title": "仁花子、エネルギー満タン",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140552,
+        "Character": "舎人仁花子",
+        "CardName": "導きの燐光",
+        "Title": "いつか、あの星空を",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140561,
+        "Character": "流石知冴",
+        "CardName": "ナイト・オブ・ビビッド",
+        "Title": "ズレた気持ち",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140562,
+        "Character": "流石知冴",
+        "CardName": "ナイト・オブ・ビビッド",
+        "Title": "二人のリベンジ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140571,
+        "Character": "柳場ぱんだ",
+        "CardName": "マジカルポップウィッチ",
+        "Title": "噂のテクニック",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140572,
+        "Character": "柳場ぱんだ",
+        "CardName": "マジカルポップウィッチ",
+        "Title": "専属予約",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140601,
+        "Character": "連尺野初魅",
+        "CardName": "ひと口で落ちる甘やかな酔い",
+        "Title": "新たな発見",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140602,
+        "Character": "連尺野初魅",
+        "CardName": "ひと口で落ちる甘やかな酔い",
+        "Title": "巡る愛",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140611,
+        "Character": "萬容",
+        "CardName": "求め焦がれる危険な味わい",
+        "Title": "２月の悩み",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140612,
+        "Character": "萬容",
+        "CardName": "求め焦がれる危険な味わい",
+        "Title": "甘くてピュアで",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140621,
+        "Character": "猫足蕾",
+        "CardName": "華は海底に眠る",
+        "Title": "蕾の秘蔵DVD！？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140622,
+        "Character": "猫足蕾",
+        "CardName": "華は海底に眠る",
+        "Title": "私服撮影は禁止です？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140631,
+        "Character": "千寿いろは",
+        "CardName": "水海に月は満ち",
+        "Title": "チャレンジing！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140632,
+        "Character": "千寿いろは",
+        "CardName": "水海に月は満ち",
+        "Title": "もっともっとエンジョイ！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140661,
+        "Character": "新妻八恵",
+        "CardName": "いちばんたいせつなことは",
+        "Title": "同じ場所に立って",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140662,
+        "Character": "新妻八恵",
+        "CardName": "いちばんたいせつなことは",
+        "Title": "先の舞台を目指して",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140671,
+        "Character": "鳳ここな",
+        "CardName": "夜空を見れば、思い出す",
+        "Title": "隣の背中",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140672,
+        "Character": "鳳ここな",
+        "CardName": "夜空を見れば、思い出す",
+        "Title": "近くて遠い",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140681,
+        "Character": "烏森大黒",
+        "CardName": "カオティックキュート",
+        "Title": "はかどるネットサーフィン",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140682,
+        "Character": "烏森大黒",
+        "CardName": "カオティックキュート",
+        "Title": "突然の来客！？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140691,
+        "Character": "筆島しぐれ",
+        "CardName": "サイバーガーディアン",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140692,
+        "Character": "筆島しぐれ",
+        "CardName": "サイバーガーディアン",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140701,
+        "Character": "白丸美兎",
+        "CardName": "武の頂を目指して",
+        "Title": "チャーハン食べたすぎ！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140702,
+        "Character": "白丸美兎",
+        "CardName": "武の頂を目指して",
+        "Title": "チャーハン作るよ！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140711,
+        "Character": "与那国緋花里",
+        "CardName": "決闘者は仙人の如く",
+        "Title": "お手伝い・オア・ダイ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140712,
+        "Character": "与那国緋花里",
+        "CardName": "決闘者は仙人の如く",
+        "Title": "いちばんの料理",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140721,
+        "Character": "鳳ここな",
+        "CardName": "絵本から飛び出せば",
+        "Title": "宴の終わりに",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140722,
+        "Character": "鳳ここな",
+        "CardName": "絵本から飛び出せば",
+        "Title": "花見風呂",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140731,
+        "Character": "柳場ぱんだ",
+        "CardName": "思い出のカルテリーノ",
+        "Title": "ぱんだの苦労",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140732,
+        "Character": "柳場ぱんだ",
+        "CardName": "思い出のカルテリーノ",
+        "Title": "日常の風景",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140741,
+        "Character": "千寿暦",
+        "CardName": "舞踏会は波乱と恋の予感？！",
+        "Title": "千寿家の誇りにかけて！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140742,
+        "Character": "千寿暦",
+        "CardName": "舞踏会は波乱と恋の予感？！",
+        "Title": "常日頃、思っている",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140751,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "冷酷な辺境伯に求婚されてます",
+        "Title": "何のためのオモタセ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140752,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "冷酷な辺境伯に求婚されてます",
+        "Title": "縁があるもの",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140761,
+        "Character": "萬容",
+        "CardName": "初めての恋は成就したか",
+        "Title": "大黒なりのお節介",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140762,
+        "Character": "萬容",
+        "CardName": "初めての恋は成就したか",
+        "Title": "彼女にとっての救い",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140771,
+        "Character": "舎人仁花子",
+        "CardName": "正しくあるべき人の道を説く",
+        "Title": "まだ足りないもの",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140772,
+        "Character": "舎人仁花子",
+        "CardName": "正しくあるべき人の道を説く",
+        "Title": "身近なお手本？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140781,
+        "Character": "阿岐留カミラ",
+        "CardName": "LIVE YOUR STYLE",
+        "Title": "うちらの自慢の阿岐留さん",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140782,
+        "Character": "阿岐留カミラ",
+        "CardName": "LIVE YOUR STYLE",
+        "Title": "自信満々勇猛果敢！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140791,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "私だけの美学",
+        "Title": "ビュッ友の誓い",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140792,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "私だけの美学",
+        "Title": "臥薪嘗胆ビューティーツアー",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140801,
+        "Character": "静香",
+        "CardName": "オートマタのテアトルにて",
+        "Title": "心配性の二人",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140802,
+        "Character": "静香",
+        "CardName": "オートマタのテアトルにて",
+        "Title": "静香の未来",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140811,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "心躍る人形劇の裏",
+        "Title": "素直な気持ち",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140812,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "心躍る人形劇の裏",
+        "Title": "友達でライバル",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140821,
+        "Character": "柳場ぱんだ",
+        "CardName": "がおー！のレッスン",
+        "Title": "遊びの思い出",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140822,
+        "Character": "柳場ぱんだ",
+        "CardName": "がおー！のレッスン",
+        "Title": "童心に帰って？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140831,
+        "Character": "新妻八恵",
+        "CardName": "ペンギン・ア・ゴーゴー！",
+        "Title": "みんなでボランティア",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140832,
+        "Character": "新妻八恵",
+        "CardName": "ペンギン・ア・ゴーゴー！",
+        "Title": "これこそが新妻八恵",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140841,
+        "Character": "与那国緋花里",
+        "CardName": "雨上がりには特大スクープ！",
+        "Title": "楽しくいられる場所",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140842,
+        "Character": "与那国緋花里",
+        "CardName": "雨上がりには特大スクープ！",
+        "Title": "みんなの日々に光を",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140851,
+        "Character": "王雪",
+        "CardName": "雨上がりの君を待って",
+        "Title": "受け取り拒否！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140852,
+        "Character": "王雪",
+        "CardName": "雨上がりの君を待って",
+        "Title": "友情のケジメコラボ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140861,
+        "Character": "本巣叶羽",
+        "CardName": "連なる薔薇の懐かしき香り",
+        "Title": "らしくないアタシ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140862,
+        "Character": "本巣叶羽",
+        "CardName": "連なる薔薇の懐かしき香り",
+        "Title": "しょうがないから",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140871,
+        "Character": "白丸美兎",
+        "CardName": "白き死神は戦場を駆け",
+        "Title": "親友なのに",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140872,
+        "Character": "白丸美兎",
+        "CardName": "白き死神は戦場を駆け",
+        "Title": "自分にできることを",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140881,
+        "Character": "阿岐留カミラ",
+        "CardName": "春の紫苑も良いでしょう？",
+        "Title": "探検！カミラツアー",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140882,
+        "Character": "阿岐留カミラ",
+        "CardName": "春の紫苑も良いでしょう？",
+        "Title": "地元と笑顔と努力の日",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140891,
+        "Character": "白丸美兎",
+        "CardName": "朱の菜花は春を告げ",
+        "Title": "福を願って創作菓子を",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140892,
+        "Character": "白丸美兎",
+        "CardName": "朱の菜花は春を告げ",
+        "Title": "対称的なふたりの関係",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140901,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "江楓にお覚悟を",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140902,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "江楓にお覚悟を",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140911,
+        "Character": "本巣叶羽",
+        "CardName": "天才の有る栖にようこそ",
+        "Title": "小学生と高校生",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140912,
+        "Character": "本巣叶羽",
+        "CardName": "天才の有る栖にようこそ",
+        "Title": "銀河座と叶羽",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140921,
+        "Character": "烏森大黒",
+        "CardName": "平和で幸せな悪魔憑き",
+        "Title": "一息ついて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140922,
+        "Character": "烏森大黒",
+        "CardName": "平和で幸せな悪魔憑き",
+        "Title": "我が主とともに",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140931,
+        "Character": "連尺野初魅",
+        "CardName": "銀弾は正鵠の射手",
+        "Title": "想いと願い",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140932,
+        "Character": "連尺野初魅",
+        "CardName": "銀弾は正鵠の射手",
+        "Title": "本音と答え",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140941,
+        "Character": "舎人仁花子",
+        "CardName": "プレイス・ユア・ベット",
+        "Title": "深まる疑惑",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140942,
+        "Character": "舎人仁花子",
+        "CardName": "プレイス・ユア・ベット",
+        "Title": "その笑顔が必要だから",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140951,
+        "Character": "萬容",
+        "CardName": "オール・オア・ナッシング",
+        "Title": "いつもと違う？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140952,
+        "Character": "萬容",
+        "CardName": "オール・オア・ナッシング",
+        "Title": "氷解",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140961,
+        "Character": "千寿いろは",
+        "CardName": "旅路は銀の靴とともに",
+        "Title": "巡る願いが芽吹く日を",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140962,
+        "Character": "千寿いろは",
+        "CardName": "旅路は銀の靴とともに",
+        "Title": "愛しき未来へ空を仰ぐ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140971,
+        "Character": "千寿暦",
+        "CardName": "小さなあの子を待ちながら",
+        "Title": "二言はないと言うのなら",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140972,
+        "Character": "千寿暦",
+        "CardName": "小さなあの子を待ちながら",
+        "Title": "守るべきもの",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140981,
+        "Character": "静香",
+        "CardName": "とある悪魔の幸福",
+        "Title": "瞬にた星抱く、優しい夜風",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140982,
+        "Character": "静香",
+        "CardName": "とある悪魔の幸福",
+        "Title": "その熱を推進力に、翔べ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 140991,
+        "Character": "鳳ここな",
+        "CardName": "あなたの声は潮騒に",
+        "Title": "お祝い大作戦！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 140992,
+        "Character": "鳳ここな",
+        "CardName": "あなたの声は潮騒に",
+        "Title": "デビューしてくれて有難に",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141001,
+        "Character": "筆島しぐれ",
+        "CardName": "メイク・サム・ノイズ！",
+        "Title": "いざ、祝勝会",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141002,
+        "Character": "筆島しぐれ",
+        "CardName": "メイク・サム・ノイズ！",
+        "Title": "喜びの報告",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141011,
+        "Character": "連尺野初魅",
+        "CardName": "ミッドナイト・グルーヴ",
+        "Title": "世話焼き初魅",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141012,
+        "Character": "連尺野初魅",
+        "CardName": "ミッドナイト・グルーヴ",
+        "Title": "その態度の裏には",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141021,
+        "Character": "舎人仁花子",
+        "CardName": "スカイブルーにも届くかも",
+        "Title": "故郷に思いを馳せて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141022,
+        "Character": "舎人仁花子",
+        "CardName": "スカイブルーにも届くかも",
+        "Title": "最高の星空を見に",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141031,
+        "Character": "烏森大黒",
+        "CardName": "マリンブルーも涼やかに",
+        "Title": "大黒だって遊びたい",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141032,
+        "Character": "烏森大黒",
+        "CardName": "マリンブルーも涼やかに",
+        "Title": "計画の行方",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141041,
+        "Character": "流石知冴",
+        "CardName": "一夜、自由の翼になるよ",
+        "Title": "フリーダム研究",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141042,
+        "Character": "流石知冴",
+        "CardName": "一夜、自由の翼になるよ",
+        "Title": "ダイスターの生態立証！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141051,
+        "Character": "新妻八恵",
+        "CardName": "今宵、空灯篭のように",
+        "Title": "シリウスビブリオバトル",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141052,
+        "Character": "新妻八恵",
+        "CardName": "今宵、空灯篭のように",
+        "Title": "新解釈桃太郎シリウス編",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141061,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "憂い、門出、晴れなくて",
+        "Title": "指先の謝罪",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141062,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "憂い、門出、晴れなくて",
+        "Title": "装えない人",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141071,
+        "Character": "与那国緋花里",
+        "CardName": "歌い、踊り、乾杯を",
+        "Title": "前を向く魔法",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141072,
+        "Character": "与那国緋花里",
+        "CardName": "歌い、踊り、乾杯を",
+        "Title": "癒やしは日々の中に",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141081,
+        "Character": "猫足蕾",
+        "CardName": "デンキウィズザ……！？",
+        "Title": "見上げる少女の横顔に、兎",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141082,
+        "Character": "猫足蕾",
+        "CardName": "デンキウィズザ……！？",
+        "Title": "妖精はひとりで踊れない",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141091,
+        "Character": "本巣叶羽",
+        "CardName": "デンキインザムーーーーーン",
+        "Title": "ピザコーラポテチ団子",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141092,
+        "Character": "本巣叶羽",
+        "CardName": "デンキインザムーーーーーン",
+        "Title": "創味の戦線・団子決戦編",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141101,
+        "Character": "王雪",
+        "CardName": "リクエストはロックナンバーで",
+        "Title": "広がるオンゲキの輪",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141102,
+        "Character": "王雪",
+        "CardName": "リクエストはロックナンバーで",
+        "Title": "Let's Shoot！　雪！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141111,
+        "Character": "千寿暦",
+        "CardName": "玉椿、夜水に灯り",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141112,
+        "Character": "千寿暦",
+        "CardName": "玉椿、夜水に灯り",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141121,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "秘密のおしゃべり",
+        "Title": "お互いの距離",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141122,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "秘密のおしゃべり",
+        "Title": "変わったもの変わらないもの",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141131,
+        "Character": "流石知冴",
+        "CardName": "過ぎた時を悔いても",
+        "Title": "冴えた考え",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141132,
+        "Character": "流石知冴",
+        "CardName": "過ぎた時を悔いても",
+        "Title": "作戦の行方",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141141,
+        "Character": "千寿暦",
+        "CardName": "行き先は星々のもと",
+        "Title": "脂が乗りすぎた役者に",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141142,
+        "Character": "千寿暦",
+        "CardName": "行き先は星々のもと",
+        "Title": "逃げ道のない詰め合わせ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141151,
+        "Character": "王雪",
+        "CardName": "旅情の旨味",
+        "Title": "ヤケになったら肉を焼け！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141152,
+        "Character": "王雪",
+        "CardName": "旅情の旨味",
+        "Title": "ふたり肉フェスティバル",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141161,
+        "Character": "連尺野初魅",
+        "CardName": "硝煙くゆるコールド・シティ",
+        "Title": "譲れない線",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141162,
+        "Character": "連尺野初魅",
+        "CardName": "硝煙くゆるコールド・シティ",
+        "Title": "今だからこその考え",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141171,
+        "Character": "烏森大黒",
+        "CardName": "45口径と少女のフィルム",
+        "Title": "我が主のお言葉",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141172,
+        "Character": "烏森大黒",
+        "CardName": "45口径と少女のフィルム",
+        "Title": "様々な決意",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141181,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "Here's the smell of",
+        "Title": "切り取った永遠の美",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141182,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "Here's the smell of",
+        "Title": "記憶の中で永遠に",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141191,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "Our fears in",
+        "Title": "壊させずに守る",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141192,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "Our fears in",
+        "Title": "守るために壊す",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141201,
+        "Character": "阿岐留カミラ",
+        "CardName": "SWEEP U OFF Ur ♡！",
+        "Title": "アドリプマジパない",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141202,
+        "Character": "阿岐留カミラ",
+        "CardName": "SWEEP U OFF Ur ♡！",
+        "Title": "全ツッパ・プレジャー",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141211,
+        "Character": "与那国緋花里",
+        "CardName": "HANG IN THERE!",
+        "Title": "今日の私はパーフェクト！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141212,
+        "Character": "与那国緋花里",
+        "CardName": "HANG IN THERE!",
+        "Title": "３人寄ればパーフェクト",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141221,
+        "Character": "新妻八恵",
+        "CardName": "旅するみるくティーン",
+        "Title": "牛乳の魔法",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141222,
+        "Character": "新妻八恵",
+        "CardName": "旅するみるくティーン",
+        "Title": "早く大人になりたくて",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141231,
+        "Character": "静香",
+        "CardName": "ソルト・フラグメント",
+        "Title": "どこかで見たことある形",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141232,
+        "Character": "静香",
+        "CardName": "ソルト・フラグメント",
+        "Title": "流れ星に願いを",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141241,
+        "Character": "高海千歌",
+        "CardName": "千の歌を紡ぐ幻影",
+        "Title": "ファーストステップ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141242,
+        "Character": "高海千歌",
+        "CardName": "千の歌を紡ぐ幻影",
+        "Title": "夢見た少女たち",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141251,
+        "Character": "桜内梨子",
+        "CardName": "空を知り、恋をして",
+        "Title": "創るものの悩み？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141252,
+        "Character": "桜内梨子",
+        "CardName": "空を知り、恋をして",
+        "Title": "本物の恋愛劇...？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141261,
+        "Character": "黒澤ダイヤ",
+        "CardName": "diadem for silver bullet",
+        "Title": "対決ですわ！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141262,
+        "Character": "黒澤ダイヤ",
+        "CardName": "diadem for silver bullet",
+        "Title": "ぶっぶっぶですわ！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141271,
+        "Character": "黒澤ルビィ",
+        "CardName": "夜空をかけるビジョナリィ",
+        "Title": "お姉ちゃんと",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141272,
+        "Character": "黒澤ルビィ",
+        "CardName": "夜空をかけるビジョナリィ",
+        "Title": "姉妹の背中",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141281,
+        "Character": "津島善子",
+        "CardName": "ようこそ不思議なこの国へ",
+        "Title": "魔都．東京へようこそ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141282,
+        "Character": "津島善子",
+        "CardName": "ようこそ不思議なこの国へ",
+        "Title": "堕天使VS神の力",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141291,
+        "Character": "鳳ここな",
+        "CardName": "光の海でも輝いて",
+        "Title": "浅草のおすすめは",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141292,
+        "Character": "鳳ここな",
+        "CardName": "光の海でも輝いて",
+        "Title": "舞台とドキドキ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141301,
+        "Character": "千寿いろは",
+        "CardName": "LIVE with SUNSHINE!!",
+        "Title": "プレゼントを探して",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141302,
+        "Character": "千寿いろは",
+        "CardName": "LIVE with SUNSHINE!!",
+        "Title": "困ったときには",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141311,
+        "Character": "筆島しぐれ",
+        "CardName": "ひんやり、きらきら",
+        "Title": "しぐれ、悩む",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141312,
+        "Character": "筆島しぐれ",
+        "CardName": "ひんやり、きらきら",
+        "Title": "意外なアドバイザー",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141321,
+        "Character": "連尺野初魅",
+        "CardName": "楽園の主はいたずら中",
+        "Title": "聖夜の過ごし方",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141322,
+        "Character": "連尺野初魅",
+        "CardName": "楽園の主はいたずら中",
+        "Title": "Edenらしいクリスマス",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141331,
+        "Character": "静香",
+        "CardName": "エリートサンタは夜を駆け",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141332,
+        "Character": "静香",
+        "CardName": "エリートサンタは夜を駆け",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141341,
+        "Character": "鳳ここな",
+        "CardName": "新人サンタはあわてんぼう",
+        "Title": "思い出もお揃いで",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141342,
+        "Character": "鳳ここな",
+        "CardName": "新人サンタはあわてんぼう",
+        "Title": "いつかの未来に思い出を",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141351,
+        "Character": "猫足蕾",
+        "CardName": "慶賀へ至る富正月",
+        "Title": "迎春！電姫新年会！！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141352,
+        "Character": "猫足蕾",
+        "CardName": "慶賀へ至る富正月",
+        "Title": "輝ける明日の想像図",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141361,
+        "Character": "烏森大黒",
+        "CardName": "金花ほころぶ祝言のとき",
+        "Title": "運命は踊る",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141362,
+        "Character": "烏森大黒",
+        "CardName": "金花ほころぶ祝言のとき",
+        "Title": "タロットの行方",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141371,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "アクアアルタでつかまえて",
+        "Title": "意外と心配性",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141372,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "アクアアルタでつかまえて",
+        "Title": "お気に召すまま好きなだけ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141381,
+        "Character": "新妻八恵",
+        "CardName": "いざ、仮面舞踏会へ！",
+        "Title": "わくわくワールドトラベル",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141382,
+        "Character": "新妻八恵",
+        "CardName": "いざ、仮面舞踏会へ！",
+        "Title": "どきどきカルネヴァーレ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141391,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "挑まれた勝負に思い巡らせ",
+        "Title": "シャル・ ウィ・お風呂",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141392,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "挑まれた勝負に思い巡らせ",
+        "Title": "湯船などなくても",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141401,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "その心、今夜頂きに参ります",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141402,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "その心、今夜頂きに参ります",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141411,
+        "Character": "阿岐留カミラ",
+        "CardName": "いたずら妖精がご招待",
+        "Title": "普通になれなくても",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141412,
+        "Character": "阿岐留カミラ",
+        "CardName": "いたずら妖精がご招待",
+        "Title": "ウチがあなたを演ずること",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141421,
+        "Character": "白丸美兎",
+        "CardName": "それでも止まらぬ恋心",
+        "Title": "ここは大切な居場所だから",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141422,
+        "Character": "白丸美兎",
+        "CardName": "それでも止まらぬ恋心",
+        "Title": "それもまた電姫的",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141431,
+        "Character": "柳場ぱんだ",
+        "CardName": "星のようにまぶしい出会い",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141432,
+        "Character": "柳場ぱんだ",
+        "CardName": "星のようにまぶしい出会い",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141441,
+        "Character": "流石知冴",
+        "CardName": "大事なのは信じることさ！",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141442,
+        "Character": "流石知冴",
+        "CardName": "大事なのは信じることさ！",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141451,
+        "Character": "千寿暦",
+        "CardName": "スウィート・セレクション",
+        "Title": "バレンタインの建前",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141452,
+        "Character": "千寿暦",
+        "CardName": "スウィート・セレクション",
+        "Title": "隠し切れない本音",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141461,
+        "Character": "与那国緋花里",
+        "CardName": "ハートフル・ショッピング",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141462,
+        "Character": "与那国緋花里",
+        "CardName": "ハートフル・ショッピング",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141471,
+        "Character": "萬容",
+        "CardName": "一緒にツーリング！",
+        "Title": "ふたりで行かない？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141472,
+        "Character": "萬容",
+        "CardName": "一緒にツーリング！",
+        "Title": "一緒に撮る？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141481,
+        "Character": "舎人仁花子",
+        "CardName": "空飛ぶテントで",
+        "Title": "眠るなでしこ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141482,
+        "Character": "舎人仁花子",
+        "CardName": "空飛ぶテントで",
+        "Title": "観に行くね！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141491,
+        "Character": "与那国緋花里",
+        "CardName": "コンクリート・ジャム",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141492,
+        "Character": "与那国緋花里",
+        "CardName": "コンクリート・ジャム",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141501,
+        "Character": "王雪",
+        "CardName": "ストリート・スクリプト",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141502,
+        "Character": "王雪",
+        "CardName": "ストリート・スクリプト",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141511,
+        "Character": "猫足蕾",
+        "CardName": "春めく花園を切り取って",
+        "Title": "春～占ing～",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141512,
+        "Character": "猫足蕾",
+        "CardName": "春めく花園を切り取って",
+        "Title": "春に歌い、春に笑う",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141521,
+        "Character": "阿岐留カミラ",
+        "CardName": "昼下がりのPhoto Spring",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141522,
+        "Character": "阿岐留カミラ",
+        "CardName": "昼下がりのPhoto Spring",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141531,
+        "Character": "鳳ここな",
+        "CardName": "夜、静かなミュージアムで",
+        "Title": "心の元気にあるものは",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141532,
+        "Character": "鳳ここな",
+        "CardName": "夜、静かなミュージアムで",
+        "Title": "ここなと静香、渾身の一撃",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141541,
+        "Character": "流石知冴",
+        "CardName": "密やかに微笑む美の肖像",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141542,
+        "Character": "流石知冴",
+        "CardName": "密やかに微笑む美の肖像",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141551,
+        "Character": "白丸美兎",
+        "CardName": "霹靂は夜雨を駆け",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141552,
+        "Character": "白丸美兎",
+        "CardName": "霹靂は夜雨を駆け",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141561,
+        "Character": "本巣叶羽",
+        "CardName": "アンタには一発で充分",
+        "Title": "叶羽的日々徒然",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141562,
+        "Character": "本巣叶羽",
+        "CardName": "アンタには一発で充分",
+        "Title": "Aim for Star’s",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141571,
+        "Character": "鳳ここな",
+        "CardName": "ホエールウォッチング！",
+        "Title": "お風呂で季節を感じて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141572,
+        "Character": "鳳ここな",
+        "CardName": "ホエールウォッチング！",
+        "Title": "憧れの温泉地",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141581,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "異邦の湯に足を浸して",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141582,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "異邦の湯に足を浸して",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141591,
+        "Character": "千寿暦",
+        "CardName": "桜の精との待ち合わせ",
+        "Title": "揺らぎの中で",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141592,
+        "Character": "千寿暦",
+        "CardName": "桜の精との待ち合わせ",
+        "Title": "二人の守り方",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141601,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "次の春まで別たれて",
+        "Title": "散る花を見上げて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141602,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "次の春まで別たれて",
+        "Title": "散らない花をその手に",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141611,
+        "Character": "萬容",
+        "CardName": "良妻は慈母の視線を向ける",
+        "Title": "束の間の休息",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141612,
+        "Character": "萬容",
+        "CardName": "良妻は慈母の視線を向ける",
+        "Title": "１番星",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141621,
+        "Character": "筆島しぐれ",
+        "CardName": "真実は数奇かつ残酷で",
+        "Title": "それぞれの不安",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141622,
+        "Character": "筆島しぐれ",
+        "CardName": "真実は数奇かつ残酷で",
+        "Title": "感謝は重なって",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141631,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "妖精は花園で舞って",
+        "Title": "打ち上げのウラオモテ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141632,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "妖精は花園で舞って",
+        "Title": "かつてのアタシに微笑んで",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141641,
+        "Character": "柳場ぱんだ",
+        "CardName": "空を自由に！",
+        "Title": "雨降って",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141642,
+        "Character": "柳場ぱんだ",
+        "CardName": "空を自由に！",
+        "Title": "パフェで固まる",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141651,
+        "Character": "連尺野初魅",
+        "CardName": "燃え尽きぬ復讐の炎",
+        "Title": "ペンギンのキーホルダー",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141652,
+        "Character": "連尺野初魅",
+        "CardName": "燃え尽きぬ復讐の炎",
+        "Title": "チュウニペンギン",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141661,
+        "Character": "烏森大黒",
+        "CardName": "夢現に絡めとられて",
+        "Title": "目に見えないあの子",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141662,
+        "Character": "烏森大黒",
+        "CardName": "夢現に絡めとられて",
+        "Title": "どこまでが夢で、現実か",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141671,
+        "Character": "王雪",
+        "CardName": "調合が味の秘訣",
+        "Title": "お礼はお呼ばれ？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141672,
+        "Character": "王雪",
+        "CardName": "調合が味の秘訣",
+        "Title": "チャーハン狂想曲",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141681,
+        "Character": "与那国緋花里",
+        "CardName": "マジカル・ティーサーブ！",
+        "Title": "代わりの労働代わりの対価",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141682,
+        "Character": "与那国緋花里",
+        "CardName": "マジカル・ティーサーブ！",
+        "Title": "受け取り拒否！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141691,
+        "Character": "連尺野初魅",
+        "CardName": "賢王は泰平を見る",
+        "Title": "語り足りないこと",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141692,
+        "Character": "連尺野初魅",
+        "CardName": "賢王は泰平を見る",
+        "Title": "誓い",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141701,
+        "Character": "舎人仁花子",
+        "CardName": "摂政は謎を読み解いて",
+        "Title": "仁花子の提案",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141702,
+        "Character": "舎人仁花子",
+        "CardName": "摂政は謎を読み解いて",
+        "Title": "記念すべき1枚",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141711,
+        "Character": "静香",
+        "CardName": "ロイヤル・ウェディング！",
+        "Title": "相棒の世知辛い事情",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141712,
+        "Character": "静香",
+        "CardName": "ロイヤル・ウェディング！",
+        "Title": "王師範の言うことには",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141721,
+        "Character": "白丸美兎",
+        "CardName": "バラ園の中、花嫁は笑う",
+        "Title": "Short of Money!",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141722,
+        "Character": "白丸美兎",
+        "CardName": "バラ園の中、花嫁は笑う",
+        "Title": "想いのこだま",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141731,
+        "Character": "千寿いろは",
+        "CardName": "雨上がりのアキバ・ウォー！",
+        "Title": "ふたりの妹",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141732,
+        "Character": "千寿いろは",
+        "CardName": "雨上がりのアキバ・ウォー！",
+        "Title": "大事な教え",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141741,
+        "Character": "猫足蕾",
+        "CardName": "作戦立案中です！",
+        "Title": "その後",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141742,
+        "Character": "猫足蕾",
+        "CardName": "作戦立案中です！",
+        "Title": "サバイバルな教訓",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141751,
+        "Character": "筆島しぐれ",
+        "CardName": "アーサー王のお通りよ！",
+        "Title": "口は災いのもと",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141752,
+        "Character": "筆島しぐれ",
+        "CardName": "アーサー王のお通りよ！",
+        "Title": "逆境で輝いてこそ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141761,
+        "Character": "新妻八恵",
+        "CardName": "お待ちしてました、勇者様♪",
+        "Title": "チア熱収まらず",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141762,
+        "Character": "新妻八恵",
+        "CardName": "お待ちしてました、勇者様♪",
+        "Title": "それがEssence",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141771,
+        "Character": "阿岐留カミラ",
+        "CardName": "Tropical Spa Time",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141772,
+        "Character": "阿岐留カミラ",
+        "CardName": "Tropical Spa Time",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141781,
+        "Character": "萬容",
+        "CardName": "Dive to Azure!",
+        "Title": "気になるあの子",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141782,
+        "Character": "萬容",
+        "CardName": "Dive to Azure!",
+        "Title": "近くで触れ会って",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141791,
+        "Character": "流石知冴",
+        "CardName": "動乱の街を駆け抜けて",
+        "Title": "常に考えてる",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141792,
+        "Character": "流石知冴",
+        "CardName": "動乱の街を駆け抜けて",
+        "Title": "ならないといけないから",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141801,
+        "Character": "柳場ぱんだ",
+        "CardName": "恵みの雨の下で",
+        "Title": "気にするところ、間違えてる？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141802,
+        "Character": "柳場ぱんだ",
+        "CardName": "恵みの雨の下で",
+        "Title": "不穩",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141811,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "麗しく凄惨なるもの",
+        "Title": "故鄉の色は",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141812,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "麗しく凄惨なるもの",
+        "Title": "自分だけの色で",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141821,
+        "Character": "千寿暦",
+        "CardName": "鱗婦、妖しく誘う",
+        "Title": "乗り切れないBBQ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141822,
+        "Character": "千寿暦",
+        "CardName": "鱗婦、妖しく誘う",
+        "Title": "北欧ガメのお導き",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141831,
+        "Character": "千寿いろは",
+        "CardName": "サンセット・ビーチパーク！",
+        "Title": "第２回映え選手権（夏）",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141832,
+        "Character": "千寿いろは",
+        "CardName": "サンセット・ビーチパーク！",
+        "Title": "ぱんだプロデュース！",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141841,
+        "Character": "柳場ぱんだ",
+        "CardName": "夕暮れ、潮騒のヴィーナス",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141842,
+        "Character": "柳場ぱんだ",
+        "CardName": "夕暮れ、潮騒のヴィーナス",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141851,
+        "Character": "静香",
+        "CardName": "革命の旗印へ！",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141852,
+        "Character": "静香",
+        "CardName": "革命の旗印へ！",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141861,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "冷酷な正義",
+        "Title": "そうめん＋読み合わせ！？",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141862,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "冷酷な正義",
+        "Title": "身体に染みついているから",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141871,
+        "Character": "本巣叶羽",
+        "CardName": "アタシを起こしたの、アンタ？",
+        "Title": "怪談なんて怖くない",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141872,
+        "Character": "本巣叶羽",
+        "CardName": "アタシを起こしたの、アンタ？",
+        "Title": "迷子　to　叶羽",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141881,
+        "Character": "猫足蕾",
+        "CardName": "彼岸花は呪い嗤う",
+        "Title": "見守る者",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141882,
+        "Character": "猫足蕾",
+        "CardName": "彼岸花は呪い嗤う",
+        "Title": "ミステリアス．蕾",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141891,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "Belly Dancing!",
+        "Title": "クレオパトラの謎を追求しに……",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141892,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "Belly Dancing!",
+        "Title": "語り継がれる者を目指して",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141901,
+        "Character": "烏森大黒",
+        "CardName": "陽射し、ラクダに乗って",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141902,
+        "Character": "烏森大黒",
+        "CardName": "陽射し、ラクダに乗って",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141911,
+        "Character": "新妻八恵",
+        "CardName": "ずっと一緒だよ、お父様",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141912,
+        "Character": "新妻八恵",
+        "CardName": "ずっと一緒だよ、お父様",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141921,
+        "Character": "鳳ここな",
+        "CardName": "困窮の果て、娘のために",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141922,
+        "Character": "鳳ここな",
+        "CardName": "困窮の果て、娘のために",
+        "Title": "",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141931,
+        "Character": "烏森大黒",
+        "CardName": "ち、近づかないでっ！",
+        "Title": "わんちゃんパニック",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141932,
+        "Character": "烏森大黒",
+        "CardName": "ち、近づかないでっ！",
+        "Title": "心が触れ合って",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141941,
+        "Character": "舎人仁花子",
+        "CardName": "ふわふわ集まる原っぱで",
+        "Title": "気になるあの子",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141942,
+        "Character": "舎人仁花子",
+        "CardName": "ふわふわ集まる原っぱで",
+        "Title": "言葉はわからなくても",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141951,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "水鏡に映える月を掬って",
+        "Title": "美しきボルドー",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141952,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "水鏡に映える月を掬って",
+        "Title": "銀河に浮かぶ月",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141961,
+        "Character": "連尺野初魅",
+        "CardName": "Bordeaux Rendez-vous",
+        "Title": "君の瞳に乾杯",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141962,
+        "Character": "連尺野初魅",
+        "CardName": "Bordeaux Rendez-vous",
+        "Title": "いつか月の港で、逢瀬を",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141971,
+        "Character": "与那国緋花里",
+        "CardName": "散る紅葉、終の手合わせ",
+        "Title": "支え合えるライバル",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141972,
+        "Character": "与那国緋花里",
+        "CardName": "散る紅葉、終の手合わせ",
+        "Title": "いつものままではいられない",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141981,
+        "Character": "王雪",
+        "CardName": "涙、子の凶行を引き止めて",
+        "Title": "ゆとりを持つ意識",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141982,
+        "Character": "王雪",
+        "CardName": "涙、子の凶行を引き止めて",
+        "Title": "ゆったりにつき、多忙",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 141991,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "さぁ、舞踏会へ！",
+        "Title": "同じ空の下で",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 141992,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "さぁ、舞踏会へ！",
+        "Title": "選ばれる者を目指して",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142001,
+        "Character": "新妻八恵",
+        "CardName": "ビビディ・バビディ・ブー♪",
+        "Title": "画面に映す憧れの人",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142002,
+        "Character": "新妻八恵",
+        "CardName": "ビビディ・バビディ・ブー♪",
+        "Title": "個性を超えた演技を",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142011,
+        "Character": "流石知冴",
+        "CardName": "グレイ・ヒッチハイカー！",
+        "Title": "たかがB級、されどB級",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142012,
+        "Character": "流石知冴",
+        "CardName": "グレイ・ヒッチハイカー！",
+        "Title": "宇宙人を見に行こう",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142021,
+        "Character": "白丸美兎",
+        "CardName": "テキサス・カウガール♪",
+        "Title": "メイド星のピンチ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142022,
+        "Character": "白丸美兎",
+        "CardName": "テキサス・カウガール♪",
+        "Title": "ピンチヒッター『メイド星人12号』",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142031,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "従僕、影に侍りて",
+        "Title": "憂慮に堪えない",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142032,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "従僕、影に侍りて",
+        "Title": "前に進む、仲間とともに",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142041,
+        "Character": "千寿暦",
+        "CardName": "剛毅、潔白たる義を胸に",
+        "Title": "本来の姿",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142042,
+        "Character": "千寿暦",
+        "CardName": "剛毅、潔白たる義を胸に",
+        "Title": "決意を新たに",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142051,
+        "Character": "舎人仁花子",
+        "CardName": "Runway Majesty",
+        "Title": "これからもアタシが",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142052,
+        "Character": "舎人仁花子",
+        "CardName": "Runway Majesty",
+        "Title": "日頃の行い？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142061,
+        "Character": "萬容",
+        "CardName": "Beauty Fragment",
+        "Title": "私も褒められたい！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142062,
+        "Character": "萬容",
+        "CardName": "Beauty Fragment",
+        "Title": "当分先かも",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142071,
+        "Character": "猫足蕾",
+        "CardName": "聖夜は眷属たちと共に！",
+        "Title": "聖夜の宴の代わりに",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142072,
+        "Character": "猫足蕾",
+        "CardName": "聖夜は眷属たちと共に！",
+        "Title": "血族の宴",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142081,
+        "Character": "柳場ぱんだ",
+        "CardName": "Cyber Santa Delivery!!",
+        "Title": "悩めるぱんだのクリスマス準備",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142082,
+        "Character": "柳場ぱんだ",
+        "CardName": "Cyber Santa Delivery!!",
+        "Title": "クリスマスコラボ☆ぱんだと配信友達",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142091,
+        "Character": "千寿暦",
+        "CardName": "死闘の後、盃を手に",
+        "Title": "星々を統率する者",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142092,
+        "Character": "千寿暦",
+        "CardName": "死闘の後、盃を手に",
+        "Title": "銀河に輝く一等星",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142101,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "嫉鬼、橋にて哄笑す",
+        "Title": "誰かと高め合う美",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142102,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "嫉鬼、橋にて哄笑す",
+        "Title": "先輩の美学指導",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 150011,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "一度道を違えた絆でも",
+        "Title": "対立",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 150012,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "一度道を違えた絆でも",
+        "Title": "共闘",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 150021,
+        "Character": "本巣叶羽",
+        "CardName": "Bomb Interruption !!",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 150022,
+        "Character": "本巣叶羽",
+        "CardName": "Bomb Interruption !!",
+        "Title": "",
+        "EpisodeOrder": 2
+    }
+]
