@@ -4744,5 +4744,33 @@
         "CardName": "Bomb Interruption !!",
         "Title": "",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142111,
+        "Character": "鳳ここな",
+        "CardName": "祝い奏でし琵琶天女",
+        "Title": "あたたかく、だらけて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142112,
+        "Character": "鳳ここな",
+        "CardName": "祝い奏でし琵琶天女",
+        "Title": "書初めとこたつの魔力",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142121,
+        "Character": "千寿いろは",
+        "CardName": "鼓寿ぐ舞い天女",
+        "Title": "年末、コスプレイヤーの戦場",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142122,
+        "Character": "千寿いろは",
+        "CardName": "鼓寿ぐ舞い天女",
+        "Title": "推し事 for 私たち！？",
+        "EpisodeOrder": 2
     }
 ]

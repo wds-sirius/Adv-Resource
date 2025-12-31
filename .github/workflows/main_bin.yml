@@ -46,6 +46,10 @@ jobs:
           SCRIPT_VERSION: ${{ secrets.SCRIPT_VERSION }}
         run: |
           python ./code/fetch_bin.py
+      
+      - name: Update Side Story Title
+        run: |
+          python ./code/updateSideTitle.py
 
       - name: Fetch Comic
         env:
