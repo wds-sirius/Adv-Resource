@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-12-25 00:13:33",
+    "LatestDate": "2025-12-31 16:33:52",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4842,7 +4842,16 @@
                     {
                         "Id": 142110,
                         "Title": "祝い奏でし琵琶天女",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142111,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142112,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -8585,7 +8594,16 @@
                     {
                         "Id": 142120,
                         "Title": "鼓寿ぐ舞い天女",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142121,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142122,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
