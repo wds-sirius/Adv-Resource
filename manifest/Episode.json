@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2025-12-31 16:33:52",
+    "LatestDate": "2026-01-01 05:27:55",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4592,7 +4592,48 @@
                 "Id": 20065,
                 "Title": "開運！　餅をつく音、鐘の音",
                 "Date": "2025-12-31",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2006501,
+                        "Title": "電姫のお正月",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2006502,
+                        "Title": "シリウスのお正月",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2006503,
+                        "Title": "買い出しはみんなで",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2006504,
+                        "Title": "おせちづくり、しかし……",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2006505,
+                        "Title": "ゲームセンター・ニューエイジ",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2006506,
+                        "Title": "おもちがない！",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2006507,
+                        "Title": "餅つきにおいでよ",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2006508,
+                        "Title": "良い年になりますように",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
