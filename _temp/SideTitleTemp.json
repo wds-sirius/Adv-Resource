@@ -3727,14 +3727,14 @@
         "Id": 141401,
         "Character": "リリヤ・クルトベイ",
         "CardName": "その心、今夜頂きに参ります",
-        "Title": "",
+        "Title": "余すところなく",
         "EpisodeOrder": 1
     },
     {
         "Id": 141402,
         "Character": "リリヤ・クルトベイ",
         "CardName": "その心、今夜頂きに参ります",
-        "Title": "",
+        "Title": "絶対に負けたくない熱き戦い",
         "EpisodeOrder": 2
     },
     {
@@ -3769,28 +3769,28 @@
         "Id": 141431,
         "Character": "柳場ぱんだ",
         "CardName": "星のようにまぶしい出会い",
-        "Title": "",
+        "Title": "ぱんだ流ツボ押し術",
         "EpisodeOrder": 1
     },
     {
         "Id": 141432,
         "Character": "柳場ぱんだ",
         "CardName": "星のようにまぶしい出会い",
-        "Title": "",
+        "Title": "甘くて酸っぱいフルーツ牛乳",
         "EpisodeOrder": 2
     },
     {
         "Id": 141441,
         "Character": "流石知冴",
         "CardName": "大事なのは信じることさ！",
-        "Title": "",
+        "Title": "元気になるように",
         "EpisodeOrder": 1
     },
     {
         "Id": 141442,
         "Character": "流石知冴",
         "CardName": "大事なのは信じることさ！",
-        "Title": "",
+        "Title": "不器用な優しさ",
         "EpisodeOrder": 2
     },
     {
@@ -3937,14 +3937,14 @@
         "Id": 141551,
         "Character": "白丸美兎",
         "CardName": "霹靂は夜雨を駆け",
-        "Title": "",
+        "Title": "曇りのち",
         "EpisodeOrder": 1
     },
     {
         "Id": 141552,
         "Character": "白丸美兎",
         "CardName": "霹靂は夜雨を駆け",
-        "Title": "",
+        "Title": "晴れ。ところにより",
         "EpisodeOrder": 2
     },
     {
@@ -3979,14 +3979,14 @@
         "Id": 141581,
         "Character": "リリヤ・クルトベイ",
         "CardName": "異邦の湯に足を浸して",
-        "Title": "",
+        "Title": "ここではないどこかの湯へ",
         "EpisodeOrder": 1
     },
     {
         "Id": 141582,
         "Character": "リリヤ・クルトベイ",
         "CardName": "異邦の湯に足を浸して",
-        "Title": "",
+        "Title": "つかって、ひたって。",
         "EpisodeOrder": 2
     },
     {
@@ -4427,28 +4427,28 @@
         "Id": 141901,
         "Character": "烏森大黒",
         "CardName": "陽射し、ラクダに乗って",
-        "Title": "",
+        "Title": "お告げと巡り合わせ",
         "EpisodeOrder": 1
     },
     {
         "Id": 141902,
         "Character": "烏森大黒",
         "CardName": "陽射し、ラクダに乗って",
-        "Title": "",
+        "Title": "幸運の守護神",
         "EpisodeOrder": 2
     },
     {
         "Id": 141911,
         "Character": "新妻八恵",
         "CardName": "ずっと一緒だよ、お父様",
-        "Title": "",
+        "Title": "そうめんパーティー",
         "EpisodeOrder": 1
     },
     {
         "Id": 141912,
         "Character": "新妻八恵",
         "CardName": "ずっと一緒だよ、お父様",
-        "Title": "",
+        "Title": "楽しい料理",
         "EpisodeOrder": 2
     },
     {
