@@ -17,28 +17,28 @@
         "Id": 110021,
         "Character": "静香",
         "CardName": "シリウス",
-        "Title": "清く正しい付き合いを",
+        "Title": "静香とセンス",
         "EpisodeOrder": 1
     },
     {
         "Id": 110022,
         "Character": "静香",
         "CardName": "シリウス",
-        "Title": "静香とセンス",
+        "Title": "清く正しい付き合いを",
         "EpisodeOrder": 2
     },
     {
         "Id": 110031,
         "Character": "カトリナ・グリーベル",
         "CardName": "シリウス",
-        "Title": "自慢のママ",
+        "Title": "ワールドダイスター",
         "EpisodeOrder": 1
     },
     {
         "Id": 110032,
         "Character": "カトリナ・グリーベル",
         "CardName": "シリウス",
-        "Title": "ワールドダイスター",
+        "Title": "自慢のママ",
         "EpisodeOrder": 2
     },
     {
@@ -234,7 +234,7 @@
         "Id": 110172,
         "Character": "千寿いろは",
         "CardName": "劇団電姫",
-        "Title": "こりごりですよ〜っ！",
+        "Title": "こりごりですよ～っ！",
         "EpisodeOrder": 2
     },
     {
@@ -913,7 +913,7 @@
         "Id": 130241,
         "Character": "流石知冴",
         "CardName": "流石の釣り名人",
-        "Title": "嘘かまことか冗談か",
+        "Title": "噓かまことか冗談か",
         "EpisodeOrder": 1
     },
     {
@@ -1032,7 +1032,7 @@
         "Id": 130322,
         "Character": "与那国緋花里",
         "CardName": "ん～っ！　デリシャス！",
-        "Title": "料理は1日にしてならず",
+        "Title": "料理は１日にしてならず",
         "EpisodeOrder": 2
     },
     {
@@ -1165,7 +1165,7 @@
         "Id": 130431,
         "Character": "白丸美兎",
         "CardName": "みんなが大切だからこそ",
-        "Title": "よきにはからえ",
+        "Title": "よきにはからえ！",
         "EpisodeOrder": 1
     },
     {
@@ -1235,7 +1235,7 @@
         "Id": 130491,
         "Character": "リリヤ・クルトベイ",
         "CardName": "リラックス・ナイト・タイム",
-        "Title": "美しい客人",
+        "Title": "美しき客人",
         "EpisodeOrder": 1
     },
     {
@@ -1298,7 +1298,7 @@
         "Id": 130532,
         "Character": "千寿暦",
         "CardName": "食べちゃうぞ～！",
-        "Title": "バズ神様の恵み",
+        "Title": "バズ神様のお恵み",
         "EpisodeOrder": 2
     },
     {
@@ -1851,14 +1851,14 @@
         "Id": 140011,
         "Character": "鳳ここな",
         "CardName": "悲哀と恋慕の旋律",
-        "Title": "目指す先は",
+        "Title": "ここが帰る場所",
         "EpisodeOrder": 1
     },
     {
         "Id": 140012,
         "Character": "鳳ここな",
         "CardName": "悲哀と恋慕の旋律",
-        "Title": "ここが帰る場所",
+        "Title": "目指す先は",
         "EpisodeOrder": 2
     },
     {
@@ -2187,7 +2187,7 @@
         "Id": 140261,
         "Character": "舎人仁花子",
         "CardName": "アオハル応援団長",
-        "Title": "祭の後で",
+        "Title": "祭のあとで",
         "EpisodeOrder": 1
     },
     {
@@ -2390,7 +2390,7 @@
         "Id": 140402,
         "Character": "本巣叶羽",
         "CardName": "夕暮れ時には甘えてみて",
-        "Title": "文字の叫びに耳を貸せ",
+        "Title": "文字の叫びに耳を貸せ！",
         "EpisodeOrder": 2
     },
     {
@@ -2446,7 +2446,7 @@
         "Id": 140442,
         "Character": "静香",
         "CardName": "その手を取り、翼並べて",
-        "Title": "決意と思い",
+        "Title": "決意と想い",
         "EpisodeOrder": 2
     },
     {
@@ -2579,7 +2579,7 @@
         "Id": 140541,
         "Character": "筆島しぐれ",
         "CardName": "悩める迷宮での出会い",
-        "Title": "親衛隊、がんばる!",
+        "Title": "親衛隊、がんばる！",
         "EpisodeOrder": 1
     },
     {
@@ -2733,14 +2733,14 @@
         "Id": 140691,
         "Character": "筆島しぐれ",
         "CardName": "サイバーガーディアン",
-        "Title": "",
+        "Title": "教室のすみっこの彼女",
         "EpisodeOrder": 1
     },
     {
         "Id": 140692,
         "Character": "筆島しぐれ",
         "CardName": "サイバーガーディアン",
-        "Title": "",
+        "Title": "教室の中心の彼女",
         "EpisodeOrder": 2
     },
     {
@@ -3027,14 +3027,14 @@
         "Id": 140901,
         "Character": "リリヤ・クルトベイ",
         "CardName": "江楓にお覚悟を",
-        "Title": "",
+        "Title": "もう一度ゲーセン☆チャンス！？",
         "EpisodeOrder": 1
     },
     {
         "Id": 140902,
         "Character": "リリヤ・クルトベイ",
         "CardName": "江楓にお覚悟を",
-        "Title": "",
+        "Title": "楽しい思い出を形に",
         "EpisodeOrder": 2
     },
     {
@@ -3139,7 +3139,7 @@
         "Id": 140981,
         "Character": "静香",
         "CardName": "とある悪魔の幸福",
-        "Title": "瞬にた星抱く、優しい夜風",
+        "Title": "瞬いた星抱く、優しい夜風",
         "EpisodeOrder": 1
     },
     {
@@ -3160,7 +3160,7 @@
         "Id": 140992,
         "Character": "鳳ここな",
         "CardName": "あなたの声は潮騒に",
-        "Title": "デビューしてくれて有難に",
+        "Title": "デビューしてくれて有難う",
         "EpisodeOrder": 2
     },
     {
@@ -3321,14 +3321,14 @@
         "Id": 141111,
         "Character": "千寿暦",
         "CardName": "玉椿、夜水に灯り",
-        "Title": "",
+        "Title": "３年生の出し物",
         "EpisodeOrder": 1
     },
     {
         "Id": 141112,
         "Character": "千寿暦",
         "CardName": "玉椿、夜水に灯り",
-        "Title": "",
+        "Title": "お嬢様と人気者",
         "EpisodeOrder": 2
     },
     {
@@ -3811,14 +3811,14 @@
         "Id": 141461,
         "Character": "与那国緋花里",
         "CardName": "ハートフル・ショッピング",
-        "Title": "",
+        "Title": "千里の道も一人から",
         "EpisodeOrder": 1
     },
     {
         "Id": 141462,
         "Character": "与那国緋花里",
         "CardName": "ハートフル・ショッピング",
-        "Title": "",
+        "Title": "このチョコが冷めるまで",
         "EpisodeOrder": 2
     },
     {
@@ -3867,14 +3867,14 @@
         "Id": 141501,
         "Character": "王雪",
         "CardName": "ストリート・スクリプト",
-        "Title": "",
+        "Title": "本気でやってないから",
         "EpisodeOrder": 1
     },
     {
         "Id": 141502,
         "Character": "王雪",
         "CardName": "ストリート・スクリプト",
-        "Title": "",
+        "Title": "勝利の秘訣",
         "EpisodeOrder": 2
     },
     {
@@ -4735,14 +4735,14 @@
         "Id": 150021,
         "Character": "本巣叶羽",
         "CardName": "Bomb Interruption !!",
-        "Title": "",
+        "Title": "怠け者の懲罰官とゲリラ",
         "EpisodeOrder": 1
     },
     {
         "Id": 150022,
         "Character": "本巣叶羽",
         "CardName": "Bomb Interruption !!",
-        "Title": "",
+        "Title": "カリスマ首謀者と猛追",
         "EpisodeOrder": 2
     },
     {
