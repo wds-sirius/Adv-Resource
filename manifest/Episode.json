@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-01-01 05:27:55",
+    "LatestDate": "2026-01-04 23:24:31",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -8797,6 +8797,14 @@
                         "Id": 141420,
                         "Title": "それでも止まらぬ恋心",
                         "Episode": [
+                            {
+                                "EpisodeId": 141421,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 141422,
+                                "Order": 2
+                            }
                         ]
                     },
                     {

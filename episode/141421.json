@@ -1716,7 +1716,27 @@
             "FontSize": 2,
             "Phrase": "ああ、バカ、抱えるな！",
             "VoiceFileName": "1414210651",
-            "CharacterMotions": [],
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 300,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
             "SpeakerIconId": "405"
         },
         {
