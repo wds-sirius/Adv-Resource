@@ -5110,6 +5110,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142140,
+                        "Title": "Snow Queen Temptation",
+                        "Episode": []
                     }
                 ]
             },
@@ -7924,6 +7929,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142130,
+                        "Title": "雪山駆ける白狼と",
+                        "Episode": []
                     }
                 ]
             },
