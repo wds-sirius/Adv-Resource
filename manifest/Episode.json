@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-01-04 23:24:31",
+    "LatestDate": "2026-01-10 18:25:58",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5114,7 +5114,16 @@
                     {
                         "Id": 142140,
                         "Title": "Snow Queen Temptation",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142141,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142142,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7933,7 +7942,16 @@
                     {
                         "Id": 142130,
                         "Title": "雪山駆ける白狼と",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142131,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142132,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
