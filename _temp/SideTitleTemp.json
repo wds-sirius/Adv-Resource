@@ -4772,5 +4772,33 @@
         "CardName": "鼓寿ぐ舞い天女",
         "Title": "推し事 for 私たち！？",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142131,
+        "Character": "王雪",
+        "CardName": "雪山駆ける白狼と",
+        "Title": "初めてのゲレンデ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142132,
+        "Character": "王雪",
+        "CardName": "雪山駆ける白狼と",
+        "Title": "一歩、勇気を出して",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142141,
+        "Character": "静香",
+        "CardName": "Snow Queen Temptation",
+        "Title": "氷上の演技に魅せられて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142142,
+        "Character": "静香",
+        "CardName": "Snow Queen Temptation",
+        "Title": "いつか来る日を思い描いて",
+        "EpisodeOrder": 2
     }
 ]
