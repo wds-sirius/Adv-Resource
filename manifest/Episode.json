@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-01-18 21:36:14",
+    "LatestDate": "2026-01-19 21:53:10",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -1577,6 +1577,12 @@
                         "Order": 20
                     }
                 ]
+            },
+            {
+                "Id": 10404,
+                "CompanyId": 4,
+                "ChapterOrder": 4,
+                "Episode": []
             }
         ],
         "Event": [
@@ -6986,6 +6992,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 150030,
+                        "Title": "Sky Fleet & Oratorio!",
+                        "Episode": []
                     }
                 ]
             },
@@ -9079,6 +9090,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142160,
+                        "Title": "私も一緒に連れてって！",
+                        "Episode": []
                     }
                 ]
             },
@@ -9296,6 +9312,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142150,
+                        "Title": "木こりはハートを求めて",
+                        "Episode": []
                     }
                 ]
             },
@@ -15995,6 +16016,15 @@
                 ]
             },
             {
+                "Id": 230880,
+                "Name": "エメラルドの帰り道",
+                "PronounceName": "えめらるどのかえりみち",
+                "CharacterIds": [
+                    401,
+                    402
+                ]
+            },
+            {
                 "Id": 340010,
                 "Name": "【Birthday2025】鳳 ここな",
                 "PronounceName": "おおとりここな",
@@ -16160,6 +16190,14 @@
                 "PronounceName": "もとすとわ",
                 "CharacterIds": [
                     405
+                ]
+            },
+            {
+                "Id": 340220,
+                "Name": "【Birthday Night】鳳 ここな",
+                "PronounceName": "おおとりここな",
+                "CharacterIds": [
+                    101
                 ]
             },
             {
