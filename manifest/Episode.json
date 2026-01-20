@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-01-19 21:53:10",
+    "LatestDate": "2026-01-20 18:31:27",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -9094,7 +9094,16 @@
                     {
                         "Id": 142160,
                         "Title": "私も一緒に連れてって！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142161,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142162,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -9316,7 +9325,16 @@
                     {
                         "Id": 142150,
                         "Title": "木こりはハートを求めて",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142151,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142152,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
