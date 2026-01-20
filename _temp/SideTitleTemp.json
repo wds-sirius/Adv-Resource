@@ -4800,5 +4800,33 @@
         "CardName": "Snow Queen Temptation",
         "Title": "いつか来る日を思い描いて",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142151,
+        "Character": "猫足蕾",
+        "CardName": "木こりはハートを求めて",
+        "Title": "遊戯空間での導き",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142152,
+        "Character": "猫足蕾",
+        "CardName": "木こりはハートを求めて",
+        "Title": "示された運命と掴み取る力",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142161,
+        "Character": "阿岐留カミラ",
+        "CardName": "私も一緒に連れてって！",
+        "Title": "世界を意識して……",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142162,
+        "Character": "阿岐留カミラ",
+        "CardName": "私も一緒に連れてって！",
+        "Title": "演じたいと願う心",
+        "EpisodeOrder": 2
     }
 ]
