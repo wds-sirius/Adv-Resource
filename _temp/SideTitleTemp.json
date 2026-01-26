@@ -4828,5 +4828,19 @@
         "CardName": "私も一緒に連れてって！",
         "Title": "演じたいと願う心",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 150031,
+        "Character": "萬容",
+        "CardName": "Sky Fleet & Oratorio!",
+        "Title": "理想と現実に揺れる思い",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 150032,
+        "Character": "萬容",
+        "CardName": "Sky Fleet & Oratorio!",
+        "Title": "この声を届けて",
+        "EpisodeOrder": 2
     }
 ]
