@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-01-20 23:58:27",
+    "LatestDate": "2026-01-27 16:41:16",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -7037,7 +7037,16 @@
                     {
                         "Id": 150030,
                         "Title": "Sky Fleet & Oratorio!",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 150031,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 150032,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
