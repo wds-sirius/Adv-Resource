@@ -4842,5 +4842,33 @@
         "CardName": "Sky Fleet & Oratorio!",
         "Title": "この声を届けて",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142171,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "復讐の魔女は墳墓にて",
+        "Title": "ヨガ日和",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142172,
+        "Character": "リリヤ・クルトベイ",
+        "CardName": "復讐の魔女は墳墓にて",
+        "Title": "揺るがない美学",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142181,
+        "Character": "与那国緋花里",
+        "CardName": "薄幸の麗妃は王棺を悼み",
+        "Title": "晴れやかな銀河",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142182,
+        "Character": "与那国緋花里",
+        "CardName": "薄幸の麗妃は王棺を悼み",
+        "Title": "皆を照らす、光",
+        "EpisodeOrder": 2
     }
 ]
