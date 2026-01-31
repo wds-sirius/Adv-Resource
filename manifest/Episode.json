@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-01-27 16:41:16",
+    "LatestDate": "2026-01-31 21:25:50",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4681,6 +4681,12 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20066,
+                "Title": "輝線、綺羅星の証明",
+                "Date": "2026-01-31",
+                "Episode": []
             }
         ],
         "Side": [
@@ -8258,6 +8264,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142170,
+                        "Title": "復讐の魔女は墳墓にて",
+                        "Episode": [
+                            {
+                                "EpisodeId": 142171,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142172,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -8500,6 +8520,20 @@
                             },
                             {
                                 "EpisodeId": 141972,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 142180,
+                        "Title": "薄幸の麗妃は王棺を悼み",
+                        "Episode": [
+                            {
+                                "EpisodeId": 142181,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142182,
                                 "Order": 2
                             }
                         ]
@@ -16093,6 +16127,24 @@
                 ]
             },
             {
+                "Id": 230890,
+                "Name": "カムランにて、失墜す",
+                "PronounceName": "かむらんにてしっついす",
+                "CharacterIds": [
+                    302,
+                    303
+                ]
+            },
+            {
+                "Id": 230900,
+                "Name": "Sweety madly",
+                "PronounceName": "Sweety madly",
+                "CharacterIds": [
+                    204,
+                    304
+                ]
+            },
+            {
                 "Id": 340010,
                 "Name": "【Birthday2025】鳳 ここな",
                 "PronounceName": "おおとりここな",
@@ -16306,6 +16358,14 @@
                 "PronounceName": "せんじゅこよみ",
                 "CharacterIds": [
                     301
+                ]
+            },
+            {
+                "Id": 340360,
+                "Name": "【Birthday Night】リリヤ・クルトベイ",
+                "PronounceName": "りりや・くるとべい",
+                "CharacterIds": [
+                    304
                 ]
             },
             {
