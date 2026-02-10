@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-02-01 01:50:40",
+    "LatestDate": "2026-02-10 19:37:21",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5439,7 +5439,16 @@
                     {
                         "Id": 142190,
                         "Title": "キミの為、闇の中へ",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142191,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142192,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 150010,
@@ -7810,7 +7819,16 @@
                     {
                         "Id": 142200,
                         "Title": "嗚呼、クリスティーヌ",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142201,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142202,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
