@@ -4870,5 +4870,35 @@
         "CardName": "薄幸の麗妃は王棺を悼み",
         "Title": "皆を照らす、光",
         "EpisodeOrder": 2
+    },
+    [
+    {
+        "Id": 142191,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "キミの為、闇の中へ",
+        "Title": "輝く星たちの、それぞれの舞台",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142192,
+        "Character": "カトリナ・グリーベル",
+        "CardName": "キミの為、闇の中へ",
+        "Title": "恋人はより一層甘く囁く",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142201,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "嗚呼、クリスティーヌ",
+        "Title": "いざ、敵情視察！",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142202,
+        "Character": "ラモーナ・ウォルフ",
+        "CardName": "嗚呼、クリスティーヌ",
+        "Title": "湯煙のなかで見た過去と今",
+        "EpisodeOrder": 2
     }
+]
 ]
