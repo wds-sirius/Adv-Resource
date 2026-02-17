@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-02-10 19:37:21",
+    "LatestDate": "2026-02-17 19:14:44",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -8837,6 +8837,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142220,
+                        "Title": "その望み、叶えてやろう！",
+                        "Episode": []
                     }
                 ]
             },
@@ -9691,6 +9696,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142210,
+                        "Title": "臆病な獅子は森の王なりて",
+                        "Episode": []
                     },
                     {
                         "Id": 150020,
@@ -16411,6 +16421,14 @@
                 "PronounceName": "からすもりだいこく",
                 "CharacterIds": [
                     202
+                ]
+            },
+            {
+                "Id": 340310,
+                "Name": "【Birthday Night】萬 容",
+                "PronounceName": "よろずいるる",
+                "CharacterIds": [
+                    204
                 ]
             },
             {
