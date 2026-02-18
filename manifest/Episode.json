@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-02-17 19:14:44",
+    "LatestDate": "2026-02-18 17:56:16",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -8841,7 +8841,16 @@
                     {
                         "Id": 142220,
                         "Title": "その望み、叶えてやろう！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142221,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142222,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -9700,7 +9709,16 @@
                     {
                         "Id": 142210,
                         "Title": "臆病な獅子は森の王なりて",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142211,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142212,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 150020,
