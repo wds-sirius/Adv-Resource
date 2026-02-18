@@ -4898,5 +4898,33 @@
         "CardName": "嗚呼、クリスティーヌ",
         "Title": "湯煙のなかで見た過去と今",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142211,
+        "Character": "本巣叶羽",
+        "CardName": "臆病な獅子は森の王なりて",
+        "Title": "じっとしていられなくて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142212,
+        "Character": "本巣叶羽",
+        "CardName": "臆病な獅子は森の王なりて",
+        "Title": "冷静に、でも想いは熱く",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142221,
+        "Character": "千寿いろは",
+        "CardName": "その望み、叶えてやろう！",
+        "Title": "オズの魔法使いの真実",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142222,
+        "Character": "千寿いろは",
+        "CardName": "その望み、叶えてやろう！",
+        "Title": "見出された役への想い",
+        "EpisodeOrder": 2
     }
 ]
