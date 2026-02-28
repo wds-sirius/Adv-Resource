@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-02-27 18:44:42",
+    "LatestDate": "2026-02-28 18:21:45",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6465,7 +6465,16 @@
                     {
                         "Id": 142240,
                         "Title": "大蛇征伐 スサノオ剣！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142241,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142242,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7149,7 +7158,16 @@
                     {
                         "Id": 142230,
                         "Title": "Ku47da 詠唱来奉！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142231,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142232,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 150030,
