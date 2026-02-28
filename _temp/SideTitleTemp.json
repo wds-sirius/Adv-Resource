@@ -4926,5 +4926,33 @@
         "CardName": "その望み、叶えてやろう！",
         "Title": "見出された役への想い",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142231,
+        "Character": "萬容",
+        "CardName": "Ku47da 詠唱来奉！",
+        "Title": "Edenの歴史を物語る……",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142232,
+        "Character": "萬容",
+        "CardName": "Ku47da 詠唱来奉！",
+        "Title": "夜空を眺めた日を、思い返して",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142241,
+        "Character": "連尺野初魅",
+        "CardName": "大蛇征伐 スサノオ剣！",
+        "Title": "夢へと繋がる第一歩",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142242,
+        "Character": "連尺野初魅",
+        "CardName": "大蛇征伐 スサノオ剣！",
+        "Title": "楽園を動かすエネルギー",
+        "EpisodeOrder": 2
     }
 ]
