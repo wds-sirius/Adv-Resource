@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-02-28 18:21:45",
+    "LatestDate": "2026-03-01 14:11:06",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4773,7 +4773,48 @@
                 "Id": 20067,
                 "Title": "荒神鎮め、栄達を為す",
                 "Date": "2026-02-28",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2006701,
+                        "Title": "一番の方法",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2006702,
+                        "Title": "かつての名優",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2006703,
+                        "Title": "なんで今やるのか",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2006704,
+                        "Title": "恐れる日輪",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2006705,
+                        "Title": "動き出す私たち",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2006706,
+                        "Title": "見せてやりたい",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2006707,
+                        "Title": "荒神は生まれ変わりて",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2006708,
+                        "Title": "アンタが居たから",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
