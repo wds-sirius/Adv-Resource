@@ -7426,6 +7426,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142250,
+                        "Title": "Flamante Bailaora！",
+                        "Episode": []
                     }
                 ]
             },
@@ -8721,6 +8726,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142260,
+                        "Title": "Tropical Carnival！",
+                        "Episode": []
                     }
                 ]
             },
