@@ -4954,5 +4954,33 @@
         "CardName": "大蛇征伐 スサノオ剣！",
         "Title": "楽園を動かすエネルギー",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142251,
+        "Character": "筆島しぐれ",
+        "CardName": "Flamante Bailaora！",
+        "Title": "役者に必要な表現とは",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142252,
+        "Character": "筆島しぐれ",
+        "CardName": "Flamante Bailaora！",
+        "Title": "役者としての柔軟さ",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142261,
+        "Character": "与那国緋花里",
+        "CardName": "Tropical Carnival！",
+        "Title": "違う国の催し",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142262,
+        "Character": "与那国緋花里",
+        "CardName": "Tropical Carnival！",
+        "Title": "情熱的南国ダンサー",
+        "EpisodeOrder": 2
     }
 ]
