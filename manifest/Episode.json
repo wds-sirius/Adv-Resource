@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-03-01 14:11:06",
+    "LatestDate": "2026-03-10 20:53:54",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -7430,7 +7430,16 @@
                     {
                         "Id": 142250,
                         "Title": "Flamante Bailaora！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142251,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142252,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -8730,7 +8739,16 @@
                     {
                         "Id": 142260,
                         "Title": "Tropical Carnival！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142261,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142262,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
