@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-03-10 20:53:54",
+    "LatestDate": "2026-03-19 21:03:23",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -9197,6 +9197,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142270,
+                        "Title": "やっぱりおうちが一番！",
+                        "Episode": []
                     }
                 ]
             },
@@ -9414,6 +9419,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142280,
+                        "Title": "新たなる王、翠玉の戴冠",
+                        "Episode": []
                     }
                 ]
             },
@@ -16591,6 +16601,14 @@
                 "PronounceName": "やなぎばぱんだ",
                 "CharacterIds": [
                     105
+                ]
+            },
+            {
+                "Id": 340270,
+                "Name": "【Birthday Night】流石 知冴",
+                "PronounceName": "さすがちさ",
+                "CharacterIds": [
+                    106
                 ]
             },
             {
