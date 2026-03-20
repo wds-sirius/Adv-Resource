@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-03-19 21:03:23",
+    "LatestDate": "2026-03-20 19:16:26",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -9201,7 +9201,16 @@
                     {
                         "Id": 142270,
                         "Title": "やっぱりおうちが一番！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142271,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142272,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -9423,7 +9432,16 @@
                     {
                         "Id": 142280,
                         "Title": "新たなる王、翠玉の戴冠",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142281,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142282,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
