@@ -4982,5 +4982,33 @@
         "CardName": "Tropical Carnival！",
         "Title": "情熱的南国ダンサー",
         "EpisodeOrder": 2
+    },
+        {
+        "Id": 142271,
+        "Character": "白丸美兎",
+        "CardName": "やっぱりおうちが一番！",
+        "Title": "親友の姉とばったり……",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142272,
+        "Character": "白丸美兎",
+        "CardName": "やっぱりおうちが一番！",
+        "Title": "美しい兎の秘密のお茶会",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142281,
+        "Character": "阿岐留カミラ",
+        "CardName": "新たなる王、翠玉の戴冠",
+        "Title": "4人寄らば",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142282,
+        "Character": "阿岐留カミラ",
+        "CardName": "新たなる王、翠玉の戴冠",
+        "Title": "電子の姫達の祝賀会",
+        "EpisodeOrder": 2
     }
 ]
