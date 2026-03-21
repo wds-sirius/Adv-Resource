@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-03-20 19:16:26",
+    "LatestDate": "2026-03-21 14:43:44",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -1662,6 +1662,46 @@
                         "EpisodeId": 1040416,
                         "Title": "決意",
                         "Order": 16
+                    },
+                    {
+                        "EpisodeId": 1040417,
+                        "Title": "美兎の想い",
+                        "Order": 17
+                    },
+                    {
+                        "EpisodeId": 1040418,
+                        "Title": "話す勇気",
+                        "Order": 18
+                    },
+                    {
+                        "EpisodeId": 1040419,
+                        "Title": "打ち明けた先に",
+                        "Order": 19
+                    },
+                    {
+                        "EpisodeId": 1040420,
+                        "Title": "どこまでも高く",
+                        "Order": 20
+                    },
+                    {
+                        "EpisodeId": 1040421,
+                        "Title": "センスは輝く",
+                        "Order": 21
+                    },
+                    {
+                        "EpisodeId": 1040422,
+                        "Title": "銀の靴の魔法で",
+                        "Order": 22
+                    },
+                    {
+                        "EpisodeId": 1040423,
+                        "Title": "初演を終えて",
+                        "Order": 23
+                    },
+                    {
+                        "EpisodeId": 1040424,
+                        "Title": "黄色い道の先へ",
+                        "Order": 24
                     }
                 ]
             }
