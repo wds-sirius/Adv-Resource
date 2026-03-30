@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-03-21 14:43:44",
+    "LatestDate": "2026-03-30 20:18:36",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4855,6 +4855,12 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20068,
+                "Title": "Easter Attraction！",
+                "Date": "2026-03-31",
+                "Episode": []
             }
         ],
         "Side": [
@@ -5114,6 +5120,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142300,
+                        "Title": "うさぎは卵を傍らに",
+                        "Episode": []
                     }
                 ]
             },
@@ -6080,6 +6091,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142290,
+                        "Title": "駆けまわれ！　ホワイトバニー！",
+                        "Episode": []
                     }
                 ]
             },
@@ -16470,6 +16486,23 @@
                 ]
             },
             {
+                "Id": 230950,
+                "Name": "ガチョウと黄金の卵",
+                "PronounceName": "がちょうとおうごんのたまご",
+                "CharacterIds": [
+                    105,
+                    106
+                ]
+            },
+            {
+                "Id": 230960,
+                "Name": "花の魔法で大人びて",
+                "PronounceName": "はなのまほうでおとなびて",
+                "CharacterIds": [
+                    104
+                ]
+            },
+            {
                 "Id": 340010,
                 "Name": "【Birthday2025】鳳 ここな",
                 "PronounceName": "おおとりここな",
@@ -16651,6 +16684,14 @@
                 "PronounceName": "かとりな・ぐりーべる",
                 "CharacterIds": [
                     103
+                ]
+            },
+            {
+                "Id": 340250,
+                "Name": "【Birthday Night】新妻 八恵",
+                "PronounceName": "にいづまやえ",
+                "CharacterIds": [
+                    104
                 ]
             },
             {
