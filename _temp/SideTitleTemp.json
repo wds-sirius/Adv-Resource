@@ -5010,5 +5010,33 @@
         "CardName": "新たなる王、翠玉の戴冠",
         "Title": "電子の姫達の祝賀会",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142291,
+        "Character": "柳場ぱんだ",
+        "CardName": "駆けまわれ！　ホワイトバニー！",
+        "Title": "ビッグウェーブを乗りこなせ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142292,
+        "Character": "柳場ぱんだ",
+        "CardName": "駆けまわれ！　ホワイトバニー！",
+        "Title": "エッグペイント",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142301,
+        "Character": "鳳ここな",
+        "CardName": "うさぎは卵を傍らに",
+        "Title": "イースターフェスティバルの最中にて",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142302,
+        "Character": "鳳ここな",
+        "CardName": "うさぎは卵を傍らに",
+        "Title": "エッグレーサーたちの共鳴",
+        "EpisodeOrder": 2
     }
 ]
