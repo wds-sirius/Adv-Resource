@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-03-30 20:18:36",
+    "LatestDate": "2026-03-31 19:30:04",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5124,7 +5124,16 @@
                     {
                         "Id": 142300,
                         "Title": "うさぎは卵を傍らに",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142301,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142302,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -6095,7 +6104,16 @@
                     {
                         "Id": 142290,
                         "Title": "駆けまわれ！　ホワイトバニー！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142291,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142292,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
