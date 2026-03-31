@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-03-31 19:30:04",
+    "LatestDate": "2026-04-01 02:18:09",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4860,7 +4860,48 @@
                 "Id": 20068,
                 "Title": "Easter Attraction！",
                 "Date": "2026-03-31",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2006801,
+                        "Title": "配信ネタ",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2006802,
+                        "Title": "イースター",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2006803,
+                        "Title": "一緒に撮ろう！",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2006804,
+                        "Title": "いざ、テーマパークへ！",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2006805,
+                        "Title": "撮影開始！",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2006806,
+                        "Title": "エッグハント！",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2006807,
+                        "Title": "相対する壁",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2006808,
+                        "Title": "バズってる！？",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
