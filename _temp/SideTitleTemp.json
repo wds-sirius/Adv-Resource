@@ -5038,5 +5038,33 @@
         "CardName": "うさぎは卵を傍らに",
         "Title": "エッグレーサーたちの共鳴",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142311,
+        "Character": "新妻八恵",
+        "CardName": "暴かれた真の歌姫",
+        "Title": "新境地の中の再演",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142312,
+        "Character": "新妻八恵",
+        "CardName": "暴かれた真の歌姫",
+        "Title": "天使に愛されたダイスター",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142321,
+        "Character": "静香",
+        "CardName": "音楽の天使にお別れを",
+        "Title": "音楽の天使",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142322,
+        "Character": "静香",
+        "CardName": "音楽の天使にお別れを",
+        "Title": "音楽の天使は微笑む",
+        "EpisodeOrder": 2
     }
 ]
