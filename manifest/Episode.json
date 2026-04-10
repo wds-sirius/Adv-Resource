@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-04-01 02:18:09",
+    "LatestDate": "2026-04-10 17:54:16",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5410,7 +5410,16 @@
                     {
                         "Id": 142320,
                         "Title": "音楽の天使にお別れを",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142321,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142322,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -5905,7 +5914,16 @@
                     {
                         "Id": 142310,
                         "Title": "暴かれた真の歌姫",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142311,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142312,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
