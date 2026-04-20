@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-04-17 21:51:14",
+    "LatestDate": "2026-04-20 18:22:43",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6900,7 +6900,16 @@
                     {
                         "Id": 142340,
                         "Title": "歪んだ愛の成れの果て",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142341,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142342,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7136,7 +7145,16 @@
                     {
                         "Id": 142330,
                         "Title": "伯爵はエンゲージリングに嗤う",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142331,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142332,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
