@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-04-20 18:22:43",
+    "LatestDate": "2026-04-20 22:31:56",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -813,7 +813,48 @@
                 "Id": 10204,
                 "CompanyId": 2,
                 "ChapterOrder": 4,
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 1020401,
+                        "Title": "初魅の決定",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 1020402,
+                        "Title": "Edenの夢",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 1020403,
+                        "Title": "違和感",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 1020404,
+                        "Title": "焦燥",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 1020405,
+                        "Title": "隠し事",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 1020406,
+                        "Title": "暗中模索",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 1020407,
+                        "Title": "ムードメーカー",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 1020408,
+                        "Title": "翳り",
+                        "Order": 8
+                    }
+                ]
             },
             {
                 "Id": 10301,
