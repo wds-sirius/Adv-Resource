@@ -5066,5 +5066,47 @@
         "CardName": "音楽の天使にお別れを",
         "Title": "音楽の天使は微笑む",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142331,
+        "Character": "舎人仁花子",
+        "CardName": "伯爵はエンゲージリングに嗤う",
+        "Title": "成長途中の楽園",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142332,
+        "Character": "舎人仁花子",
+        "CardName": "伯爵はエンゲージリングに嗤う",
+        "Title": "楽園の未来予想図",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142341,
+        "Character": "烏森大黒",
+        "CardName": "歪んだ愛の成れの果て",
+        "Title": "調子を狂わせるアイツ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142342,
+        "Character": "烏森大黒",
+        "CardName": "歪んだ愛の成れの果て",
+        "Title": "腹の底に抱えるもの",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 150041,
+        "Character": "千寿暦",
+        "CardName": "姉妹は手を取り合って",
+        "Title": "",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 150042,
+        "Character": "千寿暦",
+        "CardName": "姉妹は手を取り合って",
+        "Title": "",
+        "EpisodeOrder": 2
     }
 ]
