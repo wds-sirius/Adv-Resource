@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-04-20 22:31:56",
+    "LatestDate": "2026-04-30 18:10:06",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4949,6 +4949,12 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20069,
+                "Title": "Re:Start",
+                "Date": "2026-04-30",
+                "Episode": []
             }
         ],
         "Side": [
@@ -9217,6 +9223,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142350,
+                        "Title": "グレーテルは慌ただしい！",
+                        "Episode": [
+                            {
+                                "EpisodeId": 142351,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142352,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -10110,6 +10130,20 @@
                             },
                             {
                                 "EpisodeId": 142212,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 142360,
+                        "Title": "ヘンゼルは甘くくつろいで",
+                        "Episode": [
+                            {
+                                "EpisodeId": 142361,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142362,
                                 "Order": 2
                             }
                         ]
@@ -16679,6 +16713,25 @@
                 ]
             },
             {
+                "Id": 230980,
+                "Name": "お菓子の魔女と惚れ薬",
+                "PronounceName": "おかしのまじょとほれぐすり",
+                "CharacterIds": [
+                    402,
+                    404
+                ]
+            },
+            {
+                "Id": 230990,
+                "Name": "童心に返る、夏",
+                "PronounceName": "どうしんにかえるなつ",
+                "CharacterIds": [
+                    201,
+                    302,
+                    402
+                ]
+            },
+            {
                 "Id": 340010,
                 "Name": "【Birthday2025】鳳 ここな",
                 "PronounceName": "おおとりここな",
@@ -16940,6 +16993,14 @@
                 "PronounceName": "せんじゅいろは",
                 "CharacterIds": [
                     401
+                ]
+            },
+            {
+                "Id": 340390,
+                "Name": "【Birthday Night】白丸 美兎",
+                "PronounceName": "しろまるみと",
+                "CharacterIds": [
+                    402
                 ]
             },
             {
