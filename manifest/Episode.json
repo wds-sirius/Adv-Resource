@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-04-30 19:51:02",
+    "LatestDate": "2026-05-01 02:01:37",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -4954,7 +4954,48 @@
                 "Id": 20069,
                 "Title": "Re:Start",
                 "Date": "2026-04-30",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2006901,
+                        "Title": "子どもの日",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2006902,
+                        "Title": "祖母の一言",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2006903,
+                        "Title": "ふさわしい劇団",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2006904,
+                        "Title": "水面に黄昏る",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2006905,
+                        "Title": "電姫でやりたくて",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2006906,
+                        "Title": "子どもでありたかった",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2006907,
+                        "Title": "送り出す、その背中",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2006908,
+                        "Title": "新たな星、固める決意",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
