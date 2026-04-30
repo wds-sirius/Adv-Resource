@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-04-30 18:10:06",
+    "LatestDate": "2026-04-30 19:51:02",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -7941,7 +7941,16 @@
                     {
                         "Id": 150040,
                         "Title": "姉妹は手を取り合って",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 150041,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 150042,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
