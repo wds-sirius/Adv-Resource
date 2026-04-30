@@ -5108,5 +5108,33 @@
         "CardName": "姉妹は手を取り合って",
         "Title": "",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142351,
+        "Character": "千寿いろは",
+        "CardName": "グレーテルは慌ただしい！",
+        "Title": "昔の記憶に想い馳せ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142352,
+        "Character": "千寿いろは",
+        "CardName": "グレーテルは慌ただしい！",
+        "Title": "よしよし頑張ったねフェア",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142361,
+        "Character": "本巣叶羽",
+        "CardName": "ヘンゼルは甘くくつろいで",
+        "Title": "インドアな叶羽",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142362,
+        "Character": "本巣叶羽",
+        "CardName": "ヘンゼルは甘くくつろいで",
+        "Title": "開かれし、外の世界",
+        "EpisodeOrder": 2
     }
 ]
