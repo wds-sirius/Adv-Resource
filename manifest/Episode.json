@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-05-01 02:01:37",
+    "LatestDate": "2026-05-10 18:45:22",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6498,7 +6498,16 @@
                     {
                         "Id": 142370,
                         "Title": "のんびりクエスト！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142371,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142372,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -9975,7 +9984,16 @@
                     {
                         "Id": 142380,
                         "Title": "ねむねむ守護竜",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142381,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142382,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
