@@ -5136,5 +5136,33 @@
         "CardName": "ヘンゼルは甘くくつろいで",
         "Title": "開かれし、外の世界",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142371,
+        "Character": "流石知冴",
+        "CardName": "のんびりクエスト！",
+        "Title": "巷の噂",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142372,
+        "Character": "流石知冴",
+        "CardName": "のんびりクエスト！",
+        "Title": "不思議体験",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142381,
+        "Character": "猫足蕾",
+        "CardName": "ねむねむ守護竜",
+        "Title": "未知への誘い",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142382,
+        "Character": "猫足蕾",
+        "CardName": "ねむねむ守護竜",
+        "Title": "幻ノ蛇",
+        "EpisodeOrder": 2
     }
 ]
