@@ -5164,5 +5164,33 @@
         "CardName": "ねむねむ守護竜",
         "Title": "幻ノ蛇",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142391,
+        "Character": "連尺野初魅",
+        "CardName": "竜騎兵は妹の為、立ち上がり",
+        "Title": "楽園に集った仲間",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142392,
+        "Character": "連尺野初魅",
+        "CardName": "竜騎兵は妹の為、立ち上がり",
+        "Title": "楽園の見届け人",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142401,
+        "Character": "萬容",
+        "CardName": "花嫁は愛に溺れ、還らず",
+        "Title": "憂いを断つには",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142402,
+        "Character": "萬容",
+        "CardName": "花嫁は愛に溺れ、還らず",
+        "Title": "創造主の与える光",
+        "EpisodeOrder": 2
     }
 ]
