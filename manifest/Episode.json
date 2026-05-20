@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-05-20 18:48:46",
+    "LatestDate": "2026-05-21 02:22:45",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -853,6 +853,46 @@
                         "EpisodeId": 1020408,
                         "Title": "翳り",
                         "Order": 8
+                    },
+                    {
+                        "EpisodeId": 1020409,
+                        "Title": "不協和音",
+                        "Order": 9
+                    },
+                    {
+                        "EpisodeId": 1020410,
+                        "Title": "氷解",
+                        "Order": 10
+                    },
+                    {
+                        "EpisodeId": 1020411,
+                        "Title": "前へ進むために",
+                        "Order": 11
+                    },
+                    {
+                        "EpisodeId": 1020412,
+                        "Title": "それぞれの想い",
+                        "Order": 12
+                    },
+                    {
+                        "EpisodeId": 1020413,
+                        "Title": "しぐれの告白",
+                        "Order": 13
+                    },
+                    {
+                        "EpisodeId": 1020414,
+                        "Title": "新たな道",
+                        "Order": 14
+                    },
+                    {
+                        "EpisodeId": 1020415,
+                        "Title": "プロメテウス賞",
+                        "Order": 15
+                    },
+                    {
+                        "EpisodeId": 1020416,
+                        "Title": "青髪公、始動",
+                        "Order": 16
                     }
                 ]
             },
