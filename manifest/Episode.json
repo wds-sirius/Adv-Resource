@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-05-10 18:45:22",
+    "LatestDate": "2026-05-20 18:48:46",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6767,6 +6767,20 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142390,
+                        "Title": "竜騎兵は妹の為、立ち上がり",
+                        "Episode": [
+                            {
+                                "EpisodeId": 142391,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142392,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7485,6 +7499,20 @@
                             },
                             {
                                 "EpisodeId": 142232,
+                                "Order": 2
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 142400,
+                        "Title": "花嫁は愛に溺れ、還らず",
+                        "Episode": [
+                            {
+                                "EpisodeId": 142401,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142402,
                                 "Order": 2
                             }
                         ]
@@ -17018,6 +17046,14 @@
                 ]
             },
             {
+                "Id": 340280,
+                "Name": "【Birthday Night】連尺野 初魅",
+                "PronounceName": "れんじゃくのはつみ",
+                "CharacterIds": [
+                    201
+                ]
+            },
+            {
                 "Id": 340290,
                 "Name": "【Birthday Night】烏森 大黒",
                 "PronounceName": "からすもりだいこく",
@@ -17047,6 +17083,14 @@
                 "PronounceName": "せんじゅこよみ",
                 "CharacterIds": [
                     301
+                ]
+            },
+            {
+                "Id": 340340,
+                "Name": "【Birthday Night】ラモーナ・ウォルフ",
+                "PronounceName": "らもーな・うぉるふ",
+                "CharacterIds": [
+                    302
                 ]
             },
             {
