@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-05-21 02:22:45",
+    "LatestDate": "2026-05-30 00:41:45",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5036,6 +5036,12 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20070,
+                "Title": "少女海遊メモリアル！",
+                "Date": "2026-05-31",
+                "Episode": []
             }
         ],
         "Side": [
@@ -6058,6 +6064,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142410,
+                        "Title": "揺蕩歌姫、透き通る",
+                        "Episode": []
                     }
                 ]
             },
@@ -9586,6 +9597,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142420,
+                        "Title": "乙姫リラクゼーション",
+                        "Episode": []
                     }
                 ]
             },
@@ -16878,6 +16894,26 @@
                 ]
             },
             {
+                "Id": 231010,
+                "Name": "竜宮城の踊り子たち",
+                "PronounceName": "りゅうぐうじょうのおどりこたち",
+                "CharacterIds": [
+                    106,
+                    202,
+                    303,
+                    405
+                ]
+            },
+            {
+                "Id": 231020,
+                "Name": "バンド・バーサス・フェスティバル！",
+                "PronounceName": "ばんどばーさすふぇすてぃばる！",
+                "CharacterIds": [
+                    203,
+                    303
+                ]
+            },
+            {
                 "Id": 340010,
                 "Name": "【Birthday2025】鳳 ここな",
                 "PronounceName": "おおとりここな",
@@ -17099,6 +17135,14 @@
                 "PronounceName": "からすもりだいこく",
                 "CharacterIds": [
                     202
+                ]
+            },
+            {
+                "Id": 340300,
+                "Name": "【Birthday Night】舎人 仁花子",
+                "PronounceName": "とねりにかこ",
+                "CharacterIds": [
+                    203
                 ]
             },
             {

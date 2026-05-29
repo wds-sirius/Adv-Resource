@@ -200,6 +200,11 @@
         "CompanyId": 1
     },
     {
+        "Id": 10417,
+        "CharacterId": 104,
+        "CompanyId": 1
+    },
+    {
         "Id": 10418,
         "CharacterId": 104,
         "CompanyId": 1
@@ -471,6 +476,11 @@
     },
     {
         "Id": 20327,
+        "CharacterId": 203,
+        "CompanyId": 2
+    },
+    {
+        "Id": 20336,
         "CharacterId": 203,
         "CompanyId": 2
     },
