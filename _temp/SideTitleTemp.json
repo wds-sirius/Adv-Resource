@@ -5192,5 +5192,33 @@
         "CardName": "花嫁は愛に溺れ、還らず",
         "Title": "創造主の与える光",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142411,
+        "Character": "新妻八恵",
+        "CardName": "揺蕩歌姫、透き通る",
+        "Title": "水泳教室のお手伝い",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142412,
+        "Character": "新妻八恵",
+        "CardName": "揺蕩歌姫、透き通る",
+        "Title": "水の中の天使",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142421,
+        "Character": "白丸美兎",
+        "CardName": "乙姫リラクゼーション",
+        "Title": "水着deゴミ削減をPR",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142422,
+        "Character": "白丸美兎",
+        "CardName": "乙姫リラクゼーション",
+        "Title": "最高の瞬間を",
+        "EpisodeOrder": 2
     }
 ]
