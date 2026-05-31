@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-05-31 18:07:24",
+    "LatestDate": "2026-06-01 01:41:38",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5041,7 +5041,48 @@
                 "Id": 20070,
                 "Title": "少女海遊メモリアル！",
                 "Date": "2026-05-31",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2007001,
+                        "Title": "研究に繋がるかも",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2007002,
+                        "Title": "水着deゴミ削減",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2007003,
+                        "Title": "奇遇",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2007004,
+                        "Title": "カッコ悪いとこ見せらんない",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2007005,
+                        "Title": "あつめてあつめて",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2007006,
+                        "Title": "ビーチバレー",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2007007,
+                        "Title": "アタシで隠さなきゃ！",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2007008,
+                        "Title": "海から帰って",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
