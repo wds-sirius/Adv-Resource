@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-05-30 00:41:45",
+    "LatestDate": "2026-05-31 18:07:24",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6068,7 +6068,16 @@
                     {
                         "Id": 142410,
                         "Title": "揺蕩歌姫、透き通る",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142411,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142412,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -9601,7 +9610,16 @@
                     {
                         "Id": 142420,
                         "Title": "乙姫リラクゼーション",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142421,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142422,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
