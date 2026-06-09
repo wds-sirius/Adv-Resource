@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-06-01 01:41:38",
+    "LatestDate": "2026-06-10 02:17:44",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -7619,6 +7619,11 @@
                         ]
                     },
                     {
+                        "Id": 142430,
+                        "Title": "共に上りゆく契りの階段",
+                        "Episode": []
+                    },
+                    {
                         "Id": 150030,
                         "Title": "Sky Fleet & Oratorio!",
                         "Episode": [
@@ -8639,6 +8644,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142440,
+                        "Title": "誓いの言葉は照れくさくて",
+                        "Episode": []
                     }
                 ]
             },
@@ -17234,6 +17244,14 @@
                 "PronounceName": "らもーな・うぉるふ",
                 "CharacterIds": [
                     302
+                ]
+            },
+            {
+                "Id": 340350,
+                "Name": "【Birthday Night】王 雪",
+                "PronounceName": "わんしゅえ",
+                "CharacterIds": [
+                    303
                 ]
             },
             {
