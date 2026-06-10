@@ -5220,5 +5220,33 @@
         "CardName": "乙姫リラクゼーション",
         "Title": "最高の瞬間を",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142431,
+        "Character": "萬容",
+        "CardName": "共に上りゆく契りの階段",
+        "Title": "懐かしき仲間からの吉報",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142432,
+        "Character": "萬容",
+        "CardName": "共に上りゆく契りの階段",
+        "Title": "幸せの花束",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142441,
+        "Character": "王雪",
+        "CardName": "誓いの言葉は照れくさくて",
+        "Title": "思わぬ出番",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142442,
+        "Character": "王雪",
+        "CardName": "誓いの言葉は照れくさくて",
+        "Title": "これも一つのワタシの舞台",
+        "EpisodeOrder": 2
     }
 ]
