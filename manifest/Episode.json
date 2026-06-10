@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-06-10 02:17:44",
+    "LatestDate": "2026-06-10 20:15:48",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -7621,7 +7621,16 @@
                     {
                         "Id": 142430,
                         "Title": "共に上りゆく契りの階段",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142431,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142432,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 150030,
@@ -8648,7 +8657,16 @@
                     {
                         "Id": 142440,
                         "Title": "誓いの言葉は照れくさくて",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142441,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142442,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
