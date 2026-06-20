@@ -5248,5 +5248,34 @@
         "CardName": "誓いの言葉は照れくさくて",
         "Title": "これも一つのワタシの舞台",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142451,
+        "Character": "筆島しぐれ",
+        "CardName": "悪夢の終わりは突然で",
+        "Title": "幾重にも重なる喜び",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142452,
+        "Character": "筆島しぐれ",
+        "CardName": "悪夢の終わりは突然で",
+        "Title": "喧嘩するほど……？",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142461,
+        "Character": "舎人仁花子",
+        "CardName": "妻たちのもとへ墜ちていく",
+        "Title": "悪役への反響",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142462,
+        "Character": "舎人仁花子",
+        "CardName": "妻たちのもとへ墜ちていく",
+        "Title": "白地に彩りが溢れて",
+        "EpisodeOrder": 2
     }
+    
 ]
