@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-06-20 18:58:37",
+    "LatestDate": "2026-06-20 19:52:25",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -7416,7 +7416,16 @@
                     {
                         "Id": 142460,
                         "Title": "妻たちのもとへ墜ちていく",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142461,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142462,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -7911,7 +7920,16 @@
                     {
                         "Id": 142450,
                         "Title": "悪夢の終わりは突然で",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142451,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142452,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
