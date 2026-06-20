@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-06-10 20:15:48",
+    "LatestDate": "2026-06-20 18:58:37",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -893,6 +893,46 @@
                         "EpisodeId": 1020416,
                         "Title": "青髪公、始動",
                         "Order": 16
+                    },
+                    {
+                        "EpisodeId": 1020417,
+                        "Title": "本稽古開始",
+                        "Order": 17
+                    },
+                    {
+                        "EpisodeId": 1020418,
+                        "Title": "各位、邁進",
+                        "Order": 18
+                    },
+                    {
+                        "EpisodeId": 1020419,
+                        "Title": "連なる道",
+                        "Order": 19
+                    },
+                    {
+                        "EpisodeId": 1020420,
+                        "Title": "集うピース",
+                        "Order": 20
+                    },
+                    {
+                        "EpisodeId": 1020421,
+                        "Title": "新たなる楽園",
+                        "Order": 21
+                    },
+                    {
+                        "EpisodeId": 1020422,
+                        "Title": "変わりゆくもの",
+                        "Order": 22
+                    },
+                    {
+                        "EpisodeId": 1020423,
+                        "Title": "幕間、そして",
+                        "Order": 23
+                    },
+                    {
+                        "EpisodeId": 1020424,
+                        "Title": "次なる舞台へ",
+                        "Order": 24
                     }
                 ]
             },
@@ -7372,6 +7412,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142460,
+                        "Title": "妻たちのもとへ墜ちていく",
+                        "Episode": []
                     }
                 ]
             },
@@ -7862,6 +7907,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142450,
+                        "Title": "悪夢の終わりは突然で",
+                        "Episode": []
                     }
                 ]
             },
