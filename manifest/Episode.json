@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-06-20 19:52:25",
+    "LatestDate": "2026-06-29 20:50:50",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5123,6 +5123,12 @@
                         "Order": 8
                     }
                 ]
+            },
+            {
+                "Id": 20071,
+                "Title": "Stella Generalprobe!",
+                "Date": "2026-06-30",
+                "Episode": []
             }
         ],
         "Side": [
@@ -5396,6 +5402,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142470,
+                        "Title": "太陽神は月を想う",
+                        "Episode": []
                     }
                 ]
             },
@@ -5641,6 +5652,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142480,
+                        "Title": "月の女神は日輪に微笑み",
+                        "Episode": []
                     }
                 ]
             },
@@ -6922,6 +6938,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142490,
+                        "Title": "目指し続ける Brand new world",
+                        "Episode": []
                     }
                 ]
             },
@@ -9526,6 +9547,11 @@
                                 "Order": 2
                             }
                         ]
+                    },
+                    {
+                        "Id": 142500,
+                        "Title": "Chronus in peace moment !",
+                        "Episode": []
                     }
                 ]
             },
@@ -17069,6 +17095,25 @@
                 ]
             },
             {
+                "Id": 231040,
+                "Name": "軍神はかく語れり",
+                "PronounceName": "ぐんしんはかくかたれり",
+                "CharacterIds": [
+                    103
+                ]
+            },
+            {
+                "Id": 231050,
+                "Name": "巡る季節の旅路",
+                "PronounceName": "めぐるきせつのたびじ",
+                "CharacterIds": [
+                    105,
+                    304,
+                    305,
+                    403
+                ]
+            },
+            {
                 "Id": 340010,
                 "Name": "【Birthday2025】鳳 ここな",
                 "PronounceName": "おおとりここな",
@@ -17386,6 +17431,14 @@
                 "PronounceName": "ねこあしつぼみ",
                 "CharacterIds": [
                     404
+                ]
+            },
+            {
+                "Id": 340420,
+                "Name": "【Birthday Night】本巣 叶羽",
+                "PronounceName": "もとすとわ",
+                "CharacterIds": [
+                    405
                 ]
             }
         ],
