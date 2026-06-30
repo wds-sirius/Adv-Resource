@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-06-30 18:23:38",
+    "LatestDate": "2026-06-30 21:18:24",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5128,7 +5128,48 @@
                 "Id": 20071,
                 "Title": "Stella Generalprobe!",
                 "Date": "2026-06-30",
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 2007101,
+                        "Title": "あの日の恩師",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 2007102,
+                        "Title": "最後の休み",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 2007103,
+                        "Title": "手を取り合って",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 2007104,
+                        "Title": "聖歌",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 2007105,
+                        "Title": "同じだから",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 2007106,
+                        "Title": "寄り添い",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 2007107,
+                        "Title": "奥底の気持ち",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 2007108,
+                        "Title": "いつの日か",
+                        "Order": 8
+                    }
+                ]
             }
         ],
         "Side": [
