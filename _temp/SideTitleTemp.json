@@ -5276,6 +5276,33 @@
         "CardName": "妻たちのもとへ墜ちていく",
         "Title": "白地に彩りが溢れて",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142471,
+        "Character": "鳳ここな",
+        "CardName": "太陽神は月を想う",
+        "Title": "二人分のチケット",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142472,
+        "Character": "鳳ここな",
+        "CardName": "太陽神は月を想う",
+        "Title": "世界に羽ばたくために",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142481,
+        "Character": "静香",
+        "CardName": "月の女神は日輪に微笑み",
+        "Title": "焦がれる舞台へ",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142482,
+        "Character": "静香",
+        "CardName": "月の女神は日輪に微笑み",
+        "Title": "憧れで終わらせない",
+        "EpisodeOrder": 2
     }
-    
 ]
