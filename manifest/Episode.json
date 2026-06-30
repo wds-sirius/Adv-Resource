@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-06-29 20:50:50",
+    "LatestDate": "2026-06-30 18:23:38",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5406,7 +5406,16 @@
                     {
                         "Id": 142470,
                         "Title": "太陽神は月を想う",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142471,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142472,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -5656,7 +5665,16 @@
                     {
                         "Id": 142480,
                         "Title": "月の女神は日輪に微笑み",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142481,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142482,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
