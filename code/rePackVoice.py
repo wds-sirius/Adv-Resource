@@ -54,9 +54,11 @@ WDS_Env_Url = os.environ.get("WDS_ENV_URL")
 WDS_Env_Req = requests.post(WDS_Env_Url)
 WDS_Env = (WDS_Env_Req.json())['result']
 
-temp_dir = './_temp/voice_temp'
-rePackEPList = json.load(open(os.path.join('./_temp', 'repack.json'), 'r'))
+dl_temp_dir = './_temp/voice_temp'
+if not os.path.exists(dl_temp_dir):
+    os.makedirs(dl_temp_dir)
 
+rePackEPList = json.load(open(os.path.join('./_temp', 'repack.json'), 'r'))
 for EP in rePackEPList:
     voiceRes = requests.get(f'{WDS_Env["assetUrl"]}/cri-assets/Android/{WDS_Env["assetVersion"]}/cridata_remote_assets_criaddressables/{EP}.acb.bundle')
     if voiceRes.status_code == 200:
