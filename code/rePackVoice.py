@@ -62,7 +62,7 @@ rePackEPList = json.load(open(os.path.join('./_temp', 'repack.json'), 'r'))
 for EP in rePackEPList:
     voiceRes = requests.get(f'{WDS_Env["assetUrl"]}/cri-assets/Android/{WDS_Env["assetVersion"]}/cridata_remote_assets_criaddressables/{EP}.acb.bundle')
     if voiceRes.status_code == 200:
-        open(os.path.join(temp_dir, f'{EP}.acb'), "wb").write(voiceRes.content)
+        open(os.path.join(dl_temp_dir, f'{EP}.acb'), "wb").write(voiceRes.content)
 
 
 # rePack
