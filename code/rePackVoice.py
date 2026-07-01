@@ -95,7 +95,8 @@ if os.path.exists(input_dir):
             if wavfile.endswith(".wav"):
                 full_wav_path = os.path.join(wav_temp_dir, wavfile)
                 sound = AudioSegment.from_wav(full_wav_path)
-                sound.export(os.path.join(mp3_temp_dir, wavfile.replace('.wav', '.mp3')), format="mp3", codec="libmp3lame", bitrate="64k")
+                mono_sound = sound.set_channels(1)
+                mono_sound.export(os.path.join(mp3_temp_dir, wavfile.replace('.wav', '.mp3')), format="mp3", codec="libmp3lame", bitrate="64k", parameters=["-ar", "48000"])
 
         packEpisodeVoice(mp3_temp_dir, os.path.join(output_dir, f'{story_id}.wds'))
 
