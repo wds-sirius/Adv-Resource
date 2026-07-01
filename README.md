@@ -13,4 +13,4 @@
 - `image` : event logo, event banner, 卡片縮圖, poster縮圖
 - `se` : Adv會用的SE
 - `spine` : 角色spine模型
-- `voice` : 劇情音頻
+- `voice` : 劇情音頻 關於`.wds`檔案可参考[WDS-Voice-TEST](https://github.com/wds-sirius/WDS-Voice-TEST/)
