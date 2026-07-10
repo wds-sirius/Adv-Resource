@@ -5304,5 +5304,33 @@
         "CardName": "月の女神は日輪に微笑み",
         "Title": "憧れで終わらせない",
         "EpisodeOrder": 2
+    },
+        {
+        "Id": 142491,
+        "Character": "連尺野初魅",
+        "CardName": "目指し続ける Brand new world",
+        "Title": "権威が示すもの",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142492,
+        "Character": "連尺野初魅",
+        "CardName": "目指し続ける Brand new world",
+        "Title": "楽園の夜空に星は輝く",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142501,
+        "Character": "千寿いろは",
+        "CardName": "Chronus in peace moment !",
+        "Title": "世界を前に",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142502,
+        "Character": "千寿いろは",
+        "CardName": "Chronus in peace moment !",
+        "Title": "姉妹の前日譚",
+        "EpisodeOrder": 2
     }
 ]
