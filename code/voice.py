@@ -38,13 +38,10 @@ def packEpisodeVoice(input_folder, output_package_path):
     json_length = len(json_bytes)
 
     with open(output_package_path, 'wb') as f:
-        # I 代表 4 位元組無號整數 紀錄 JSON 長度
         f.write(struct.pack('<I', json_length)) 
         
-        # 寫入 JSON 資料
         f.write(json_bytes)
         
-        # 寫入所有音訊資料
         for audio_data in audio_bytes_list:
             f.write(audio_data)
 
@@ -56,7 +53,7 @@ temp_dir = './_temp/wav_voice_temp'
 temp2_dir = './_temp/mp3_voice_temp'
 output_dir = './voice'
 
-#acb -> wav -> mp3
+#acb -> wav -> mp3 -> wds
 if os.path.exists(input_dir):
     for fname in os.listdir(input_dir):
 
@@ -85,6 +82,7 @@ if os.path.exists(input_dir):
                 mono_sound = sound.set_channels(1)
                 mono_sound.export(os.path.join(mp3_temp_dir, wavfile.replace('.wav', '.mp3')), format="mp3", codec="libmp3lame", bitrate="64k", parameters=["-ar", "48000"])
 
+        # exchange to wds format
         packEpisodeVoice(mp3_temp_dir, os.path.join(output_dir, f'{story_id}.wds'))
 
         # del folder
