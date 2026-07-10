@@ -80,6 +80,6 @@ jobs:
           python ./code/voice.py
 
       - name: update file and push to remote
-        uses: stefanzweifel/git-auto-commit-action@v7
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Automated Update

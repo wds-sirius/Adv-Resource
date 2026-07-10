@@ -38,16 +38,7 @@ jobs:
         run: |
           python ./code/rePackVoice.py
 
-      - name: Debug Git Status
-        run: |
-          echo "=== 目前目錄下的所有檔案 ==="
-          ls -la voice/
-          echo "=== Git 看到的狀態 ==="
-          git status
-          echo "=== 被 Git 忽略的檔案==="
-          git status --ignored
-
       - name: update file and push to remote
-        uses: stefanzweifel/git-auto-commit-action@v7
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: -Repack- Automated Update
