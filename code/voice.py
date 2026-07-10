@@ -71,8 +71,8 @@ if os.path.exists(input_dir):
 
         # 生成mp3的位置
         mp3_temp_dir = os.path.join(temp2_dir, story_id)
-        if not os.path.exists(mp3_output_dir):
-            os.makedirs(mp3_output_dir)
+        if not os.path.exists(mp3_temp_dir):
+            os.makedirs(mp3_temp_dir)
         
         # run the command to export wav and save it to wav temp dir
         os.system(f'./code/vgmstream-cli -S 0 -o {wav_temp_dir}/?n.wav -i {acb_full_path}')
