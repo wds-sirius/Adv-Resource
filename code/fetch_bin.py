@@ -98,7 +98,11 @@ posterTypeToNum = {
     "Chapter2" : 2,
     "Chapter3" : 3,
     "Chapter4" : 4,
-    "AfterTalk" : 5
+    "AfterTalk" : 5,
+    "Sirius" : 6,
+    "Eden" : 7,
+    "Gingaza" : 8,
+    "Denki" : 9
 }
 
 # add episode key to data
@@ -508,9 +512,10 @@ if masterlistres.status_code == 200:
                 "EpisodeDetail" : []
             }
             for ep in Episodes:
+                typenumber = posterTypeToNum.get(ep["EpisodeType"], ep["EpisodeType"])
                 posterdetail["EpisodeDetail"].append({
                     "Id" : ep["Id"],
-                    "EpisodeType": posterTypeToNum[ep["EpisodeType"]],
+                    "EpisodeType": typenumber,
                     "CharacterId" : ep["CharacterBaseMasterId"] if "CharacterBaseMasterId" in ep else None,
                     "Description" : ep["Description"],
                     "Order": ep["Order"]
