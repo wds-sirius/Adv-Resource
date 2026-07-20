@@ -7,6 +7,7 @@
             "Id": 34011011,
             "EpisodeType": 0,
             "CharacterId": null,
+            "SpeakerName": "",
             "Description": "【Birthday2024】筆島しぐれ/n筆島しぐれ/n/n10歳の小学5年生。/n非常に聡明で気が強いため、初魅以外の団員を下に見る傾向があり、特に大黒をライバル視。/n生意気ではあるが、一度でもしぐれのことを気に入ると熱心なファンになってしまう不思議な魅力がある。/n/n学年：小学5年生/n誕生日：11月6日/n身長：147cm/n趣味：からかうこと/nセンス：禁断の果実（きんだんのかじつ）/n自分を慕う者へ見せる演技が、より深くみえる。一度ファンになってしまえば、強固なファンへと変貌していく。/n最初に気に入ってもらわなければならないという制約を乗り越えられる、しぐれだからこそ成り立つセンス。",
             "Order": 11
         },
@@ -14,6 +15,7 @@
             "Id": 34011501,
             "EpisodeType": 5,
             "CharacterId": 203,
+            "SpeakerName": "",
             "Description": "そっかぁ、今日はしぐれちゃんのお誕生日かぁ。/nうふふ、なんだか自分のことみたいに嬉しいなあ。",
             "Order": 1
         },
@@ -21,6 +23,7 @@
             "Id": 34011502,
             "EpisodeType": 5,
             "CharacterId": 205,
+            "SpeakerName": "",
             "Description": "もぉ～、なんなんですか？/n仁花子先輩、今日ず～～～っとニヤニヤしてるんですけど。",
             "Order": 2
         },
@@ -28,6 +31,7 @@
             "Id": 34011503,
             "EpisodeType": 5,
             "CharacterId": 204,
+            "SpeakerName": "",
             "Description": "年を取ると小さい子の誕生日って聞くだけで、/nついほっこりして、嬉しくなっちゃうもんなんだよ。",
             "Order": 3
         },
@@ -35,6 +39,7 @@
             "Id": 34011504,
             "EpisodeType": 5,
             "CharacterId": 205,
+            "SpeakerName": "",
             "Description": "はぁ！？　しぐれ、小さくないんですけど！",
             "Order": 4
         },
@@ -42,6 +47,7 @@
             "Id": 34011505,
             "EpisodeType": 5,
             "CharacterId": 202,
+            "SpeakerName": "",
             "Description": "身長150cmもないんだし、小さいでしょ……。",
             "Order": 5
         },
@@ -49,6 +55,7 @@
             "Id": 34011506,
             "EpisodeType": 5,
             "CharacterId": 205,
+            "SpeakerName": "",
             "Description": "ちょっと、大黒先輩！　いま身長の話はしてませんよねぇ！/nそれに、しぐれはこれから大きくなるんです！",
             "Order": 6
         },
@@ -56,6 +63,7 @@
             "Id": 34011507,
             "EpisodeType": 5,
             "CharacterId": 201,
+            "SpeakerName": "",
             "Description": "そうだな。しぐれが大きくなるのが楽しみだよ。/nだからこそ、これからのお前を思って皆つい頬が緩んでしまうんだ。",
             "Order": 7
         },
@@ -63,6 +71,7 @@
             "Id": 34011508,
             "EpisodeType": 5,
             "CharacterId": 205,
+            "SpeakerName": "",
             "Description": "むう……。",
             "Order": 8
         },
@@ -70,6 +79,7 @@
             "Id": 34011509,
             "EpisodeType": 5,
             "CharacterId": 203,
+            "SpeakerName": "",
             "Description": "うんうん。しぐれちゃん、これからもいーっぱい美味しいもの食べて、/nいーっぱい寝て、ぐんぐん大きく育ってね！",
             "Order": 9
         },
@@ -77,6 +87,7 @@
             "Id": 34011510,
             "EpisodeType": 5,
             "CharacterId": 204,
+            "SpeakerName": "",
             "Description": "じゃ、まずはみんなでパーティでもする？/n実は食べ物もいろいろ買ってきたんだよ。",
             "Order": 10
         },
@@ -84,6 +95,7 @@
             "Id": 34011511,
             "EpisodeType": 5,
             "CharacterId": 202,
+            "SpeakerName": "",
             "Description": "ふっ、よかったわね……。/nガキらしく、いーっぱい食べなさい。",
             "Order": 11
         },
@@ -91,6 +103,7 @@
             "Id": 34011512,
             "EpisodeType": 5,
             "CharacterId": 201,
+            "SpeakerName": "",
             "Description": "ああ。そうだ、せっかくだしこれから飲み物も買いに行こう。/nしぐれ、好きなものを買っていいぞ。",
             "Order": 12
         },
@@ -98,6 +111,7 @@
             "Id": 34011513,
             "EpisodeType": 5,
             "CharacterId": 205,
+            "SpeakerName": "",
             "Description": "むう……ありがとうございます。/nでも、やっぱり子ども扱いしすぎじゃありません……？",
             "Order": 13
         }

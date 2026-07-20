@@ -7,6 +7,7 @@
             "Id": 34024001,
             "EpisodeType": 0,
             "CharacterId": null,
+            "SpeakerName": "",
             "Description": "【Birthday Night】カトリナ・グリーベル/nカトリナ・グリーベル/n/n16歳の高校2年生。ドイツ人。/n両親が共にワールドダイスターというサラブレッドで、もとはドイツで演劇をしていたが、ある事件を機に単身来日。/n驚異的な集中力から生み出される爆発的な演技力を武器に、史上最高の演じ手を目指す。/n/n学年：高校2年生/n誕生日：8月4日/n身長：154cm/n趣味：入浴/nセンス：零の幕間（コンツェントラツィオーン）/n超集中力により時間をスローにする。/n爆発的な演技力が得られるだけでなく、役を演じる上で必要なものをわずかな期間でインプットするという使い方もできる。",
             "Order": 1
         },
@@ -14,6 +15,7 @@
             "Id": 34024502,
             "EpisodeType": 5,
             "CharacterId": 302,
+            "SpeakerName": "",
             "Description": "誕生日おめでとう、カトリナ！/nプレゼント、受け取ってくれ！！",
             "Order": 2
         },
@@ -21,6 +23,7 @@
             "Id": 34024503,
             "EpisodeType": 5,
             "CharacterId": 103,
+            "SpeakerName": "",
             "Description": "急に寮の前に押し掛けてきたかと思えば、突然ね……。/nていうか、誕生日とか覚えててくれたんだ。",
             "Order": 3
         },
@@ -28,6 +31,7 @@
             "Id": 34024504,
             "EpisodeType": 5,
             "CharacterId": 302,
+            "SpeakerName": "",
             "Description": "何を言う！　お前の誕生日なんだ……片時も忘れたことはない！",
             "Order": 4
         },
@@ -35,6 +39,7 @@
             "Id": 34024505,
             "EpisodeType": 5,
             "CharacterId": 103,
+            "SpeakerName": "",
             "Description": "そうは言っても、同じ劇団に居た頃は、/nこうしてプレゼントを渡したりはしなかったでしょう？",
             "Order": 5
         },
@@ -42,6 +47,7 @@
             "Id": 34024506,
             "EpisodeType": 5,
             "CharacterId": 302,
+            "SpeakerName": "",
             "Description": "うぐっ、たしかに……。/nまぁ、あの頃は……な。",
             "Order": 6
         },
@@ -49,6 +55,7 @@
             "Id": 34024507,
             "EpisodeType": 5,
             "CharacterId": 103,
+            "SpeakerName": "",
             "Description": "まぁ、劇団全体がそんな雰囲気じゃなかったものね。/n特にあの頃は。",
             "Order": 7
         },
@@ -56,6 +63,7 @@
             "Id": 34024508,
             "EpisodeType": 5,
             "CharacterId": 302,
+            "SpeakerName": "",
             "Description": "カトリナ……。",
             "Order": 8
         },
@@ -63,6 +71,7 @@
             "Id": 34024509,
             "EpisodeType": 5,
             "CharacterId": 103,
+            "SpeakerName": "",
             "Description": "そんな顔しないで、モナさん。",
             "Order": 9
         },
@@ -70,6 +79,7 @@
             "Id": 34024510,
             "EpisodeType": 5,
             "CharacterId": 103,
+            "SpeakerName": "",
             "Description": "今はこうして、モナさんのプレゼントを受け取っている。/nそれが全てでしょう？",
             "Order": 10
         },
@@ -77,6 +87,7 @@
             "Id": 34024511,
             "EpisodeType": 5,
             "CharacterId": 302,
+            "SpeakerName": "",
             "Description": "……ふふっ、そうだな。/n日本に来て善き出会いに恵まれたんだな、カトリナ。",
             "Order": 11
         },
@@ -84,6 +95,7 @@
             "Id": 34024512,
             "EpisodeType": 5,
             "CharacterId": 103,
+            "SpeakerName": "",
             "Description": "それはお互い様でしょ？　それじゃ、プレゼント開けるわね。/n……これって、パジャマ？",
             "Order": 12
         },
@@ -91,6 +103,7 @@
             "Id": 34024513,
             "EpisodeType": 5,
             "CharacterId": 302,
+            "SpeakerName": "",
             "Description": "ああ、良い演技は良い睡眠からと聞いてな。/n気に入ってくれたのなら、嬉しいが……。",
             "Order": 13
         },
@@ -98,6 +111,7 @@
             "Id": 34024514,
             "EpisodeType": 5,
             "CharacterId": 103,
+            "SpeakerName": "",
             "Description": "そうね、大事に着させてもらうわ。/nありがとう、モナさん。",
             "Order": 14
         }

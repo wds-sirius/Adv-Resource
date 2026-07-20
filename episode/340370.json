@@ -7,6 +7,7 @@
             "Id": 34037001,
             "EpisodeType": 0,
             "CharacterId": null,
+            "SpeakerName": "",
             "Description": "【Birthday Night】与那国 緋花里/n与那国 緋花里/n/n15歳の高校1年生。/n身体能力の高さを買われ、銀河座にスカウトされた沖縄県出身の少女。/n劇団の人間関係の冷え込みや激しい練習のため、明るさを発揮できないでいるが、本来は元気一杯で踊りが好きな、笑顔の似合う少女。/n/n学年：高校1年生/n誕生日：8月20日/n身長：155cm/n趣味：踊る・体を鍛える、美味しいものを食べる/nセンス：躍動する太陽（ダイナミック・サン）/n舞台にいると運動能力が向上する。/n抜群の運動能力を持つフィジカルエリートらしいセンス。",
             "Order": 1
         },
@@ -14,6 +15,7 @@
             "Id": 34037502,
             "EpisodeType": 5,
             "CharacterId": 305,
+            "SpeakerName": "",
             "Description": "ただいま～、はぁ～今日は誕生日だからいつも以上に走っちゃった。/nあっ、リリヤさん！　リリヤさんも今帰り？",
             "Order": 2
         },
@@ -21,6 +23,7 @@
             "Id": 34037503,
             "EpisodeType": 5,
             "CharacterId": 304,
+            "SpeakerName": "",
             "Description": "緋花里……ちょうど良いタイミング。",
             "Order": 3
         },
@@ -28,6 +31,7 @@
             "Id": 34037504,
             "EpisodeType": 5,
             "CharacterId": 305,
+            "SpeakerName": "",
             "Description": "え？　良いタイミング？",
             "Order": 4
         },
@@ -35,6 +39,7 @@
             "Id": 34037505,
             "EpisodeType": 5,
             "CharacterId": 304,
+            "SpeakerName": "",
             "Description": "緋花里、誕生日。/nだから、プレゼント買ってきた",
             "Order": 5
         },
@@ -42,6 +47,7 @@
             "Id": 34037506,
             "EpisodeType": 5,
             "CharacterId": 305,
+            "SpeakerName": "",
             "Description": "えっ！　ほんと！？/nありがとう、リリヤさん！",
             "Order": 6
         },
@@ -49,6 +55,7 @@
             "Id": 34037507,
             "EpisodeType": 5,
             "CharacterId": 304,
+            "SpeakerName": "",
             "Description": "開けて。今、確認してほしい。/nきっと気に入る。",
             "Order": 7
         },
@@ -56,6 +63,7 @@
             "Id": 34037508,
             "EpisodeType": 5,
             "CharacterId": 305,
+            "SpeakerName": "",
             "Description": "おぉ……すごい自信さ。/nなおさら気になる……あれ？　これは石鹸に、香水？",
             "Order": 8
         },
@@ -63,6 +71,7 @@
             "Id": 34037509,
             "EpisodeType": 5,
             "CharacterId": 304,
+            "SpeakerName": "",
             "Description": "アロマソープとオーデ・パルファム。/n緋花里の誕生花のフリージアを使ってる。",
             "Order": 9
         },
@@ -70,6 +79,7 @@
             "Id": 34037510,
             "EpisodeType": 5,
             "CharacterId": 305,
+            "SpeakerName": "",
             "Description": "すんすん……ほんとだ、良い匂い！！/n私の誕生花ってこんな良い匂いなんだ～！",
             "Order": 10
         },
@@ -77,6 +87,7 @@
             "Id": 34037511,
             "EpisodeType": 5,
             "CharacterId": 304,
+            "SpeakerName": "",
             "Description": "それで更に美しさを磨いてほしい。/n誕生日おめでとう、緋花里。",
             "Order": 11
         },
@@ -84,6 +95,7 @@
             "Id": 34037512,
             "EpisodeType": 5,
             "CharacterId": 305,
+            "SpeakerName": "",
             "Description": "ありがとう、リリヤさん！　ちょうど走ってきたばっかりだし、/nさっそくお風呂で石鹸使っちゃうね！",
             "Order": 12
         }

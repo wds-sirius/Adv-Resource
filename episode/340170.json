@@ -7,6 +7,7 @@
             "Id": 34017014,
             "EpisodeType": 0,
             "CharacterId": null,
+            "SpeakerName": "",
             "Description": "【Birthday2024】千寿いろは/n千寿いろは/n/n16歳の高校2年生。/n舞台の名門・千寿家の娘で、暦の妹。アニメと漫画が大好きな重度のオタクで、コスプレ趣味をきっかけに劇団電姫に入団を希望する。/n普段はおっとりしているが、火がつくと突っ走るタイプ。/n/n学年：高校2年生/n誕生日：11月30日/n身長：158cm/n趣味：コスプレ・漫画を読む",
             "Order": 14
         },
@@ -14,6 +15,7 @@
             "Id": 34017501,
             "EpisodeType": 5,
             "CharacterId": 401,
+            "SpeakerName": "",
             "Description": "わー、ありがとうございます！/n僕の誕生日パーティーだなんて……！",
             "Order": 1
         },
@@ -21,6 +23,7 @@
             "Id": 34017502,
             "EpisodeType": 5,
             "CharacterId": 403,
+            "SpeakerName": "",
             "Description": "いろっち、もっとこっち来て！/n見て見て～このケーキ。",
             "Order": 2
         },
@@ -28,6 +31,7 @@
             "Id": 34017503,
             "EpisodeType": 5,
             "CharacterId": 401,
+            "SpeakerName": "",
             "Description": "えぇっ！？　このケーキ、カリューが描いてあるじゃないですか！？/nでもこんなデザイン売ってましたっけ……？",
             "Order": 3
         },
@@ -35,6 +39,7 @@
             "Id": 34017504,
             "EpisodeType": 5,
             "CharacterId": 402,
+            "SpeakerName": "",
             "Description": "えへへ。公式で売ってたケーキを取り寄せて……。/n追加でデコレーション、してみたんだ。/n変身後の衣装っぽいリボンや、ステッキについてるようなハートとか。",
             "Order": 4
         },
@@ -42,6 +47,7 @@
             "Id": 34017505,
             "EpisodeType": 5,
             "CharacterId": 405,
+            "SpeakerName": "",
             "Description": "アタシも手伝ったんだから、感謝しなさいよねー。",
             "Order": 5
         },
@@ -49,6 +55,7 @@
             "Id": 34017506,
             "EpisodeType": 5,
             "CharacterId": 404,
+            "SpeakerName": "",
             "Description": "本巣はほとんどつまみ食いしてただけだろう。",
             "Order": 6
         },
@@ -56,6 +63,7 @@
             "Id": 34017507,
             "EpisodeType": 5,
             "CharacterId": 405,
+            "SpeakerName": "",
             "Description": "そんなことないし！　この辺の雲っぽいクリームとか、アタシだから！",
             "Order": 7
         },
@@ -63,6 +71,7 @@
             "Id": 34017508,
             "EpisodeType": 5,
             "CharacterId": 402,
+            "SpeakerName": "",
             "Description": "喜んでもらえた……かな？",
             "Order": 8
         },
@@ -70,6 +79,7 @@
             "Id": 34017509,
             "EpisodeType": 5,
             "CharacterId": 401,
+            "SpeakerName": "",
             "Description": "もちろんですよ！　すごく嬉しいです……！/nわああ、再現度高くて……なんだか、食べるのがもったいないですね……。",
             "Order": 9
         },
@@ -77,6 +87,7 @@
             "Id": 34017510,
             "EpisodeType": 5,
             "CharacterId": 403,
+            "SpeakerName": "",
             "Description": "あはは、わかる～。",
             "Order": 10
         },
@@ -84,6 +95,7 @@
             "Id": 34017511,
             "EpisodeType": 5,
             "CharacterId": 402,
+            "SpeakerName": "",
             "Description": "でも生ものだし……いろはちゃんのために用意したものだから、/n最初はいろはちゃんに食べてほしいな……って。",
             "Order": 11
         },
@@ -91,6 +103,7 @@
             "Id": 34017512,
             "EpisodeType": 5,
             "CharacterId": 401,
+            "SpeakerName": "",
             "Description": "……ううぅ。/n苦しいですけど……わかりました。",
             "Order": 12
         },
@@ -98,6 +111,7 @@
             "Id": 34017513,
             "EpisodeType": 5,
             "CharacterId": 404,
+            "SpeakerName": "",
             "Description": "それじゃ、切ってもらえるか？",
             "Order": 13
         },
@@ -105,6 +119,7 @@
             "Id": 34017514,
             "EpisodeType": 5,
             "CharacterId": 401,
+            "SpeakerName": "",
             "Description": "うぅぅ、やっぱりできないです～っ！/nまだ堪能し足りませんし……！　もう少しだけこのままで……！",
             "Order": 14
         },
@@ -112,6 +127,7 @@
             "Id": 34017515,
             "EpisodeType": 5,
             "CharacterId": 401,
+            "SpeakerName": "",
             "Description": "はっ！　というか今気づいたんですけど、もしかしてこのいちごクリーム、/nパワーアップVerのカリューの髪色と合わせてますか！？/nそれに、リボンのデコレーション、魔法少女全員分ある……！？",
             "Order": 15
         },
@@ -119,6 +135,7 @@
             "Id": 34017516,
             "EpisodeType": 5,
             "CharacterId": 402,
+            "SpeakerName": "",
             "Description": "そうだよ……！/nいろはちゃんならきっとわかってくれるって思ってた。",
             "Order": 16
         },
@@ -126,6 +143,7 @@
             "Id": 34017517,
             "EpisodeType": 5,
             "CharacterId": 405,
+            "SpeakerName": "",
             "Description": "あーあー……。/nま、しばらくは気が済むまで鑑賞させてあげますか。",
             "Order": 17
         },
@@ -133,6 +151,7 @@
             "Id": 34017518,
             "EpisodeType": 5,
             "CharacterId": 404,
+            "SpeakerName": "",
             "Description": "ふふ……そうだな。",
             "Order": 18
         }

@@ -7,6 +7,7 @@
             "Id": 34004014,
             "EpisodeType": 0,
             "CharacterId": null,
+            "SpeakerName": "",
             "Description": "【Birthday2025】新妻八恵/n新妻八恵/n/n11歳の小学５年生。/n一瞬にして場を支配する並外れた演技力を持ち、現在のシリウスで唯一のダイスター候補とされている。/n演技に関しては誰よりもストイックだが、普段は朗らかで心優しく、好奇心も旺盛。/n/n学年：小学５年生/n誕生日：4月9日/n身長：146cm/n趣味：ボランティア活動、チャリティ活動/nセンス：白亜の魂（はくあのたましい）/n歌に感情を乗せ観客に響かせることができる。/n進化後センス：エモーショナル・キー/nより鮮明な感情を歌に乗せ、観客に広く強く響かせることができる。/n八恵の演じる役と観客の感情を歌によって繋げ、観客を舞台へと引き込む。",
             "Order": 14
         },
@@ -14,6 +15,7 @@
             "Id": 34004501,
             "EpisodeType": 5,
             "CharacterId": 102,
+            "SpeakerName": "",
             "Description": "お誕生日おめでとう！　八恵ちゃん！/nさっ、こっちの誕生日席に座って！",
             "Order": 1
         },
@@ -21,6 +23,7 @@
             "Id": 34004502,
             "EpisodeType": 5,
             "CharacterId": 106,
+            "SpeakerName": "",
             "Description": "はい、これもどうぞ。/n『本日の主役タスキ』……！",
             "Order": 2
         },
@@ -28,6 +31,7 @@
             "Id": 34004503,
             "EpisodeType": 5,
             "CharacterId": 104,
+            "SpeakerName": "",
             "Description": "わぁ！　みなさん、ありがとうございます！/nシリウス寮での誕生日会を開いていただけるなんて……恐縮です！",
             "Order": 3
         },
@@ -35,6 +39,7 @@
             "Id": 34004504,
             "EpisodeType": 5,
             "CharacterId": 101,
+            "SpeakerName": "",
             "Description": "当然だよ！　八恵ちゃんは同じシリウスの仲間なんだから！/n料理もみんなで腕によりをかけて作ったんだよ！",
             "Order": 4
         },
@@ -42,6 +47,7 @@
             "Id": 34004505,
             "EpisodeType": 5,
             "CharacterId": 103,
+            "SpeakerName": "",
             "Description": "えぇ、アタシもここなに教わりながら作ったもの。/n味は保証するわ。",
             "Order": 5
         },
@@ -49,6 +55,7 @@
             "Id": 34004506,
             "EpisodeType": 5,
             "CharacterId": 105,
+            "SpeakerName": "",
             "Description": "カトりん……クリスマスの頃から成長しちゃって……！/nここちゃんの教え方、うまいんだなぁ……。",
             "Order": 6
         },
@@ -56,6 +63,7 @@
             "Id": 34004507,
             "EpisodeType": 5,
             "CharacterId": 104,
+            "SpeakerName": "",
             "Description": "ふふっ、楽しみです！/nそれじゃあ、さっそくいただいちゃってもよろしいですか……？",
             "Order": 7
         },
@@ -63,6 +71,7 @@
             "Id": 34004508,
             "EpisodeType": 5,
             "CharacterId": 105,
+            "SpeakerName": "",
             "Description": "あっ、ちょっと待ってください新妻っち。/n特別ゲストがまだですので。",
             "Order": 8
         },
@@ -70,13 +79,15 @@
             "Id": 34004509,
             "EpisodeType": 5,
             "CharacterId": 104,
+            "SpeakerName": "",
             "Description": "特別ゲスト？",
             "Order": 9
         },
         {
             "Id": 34004510,
             "EpisodeType": 5,
-            "CharacterId": null,
+            "CharacterId": 107,
+            "SpeakerName": "柊望有",
             "Description": "ごめんなさい、色々立て込んでて遅くなったわ。",
             "Order": 10
         },
@@ -84,6 +95,7 @@
             "Id": 34004511,
             "EpisodeType": 5,
             "CharacterId": 104,
+            "SpeakerName": "",
             "Description": "柊さん！？",
             "Order": 11
         },
@@ -91,13 +103,15 @@
             "Id": 34004512,
             "EpisodeType": 5,
             "CharacterId": 106,
+            "SpeakerName": "",
             "Description": "我らがシリウスが擁するダイスターの誕生日ということで、/nボスにも誕生日会に来てもらったよ。",
             "Order": 12
         },
         {
             "Id": 34004513,
             "EpisodeType": 5,
-            "CharacterId": null,
+            "CharacterId": 107,
+            "SpeakerName": "柊望有",
             "Description": "誕生日おめでとう、八恵。/n特別ゲストだなんて勿体づけて……拍子抜けだったかしら？",
             "Order": 13
         },
@@ -105,6 +119,7 @@
             "Id": 34004514,
             "EpisodeType": 5,
             "CharacterId": 104,
+            "SpeakerName": "",
             "Description": "そんなことないです！　すごくうれしいですっ！/n来ていただいてありがとうございます！　柊さん！！",
             "Order": 14
         },
@@ -112,6 +127,7 @@
             "Id": 34004515,
             "EpisodeType": 5,
             "CharacterId": 106,
+            "SpeakerName": "",
             "Description": "ふふっ、良い笑顔。/nこれで、完璧な本日の主役だね。",
             "Order": 15
         },
@@ -119,6 +135,7 @@
             "Id": 34004516,
             "EpisodeType": 5,
             "CharacterId": 105,
+            "SpeakerName": "",
             "Description": "それじゃ！　役者もそろったことですし、/n新妻っちの誕生日パーティー、始めましょうか！",
             "Order": 16
         }

@@ -7,6 +7,7 @@
             "Id": 34026001,
             "EpisodeType": 0,
             "CharacterId": null,
+            "SpeakerName": "",
             "Description": "【Birthday Night】柳場 ぱんだ/n柳場 ぱんだ/n/n13歳の中学2年生。/nシリウスの若手エースとして人気急上昇中の、明るく愛嬌のあるムードメーカー。/n親しみやすいが、実は腹黒計算型のリアリスト。/n努力型の人なので、天然で何でも出来てしまう流石を羨ましく思っている。/n/n学年：中学2年生/n誕生日：9月13日/n身長：157cm/n趣味：SNS、エゴサーチ/nセンス：覚（インカム）/n舞台にいると観客の心の声が聞こえる。/n観客が何を求めているのかを読み取り、立ち位置や動作など臨機応変に対応して舞台をコントロールする。",
             "Order": 1
         },
@@ -14,6 +15,7 @@
             "Id": 34026502,
             "EpisodeType": 5,
             "CharacterId": 106,
+            "SpeakerName": "",
             "Description": "睡眠の質って、大事だよね。",
             "Order": 2
         },
@@ -21,6 +23,7 @@
             "Id": 34026503,
             "EpisodeType": 5,
             "CharacterId": 105,
+            "SpeakerName": "",
             "Description": "おぉ……急にどうした？　さっすー。/n朝早く寮を出たと思ったら……今度は部屋で宿題か？",
             "Order": 3
         },
@@ -28,6 +31,7 @@
             "Id": 34026504,
             "EpisodeType": 5,
             "CharacterId": 106,
+            "SpeakerName": "",
             "Description": "見くびらないで欲しいな、ぱんだ。/n今日は大事な日だからね、その前に色々終わらせてるよ。",
             "Order": 4
         },
@@ -35,6 +39,7 @@
             "Id": 34026505,
             "EpisodeType": 5,
             "CharacterId": 105,
+            "SpeakerName": "",
             "Description": "大事な日って、まさか……！？",
             "Order": 5
         },
@@ -42,6 +47,7 @@
             "Id": 34026506,
             "EpisodeType": 5,
             "CharacterId": 106,
+            "SpeakerName": "",
             "Description": "誕生日おめでとう、ぱんだ。/nはい、プレゼント。",
             "Order": 6
         },
@@ -49,6 +55,7 @@
             "Id": 34026507,
             "EpisodeType": 5,
             "CharacterId": 105,
+            "SpeakerName": "",
             "Description": "おぉ！　ありがとう、さっすー！/nこれ、お香か？",
             "Order": 7
         },
@@ -56,6 +63,7 @@
             "Id": 34026508,
             "EpisodeType": 5,
             "CharacterId": 106,
+            "SpeakerName": "",
             "Description": "うん、寝る前に焚くと安眠効果があるんだって。/nぱんだにはいつまでも健やかに元気でいてほしいからね……。",
             "Order": 8
         },
@@ -63,6 +71,7 @@
             "Id": 34026509,
             "EpisodeType": 5,
             "CharacterId": 105,
+            "SpeakerName": "",
             "Description": "それに、デザインも結構おしゃれだ……。/n前はぱんだの置物とかだったのに。",
             "Order": 9
         },
@@ -70,6 +79,7 @@
             "Id": 34026510,
             "EpisodeType": 5,
             "CharacterId": 106,
+            "SpeakerName": "",
             "Description": "配信に出しやすいでしょ？/n話題に出せれば、ぱんだも喜ぶかなって。",
             "Order": 10
         },
@@ -77,6 +87,7 @@
             "Id": 34026511,
             "EpisodeType": 5,
             "CharacterId": 106,
+            "SpeakerName": "",
             "Description": "いつもぱんだ、このくらいの時間に配信してるから。/nだから、今渡したかったんだ。",
             "Order": 11
         },
@@ -84,6 +95,7 @@
             "Id": 34026512,
             "EpisodeType": 5,
             "CharacterId": 105,
+            "SpeakerName": "",
             "Description": "まぁ、今までくれた誕生プレゼントも配信で話題に出させてもらったけどさ。/n……でも、その心遣いすっげーありがたい。本当にありがとうな、さっすー。",
             "Order": 12
         },
@@ -91,6 +103,7 @@
             "Id": 34026513,
             "EpisodeType": 5,
             "CharacterId": 106,
+            "SpeakerName": "",
             "Description": "楽しみにしてるね、ぱんだのバースデー睡眠配信。",
             "Order": 13
         },
@@ -98,6 +111,7 @@
             "Id": 34026514,
             "EpisodeType": 5,
             "CharacterId": 105,
+            "SpeakerName": "",
             "Description": "いや、配信中に寝たりはしねーよ！/n夜、寝る時にありがたく使わせてもらうわ。",
             "Order": 14
         },
@@ -105,6 +119,7 @@
             "Id": 34026515,
             "EpisodeType": 5,
             "CharacterId": 106,
+            "SpeakerName": "",
             "Description": "うん！",
             "Order": 15
         }

@@ -7,6 +7,7 @@
             "Id": 34001009,
             "EpisodeType": 0,
             "CharacterId": null,
+            "SpeakerName": "",
             "Description": "【Birthday2025】鳳ここな/n鳳ここな/n/n16歳の高校2年生。/n幼い頃からシリウスの演劇に憧れ、ワールドダイスターになるべく入団オーディションを受ける。/n明るく人懐っこい性格だが、弱気になりがちなところがあり、いつも堂々としている静香に憧れている。/n/n学年：高校2年生/n誕生日：1月20日/n身長：158cm/n趣味：絵本を読む、童話集め/nセンス：一人二役（ダブルロール）/nここなが作り上げた静香という人格との自己対話・自己分析。/n進化後センス：私達のシリウス（ドリームオンステージ）/nシリウスに所属する、全共演者の能力を上げる。/n静香を相手役にした一人二役で役を見極め、二人一役で理想の演技を体現する。",
             "Order": 9
         },
@@ -14,6 +15,7 @@
             "Id": 34001501,
             "EpisodeType": 5,
             "CharacterId": 101,
+            "SpeakerName": "",
             "Description": "わぁ……。/nファンレターがこんなに。",
             "Order": 1
         },
@@ -21,6 +23,7 @@
             "Id": 34001502,
             "EpisodeType": 5,
             "CharacterId": 104,
+            "SpeakerName": "",
             "Description": "これを送ってくれたみなさんが、/nここなさんの誕生日を祝ってくれているんですね。",
             "Order": 2
         },
@@ -28,6 +31,7 @@
             "Id": 34001503,
             "EpisodeType": 5,
             "CharacterId": 101,
+            "SpeakerName": "",
             "Description": "うん……。",
             "Order": 3
         },
@@ -35,6 +39,7 @@
             "Id": 34001504,
             "EpisodeType": 5,
             "CharacterId": 102,
+            "SpeakerName": "",
             "Description": "私も、まるで自分のことみたいに嬉しいわ。",
             "Order": 4
         },
@@ -42,6 +47,7 @@
             "Id": 34001505,
             "EpisodeType": 5,
             "CharacterId": 105,
+            "SpeakerName": "",
             "Description": "ここまでファンが着いていて、愛されて。/nここちゃんももう新人役者とは言えないんじゃないですか？",
             "Order": 5
         },
@@ -49,6 +55,7 @@
             "Id": 34001506,
             "EpisodeType": 5,
             "CharacterId": 103,
+            "SpeakerName": "",
             "Description": "実際、静香っていう後輩もできたしね。",
             "Order": 6
         },
@@ -56,6 +63,7 @@
             "Id": 34001507,
             "EpisodeType": 5,
             "CharacterId": 101,
+            "SpeakerName": "",
             "Description": "後輩……！？/n静香ちゃんが後輩なんて、恐れ多いよ……！",
             "Order": 7
         },
@@ -63,6 +71,7 @@
             "Id": 34001508,
             "EpisodeType": 5,
             "CharacterId": 102,
+            "SpeakerName": "",
             "Description": "ふふ、いいのよ。/n本当のことなんだもの。",
             "Order": 8
         },
@@ -70,6 +79,7 @@
             "Id": 34001509,
             "EpisodeType": 5,
             "CharacterId": 106,
+            "SpeakerName": "",
             "Description": "先生で後輩。/n不思議な関係性だね。",
             "Order": 9
         },
@@ -77,6 +87,7 @@
             "Id": 34001510,
             "EpisodeType": 5,
             "CharacterId": 101,
+            "SpeakerName": "",
             "Description": "うぅ……。でも、舞台役者としての実感が沸いてきたかな。/nまだまだ頑張らなきゃ、だけどね。",
             "Order": 10
         },
@@ -84,6 +95,7 @@
             "Id": 34001511,
             "EpisodeType": 5,
             "CharacterId": 101,
+            "SpeakerName": "",
             "Description": "そうだ！　静香ちゃん。/n誕生日記念ってことで、双子コーデして写真撮らない？",
             "Order": 11
         },
@@ -91,6 +103,7 @@
             "Id": 34001512,
             "EpisodeType": 5,
             "CharacterId": 102,
+            "SpeakerName": "",
             "Description": "えぇ……！？/nそういうの、恥ずかしいんだけど……。",
             "Order": 12
         },
@@ -98,6 +111,7 @@
             "Id": 34001513,
             "EpisodeType": 5,
             "CharacterId": 101,
+            "SpeakerName": "",
             "Description": "良いじゃない！　せっかくの誕生日なんだもん。/nね？　お願いだよ～。",
             "Order": 13
         },
@@ -105,6 +119,7 @@
             "Id": 34001514,
             "EpisodeType": 5,
             "CharacterId": 102,
+            "SpeakerName": "",
             "Description": "もう……しょうがないわね。/nでも、みんなの前ではイヤよ。部屋に戻ったらね。",
             "Order": 14
         },
@@ -112,6 +127,7 @@
             "Id": 34001515,
             "EpisodeType": 5,
             "CharacterId": 101,
+            "SpeakerName": "",
             "Description": "やったぁ～！/n何着てもらおっかな～。",
             "Order": 15
         },
@@ -119,6 +135,7 @@
             "Id": 34001516,
             "EpisodeType": 5,
             "CharacterId": 104,
+            "SpeakerName": "",
             "Description": "本当におふたりは仲良しですね♪",
             "Order": 16
         },
@@ -126,6 +143,7 @@
             "Id": 34001517,
             "EpisodeType": 5,
             "CharacterId": 103,
+            "SpeakerName": "",
             "Description": "そうね……。",
             "Order": 17
         },
@@ -133,6 +151,7 @@
             "Id": 34001518,
             "EpisodeType": 5,
             "CharacterId": 105,
+            "SpeakerName": "",
             "Description": "なんですカトりん？　じぃっと見ちゃって……。/nもしかしてうらやましいとか？",
             "Order": 18
         },
@@ -140,6 +159,7 @@
             "Id": 34001519,
             "EpisodeType": 5,
             "CharacterId": 103,
+            "SpeakerName": "",
             "Description": "そ……そんなんじゃないわよ！",
             "Order": 19
         }

@@ -7,6 +7,7 @@
             "Id": 34035001,
             "EpisodeType": 0,
             "CharacterId": null,
+            "SpeakerName": "",
             "Description": "【Birthday Night】王 雪/n王 雪/n/n15歳の高校1年生。/n中国の劇団から日本へやってきた。/nハングリー精神が高く、成長も著しいが、芝居は仕事だと割り切るドライさがあり、生意気に見えてしまうところも。/n気に入った相手には故郷の火鍋をよく振る舞う/n/n学年：高校1年生/n誕生日：6月19日/n身長：151cm/n趣味：貯金/nセンス：先手必勝（シェンショウビィショング）/n舞台の前半にポテンシャル以上の力が出せる。/n何をやるにも行動が早く、センスにもどこか先手必勝の心意気がにじみ出ている。",
             "Order": 1
         },
@@ -14,6 +15,7 @@
             "Id": 34035502,
             "EpisodeType": 5,
             "CharacterId": 303,
+            "SpeakerName": "",
             "Description": "いらっしゃいませー。",
             "Order": 2
         },
@@ -21,6 +23,7 @@
             "Id": 34035503,
             "EpisodeType": 5,
             "CharacterId": 302,
+            "SpeakerName": "",
             "Description": "予約していたバースデーケーキを取りに来た。/nラモーナ・ウォル……おや、雪じゃないか！",
             "Order": 3
         },
@@ -28,6 +31,7 @@
             "Id": 34035504,
             "EpisodeType": 5,
             "CharacterId": 303,
+            "SpeakerName": "",
             "Description": "なんだ、ドイツか。",
             "Order": 4
         },
@@ -35,6 +39,7 @@
             "Id": 34035505,
             "EpisodeType": 5,
             "CharacterId": 302,
+            "SpeakerName": "",
             "Description": "まさか、ここで出会うなんて……奇遇だな。",
             "Order": 5
         },
@@ -42,6 +47,7 @@
             "Id": 34035506,
             "EpisodeType": 5,
             "CharacterId": 303,
+            "SpeakerName": "",
             "Description": "ここでバイトしてるからな。/nというか、バースデーケーキか……今日渡すのか？",
             "Order": 6
         },
@@ -49,6 +55,7 @@
             "Id": 34035507,
             "EpisodeType": 5,
             "CharacterId": 302,
+            "SpeakerName": "",
             "Description": "まぁ、そうなるな。",
             "Order": 7
         },
@@ -56,6 +63,7 @@
             "Id": 34035508,
             "EpisodeType": 5,
             "CharacterId": 303,
+            "SpeakerName": "",
             "Description": "ということは……。",
             "Order": 8
         },
@@ -63,6 +71,7 @@
             "Id": 34035509,
             "EpisodeType": 5,
             "CharacterId": 302,
+            "SpeakerName": "",
             "Description": "……多分、雪が思っている通りだな。",
             "Order": 9
         },
@@ -70,6 +79,7 @@
             "Id": 34035510,
             "EpisodeType": 5,
             "CharacterId": 303,
+            "SpeakerName": "",
             "Description": "はぁ……なるほどな、わざわざ良いってのに。/nそれで、バースデーカードにはなんて書くんだ？",
             "Order": 10
         },
@@ -77,6 +87,7 @@
             "Id": 34035511,
             "EpisodeType": 5,
             "CharacterId": 302,
+            "SpeakerName": "",
             "Description": "そうだな、『誕生日おめでとう、雪』で。/nふふっ、なんだか本人にバースデーカードを頼むのは不思議な気分だ。",
             "Order": 11
         },
@@ -84,6 +95,7 @@
             "Id": 34035512,
             "EpisodeType": 5,
             "CharacterId": 303,
+            "SpeakerName": "",
             "Description": "それはこっちの台詞だ。まったく……、/n……まぁ、ありがとう。",
             "Order": 12
         }

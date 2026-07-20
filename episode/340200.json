@@ -7,6 +7,7 @@
             "Id": 34020017,
             "EpisodeType": 0,
             "CharacterId": null,
+            "SpeakerName": "",
             "Description": "【Birthday2024】猫足蕾/n猫足蕾/n/n17歳の高校3年生。/n青森県の霊場近くに生まれたことから幼少より占いを趣味にしており、何かと吉兆を占うことが多いが、そのお告げに縛られることもしばしば。/n独特の中二病言語「蕾語」を使うのが特徴。/n/n学年：高校3年生/n誕生日：12月25日/n身長：160cm/n趣味：占い全般/nセンス：垣間見る公演の運命（ステージプロフェシー）/n舞台上で占うと、その舞台で行われる演劇の吉兆がわかる。/n怪我人が示唆されたら注意するなど出てきた結果によっては未来を回避することも可能。",
             "Order": 17
         },
@@ -14,6 +15,7 @@
             "Id": 34020501,
             "EpisodeType": 5,
             "CharacterId": 404,
+            "SpeakerName": "",
             "Description": "……今日は私の誕生日、か……。/n今年も、無事にこの日を迎えられたことを感謝せねば。",
             "Order": 1
         },
@@ -21,6 +23,7 @@
             "Id": 34020502,
             "EpisodeType": 5,
             "CharacterId": 404,
+            "SpeakerName": "",
             "Description": "奴らとの戦いも、より過酷になることだろう……。/n日々の鍛錬を忘れず、更に励んでいくとしよう。",
             "Order": 2
         },
@@ -28,6 +31,7 @@
             "Id": 34020503,
             "EpisodeType": 5,
             "CharacterId": 403,
+            "SpeakerName": "",
             "Description": "先輩、おはよーございまーす！",
             "Order": 3
         },
@@ -35,6 +39,7 @@
             "Id": 34020504,
             "EpisodeType": 5,
             "CharacterId": 404,
+            "SpeakerName": "",
             "Description": "おはよう。/n今日は早めの登校なのだな、阿岐留は。",
             "Order": 4
         },
@@ -42,6 +47,7 @@
             "Id": 34020505,
             "EpisodeType": 5,
             "CharacterId": 403,
+            "SpeakerName": "",
             "Description": "へへ、今日は早起きしたんですよ～。/n先輩から教わった習慣ですね！",
             "Order": 5
         },
@@ -49,6 +55,7 @@
             "Id": 34020506,
             "EpisodeType": 5,
             "CharacterId": 403,
+            "SpeakerName": "",
             "Description": "あ！　てか見てくださいよこれ！/n友達からお笑いライブのチケットもらったんす！",
             "Order": 6
         },
@@ -56,6 +63,7 @@
             "Id": 34020507,
             "EpisodeType": 5,
             "CharacterId": 404,
+            "SpeakerName": "",
             "Description": "おお……そうか。/nそれは良かったな。",
             "Order": 7
         },
@@ -63,6 +71,7 @@
             "Id": 34020508,
             "EpisodeType": 5,
             "CharacterId": 403,
+            "SpeakerName": "",
             "Description": "じゃーん！　２枚！/nで。あのー……良かったらウチと観に行きません！？",
             "Order": 8
         },
@@ -70,6 +79,7 @@
             "Id": 34020509,
             "EpisodeType": 5,
             "CharacterId": 404,
+            "SpeakerName": "",
             "Description": "お前と、お笑いライブを……！？",
             "Order": 9
         },
@@ -77,6 +87,7 @@
             "Id": 34020510,
             "EpisodeType": 5,
             "CharacterId": 403,
+            "SpeakerName": "",
             "Description": "そうっす。今日って電姫の稽古ないじゃないですか？/nちょうどいいかな～って。",
             "Order": 10
         },
@@ -84,6 +95,7 @@
             "Id": 34020511,
             "EpisodeType": 5,
             "CharacterId": 404,
+            "SpeakerName": "",
             "Description": "そ、そうか。/nもしかして……私へのプレゼントか？/n気を遣わせてしまったならすまない。",
             "Order": 11
         },
@@ -91,6 +103,7 @@
             "Id": 34020512,
             "EpisodeType": 5,
             "CharacterId": 403,
+            "SpeakerName": "",
             "Description": "へ？/nいやいやそんな、プレゼントとか気張ったものじゃ――/n……ってあれ！？　今日って先輩の誕生日じゃん！",
             "Order": 12
         },
@@ -98,6 +111,7 @@
             "Id": 34020513,
             "EpisodeType": 5,
             "CharacterId": 404,
+            "SpeakerName": "",
             "Description": "そうだが……。なんだ、それで誘ったわけではなかったのか。/n皆には大っぴらに言ってなかったからな、/n気づいてなくとも不自然ではない。",
             "Order": 13
         },
@@ -105,6 +119,7 @@
             "Id": 34020514,
             "EpisodeType": 5,
             "CharacterId": 403,
+            "SpeakerName": "",
             "Description": "いやウチ、カレンダー登録してましたし！/n完全にミスった～。/nあ！　じゃあお笑いライブ見た後、ふたりで美味しいケーキ食べにいきましょーよ。",
             "Order": 14
         },
@@ -112,6 +127,7 @@
             "Id": 34020515,
             "EpisodeType": 5,
             "CharacterId": 404,
+            "SpeakerName": "",
             "Description": "ケーキ……？/nうむ、いいだろう。",
             "Order": 15
         },
@@ -119,6 +135,7 @@
             "Id": 34020516,
             "EpisodeType": 5,
             "CharacterId": 403,
+            "SpeakerName": "",
             "Description": "よっしゃ！　決定っすね！/nんじゃまた～！",
             "Order": 16
         },
@@ -126,6 +143,7 @@
             "Id": 34020517,
             "EpisodeType": 5,
             "CharacterId": 404,
+            "SpeakerName": "",
             "Description": "ああ。/n――ふふ、放課後が楽しみだな。",
             "Order": 17
         }
