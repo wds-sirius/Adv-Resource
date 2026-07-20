@@ -15,7 +15,7 @@
             "SpeakerName": "レッスンビデオ",
             "FontSize": 2,
             "Phrase": "基礎トレーニングその２、アイソレーション！/n最初は壁に背中をつけて、首だけを前後に動してみよう！",
-            "BackgroundImageFileName": "921",
+            "BackgroundImageFileName": "741",
             "BgmFileName": "203",
             "VoiceFileName": "1415020010",
             "CharacterMotions": [],
@@ -1262,7 +1262,7 @@
             "GroupOrder": 41,
             "SpeakerName": "緋花里",
             "FontSize": 2,
-            "Phrase": "忙しいのにダンスも挑戦するなんて雪はえらいね！",
+            "Phrase": "忙しいのにダンスも挑戦するなんてえらいね！",
             "VoiceFileName": "1415020390",
             "CharacterMotions": [
                 {
