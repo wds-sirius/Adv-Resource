@@ -523,7 +523,8 @@ if masterlistres.status_code == 200:
                 posterdetail["EpisodeDetail"].append({
                     "Id" : ep["Id"],
                     "EpisodeType": typenumber,
-                    "CharacterId" : ep["CharacterBaseMasterId"] if "CharacterBaseMasterId" in ep else None,
+                    "CharacterId" : ep.get("CharacterBaseMasterId") or ep.get("CharacterIconId") or None,
+                    "SpeakerName" : ep.get("CharacterName", "")
                     "Description" : ep["Description"],
                     "Order": ep["Order"]
                 })
