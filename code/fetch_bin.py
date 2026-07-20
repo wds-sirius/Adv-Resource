@@ -216,6 +216,7 @@ CompanyMaster = {
     2 : "Eden",
     3 : "銀河座",
     4 : "劇団電姫",
+    5 : "最終章",
     999 : '序章',
     900 : 'ラブライブサンシャイン'
 }
@@ -249,7 +250,13 @@ if masterlistres.status_code == 200:
                     main_res = requests.get(f'{WDS_Env["masterDataUrl"]}/scenes/{binlist[str(data["Id"])]}.bin')
                     if main_res.status_code == 200:
                         msgdata = msgpack_lz4block.deserialize(main_res.content)
-                        chaptertitle = f"{CompanyMaster[GroupIsexit['CompanyId']]}　{GroupIsexit['ChapterOrder']}章" if GroupIsexit["CompanyId"] != 999 else "序章"
+                        chaptertitle = ''
+                        if GroupIsexit["CompanyId"] == 999:
+                            chaptertitle = "序章"
+                        elif GroupIsexit["CompanyId"] == 5:
+                            chaptertitle = "最終章"
+                        else:
+                            chaptertitle = f"{CompanyMaster[GroupIsexit['CompanyId']]}　{GroupIsexit['ChapterOrder']}章"
                         addedKeyData = addKey(msgdata)
                         to_json = createFormat(data["Id"], 1, data["Order"], chaptertitle, data["Title"], addedKeyData, orderlist)
                         json_data = json.dumps(to_json, indent=4, ensure_ascii=False)
