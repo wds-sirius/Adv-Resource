@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-07-17 18:16:20",
+    "LatestDate": "2026-07-20 18:32:45",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -6249,7 +6249,16 @@
                     {
                         "Id": 142510,
                         "Title": "主神はあなたを見初めて",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142511,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142512,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },
@@ -8312,7 +8321,16 @@
                     {
                         "Id": 142520,
                         "Title": "海神は宴の為に海を裂き",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 142521,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 142522,
+                                "Order": 2
+                            }
+                        ]
                     },
                     {
                         "Id": 150040,

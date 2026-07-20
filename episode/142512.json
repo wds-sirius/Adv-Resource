@@ -1,0 +1,1079 @@
+{
+    "EpisodeId": 142512,
+    "StoryType": 3,
+    "Order": 2,
+    "Prev": 142511,
+    "Next": null,
+    "Chapter": "主神はあなたを見初めて",
+    "Title": "憧れの人の隣で",
+    "EpisodeDetail": [
+        {
+            "Id": 142512001,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "やけに早かったわね？/n息も切らして……そんなに急ぐ必要なかったのに。",
+            "BackgroundImageFileName": "370",
+            "BgmFileName": "102",
+            "VoiceFileName": "1425120010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512002,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "いえ……だって、柊さんとお稽古が出来ると思ったら、/n居てもたってもいられなくなってしまって……。",
+            "VoiceFileName": "1425120020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512003,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "そ、そう……？/n嬉しいこと言ってくれるじゃないの……。",
+            "VoiceFileName": "1425120030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 115,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512004,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "じゃあ少し早いけれど、ふたりで稽古始めましょうか。",
+            "VoiceFileName": "1425120040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512005,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "はい！　よろしくお願いいたします、柊さん。",
+            "VoiceFileName": "1425120050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512006,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "ええ、こちらこそ。/nよろしく頼むわよ、八恵。",
+            "VoiceFileName": "1425120060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512007,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "演目は、この前決まった通り『ロミオとジュリエット』。/n……では第二幕、第二場から始めるわよ！",
+            "VoiceFileName": "1425120070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512008,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 8,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "23",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 142512009,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "『……声で分かります、ロミオ様でしょう？　モンタギューの』",
+            "VoiceFileName": "1425120080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512010,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "『美しい人……君が嫌がれば、そのどちらでもない！』",
+            "VoiceFileName": "1425120090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512011,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（ああ、信じられません……。/n　本当に今、私は柊さんと一緒にお芝居を……）",
+            "VoiceFileName": "1425120100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512012,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（しかも、柊さんとのダブル主演で、/n　その相手役を私が務めているなんて……！）",
+            "VoiceFileName": "1425120110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 16,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512013,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（私の夢はまだ、覚めてはいなかったのですね……。/n　『ダイスターの祭典』だけではなく、まだ夢は続いている……）",
+            "VoiceFileName": "1425120120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512014,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（今この瞬間も――）",
+            "VoiceFileName": "1425120130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512015,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "『君の愛が得られないまま生きるのは……死よりも辛い！』",
+            "VoiceFileName": "1425120140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512016,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "（さすがは八恵ね……。/n　あの舞台に立っただけある演技力……）",
+            "VoiceFileName": "1425120150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512017,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "（歌の表現力はもちろんだけど、この子は歌だけじゃない。/n　演技力だって本物よ、気を抜いたら置き去りにされかねない）",
+            "VoiceFileName": "1425120160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512018,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "（本当に……成長したわね。/n　……こうして一緒に芝居が出来るのが、本当に楽しい）",
+            "VoiceFileName": "1425120170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512019,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "『おお、ジュリエット。/n　今まで恋をしていたのか？　この心は……』",
+            "VoiceFileName": "1425120180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512020,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "『ああロミオ、愛してくださるなら、心からそう言って！』",
+            "VoiceFileName": "1425120190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512021,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "『神聖なる月にかけて誓いましょう。心からの、愛を』",
+            "VoiceFileName": "1425120200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512022,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（やっぱり柊さんの演技は凄いです……。/n　私まで引き上げられていくような、そんな力を感じます）",
+            "VoiceFileName": "1425120210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512023,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（ずっとこのまま、この時間が続けばいいのに……。/n　ずっと一緒に、お芝居をしていたい……）",
+            "VoiceFileName": "1425120220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512024,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "……よし、いいわ。一旦ここまでにしましょう。",
+            "VoiceFileName": "1425120230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512025,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "はぁ……はぁ……っ。",
+            "VoiceFileName": "1425120240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512026,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（いつの間にかもう、一区切り終えてしまっていたんですね……）",
+            "VoiceFileName": "1425120250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512027,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 27,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "1160",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 142512028,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "八恵・望有",
+            "FontSize": 2,
+            "Phrase": "……！？",
+            "VoiceFileName": "1425120260",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 142512029,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "すごい！　すごいです、ふたりとも！！/n観ていて、とっても感動しちゃいました……！",
+            "BgmFileName": "101",
+            "VoiceFileName": "1425120270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 142512030,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "改めて間近で観ると、凄まじいわね……ダイスターたちの演技って。",
+            "VoiceFileName": "1425120280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 142512031,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "息つく暇もないって感じだったね。/n危うく心臓も止まるかと思ったよ。",
+            "VoiceFileName": "1425120290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10603,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 142512032,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "ぱんだ",
+            "FontSize": 2,
+            "Phrase": "ここはいつもみたいに、さっすーにツッコみたいところですが……。/nあんな演技を魅せられちゃ、あながち否定できないですねー……。",
+            "VoiceFileName": "1425120300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10603,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "105"
+        },
+        {
+            "Id": 142512033,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "ぱんだ",
+            "FontSize": 2,
+            "Phrase": "確かにさっきのは、息つく暇もなかったです。/n度肝を抜かれるどころか、心臓まで射抜かれた感じでした。",
+            "VoiceFileName": "1425120310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "105"
+        },
+        {
+            "Id": 142512034,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "カトリナ",
+            "FontSize": 2,
+            "Phrase": "今度の『ロミオとジュリエット』も期待できそうね。/nアタシたちも、負けてはいられないわ。早く支度しましょ。",
+            "VoiceFileName": "1425120320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 142512035,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "そうだね、カトリナちゃん！/nふたりのお芝居観てたら、私もうずうずしてきたよ！",
+            "VoiceFileName": "1425120330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 142512036,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "ふふっ、皆さんありがとうございます♪",
+            "VoiceFileName": "1425120340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512037,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（さっきの私は、柊さんの隣に立っていても恥ずかしくないような、/n　そんな演技が出来ていたんですね）",
+            "VoiceFileName": "1425120350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512038,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（よかった……嬉しいです）",
+            "VoiceFileName": "1425120360",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 142512039,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "全員揃ったことだし、準備が出来たら稽古を再開するわよ。/n新生シリウスとしての初舞台、全力で挑みましょう！",
+            "VoiceFileName": "1425120370",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 142512040,
+            "EpisodeMasterId": 142512,
+            "Order": 1,
+            "GroupOrder": 40,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "……はいっ！",
+            "VoiceFileName": "1425120380",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10703,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        }
+    ]
+}
