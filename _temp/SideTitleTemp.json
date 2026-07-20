@@ -5332,5 +5332,33 @@
         "CardName": "Chronus in peace moment !",
         "Title": "姉妹の前日譚",
         "EpisodeOrder": 2
+    },
+    {
+        "Id": 142511,
+        "Character": "新妻八恵",
+        "CardName": "主神はあなたを見初めて",
+        "Title": "焦がれていた時間を前に",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142512,
+        "Character": "新妻八恵",
+        "CardName": "主神はあなたを見初めて",
+        "Title": "憧れの人の隣で",
+        "EpisodeOrder": 2
+    },
+    {
+        "Id": 142521,
+        "Character": "千寿暦",
+        "CardName": "海神は宴の為に海を裂き",
+        "Title": "銀河に起きた僅かな変化",
+        "EpisodeOrder": 1
+    },
+    {
+        "Id": 142522,
+        "Character": "千寿暦",
+        "CardName": "海神は宴の為に海を裂き",
+        "Title": "守りたい者を想う二人",
+        "EpisodeOrder": 2
     }
 ]
