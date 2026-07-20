@@ -524,7 +524,7 @@ if masterlistres.status_code == 200:
                     "Id" : ep["Id"],
                     "EpisodeType": typenumber,
                     "CharacterId" : ep.get("CharacterBaseMasterId") or ep.get("CharacterIconId") or None,
-                    "SpeakerName" : ep.get("CharacterName", "")
+                    "SpeakerName" : ep.get("CharacterName", ""),
                     "Description" : ep["Description"],
                     "Order": ep["Order"]
                 })
