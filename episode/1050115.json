@@ -1,0 +1,946 @@
+{
+    "EpisodeId": 1050115,
+    "StoryType": 1,
+    "Order": 15,
+    "Prev": 1050114,
+    "Next": 1050116,
+    "Chapter": "最終章",
+    "Title": "願い",
+    "EpisodeDetail": [
+        {
+            "Id": 1050115001,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "すーっ……。",
+            "BackgroundImageFileName": "473",
+            "BgmFileName": "8",
+            "VoiceFileName": "10501150010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115002,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（改めて思うと、演劇で色々なことがありました）",
+            "VoiceFileName": "10501150020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115003,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（銀河座の児童部にいた頃は、/n　いつか姉さんと一緒の舞台に立ちたいって、思っていました）",
+            "VoiceFileName": "10501150030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 79,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115004,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（自分も千寿家の一員、/n　大きくなればきっと自分にもセンスが宿るんだと、無邪気に信じながら）",
+            "VoiceFileName": "10501150040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115005,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（でも、僕にはセンスが現れることはなく……/n　一度は挫折して、銀河座と……そしてお芝居を辞めました）",
+            "VoiceFileName": "10501150050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115006,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（そして、舞台の名門の千寿家なのにセンスがない劣等感から、/n　姉さんを傷つける言葉も言ってしまった）",
+            "VoiceFileName": "10501150060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 25,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115007,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（センスがある姉さんには、僕の気持ちは分からない。/n　僕にもセンスがあれば良かったのに……って）",
+            "VoiceFileName": "10501150070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115008,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（ずっと後悔していました……。/n　劣等感という感情のままに、姉さんを傷つけてしまったことを）",
+            "VoiceFileName": "10501150080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115009,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（銀河座をやめてからは、演劇とは離れていました……けれど高校になって、/n　電姫の舞台をみとちゃんと観に行った時、とても感激しました）",
+            "VoiceFileName": "10501150090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115010,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（電姫に出会えたお陰で、もう一度、演劇をやりたいと思えた……）",
+            "VoiceFileName": "10501150100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 20,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115011,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（電姫のみんなが、僕を役者として受け入れてくれたから。/n　また、お芝居をすることを楽しいと思えました）",
+            "VoiceFileName": "10501150110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 20,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115012,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（なのに……電姫に入ってからも僕は、/n　また『劣等感』から、大事な親友を傷つけてしまった……）",
+            "VoiceFileName": "10501150120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 25,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115013,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（それでも、みとちゃんや電姫のみんなは、僕を許してくれました。/n　……考えてみたら、何度も僕は電姫の仲間たちに救われているんですね）",
+            "VoiceFileName": "10501150130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115014,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（だからこそ、そんな電姫のことを、もっと色んな人に知って貰いたい。/n　まだ観たことのない人たちや、それに、おばあさまにだって……）",
+            "VoiceFileName": "10501150140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115015,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 15,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "2260",
+            "BackgroundImageFileFadeType": 2,
+            "SeFileName": "641",
+            "WindowEffect": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1050115016,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "ですが、貴方の所属する劇団電姫など所詮、/n審査基準が広がったことで機会を得たに過ぎない。",
+            "WindowEffect": 1,
+            "VoiceFileName": "10501150150",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050115017,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 17,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "473",
+            "BackgroundImageFileFadeType": 2,
+            "SeFileName": "641",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1050115018,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "おばあさまにも、魅せてみせます……僕たちの演技を！",
+            "VoiceFileName": "10501150160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115019,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（それで、認めてもらって……！）",
+            "VoiceFileName": "10501150170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115020,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "なーに意気込んでんのよ？/nもしかしてアンタ、まーたひとりで背負い込んでんじゃないの？",
+            "VoiceFileName": "10501150180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050115021,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "叶羽ちゃん……！/nい、いや！　別に……背負い込んでなんか、いないですよ！",
+            "VoiceFileName": "10501150190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 12,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115022,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "アンタのおばあちゃんにはああいうこと言ったけどさ、/nあんま気にしすぎないでよね。",
+            "VoiceFileName": "10501150200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 79,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050115023,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "え？",
+            "VoiceFileName": "10501150210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115024,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "忘れたか、千寿。/nまずは自分たちが楽しむのが、電姫の流儀であろう？",
+            "VoiceFileName": "10501150220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 1050115025,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "……！",
+            "VoiceFileName": "10501150230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115026,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "わかったら、ガツンと気合の入る一言言ってよね、座長様！",
+            "VoiceFileName": "10501150240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050115027,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "電姫劇団員たち",
+            "FontSize": 2,
+            "Phrase": "「よっ座長！」「いいコメントお願いします！」",
+            "VoiceFileName": "10501150250",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050115028,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（そうでした……そうですよね！）",
+            "BgmFileName": "999",
+            "VoiceFileName": "10501150260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115029,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "みなさん……僕はいつか、この大きな舞台に立ってみたいって思っていました。/nけれどそれは一度、諦めかけた夢だったんです。",
+            "BgmFileName": "301",
+            "VoiceFileName": "10501150270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115030,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "でも今、その夢の舞台に立てている……/nそれも全部、電姫のみなさんのお陰です！",
+            "VoiceFileName": "10501150280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115031,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "電姫劇団員たち",
+            "FontSize": 2,
+            "Phrase": "いろはちゃん……。",
+            "VoiceFileName": "10501150290",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050115032,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "いつもみたいに電姫らしく、/nすっごいすっごい演技をやって、お客さんをいーっぱい楽しませましょう！",
+            "VoiceFileName": "10501150300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115033,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "電姫劇団員たち",
+            "FontSize": 2,
+            "Phrase": "「よっしゃー！」「やってやろーぜい！」",
+            "VoiceFileName": "10501150310",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050115034,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "なんだ、そーいうの言えるじゃないの。/n電姫はやっぱ、こうでなくっちゃね。",
+            "VoiceFileName": "10501150320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050115035,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "皆の力で、観ている者たちに笑顔を届けようではないか。",
+            "VoiceFileName": "10501150330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 40503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 1050115036,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（みなさん、ありがとうございます……。/n　そして、ひとつだけごめんなさい、叶羽ちゃん）",
+            "VoiceFileName": "10501150340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 201,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115037,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（叶羽ちゃんは、おばあさまに思い知らせるって言ってくれました。/n　でも僕、本当はそれよりも……他に叶えたいことがあるんです）",
+            "VoiceFileName": "10501150350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115038,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（おばあさまに……電姫のみんなの、/n　これまで僕が一緒にやってきた仲間たちの演技を観て――）",
+            "VoiceFileName": "10501150360",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115039,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（少しでも、面白かったって……。/n　楽しかったって、思ってほしい）",
+            "VoiceFileName": "10501150370",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050115040,
+            "EpisodeMasterId": 1050115,
+            "Order": 1,
+            "GroupOrder": 40,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（ずっと観てもらうことが出来なかったからこそ……。/n　僕の演技を観て、『笑って』ほしいんです！）",
+            "VoiceFileName": "10501150380",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 20,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        }
+    ]
+}

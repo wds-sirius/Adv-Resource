@@ -1,0 +1,756 @@
+{
+    "EpisodeId": 1050104,
+    "StoryType": 1,
+    "Order": 4,
+    "Prev": 1050103,
+    "Next": 1050105,
+    "Chapter": "最終章",
+    "Title": "選ばれし星の中の輝き",
+    "EpisodeDetail": [
+        {
+            "Id": 1050104001,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "スタッフ",
+            "FontSize": 2,
+            "Phrase": "……時間となりましたので、ここからは全体での通し稽古に入ります。/n皆さん準備をお願いします。",
+            "BackgroundImageFileName": "1770",
+            "BgmFileName": "23",
+            "VoiceFileName": "10501040010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050104002,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（とうとうやって来ました……。/n　主役であるゼウスは、どうしても一番、出番が多い……）",
+            "VoiceFileName": "10501040020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050104003,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "演出家",
+            "FontSize": 2,
+            "Phrase": "では、いきましょう。/n……主演のゼウス役、新妻八恵さんから。",
+            "VoiceFileName": "10501040030",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050104004,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "『はあ……ヘラも悪くはないが、/n　こうして長い間一緒にいると、さすがに飽きてくるものだ』",
+            "VoiceFileName": "10501040040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050104005,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "『僕の冷めた心を燃え上がらせる、/n　そんな乙女が、どこかに居ないものだろうか？』",
+            "VoiceFileName": "10501040050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050104006,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "『……よし。気晴らしに、地上でも眺めてみるとしよう……。/n　ん？　海辺に少女が立っている？　どれどれ……』",
+            "VoiceFileName": "10501040060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050104007,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "『なんて麗しい乙女なんだ……！/n　場所はポセイドンの神殿、兄上のところの巫女か……？』",
+            "VoiceFileName": "10501040070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050104008,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "『これは作戦を考えねばな……』",
+            "VoiceFileName": "10501040080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050104009,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "演出家",
+            "FontSize": 2,
+            "Phrase": "ふむ……いいですね。/nではこのまま、歌唱の場面へ移りましょう。",
+            "VoiceFileName": "10501040090",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050104010,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "『～～～♪　～～～♪』",
+            "VoiceFileName": "10501040100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 9,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050104011,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "役者たち",
+            "FontSize": 2,
+            "Phrase": "おおお……！",
+            "VoiceFileName": "10501040110",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050104012,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "（流石は、この中で主演に抜擢されただけの事はありますわね。/n　新妻八恵さん……その歌唱力、圧倒的ですわ）",
+            "VoiceFileName": "10501040120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050104013,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "（しかも、センスの力によって、/n　その魅力が最大限にまで引き出されている……）",
+            "VoiceFileName": "10501040130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 11,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050104014,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "（この年齢にして、この才能……いつ見ても恐ろしいですわね）",
+            "VoiceFileName": "10501040140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050104015,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "（ですが、私も幼少期より役者の道を歩み、/n　己を研磨し続けてきた身……）",
+            "VoiceFileName": "10501040150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050104016,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "（千寿家の役者として、銀河座を率いる星として、/n　そしてダイスターとしてこの場に居るのですから）",
+            "VoiceFileName": "10501040160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050104017,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "（全身全霊で、八恵さんの演技に応えてみせますわ）",
+            "VoiceFileName": "10501040170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050104018,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "『へぇ……ゼウスは彼女を、私の神殿の巫女と勘違いしているのか。/n　ははっ、それは滑稽だな』",
+            "VoiceFileName": "10501040180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050104019,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "『ヘラもまさか、神としての職務の為に若返りの泉に入ったら、/n　自分の夫に熱烈に思われるようになるとは』",
+            "VoiceFileName": "10501040190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050104020,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "『それも……ふふっ、まさか自分の妻に気づいていないとは。/n　まったく、ゼウスは我が弟ながら、愉快がすぎるな？　ヘルメス』",
+            "VoiceFileName": "10501040200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050104021,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "演出家",
+            "FontSize": 2,
+            "Phrase": "……千寿暦、噂通りの逸材ですね。",
+            "VoiceFileName": "10501040210",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050104022,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "演出家",
+            "FontSize": 2,
+            "Phrase": "ポセイドンという役の人物像が見えてくるような、説得力のある演技……。/n千寿家の役者というのも納得がいきます。",
+            "VoiceFileName": "10501040220",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050104023,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "（みんな、いきなりの通し稽古なのに、凄い……）",
+            "VoiceFileName": "10501040230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050104024,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "（普段と全然変わらない……。/n　ううん、普段以上に、いい演技をしてる……）",
+            "VoiceFileName": "10501040240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "HeadMotionMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050104025,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "演出家",
+            "FontSize": 2,
+            "Phrase": "次、ヘルメス役の白丸美兎さん、出番ですよ。",
+            "VoiceFileName": "10501040250",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050104026,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "は、はいっ……！",
+            "VoiceFileName": "10501040260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050104027,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "（美兎も、みんなに置いて行かれないように、頑張らなきゃ……！/n　せっかくダイスターになれたんだもん……）",
+            "VoiceFileName": "10501040270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 14,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050104028,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "（いろはちゃんたちだって、応援してくれてる……。/n　いつも通り……練習した通りに、やればいいんだ……）",
+            "VoiceFileName": "10501040280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050104029,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "『ええ、まったくですよ、ポセイドン様！』",
+            "VoiceFileName": "10501040290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050104030,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "『ゼウス様が惚れた頃のうら若い姿だから……ってことですかね？/n　なんにせよ、我らが主神様の珍しいお姿』",
+            "VoiceFileName": "10501040300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 27,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050104031,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "『どうでしょう？　我々は普段、ゼウス様には振り回されてますし……、/n　ここはひとつ、悪戯をするというのは。他の神々も乗り気なのですが……』",
+            "VoiceFileName": "10501040310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050104032,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "演出家",
+            "FontSize": 2,
+            "Phrase": "うーん……まぁ、悪くはないですが……。/nセンスも発揮出来ていないようですし、本調子ではなさそうですね……。",
+            "VoiceFileName": "10501040320",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050104033,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "スタッフ",
+            "FontSize": 2,
+            "Phrase": "聞くところによると、彼女は憑依型の役者らしいですし……。/nもしかしたら、これからもっと化けるのかもしれません。",
+            "VoiceFileName": "10501040330",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050104034,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "はぁ……はぁ……。",
+            "VoiceFileName": "10501040340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050104035,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "（な、なんとか、乗り切れたの……かな……）",
+            "VoiceFileName": "10501040350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 11,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050104036,
+            "EpisodeMasterId": 1050104,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "（……でも、このままじゃダメ……だよね。/n　稽古が再開する前に、きちんと調子を取り戻さないと……！）",
+            "VoiceFileName": "10501040360",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        }
+    ]
+}

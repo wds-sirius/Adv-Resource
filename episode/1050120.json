@@ -1,0 +1,1409 @@
+{
+    "EpisodeId": 1050120,
+    "StoryType": 1,
+    "Order": 20,
+    "Prev": 1050119,
+    "Next": null,
+    "Chapter": "最終章",
+    "Title": "そして、これからも",
+    "EpisodeDetail": [
+        {
+            "Id": 1050120001,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "電姫劇団員たち",
+            "FontSize": 2,
+            "Phrase": "「ねえねえ、もうパスポート取った？」/n「まだ～。そろそろ取んないとやばいよね」",
+            "BackgroundImageFileName": "900",
+            "BgmFileName": "305",
+            "VoiceFileName": "10501200010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120002,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "電姫劇団員たち",
+            "FontSize": 2,
+            "Phrase": "「英語も勉強しなきゃマズいかなー？」「え、無理ゲーすぎる」/n「もうボディランゲージで乗り切るしかないな」",
+            "VoiceFileName": "10501200020",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120003,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "世界演劇リーグが終わって落ち着くかと思いましたけど、/n思ったよりも慌ただしくなっちゃいましたね。",
+            "VoiceFileName": "10501200030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050120004,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "うん……でもすごいよね。色んな所から電姫のスポンサーを検討してるって、/n連絡あったらしいし……海外の劇団ともコラボ公演開催なんて……。",
+            "VoiceFileName": "10501200040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050120005,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "わぁ～、わくわくしちゃいますねっ！/nこんなに沢山の人たちに電姫を知って貰えたなんて……僕、感激ですっ！",
+            "BackgroundImageFileName": "2251",
+            "VoiceFileName": "10501200050",
+            "CharacterMotions": [],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050120006,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "ちょっぴり不安もあるけど、でも……美兎も、/n楽しみって気持ちの方が大きいかも……。",
+            "VoiceFileName": "10501200060",
+            "CharacterMotions": [],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050120007,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "これからも、もっとお客様に楽しんでもらえるように、/n頑張りましょうね、みとちゃん！",
+            "VoiceFileName": "10501200070",
+            "CharacterMotions": [],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050120008,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "うん……！",
+            "VoiceFileName": "10501200080",
+            "CharacterMotions": [],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050120009,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 9,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "140",
+            "BackgroundImageFileFadeType": 2,
+            "BgmFileName": "405",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1050120010,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "次の移動公演の件だが、準備は滞りなく進んでいるか？",
+            "VoiceFileName": "10501200090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1050120011,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "容",
+            "FontSize": 2,
+            "Phrase": "うん、問題ないよ。/n他の皆もさ、世界演劇リーグの後から火がついたみたいなんだよ。",
+            "VoiceFileName": "10501200100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "204"
+        },
+        {
+            "Id": 1050120012,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "ああ、それは私も、稽古を見ながら常々感じているよ。/n本当に頼もしい……そして逞しいな、我がEdenは。",
+            "VoiceFileName": "10501200110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1050120013,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 13,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "40",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 1050120014,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "（ん？　知らない番号からの電話だな……誰だ？）",
+            "VoiceFileName": "10501200120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "SpineId": 20101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1050120015,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "審査員Ｋ",
+            "FontSize": 2,
+            "Phrase": "『突然の連絡、失礼する。/n　ダイスターの祭典で、キミたちの審査を務めていた者だ』",
+            "VoiceFileName": "10501200130",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120016,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "！　ほう……まさかダイスターと呼ばれる名優から、/n直々にお電話を頂けるとは光栄だな。",
+            "BackgroundImageFileName": "2252",
+            "VoiceFileName": "10501200140",
+            "CharacterMotions": [],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1050120017,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "それで、私になんの用かな？",
+            "VoiceFileName": "10501200150",
+            "CharacterMotions": [],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1050120018,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "審査員Ｋ",
+            "FontSize": 2,
+            "Phrase": "『……単刀直入に言わせてもらう。/n　キミたちEdenに是非とも参加してもらいたい演劇の賞レースがある』",
+            "VoiceFileName": "10501200160",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120019,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "審査員Ｋ",
+            "FontSize": 2,
+            "Phrase": "『私が審査・運営に参加する大会でね。/n　悪い話ではないと思うが……どうだろうか？』",
+            "VoiceFileName": "10501200170",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120020,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "どうだろうな。/n別に栄誉欲しさに、芝居をやっているわけではないからな。",
+            "VoiceFileName": "10501200180",
+            "CharacterMotions": [],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1050120021,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "審査員Ｋ",
+            "FontSize": 2,
+            "Phrase": "『言い方を変えよう、キミたちに挑戦の機会を与えてやる。/n　……演劇界に、君達の舞台こそ至高だと示す機会を』",
+            "VoiceFileName": "10501200190",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120022,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "審査員Ｋ",
+            "FontSize": 2,
+            "Phrase": "『それとも、……もう降りたのか？/n　だとすれば、残念だ』",
+            "VoiceFileName": "10501200200",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120023,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "はっ、まさか……いいだろう、乗せられてやる。/nその話、受けたぞ！",
+            "VoiceFileName": "10501200210",
+            "CharacterMotions": [],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 1050120024,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 24,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1840",
+            "BackgroundImageFileFadeType": 2,
+            "BgmFileName": "205",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1050120025,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "銀河座幹部",
+            "FontSize": 2,
+            "Phrase": "世界演劇リーグではご苦労だったな、ふたりとも。/n千寿は、最も輝いたダイスターに。",
+            "VoiceFileName": "10501200220",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120026,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "銀河座幹部",
+            "FontSize": 2,
+            "Phrase": "ウォルフの方も、最も輝いた劇団に選ばれなかったとはいえ、/n世界演劇リーグの審査員から、銀河座の舞台は評判だったと聞いている。",
+            "VoiceFileName": "10501200230",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120027,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "暦・ラモーナ",
+            "FontSize": 2,
+            "Phrase": "ありがとうございます。",
+            "VoiceFileName": "10501200240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 100,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 109,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120028,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "銀河座幹部",
+            "FontSize": 2,
+            "Phrase": "……さて、前置きはここまでにして本題に入ろう。/n今日ここへふたりを呼んだのは、銀河座の今後について話をする為だ。",
+            "VoiceFileName": "10501200250",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120029,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "銀河座幹部",
+            "FontSize": 2,
+            "Phrase": "……もう既に知っていると思うが、/n今度、銀河座とは別に、新たな劇団を正式に立ち上げることになった。",
+            "VoiceFileName": "10501200260",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120030,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "銀河座幹部",
+            "FontSize": 2,
+            "Phrase": "銀河と共に並ぶ、新たな劇団の名は……『星雲』。/nその座長には……ラモーナ・ウォルフを任命する。",
+            "VoiceFileName": "10501200270",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120031,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "……はい！",
+            "VoiceFileName": "10501200280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050120032,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "（覚悟は決めた……あの舞台で見えた世界、/n　私は皆を率いて……銀河で輝く天頂の星となる）",
+            "VoiceFileName": "10501200290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 109,
+                    "BodyMotionMasterId": 15,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050120033,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "銀河座幹部",
+            "FontSize": 2,
+            "Phrase": "銀河は千寿暦、星雲はラモーナ・ウォルフ。/nふたりの座長で連携しながら、我が劇団の未来を紡いでくれ。",
+            "VoiceFileName": "10501200300",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120034,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "承知いたしました。",
+            "BackgroundImageFileName": "2253",
+            "VoiceFileName": "10501200310",
+            "CharacterMotions": [],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050120035,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "ああ。",
+            "VoiceFileName": "10501200320",
+            "CharacterMotions": [],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050120036,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "銀河座幹部",
+            "FontSize": 2,
+            "Phrase": "……以上だ。",
+            "VoiceFileName": "10501200330",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120037,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "（このところ、状況は日々目まぐるしく変わってきている。/n　今までであれば、伝統を重んじてきた銀河座に変化など不要でした）",
+            "VoiceFileName": "10501200340",
+            "CharacterMotions": [],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050120038,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "（しかし今は……この変化は、きっと喜ぶべきものでしょう。/n　居場所が生まれ、新たに星が輝く余地が生まれた）",
+            "VoiceFileName": "10501200350",
+            "CharacterMotions": [],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050120039,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "（良い意味で銀河は形を変えている……。役者たちの演技と共に、/n　広がり……輝き続ける。時の流れにも、負けることなく）",
+            "VoiceFileName": "10501200360",
+            "CharacterMotions": [],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050120040,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 40,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "370",
+            "BackgroundImageFileFadeType": 2,
+            "BgmFileName": "105",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1050120041,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 41,
+            "SpeakerName": "ぱんだ",
+            "FontSize": 2,
+            "Phrase": "は～～～……世界演劇リーグ、頑張りましたねぇ～。",
+            "VoiceFileName": "10501200370",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "105"
+        },
+        {
+            "Id": 1050120042,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 42,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "いや～……無事に終わりましたねぇ～。",
+            "VoiceFileName": "10501200380",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10603,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 1050120043,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 43,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "はぁぁ……まだ信じられないよ……。/n世界演劇リーグの人たちの前で、お芝居したなんて……。",
+            "VoiceFileName": "10501200390",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 1050120044,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 44,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "あらあら、皆さん今日ものんびりモードなんですね。ふふっ。",
+            "VoiceFileName": "10501200400",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050120045,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 45,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "ちょっと。/nぱんだたちに流されて、ここなまで呆けてないでよね。",
+            "VoiceFileName": "10501200410",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 1050120046,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 46,
+            "SpeakerName": "ぱんだ",
+            "FontSize": 2,
+            "Phrase": "えー、なんですかそれー……っていうか、/nせっかくなんで、おシズちゃんたちも一緒に余韻に浸りましょーよー。",
+            "VoiceFileName": "10501200420",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 10203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "105"
+        },
+        {
+            "Id": 1050120047,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 47,
+            "SpeakerName": "カトリナ",
+            "FontSize": 2,
+            "Phrase": "もう充分浸ったでしょう？/nダイスターの祭典の夜なんて、お風呂の中で全員ぼーっとしてたじゃない。",
+            "VoiceFileName": "10501200430",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "103"
+        },
+        {
+            "Id": 1050120048,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 48,
+            "SpeakerName": "知冴",
+            "FontSize": 2,
+            "Phrase": "あ～～、あの日はもう天にも昇る勢いだったよ。/nまさに、極楽、極楽ってね。",
+            "VoiceFileName": "10501200440",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 10303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10603,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "106"
+        },
+        {
+            "Id": 1050120049,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 49,
+            "SpeakerName": "ぱんだ",
+            "FontSize": 2,
+            "Phrase": "駄洒落かよっ！",
+            "VoiceFileName": "10501200450",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 10,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10603,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "105"
+        },
+        {
+            "Id": 1050120050,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 50,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "盛り上がってるところ悪いけど、失礼するわ。/n皆に少しだけ話があるの。",
+            "VoiceFileName": "10501200460",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10701,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 1050120051,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 51,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "あっ、柊さん！　こんにちは！",
+            "VoiceFileName": "10501200470",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 1050120052,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 52,
+            "SpeakerName": "ぱんだ",
+            "FontSize": 2,
+            "Phrase": "改まって、どうしたんですか？/nもしかして、次の公演の予定が決まったとか？",
+            "VoiceFileName": "10501200480",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "105"
+        },
+        {
+            "Id": 1050120053,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 53,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "まぁ、それもあるんだけど……今日はそれだけじゃないわ。",
+            "VoiceFileName": "10501200490",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10701,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 1050120054,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 54,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "だけじゃない……？　何かあったんですか？",
+            "VoiceFileName": "10501200500",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10701,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 1050120055,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 55,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（！　もしかして……）",
+            "VoiceFileName": "10501200510",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050120056,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 56,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "実は、その……私もまた役者として、皆と同じ舞台に立つことになったの。/n今日はそれを、皆にきちんと報告しておこうと思って。",
+            "VoiceFileName": "10501200520",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 106,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10701,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 1050120057,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 57,
+            "SpeakerName": "ここな・静香・カトリナ",
+            "FontSize": 2,
+            "Phrase": "………………。",
+            "VoiceFileName": "10501200530",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120058,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 58,
+            "SpeakerName": "ぱんだ・知冴・八恵",
+            "FontSize": 2,
+            "Phrase": "………………。",
+            "VoiceFileName": "10501200540",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120059,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 59,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "えええーーーっ！？！？！？",
+            "VoiceFileName": "10501200550",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 501,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 1050120060,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 60,
+            "SpeakerName": "ぱんだ",
+            "FontSize": 2,
+            "Phrase": "ま、待ってください！　シリウスの年齢制限のルールがありましたよね！？",
+            "VoiceFileName": "10501200560",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 12,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "105"
+        },
+        {
+            "Id": 1050120061,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 61,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "後でシャモさんから正式に話があると思うけれど……。/nそのルールが撤廃される事になったの。",
+            "VoiceFileName": "10501200570",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10701,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 1050120062,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 62,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "元々シャモさんはルールを撤廃するつもりだったみたいで、/n私の想いも聞いて判断してくれたの。",
+            "VoiceFileName": "10501200580",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 70,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 1050120063,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 63,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "輝きたいという役者を奥にとどめる理由はない……、/nアナタもまだ、天頂の星を目指せる役者だと。",
+            "VoiceFileName": "10501200590",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 1050120064,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 64,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "これもあなたたちのお陰よ。あなたたちの舞台を見て、/n自分が本当は舞台に焦がれていた事を思い出した……。",
+            "VoiceFileName": "10501200600",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 1050120065,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 65,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "だからこそ、再挑戦よ。私はまた役者として舞台に立って、/n今度こそ『ワールドダイスター』という高みを目指そうと思う。",
+            "VoiceFileName": "10501200610",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 1050120066,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 66,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（柊さんも舞台に……！　ふふっ、遂に……！/n　遂に、叶ったんですね！）",
+            "VoiceFileName": "10501200620",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 11,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050120067,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 67,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "柊さんと一緒に舞台に立てることになって、私、とっても嬉しいです！/nこれからも、よろしくお願いしますねっ♪",
+            "VoiceFileName": "10501200630",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050120068,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 68,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "柊さんも……『ワールドダイスター』に……！/nだったら私たちだって……！",
+            "BackgroundImageFileName": "2254",
+            "VoiceFileName": "10501200640",
+            "CharacterMotions": [],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 1050120069,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 69,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "ええ、当然じゃないの。/n決めたでしょ、ここな。必ずなろうって。",
+            "VoiceFileName": "10501200650",
+            "CharacterMotions": [],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 1050120070,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 70,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "そう……ダイスターになったら、今度はその先の『ワールドダイスター』へ。/n行きましょう、いつかその舞台へ。皆の力で。",
+            "VoiceFileName": "10501200660",
+            "CharacterMotions": [],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 1050120071,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 71,
+            "SpeakerName": "シリウス劇団員たち",
+            "FontSize": 2,
+            "Phrase": "おー！",
+            "VoiceFileName": "10501200670",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050120072,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 72,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1050",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "999",
+            "CharacterMotions": [],
+            "FadeValue1": 1.0,
+            "FadeValue2": 0.10000000149011612,
+            "FadeValue3": 0.10000000149011612
+        },
+        {
+            "Id": 1050120073,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 73,
+            "FontSize": 2,
+            "Phrase": "",
+            "MovieFileName": "2",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 1050120074,
+            "EpisodeMasterId": 1050120,
+            "Order": 1,
+            "GroupOrder": 74,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        }
+    ]
+}

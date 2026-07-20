@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-07-20 18:32:45",
+    "LatestDate": "2026-07-20 21:23:20",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -1836,7 +1836,108 @@
                 "Id": 10501,
                 "CompanyId": 5,
                 "ChapterOrder": 1,
-                "Episode": []
+                "Episode": [
+                    {
+                        "EpisodeId": 1050101,
+                        "Title": "星々が集まって　前編",
+                        "Order": 1
+                    },
+                    {
+                        "EpisodeId": 1050102,
+                        "Title": "星々が集まって　後編",
+                        "Order": 2
+                    },
+                    {
+                        "EpisodeId": 1050103,
+                        "Title": "ダイスターたち",
+                        "Order": 3
+                    },
+                    {
+                        "EpisodeId": 1050104,
+                        "Title": "選ばれし星の中の輝き",
+                        "Order": 4
+                    },
+                    {
+                        "EpisodeId": 1050105,
+                        "Title": "原石の星に光を見出す",
+                        "Order": 5
+                    },
+                    {
+                        "EpisodeId": 1050106,
+                        "Title": "銀河座・電姫の最終稽古",
+                        "Order": 6
+                    },
+                    {
+                        "EpisodeId": 1050107,
+                        "Title": "Eden・シリウスの最終稽古",
+                        "Order": 7
+                    },
+                    {
+                        "EpisodeId": 1050108,
+                        "Title": "悪戯な神々",
+                        "Order": 8
+                    },
+                    {
+                        "EpisodeId": 1050109,
+                        "Title": "感化　前編",
+                        "Order": 9
+                    },
+                    {
+                        "EpisodeId": 1050110,
+                        "Title": "感化　後編",
+                        "Order": 10
+                    },
+                    {
+                        "EpisodeId": 1050111,
+                        "Title": "戦友たち",
+                        "Order": 11
+                    },
+                    {
+                        "EpisodeId": 1050112,
+                        "Title": "麗しき女神の為のセプテット",
+                        "Order": 12
+                    },
+                    {
+                        "EpisodeId": 1050113,
+                        "Title": "革命",
+                        "Order": 13
+                    },
+                    {
+                        "EpisodeId": 1050114,
+                        "Title": "忘れられた神の慟哭と飢え",
+                        "Order": 14
+                    },
+                    {
+                        "EpisodeId": 1050115,
+                        "Title": "願い",
+                        "Order": 15
+                    },
+                    {
+                        "EpisodeId": 1050116,
+                        "Title": "School war Justice!!",
+                        "Order": 16
+                    },
+                    {
+                        "EpisodeId": 1050117,
+                        "Title": "夢の舞台へ",
+                        "Order": 17
+                    },
+                    {
+                        "EpisodeId": 1050118,
+                        "Title": "ネクタルの注がれる先",
+                        "Order": 18
+                    },
+                    {
+                        "EpisodeId": 1050119,
+                        "Title": "結果発表",
+                        "Order": 19
+                    },
+                    {
+                        "EpisodeId": 1050120,
+                        "Title": "そして、これからも",
+                        "Order": 20
+                    }
+                ]
             }
         ],
         "Event": [

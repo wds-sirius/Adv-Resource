@@ -1,0 +1,663 @@
+{
+    "EpisodeId": 1050109,
+    "StoryType": 1,
+    "Order": 9,
+    "Prev": 1050108,
+    "Next": 1050110,
+    "Chapter": "最終章",
+    "Title": "感化　前編",
+    "EpisodeDetail": [
+        {
+            "Id": 1050109001,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "銀河座劇団員たち",
+            "FontSize": 2,
+            "Phrase": "「暦さんの演技、鳥肌立つほど凄かった……」「やっぱり格が違うわね」/n「指先の所作すらも見ごたえがあったわ」「あんな風に演じられるなんて……」",
+            "BackgroundImageFileName": "2220",
+            "BgmFileName": "201",
+            "VoiceFileName": "10501090010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050109002,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "雪",
+            "FontSize": 2,
+            "Phrase": "（さすがだな、暦サンは。/n　前から分かっていたことではあるが……ここまでワタシと差をつけてくるか）",
+            "VoiceFileName": "10501090020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 30301,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 1050109003,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "雪",
+            "FontSize": 2,
+            "Phrase": "（暦サンの演技は、全てにおいて隙が無く、完成しつくしていた）",
+            "VoiceFileName": "10501090030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 1050109004,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "雪",
+            "FontSize": 2,
+            "Phrase": "（『橋弁慶』や『円卓騎士物語』よりも更に演技力が向上しているとは……。/n　ここまでくると、もはや悔しさすら湧かないな）",
+            "VoiceFileName": "10501090040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 1050109005,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "終わってしまった。/n名残惜しいな……もっとこの舞台を見ていたかった。",
+            "VoiceFileName": "10501090050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050109006,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "（だが、今度は私たちの番だ。/n　絶対に銀河座の演目を成功させなければならない）",
+            "VoiceFileName": "10501090060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050109007,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "（あんなに奮い立つような演技のできる暦と横に立つ……/n　そんな役者になると、私は決めたんだ！）",
+            "VoiceFileName": "10501090070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050109008,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "皆、暦は素晴らしい演技を私たちに見せてくれた。/nだからこそ、役者として私たちは暦に演技で応えなくてはならない！",
+            "VoiceFileName": "10501090080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050109009,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "さあ、気合をいれよう！/n私たちも暦の演技に見劣りしない、素晴らしい舞台を魅せるんだ！",
+            "VoiceFileName": "10501090090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050109010,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "銀河座劇団員たち",
+            "FontSize": 2,
+            "Phrase": "はいっ！！",
+            "VoiceFileName": "10501090100",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050109011,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "ああ、みんな、その意気だ！",
+            "VoiceFileName": "10501090110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 30201,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050109012,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 12,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "301",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1050109013,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "さっきのみとちゃん、とっても素敵でした……。",
+            "VoiceFileName": "10501090120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050109014,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "掴みどころのないタイプの役柄もこなせて、お芝居の中で、/nみんなを繋いでいくような、そんな演技でした……やっぱり凄いですねっ！",
+            "VoiceFileName": "10501090130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050109015,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "電姫劇団員たち",
+            "FontSize": 2,
+            "Phrase": "「悪戯好きで皮肉で軽薄なところも……トゥンク」/n「あれは惚れてまうやろー！」",
+            "VoiceFileName": "10501090140",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050109016,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "今日の白丸の演技は特にすごかったな。/nゼウスの思惑を神々に話す狂言回しは、なかなか愉快だった。",
+            "VoiceFileName": "10501090150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40401,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 1050109017,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "しかも、とても生き生きとしていて、良い顔をしていた。",
+            "VoiceFileName": "10501090160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 1050109018,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "確かに、あそこは乗りに乗ってたわね。/n美兎も楽しくやってるように見えたし。",
+            "VoiceFileName": "10501090170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050109019,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "ほんと、普段は物静かな感じなのに、幕が上がれば全くの別人だもんねぇ。/n役者だから当然っちゃ当然だけど、大したもんだわ。",
+            "VoiceFileName": "10501090180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050109020,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "みとちゃん、会場に着いた時は緊張してそうだったから、/n少し心配してたんですけど……心配いりませんでしたねっ！",
+            "VoiceFileName": "10501090190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050109021,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "電姫劇団員たち",
+            "FontSize": 2,
+            "Phrase": "「うちの美兎ちゃんこんなに大きくなって……」/n「推しの晴れ舞台が輝いていて、こんなに嬉しいことはないねえ……」",
+            "VoiceFileName": "10501090200",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050109022,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "ほらほら、いつまでもダイスターたちの舞台の余韻に浸ってないで、/nさっさと切り替えなさい。",
+            "VoiceFileName": "10501090210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050109023,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "次はアタシたちの番よ。/n舞台を観ているお客さんや審査員を、あっと言わしたろーじゃないの！",
+            "VoiceFileName": "10501090220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050109024,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "僕たちの、番……。",
+            "VoiceFileName": "10501090230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 40501,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050109025,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（そうでした、もう昔とは違う……観てるだけじゃないんですね）",
+            "VoiceFileName": "10501090240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050109026,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（こんな素敵な仲間たちに囲まれてお芝居ができる……。/n　なんて幸せなんでしょう）",
+            "VoiceFileName": "10501090250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050109027,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "はいっ！　みとちゃんたちみたいに、/n沢山の人の心に残るような舞台にしましょう！",
+            "VoiceFileName": "10501090260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050109028,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "電姫劇団員たち",
+            "FontSize": 2,
+            "Phrase": "おーっ！",
+            "VoiceFileName": "10501090270",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050109029,
+            "EpisodeMasterId": 1050109,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（観ていてくださいね、みとちゃん……姉さん……！）",
+            "VoiceFileName": "10501090280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 40101,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        }
+    ]
+}

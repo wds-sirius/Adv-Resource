@@ -1,0 +1,1162 @@
+{
+    "EpisodeId": 1050105,
+    "StoryType": 1,
+    "Order": 5,
+    "Prev": 1050104,
+    "Next": 1050106,
+    "Chapter": "最終章",
+    "Title": "原石の星に光を見出す",
+    "EpisodeDetail": [
+        {
+            "Id": 1050105001,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（……早めにお手洗いに行っておいて正解でしたね。/n　まさか、あんなに混雑しているとは……）",
+            "BackgroundImageFileName": "2260",
+            "BgmFileName": "23",
+            "VoiceFileName": "10501050010",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050105002,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（あの調子では、お稽古が始まるのは時刻丁度になりそうですし……。/n　先にもう一度、台本を読み込んでおくことにしましょう）",
+            "VoiceFileName": "10501050020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 11,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050105003,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "……！",
+            "VoiceFileName": "10501050030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050105004,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（あそこに居るのは……、/n　ヘルメス役の白丸さんと、ヘラ役の狛江さんですね）",
+            "VoiceFileName": "10501050040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 11,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050105005,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "（この後のお稽古でも、おふたりとはセリフの掛け合いも多いですし、/n　ちょっとだけお邪魔しちゃいましょうか……）",
+            "VoiceFileName": "10501050050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 20,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050105006,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "地歩",
+            "FontSize": 2,
+            "Phrase": "ん…………はぁ……。/nやはり慣れない環境での稽古は、少し疲れますね……。",
+            "VoiceFileName": "10501050060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "601"
+        },
+        {
+            "Id": 1050105007,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "うん、そうだよね……。/nでも良かった……そう感じてるの、美兎だけかと思ってたから。",
+            "VoiceFileName": "10501050070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050105008,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "地歩ちゃんも同じなんだって思ったら、/nちょっぴり安心しちゃった……。",
+            "VoiceFileName": "10501050080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050105009,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "地歩",
+            "FontSize": 2,
+            "Phrase": "当然ですよ、なにせ世界演劇リーグ。/nそれもダイスターの祭典にこれから立つのですから。",
+            "VoiceFileName": "10501050090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "601"
+        },
+        {
+            "Id": 1050105010,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "地歩",
+            "FontSize": 2,
+            "Phrase": "加えて、共演者は実力揃い。/n稽古と言えど、普段以上に神経を張り巡らす必要があります。",
+            "VoiceFileName": "10501050100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "601"
+        },
+        {
+            "Id": 1050105011,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "うん……。/nだから、地歩ちゃんやみんなは……本当に凄いなって思う。",
+            "VoiceFileName": "10501050110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050105012,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "慣れない現場でも、あんな風に思いきり演技してて……。",
+            "VoiceFileName": "10501050120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050105013,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "美兎なんて、みんなの動きについて行くだけで精一杯だったもん……。/nさっきの稽古では、センスもちゃんと使いこなせなかったし……。",
+            "VoiceFileName": "10501050130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050105014,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "地歩",
+            "FontSize": 2,
+            "Phrase": "まだ稽古は始まったばかりですよ、白丸さん。",
+            "VoiceFileName": "10501050140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "601"
+        },
+        {
+            "Id": 1050105015,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "地歩",
+            "FontSize": 2,
+            "Phrase": "始まったばかりの稽古で慣れた様子の方なんて、寧ろ少数です。/n気にすることではありません、稽古は本番の為にあるのですから。",
+            "VoiceFileName": "10501050150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "601"
+        },
+        {
+            "Id": 1050105016,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "地歩",
+            "FontSize": 2,
+            "Phrase": "そして先ほどの白丸さんの演技も、素晴らしいと思いますよ。/n『夏の夜の夢』で拝見した時と同様に、心揺さぶられました。",
+            "VoiceFileName": "10501050160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "601"
+        },
+        {
+            "Id": 1050105017,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "そ、そうかな……？　本当に……？/n美兎は、周りと比べて全然上手く出来なかったって、思ってたよ……。",
+            "VoiceFileName": "10501050170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050105018,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "地歩",
+            "FontSize": 2,
+            "Phrase": "それはきっと、白丸さんには目指すべき演技が見えているからでは？/n周りの演技を見て、自分の演技を見つめ直すこともまた――",
+            "VoiceFileName": "10501050180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "601"
+        },
+        {
+            "Id": 1050105019,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "とっても素敵なお話をされていますね！/n私からもおふたりの良いところ、語ってもいいですか？",
+            "VoiceFileName": "10501050190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050105020,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "美兎・地歩",
+            "FontSize": 2,
+            "Phrase": "や、八恵ちゃん……！/n新妻さん……！",
+            "VoiceFileName": "10501050200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050105021,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "そうだ、八恵ちゃんはさっきの稽古でも落ち着いてたよね。/n演技もしっかりしてて、美兎も見習わないとって思ったんだ。",
+            "VoiceFileName": "10501050210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050105022,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "嬉しいです、ありがとうございます♪/n柊さんにマンツーマンで指導してもらったお陰でしょうか？",
+            "VoiceFileName": "10501050220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050105023,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "それでも、お話を頂いた当初は不安な気持ちでいっぱいでした……。",
+            "VoiceFileName": "10501050230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050105024,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "地歩",
+            "FontSize": 2,
+            "Phrase": "それで、あそこまで演技を磨いてきたのですね。/nゼウスのような軽薄な美少年、新妻さんにとって慣れない役なのでは？",
+            "VoiceFileName": "10501050240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "601"
+        },
+        {
+            "Id": 1050105025,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "そうですね……けれど、ダイスターの祭典に立つのですから。/n慣れない役でも、しっかり演じてみせないとって思いまして。",
+            "VoiceFileName": "10501050250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050105026,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "そう、だよね……しっかり演じてみせないと。/nうん……、美兎も……そう思う。",
+            "VoiceFileName": "10501050260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 6,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050105027,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "ここにいるのは各劇団から集められたダイスター。/n共に稽古をして、触発されるのも無理ありませんわ。",
+            "VoiceFileName": "10501050270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050105028,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "美兎・八恵",
+            "FontSize": 2,
+            "Phrase": "わっ……！？",
+            "VoiceFileName": "10501050280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050105029,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "地歩",
+            "FontSize": 2,
+            "Phrase": "千寿暦さん……い、いつの間に……。",
+            "VoiceFileName": "10501050290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "601"
+        },
+        {
+            "Id": 1050105030,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "申し訳ありません、驚かせてしまいました？/n私としても、皆さんのお話されていることが興味深くて、つい……。",
+            "VoiceFileName": "10501050300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050105031,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "いえっ、大丈夫ですよ。",
+            "VoiceFileName": "10501050310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 12,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050105032,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "それに、地歩さんのおっしゃる通り、/n美兎さんも、皆さんの演技も、目を見張るものがある。",
+            "VoiceFileName": "10501050320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050105033,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "やはり、同じように星を目指して歩んできた方々……。",
+            "VoiceFileName": "10501050330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 7,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050105034,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "例え、その星を争う立場にあったとしても、/n見習うべき点が大いにある……尊敬の念を忘れてはいけませんね。",
+            "VoiceFileName": "10501050340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050105035,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "ふふっ、そうですね♪",
+            "VoiceFileName": "10501050350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 202,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        },
+        {
+            "Id": 1050105036,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "そんな皆様と同じ舞台に立てる事、心より光栄に思います。",
+            "VoiceFileName": "10501050360",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050105037,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "良い舞台を、共に作りあげましょう。/nダイスターの名に、恥じぬ演技で。",
+            "VoiceFileName": "10501050370",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 1050105038,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "地歩",
+            "FontSize": 2,
+            "Phrase": "……はい、共に励みましょう。/n送り出してくれた人たちの期待に応える為にも。",
+            "VoiceFileName": "10501050380",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 101,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 60103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "601"
+        },
+        {
+            "Id": 1050105039,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "美兎も……みんなが居てくれたら、出来るって思える。",
+            "VoiceFileName": "10501050390",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050105040,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 40,
+            "SpeakerName": "美兎",
+            "FontSize": 2,
+            "Phrase": "今度こそ全力を出してみせる……。/nだから……改めて、よろしくお願いします！",
+            "VoiceFileName": "10501050400",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "402"
+        },
+        {
+            "Id": 1050105041,
+            "EpisodeMasterId": 1050105,
+            "Order": 1,
+            "GroupOrder": 41,
+            "SpeakerName": "八恵",
+            "FontSize": 2,
+            "Phrase": "皆さんとなら、素晴らしい舞台ができるって、私も信じています。/nこの後のお稽古も、一緒に頑張りましょうね。",
+            "VoiceFileName": "10501050410",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "104"
+        }
+    ]
+}

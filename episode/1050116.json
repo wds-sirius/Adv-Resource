@@ -1,0 +1,1049 @@
+{
+    "EpisodeId": 1050116,
+    "StoryType": 1,
+    "Order": 16,
+    "Prev": 1050115,
+    "Next": 1050117,
+    "Chapter": "最終章",
+    "Title": "School war Justice!!",
+    "EpisodeDetail": [
+        {
+            "Id": 1050116001,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "審査員Ｈ",
+            "FontSize": 2,
+            "Phrase": "劇団電姫……2.5次元の舞台を中心に活動している劇団か。/n要はイロモノ枠か……違うかい？",
+            "BackgroundImageFileName": "2220",
+            "BgmFileName": "5",
+            "VoiceFileName": "10501160010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116002,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "審査員Ｇ",
+            "FontSize": 2,
+            "Phrase": "判断するには早いですよ。この劇団からはダイスターも選出されている。/nしかも今回、座長となるのは、あの千寿家の役者だそうで。",
+            "VoiceFileName": "10501160020",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116003,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "……。",
+            "VoiceFileName": "10501160030",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116004,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "（見せて御覧なさい、貴方がたの力とやらを。/n　さあ、幕開きですよ）",
+            "VoiceFileName": "10501160040",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116005,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 5,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "305",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1050116006,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "『何故、こうなった……。神も、人も、この学園の者は/n　どうしてこうも堕落しきってしまったのですか！』",
+            "VoiceFileName": "10501160050",
+            "CharacterMotions": [],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 1050116007,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "『もう限界です！　この学園は、私自ら粛清します！/n　さあネメアの獅子よ、全てを破壊してしまいなさい！』",
+            "VoiceFileName": "10501160060",
+            "CharacterMotions": [],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 1050116008,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "『なんだか知らんが好都合だ。/n　はっはっは！　体の自由が利くっていうのは最高だぜ』",
+            "VoiceFileName": "10501160070",
+            "CharacterMotions": [],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050116009,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "『いいぜ、アストライア。望み通り、大暴れしてやるよ！』",
+            "VoiceFileName": "10501160080",
+            "CharacterMotions": [],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050116010,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "観客",
+            "FontSize": 2,
+            "Phrase": "（それぞれ登場人物の個性がしっかりと表現されてる……！/n　これが2.5次元の舞台で培った、表現力……？）",
+            "VoiceFileName": "10501160090",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116011,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "審査員Ｈ",
+            "FontSize": 2,
+            "Phrase": "（彼女らに合うようにその道の脚本家に依頼して作られた演目、/n　なるほど……確かに惹かれる、この舞台に立つまでに至ったわけだ）",
+            "VoiceFileName": "10501160100",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116012,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "審査員Ｇ",
+            "FontSize": 2,
+            "Phrase": "（今まで出てきた役者は皆センスを上手く使っている。/n　あとは、センスを持たないとされる、主演の千寿いろは次第ですね……）",
+            "VoiceFileName": "10501160110",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116013,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 13,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1050116014,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "『何で俺がゼウスに協力しなきゃなんねえんだ。/n　今の会長はアイツだ、アイツがどうにかすればいいだろ』",
+            "VoiceFileName": "10501160120",
+            "CharacterMotions": [],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116015,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "『……ちっ。しょうがねーな。分かったよ。やればいいんだろ！/n　俺が、アストライアたちを止めてやる！』",
+            "VoiceFileName": "10501160130",
+            "CharacterMotions": [],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116016,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "観客",
+            "FontSize": 2,
+            "Phrase": "（主人公のクロノス、……なんて存在感なの……！？/n　センス使ってないはずよね……？）",
+            "VoiceFileName": "10501160140",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116017,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "審査員Ｈ",
+            "FontSize": 2,
+            "Phrase": "（センスを持っていないにも関わらず、/n　センスを持つ者にも劣らない輝きを放つか……）",
+            "VoiceFileName": "10501160150",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116018,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "審査員Ｈ",
+            "FontSize": 2,
+            "Phrase": "（さすがは千寿家と言うべきか……演技力は本物だ）",
+            "VoiceFileName": "10501160160",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116019,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 19,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1050116020,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "『この俺を倒すっていったか？　やってみろよ”元”会長……、/n　お前には到底無理だと思うがな！』",
+            "VoiceFileName": "10501160170",
+            "CharacterMotions": [],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050116021,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "『そう言っていられるのも今の内だ！』",
+            "VoiceFileName": "10501160180",
+            "CharacterMotions": [],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116022,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "『ここからは私が相手です、クロノス』",
+            "VoiceFileName": "10501160190",
+            "CharacterMotions": [],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 1050116023,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "『かつてあなたは、この世界を牛耳った。けれど今は退いた身。/n　それはきっとあなたに正義がなかったからでしょう』",
+            "VoiceFileName": "10501160200",
+            "CharacterMotions": [],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 1050116024,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "『ですが私は、正義を背負っている。あなたに負けるわけがないのです』",
+            "VoiceFileName": "10501160210",
+            "CharacterMotions": [],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 1050116025,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "『何が正義だ！　自分の判断で勝手に神や人を裁く……/n　そんな身勝手な正義じゃ、誰もお前にはついていかない！』",
+            "VoiceFileName": "10501160220",
+            "CharacterMotions": [],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116026,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "『ここで俺は……お前を止める！』",
+            "VoiceFileName": "10501160230",
+            "CharacterMotions": [],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116027,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "『我が名は時の支配神クロノス！　全ての生命の時間を掌握せし者！/n　お前の時間も、俺の手の内だ！』",
+            "VoiceFileName": "10501160240",
+            "CharacterMotions": [],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116028,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 28,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileFadeType": 1,
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1050116029,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "審査員Ｇ",
+            "FontSize": 2,
+            "Phrase": "センスなしでこの大舞台の主役として、/n観客を魅了し続けることができるとは……。",
+            "VoiceFileName": "10501160250",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116030,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "審査員Ｇ",
+            "FontSize": 2,
+            "Phrase": "伝統的な舞台とは異なるあり方ですが……、/n決してイロモノではない、れっきとした舞台芸術です。",
+            "VoiceFileName": "10501160260",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116031,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "審査員Ｈ",
+            "FontSize": 2,
+            "Phrase": "2.5次元の演劇がこんなに底知れないものだとはな。/n世間はまだまだ広い……自分の見識の狭さを思い知らされたよ。",
+            "VoiceFileName": "10501160270",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116032,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "……では審査員を代表し、/n私から総評を述べさせて頂きます。",
+            "BgmFileName": "29",
+            "VoiceFileName": "10501160280",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116033,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 33,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（おばあさま……！）",
+            "VoiceFileName": "10501160290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 13,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116034,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "演目とは、先達が特定の意図を以て形作っており、/nそれを崩すというのは挑戦とは呼ばず、ただの冒涜に過ぎません。",
+            "VoiceFileName": "10501160300",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116035,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "また、演出の派手さなどは、/n役者の演技の幅を狭めているようにも感じられました。",
+            "VoiceFileName": "10501160310",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116036,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "……っ！",
+            "VoiceFileName": "10501160320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 25,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116037,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "くぅぅぅっ……さっきから聞いてれば、批判的なことばっかり……！/nこれ、ただの嫌がらせじゃない！？",
+            "VoiceFileName": "10501160330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 40503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050116038,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "……ですが。",
+            "BgmFileName": "999",
+            "VoiceFileName": "10501160340",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116039,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "役者個々人の演技のクオリティや劇を通しての一体感、/nそしてセンスの使えない方を主演に据えつつも――",
+            "BgmFileName": "301",
+            "VoiceFileName": "10501160350",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116040,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 40,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "周囲の役者の演技や演出を以て、その主演の輝きを/nセンスを使用した役者と遜色ないレベルにまで仕上げる手腕は見事。",
+            "VoiceFileName": "10501160360",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116041,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 41,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "そして、主演とは自分の魅せ方を知る者……。/n今回の主演はそれを満たしていました。",
+            "VoiceFileName": "10501160370",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116042,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 42,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "え……っ。",
+            "VoiceFileName": "10501160380",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116043,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 43,
+            "SpeakerName": "電姫劇団員たち",
+            "FontSize": 2,
+            "Phrase": "！？",
+            "VoiceFileName": "10501160390",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116044,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 44,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "世界演劇リーグの舞台に立つ劇団というだけはありますね。/nしかし、観客が求めるのは、及第点ではなく更なる進歩です。",
+            "VoiceFileName": "10501160400",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116045,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 45,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "次にこの舞台に立つ時は、さらに演技を磨くことを期待します。",
+            "VoiceFileName": "10501160410",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116046,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 46,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "それって……！？",
+            "VoiceFileName": "10501160420",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 40503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050116047,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 47,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "（もしかして電姫がまた世界演劇リーグの場に立つ、/n　それだけの実力があると認めたってこと……？）",
+            "VoiceFileName": "10501160430",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 11,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050116048,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 48,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "……それでは私はこれで。失礼いたします。",
+            "VoiceFileName": "10501160440",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116049,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 49,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "あっ！　おばあさま……！",
+            "VoiceFileName": "10501160450",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116050,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 50,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "560",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 1050116051,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 51,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "ちょっと、いろは……！",
+            "VoiceFileName": "10501160460",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 40503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050116052,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 52,
+            "SpeakerName": "蕾",
+            "FontSize": 2,
+            "Phrase": "行かせてやろう、本巣。/nきっと大丈夫だ。",
+            "VoiceFileName": "10501160470",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 40403,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 40503,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "404"
+        },
+        {
+            "Id": 1050116053,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 53,
+            "SpeakerName": "叶羽",
+            "FontSize": 2,
+            "Phrase": "……そうね。",
+            "VoiceFileName": "10501160480",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "405"
+        },
+        {
+            "Id": 1050116054,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 54,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "2260",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "8",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 1050116055,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 55,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "待ってください！　おばあさま！",
+            "VoiceFileName": "10501160490",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116056,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 56,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "……なんの用でしょうか？　審査は終わっていますが。",
+            "VoiceFileName": "10501160500",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116057,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 57,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "すー……はぁ……ありがとうございました！/n僕の……いえ、僕たちの舞台を認めてくださって……！",
+            "VoiceFileName": "10501160510",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116058,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 58,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "なんのお礼を言っているのか分かりませんね。/n私はただ、世界演劇リーグの審査員として審査を下したまで。",
+            "VoiceFileName": "10501160520",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116059,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 59,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "お礼を言われる筋合いなどありませんよ。",
+            "VoiceFileName": "10501160530",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116060,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 60,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "おばあさま……。",
+            "VoiceFileName": "10501160540",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116061,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 61,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "ですが、ひとつだけ、貴方に詫びましょう。/n……かつての私の判断は、尚早が過ぎました。",
+            "VoiceFileName": "10501160550",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116062,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 62,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "えっ……？",
+            "VoiceFileName": "10501160560",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116063,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 63,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（今の言葉、どういう意味で……？）",
+            "VoiceFileName": "10501160570",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 11,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116064,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 64,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "戻りなさいな、劇団の仲間の下へ。この天頂の舞台に立ったのです、/n貴方にはこうして油を売っている時間はないのですよ、いろはさん。",
+            "VoiceFileName": "10501160580",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116065,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 65,
+            "SpeakerName": "暦といろはの祖母",
+            "FontSize": 2,
+            "Phrase": "……貴方だって千寿の名を背負う、役者のひとりなのですから。",
+            "VoiceFileName": "10501160590",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050116066,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 66,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "……っ！！/nはいっっっ！！！",
+            "VoiceFileName": "10501160600",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 20,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40103,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 1050116067,
+            "EpisodeMasterId": 1050116,
+            "Order": 1,
+            "GroupOrder": 67,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "（……！　笑った、おばあさまが……僕の前で）",
+            "VoiceFileName": "10501160610",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        }
+    ]
+}

@@ -1,0 +1,711 @@
+{
+    "EpisodeId": 1050111,
+    "StoryType": 1,
+    "Order": 11,
+    "Prev": 1050110,
+    "Next": 1050112,
+    "Chapter": "最終章",
+    "Title": "戦友たち",
+    "EpisodeDetail": [
+        {
+            "Id": 1050111001,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "銀河座劇団員たち",
+            "FontSize": 2,
+            "Phrase": "「あーすごかった……」「ちょっと！　惚けている場合じゃないわよ！」/n「次、私たちよ」「照明・音響のチェックお願い！」",
+            "BackgroundImageFileName": "473",
+            "BgmFileName": "202",
+            "VoiceFileName": "10501110010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050111002,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "雪",
+            "FontSize": 2,
+            "Phrase": "暦サンの演技……いつもよりも更に磨きがかかっていたな。",
+            "VoiceFileName": "10501110020",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 1050111003,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "ああ。４年に１度のダイスターの祭典……高みを目指している役者の多くは/n世界演劇リーグの舞台に立つのが、ひとつの目標だからな。",
+            "VoiceFileName": "10501110030",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111004,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "雪",
+            "FontSize": 2,
+            "Phrase": "圧巻だった。/nあれだけ完璧な演技を見せられちゃ、何も文句は言えないな。",
+            "VoiceFileName": "10501110040",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 1050111005,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "雪",
+            "FontSize": 2,
+            "Phrase": "だが役者として、ただ見ているだけで満足するわけにはいかないだろ？/nドイツ。",
+            "VoiceFileName": "10501110050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 1050111006,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "ああ……もちろんだ。/n今度は、私たちの番だ。",
+            "VoiceFileName": "10501110060",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111007,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "みんな、本番直前だが――どうか聞いてくれ。",
+            "BgmFileName": "999",
+            "VoiceFileName": "10501110070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111008,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "銀河座劇団員たち",
+            "FontSize": 2,
+            "Phrase": "「ラモーナさんが呼んでるよ！」「どうしたの？　ラモさん」",
+            "VoiceFileName": "10501110080",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050111009,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "少し話をしたくてな。",
+            "BgmFileName": "201",
+            "VoiceFileName": "10501110090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111010,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "……私が銀河座にやって来た頃、劇団内の対人関係は冷え切っていた。/n実力主義で、横の繋がりもほとんど感じなかった。",
+            "VoiceFileName": "10501110100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111011,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "私はそれをどうにか変えたかったんだ。",
+            "VoiceFileName": "10501110110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111012,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "ひとりでは演劇は作れない。団員たちが手を取り合うことで/n演劇はより良い作品になるのだと伝えたくて。",
+            "VoiceFileName": "10501110120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111013,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "団員同士切磋琢磨していくことの素晴らしさについて、/nこれまで私なりに、銀河座の皆に説いてきたつもりだ。",
+            "VoiceFileName": "10501110130",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111014,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "ワークショップや悩み相談で皆の意見を聞いたりしてな。",
+            "VoiceFileName": "10501110140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111015,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "銀河座劇団員Ａ",
+            "FontSize": 2,
+            "Phrase": "ラモーナさんのワークショップ、すっごく良かったです！/n銀河座のお偉いさんには怒られちゃったけど……。",
+            "VoiceFileName": "10501110150",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050111016,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 16,
+            "SpeakerName": "銀河座劇団員Ｂ",
+            "FontSize": 2,
+            "Phrase": "今まで演劇の悩みなんて人に言えなかったけど、/nラモーナさんが聞いてくれたおかげで楽になりました。",
+            "VoiceFileName": "10501110160",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050111017,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "そう言ってくれる人がいてくれて嬉しい。私も救われた気分になる。",
+            "VoiceFileName": "10501110170",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111018,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "……だが、伝統ある銀河座で、/n私とは異なる意見を持つ者がいるのもまた道理だ。",
+            "VoiceFileName": "10501110180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111019,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "私の意見に意味があると伝えたくとも、暦ほど優れた演技力もない私には、/n到底不可能だった。彼女に比べれば、銀河座では頼りない身の上だった。",
+            "VoiceFileName": "10501110190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111020,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "銀河座劇団員Ａ",
+            "FontSize": 2,
+            "Phrase": "そんな……。",
+            "VoiceFileName": "10501110200",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050111021,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "いや、先ほどのダイスターたちの演技で、改めて思い知らされたよ。/n私はまだまだ実力不足なのだと。",
+            "VoiceFileName": "10501110210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111022,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "銀河座劇団員たち",
+            "FontSize": 2,
+            "Phrase": "……。",
+            "VoiceFileName": "10501110220",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050111023,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "それでも、私は銀河座の役者として、/n天頂の星に足を掛ける存在だと証明しなければならない。",
+            "VoiceFileName": "10501110230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111024,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "銀河座劇団員Ｂ",
+            "FontSize": 2,
+            "Phrase": "ラモーナさん……。",
+            "VoiceFileName": "10501110240",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050111025,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "共に天頂へと向かう私たちは戦友だ。/n暦だけでない……星として私たちだって輝いているのだと証明しよう。",
+            "VoiceFileName": "10501110250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 8,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111026,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "銀河座劇団員たち",
+            "FontSize": 2,
+            "Phrase": "「ラモーナさん……」「ええ、あっと言わせてやりましょう！」/n「私たちだってすぐに暦さんたちに追いついて見せる！」",
+            "VoiceFileName": "10501110260",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 1050111027,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 27,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "……少しばかり話し過ぎてしまっただろうか。/nだが、聞いてくれてありがとう、皆。",
+            "VoiceFileName": "10501110270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30203,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111028,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "雪",
+            "FontSize": 2,
+            "Phrase": "おい座長。/nなかなか悪くなかったぞ、さっきの『演説』。",
+            "VoiceFileName": "10501110280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30303,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "303"
+        },
+        {
+            "Id": 1050111029,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "雪……ありがとう。/nまさかお前から、そんな言葉を貰えるとは思ってなかったよ。",
+            "VoiceFileName": "10501110290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111030,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "ラモーナ",
+            "FontSize": 2,
+            "Phrase": "……皆、今日は特にいい顔をしているな。/nさあ、行こう！",
+            "VoiceFileName": "10501110300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "302"
+        },
+        {
+            "Id": 1050111031,
+            "EpisodeMasterId": 1050111,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "銀河座劇団員たち",
+            "FontSize": 2,
+            "Phrase": "はい！",
+            "VoiceFileName": "10501110310",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        }
+    ]
+}
