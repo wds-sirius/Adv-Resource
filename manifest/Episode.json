@@ -1,5 +1,5 @@
 {
-    "LatestDate": "2026-07-21 01:37:58",
+    "LatestDate": "2026-07-26 03:36:45",
     "ScriptVersion": "1.0.1",
     "StoryMaster": {
         "Main": [
@@ -5827,7 +5827,16 @@
                     {
                         "Id": 150050,
                         "Title": "再び繋がる、希望の光へ！",
-                        "Episode": []
+                        "Episode": [
+                            {
+                                "EpisodeId": 150051,
+                                "Order": 1
+                            },
+                            {
+                                "EpisodeId": 150052,
+                                "Order": 2
+                            }
+                        ]
                     }
                 ]
             },

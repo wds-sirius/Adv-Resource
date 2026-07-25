@@ -1,0 +1,1777 @@
+{
+    "EpisodeId": 150052,
+    "StoryType": 3,
+    "Order": 2,
+    "Prev": 150051,
+    "Next": null,
+    "Chapter": "再び繋がる、希望の光へ！",
+    "Title": "顕現せし時",
+    "EpisodeDetail": [
+        {
+            "Id": 150052001,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 1,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "『さあ、いよいよ解放の時だ……！！』",
+            "BackgroundImageFileName": "1300",
+            "BgmFileName": "33",
+            "VoiceFileName": "1500520010",
+            "CharacterMotions": [],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 150052002,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 2,
+            "SpeakerName": "レジスタンスＡ",
+            "FontSize": 2,
+            "Phrase": "なっ……！？　あれは……！？",
+            "VoiceFileName": "1500520020",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150052003,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 3,
+            "SpeakerName": "望国兵Ａ",
+            "FontSize": 2,
+            "Phrase": "くそっ……！/nせっかく帝国軍の本拠地までやって来たというのに……！",
+            "VoiceFileName": "1500520030",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150052004,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 4,
+            "SpeakerName": "日和組合Ａ",
+            "FontSize": 2,
+            "Phrase": "はぁ～……こりゃあ、遅かったみたいだねえ……。",
+            "VoiceFileName": "1500520040",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150052005,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 5,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "いえ、まだです！　絶対に私は……諦めないっ！",
+            "VoiceFileName": "1500520050",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052006,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 6,
+            "SpeakerName": "？？？",
+            "FontSize": 2,
+            "Phrase": "諦めない……か。/nここへ来て、まだそんなことを言うか。",
+            "VoiceFileName": "1500520060",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150052007,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 7,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "連尺野さん！",
+            "VoiceFileName": "1500520070",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052008,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 8,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "ふっ……もうお前の出る幕はないよ、鳳ここな。/nステラリウムの解放は間近……帝国の、いや、私の悲願の達成も近い。",
+            "VoiceFileName": "1500520080",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 21,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052009,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 9,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "させませんっ！　絶対に！/nここで私が必ず、あなたを止めてみせますからっ！",
+            "VoiceFileName": "1500520090",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052010,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 10,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "お前が私を止める？　笑わせるな。/nセンスを失い、弱りきった今のお前に何が出来る？",
+            "VoiceFileName": "1500520100",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052011,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 11,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "いいえ……――",
+            "BgmFileName": "999",
+            "VoiceFileName": "1500520110",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 79,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052012,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 12,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "センスなら……――",
+            "VoiceFileName": "1500520120",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150052013,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 13,
+            "SpeakerName": "ここな・静香",
+            "FontSize": 2,
+            "Phrase": "ここにあるわ！",
+            "BgmFileName": "33",
+            "SeFileName": "1521",
+            "VoiceFileName": "1500520130",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150052014,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 14,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "何？　どうやって、再びセンスを取り戻した？",
+            "VoiceFileName": "1500520140",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052015,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 15,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "それは…………。",
+            "VoiceFileName": "1500520150",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 79,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052016,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 16,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "810",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "104",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150052017,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 17,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "（いくら捜索しても、見つからない……。/n　どこへ行っちゃったの、静香ちゃん……）",
+            "VoiceFileName": "1500520160",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 25,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052018,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 18,
+            "SpeakerName": "レジスタンスＢ",
+            "FontSize": 2,
+            "Phrase": "ここが、望国軍の総司令がいる艦隊だ。/nしかしアンタ、総司令になんの用だ？",
+            "VoiceFileName": "1500520170",
+            "CharacterMotions": [],
+            "SpeakerIconId": "1"
+        },
+        {
+            "Id": 150052019,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 19,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "ええ、まあ……ちょっとね。",
+            "VoiceFileName": "1500520180",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150052020,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 20,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "この声……静香ちゃん！？",
+            "VoiceFileName": "1500520190",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052021,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 21,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "っ！　ここな！　無事で良かったわ……！",
+            "BgmFileName": "101",
+            "VoiceFileName": "1500520200",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150052022,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 22,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "静香ちゃんこそ……！　けど、今までどこに……？",
+            "VoiceFileName": "1500520210",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052023,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 23,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "ここなと離れ離れになった後、レジスタンスに匿って貰っていたの。/n……で、ここなの居る艦隊まで連れて来て貰ったってわけ。",
+            "VoiceFileName": "1500520220",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "HeadMotionMasterId": 1,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150052024,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 24,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "そうだったんだ……でもよかったぁ～～～！",
+            "VoiceFileName": "1500520230",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 200,
+                    "BodyMotionMasterId": 2,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052025,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 25,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "二度と静香ちゃんに会えなくなっちゃうんじゃないかって、/n私、ずっと不安だったから……。",
+            "VoiceFileName": "1500520240",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 105,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052026,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 26,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "ここな……。",
+            "VoiceFileName": "1500520250",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150052027,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 27,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1300",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "33",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150052028,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 28,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "静香ちゃんが居てくれれば、私はもう負けないっ！",
+            "VoiceFileName": "1500520260",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052029,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 29,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "一度離れ離れになって、改めて気づいたから……、/n私にとって、どれだけ静香ちゃんが大切かってこと。",
+            "VoiceFileName": "1500520270",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052030,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 30,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "今のここなは、前よりもずっと強い。/nだから、あなたにだって負けないわ！",
+            "VoiceFileName": "1500520280",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150052031,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 31,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "私よりも強い？　言ってくれるな、仔羊たちが。/n……ならば、また引き裂くまでだ！",
+            "BgmFileName": "999",
+            "VoiceFileName": "1500520290",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "BodyMotionMasterId": 24,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052032,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 32,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "（またセンスの力で、静香ちゃんと離れ離れに……っ）",
+            "VoiceFileName": "1500520300",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 25,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052033,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 33,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "1521",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 150052034,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 34,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "……あれ？　何も、起きない……？",
+            "VoiceFileName": "1500520310",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 102,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052035,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 35,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "なん……だと？",
+            "VoiceFileName": "1500520320",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052036,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 36,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "申し訳御座いませんが、/nあなたのセンスは、私のセンスで打ち消させて頂きましたわ、総統。",
+            "BgmFileName": "33",
+            "VoiceFileName": "1500520330",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 150052037,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 37,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "暦……！　……まさか、お前が帝国を裏切るとはな。/n妹や家族を守るんじゃなかったのか？",
+            "VoiceFileName": "1500520340",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052038,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 38,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "いいえ、守ると決めたからこそ、この決断を下したのです。/n……私たちは間違っていたのです、総統。",
+            "VoiceFileName": "1500520350",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 150052039,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 39,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "お前、何を言って…………。",
+            "VoiceFileName": "1500520360",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 300,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052040,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 40,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1050",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "999",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150052041,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 41,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "『……ふっふっ……！　はっはっはっはっ！！　はーはっはっはっはっ！！/n　ようやく……ようやく、この時が来たわ……！！』",
+            "VoiceFileName": "1500520370",
+            "CharacterMotions": [],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 150052042,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 42,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "！？　えっ、何これ！？",
+            "VoiceFileName": "1500520380",
+            "CharacterMotions": [],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052043,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 43,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "ここな、あれを見て……！　ステラリウムが……！",
+            "VoiceFileName": "1500520390",
+            "CharacterMotions": [],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150052044,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 44,
+            "FontSize": 2,
+            "Phrase": "",
+            "BackgroundImageFileName": "1300",
+            "BackgroundImageFileFadeType": 1,
+            "BgmFileName": "22",
+            "CharacterMotions": [],
+            "FadeValue1": 0.20000000298023224,
+            "FadeValue2": 0.30000001192092896,
+            "FadeValue3": 0.20000000298023224
+        },
+        {
+            "Id": 150052045,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 45,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "おお……遂に顕現したのか……！/nさあステラリウムよ、私の願いを聞き届けるんだ。",
+            "VoiceFileName": "1500520400",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052046,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 46,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "『……言ってみよ』",
+            "VoiceFileName": "1500520410",
+            "CharacterMotions": [],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 150052047,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 47,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "私の願いはただひとつ……妹を……双葉を私の元へ帰してくれ！！/nあの子に、もう一度命を！！",
+            "VoiceFileName": "1500520420",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 104,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052048,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 48,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "！　初魅さん……。",
+            "VoiceFileName": "1500520430",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 150052049,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 49,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "あの子は、私の全てなんだ……私の生き甲斐だ……。/nどうか頼む……双葉を、双葉を蘇らせてくれないか……。",
+            "VoiceFileName": "1500520440",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052050,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 50,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "『死者を蘇らせる？/n　フンッ……良かろう。ならば、妹に会わせてやる』",
+            "VoiceFileName": "1500520450",
+            "CharacterMotions": [],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 150052051,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 51,
+            "FontSize": 2,
+            "Phrase": "",
+            "SeFileName": "3260",
+            "CharacterMotions": []
+        },
+        {
+            "Id": 150052052,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 52,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "くっ……ううっ……！",
+            "VoiceFileName": "1500520460",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 74,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052053,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 53,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "連尺野さん……っ！！",
+            "VoiceFileName": "1500520470",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052054,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 54,
+            "SpeakerName": "望有",
+            "FontSize": 2,
+            "Phrase": "『あなたは充分に働いてくれた、これは餞別よ』",
+            "VoiceFileName": "1500520480",
+            "CharacterMotions": [],
+            "SpeakerIconId": "107"
+        },
+        {
+            "Id": 150052055,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 55,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "ステラリウム……やはり、我々を利用していたのですね。",
+            "VoiceFileName": "1500520490",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 300,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 30134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 150052056,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 56,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "ぐっ……はは、情けないな、私とあろうものが……。/n甘言に惑わされていたとは……。",
+            "BgmFileName": "404",
+            "VoiceFileName": "1500520500",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052057,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 57,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "これも罰なのだろうな……。/n自らのエゴで、双葉を生き返らせようとしたことへの……。",
+            "VoiceFileName": "1500520510",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052058,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 58,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "そんなこと……あの子が望むはずも、ないのに……。/nぐっ……はっ……！",
+            "VoiceFileName": "1500520520",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052059,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 59,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "罰なんて……そんなことない！　絶対に！",
+            "BgmFileName": "999",
+            "VoiceFileName": "1500520530",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 400,
+                    "HeadMotionMasterId": 2,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052060,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 60,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "誰にだって、会いたい人が居る……。/nもう二度と会えないなら……なおさら！",
+            "BgmFileName": "8",
+            "VoiceFileName": "1500520540",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 73,
+                    "BodyMotionMasterId": 4,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052061,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 61,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "それにあなただって利用されて、今は反省してる。/nそんな人が、こんなところで見捨てられていいはずないわ！",
+            "VoiceFileName": "1500520550",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 110,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150052062,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 62,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "望国軍とは相変わらずお人よしで、甘い人の集まりですわね。/nですが……今だけは、その甘さに感謝いたしますわ。",
+            "VoiceFileName": "1500520560",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 13,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 150052063,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 63,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "お、お前たち……私はお前たちに酷い仕打ちをした……。/nなのに、助けようというのか……？",
+            "VoiceFileName": "1500520570",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 511,
+                    "BodyMotionMasterId": 25,
+                    "LipSyncMasterId": 4,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052064,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 64,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "でも、連尺野さんだって助けてくれたじゃないですか。/n私が海に落ちた時……トドメを刺すことだって出来たのに。",
+            "VoiceFileName": "1500520580",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052065,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 65,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "あの時、連尺野さんが見逃してくれたお陰で、/n私たち、こうしてまた再会できたんです。",
+            "VoiceFileName": "1500520590",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150052066,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 66,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "……気づかれていた、か。道化だな、私は……。/nさすがは、総司令の座に就いているだけのことはある……。",
+            "VoiceFileName": "1500520600",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052067,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 67,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "さて、長話をしている場合ではありませんわよ。/nこの後はどうする気ですの？　望国軍総司令官・鳳ここなさん。",
+            "VoiceFileName": "1500520610",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 15,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 150052068,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 68,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "ステラリウムを……倒そう！　私たちみんなで！　協力するの！/nレジスタンスも望国軍も帝国軍も日和組合も……力を合わせよう！",
+            "BgmFileName": "105",
+            "VoiceFileName": "1500520620",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052069,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 69,
+            "SpeakerName": "静香",
+            "FontSize": 2,
+            "Phrase": "ええ、そうするしかなさそうね！",
+            "VoiceFileName": "1500520630",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "SpineId": 0,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "FacialExpressionMasterId": 71,
+                    "BodyMotionMasterId": 3,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 10234,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "102"
+        },
+        {
+            "Id": 150052070,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 70,
+            "SpeakerName": "いろは",
+            "FontSize": 2,
+            "Phrase": "艦砲準備完了ですよ、姉さん！/nあ、ここな司令官！　ご無事でよかったです！！！",
+            "VoiceFileName": "1500520640",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 18,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 40134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "401"
+        },
+        {
+            "Id": 150052071,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 71,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "いろは副司令！？",
+            "VoiceFileName": "1500520650",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 500,
+                    "BodyMotionMasterId": 5,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 40134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        },
+        {
+            "Id": 150052072,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 72,
+            "SpeakerName": "暦",
+            "FontSize": 2,
+            "Phrase": "ふふっ、艦隊の準備の方は完了したようですね。/nそれで、どうしますか総統？",
+            "VoiceFileName": "1500520660",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 103,
+                    "BodyMotionMasterId": 11,
+                    "LipSyncMasterId": 1,
+                    "SpineId": 30134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "301"
+        },
+        {
+            "Id": 150052073,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 73,
+            "SpeakerName": "初魅",
+            "FontSize": 2,
+            "Phrase": "……恩を仇で返されたままじゃ、終われないな。/n攻撃目標を変更しろ、これより我らは望国へと合流する！",
+            "VoiceFileName": "1500520670",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 101,
+                    "BodyMotionMasterId": 17,
+                    "LipSyncMasterId": 2,
+                    "SpineId": 20134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 2,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                },
+                {
+                    "slotNumber": 2,
+                    "SpineId": 30134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 4,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "201"
+        },
+        {
+            "Id": 150052074,
+            "EpisodeMasterId": 150052,
+            "Order": 1,
+            "GroupOrder": 74,
+            "SpeakerName": "ここな",
+            "FontSize": 2,
+            "Phrase": "これ以上、誰も傷つけさせない！/nステラリウム、必ずあなたを倒してみせる！",
+            "VoiceFileName": "1500520680",
+            "CharacterMotions": [
+                {
+                    "slotNumber": 1,
+                    "FacialExpressionMasterId": 107,
+                    "BodyMotionMasterId": 14,
+                    "LipSyncMasterId": 3,
+                    "SpineId": 10134,
+                    "CharacterAppearanceType": 0,
+                    "CharacterPosition": 3,
+                    "CharacterLayerType": 1,
+                    "SpineSize": 2
+                }
+            ],
+            "SpeakerIconId": "101"
+        }
+    ]
+}
