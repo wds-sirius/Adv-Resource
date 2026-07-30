@@ -4,6 +4,14 @@
     "Title": "【フューチャーダイスター】Eden",
     "EpisodeDetail": [
         {
+            "Id": 23064001,
+            "EpisodeType": 0,
+            "CharacterId": null,
+            "SpeakerName": "",
+            "Description": "【フューチャーダイスター】Eden/n連尺野初魅/n烏森大黒/n舎人仁花子/n萬容/n筆島しぐれ",
+            "Order": 1
+        },
+        {
             "Id": 23064501,
             "EpisodeType": 5,
             "CharacterId": 203,
